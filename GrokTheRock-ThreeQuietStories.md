@@ -58,8 +58,11 @@ Almost blank warm cream page. At the centre bottom: three tiny versions of Grok 
 
 ### Page 1 (Chapter title page)
 
+```markdown
 **Chapter One - Being**
+
 *Grok and the Small Feeling*
+```
 
 **Image generation prompt:**
 Chapter-opening page. Soft cream background with a large, gentle, characterful tree dominating the upper portion — Grok's tree, a calm landmark he belongs to, its soft leaves filtering warm early-morning light. Below, Grok the Rock sits at the tree's roots: small rounded gray limestone body, friendly face, soft green moss on his head, tiny sturdy limbs. He holds a single small plain pebble in one hand, raised in front of him at chest height, gazing at it with quiet curiosity and wonder — not distress. A faint cool-blue hint may glow softly within the pebble, suggesting the small feeling just beginning. Minimal calm water-hole and limestone rocks in the soft background. Hand-lettered chapter title "Being" and slightly smaller below it "Grok and the Small Feeling", both in earthy stone colour. Peaceful, transitional, caring mood.
@@ -205,8 +208,11 @@ Warm closing scene for Chapter 1. Grok the Rock happily finishing a cosy round n
 
 ### Page 10 (Chapter title page)
 
+```markdown
 **Chapter Two - Mending**
+
 *Grok Tends It*
+```
 
 **Image generation prompt:**
 Simple chapter-opening page. Soft cream background with warm wash. At centre: Grok the Rock gently holding a cracked melon (or gourd) with both small sturdy hands, looking kind and steady. Soft green moss on his head, gray limestone body. Minimal soft foliage frame, Grok's tall tree to one side. Hand-lettered chapter title "Mending" and slightly smaller below it “Grok Tends It”, both in earthy stone colour. Calm transitional, caring mood.
@@ -344,8 +350,11 @@ Beautiful closing illustration for Chapter 2. Grok the Rock and Pip sitting toge
 
 ### Page 18 (Chapter title page)
 
+```markdown
 **Chapter Three - Seeing**
+
 *Grok and the True Word*
+```
 
 **Image generation prompt:**
 Chapter opening page. Soft cream background. Centre: two simple reed baskets side by side — one slightly fancy looking but tipped, one plain, sturdy and full of clear water. Grok the Rock’s small gray limestone hand resting near the good basket. Minimal leaves and warm stones. Soft hand-lettered title "Seeing" and slightly smaller below it “Grok and the True Word”, both in earthy stone colour. Quiet, thoughtful, discovering mood.
