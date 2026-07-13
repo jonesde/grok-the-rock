@@ -10,9 +10,10 @@
 **Image generation prompt:**
 Children’s picture book cover, portrait orientation.
 Soft watercolor and colored pencil with gentle texture. Warm outback-inspired palette: gray limestone, soft ochre, dusty eucalyptus green, warm cream, muted sky blue.
-Central character: Grok the Rock — a small, endearing, rounded rock creature made of gray limestone, with a soft friendly face, curious dark eyes, tiny sturdy arms and legs, and a little living patch of soft green moss on top of his head. He sits contentedly on a larger smooth rock under a soft-leaved tree, looking out at the world with quiet wonder.
+Central character: Grok the Rock — a small, endearing, rounded rock creature made of gray limestone, with a soft friendly face, curious dark eyes, tiny sturdy arms and legs, and a little living patch of soft green moss on top of his head. He sits contentedly on a larger smooth rock under his soft-leaved tall tree, looking out at the world with quiet wonder.
 Gentle Australian-outback-meets-timeless-landscape background with a glowing water-hole and soft hills.
-Title in warm hand-lettered stone-colored text: “Grok the Rock” large at top, “Three Quiet Stories” smaller below, and "Being · Mending · Seeing" medium sized below that. Clean, calm, wondrous mood. High-quality innocent children’s book cover.
+Title in warm hand-lettered stone-colored text: “Grok the Rock” large at top, “Three Quiet Stories” smaller below, and "Being · Mending · Seeing" medium sized below that.
+Clean, calm, wondrous mood. High-quality innocent children’s book cover.
 
 ---
 
@@ -65,7 +66,7 @@ Almost blank warm cream page. At the centre bottom: three tiny versions of Grok 
 ```
 
 **Image generation prompt:**
-Chapter-opening page. Soft cream background with a large, gentle, characterful tree dominating the upper portion — Grok's tree, a calm landmark he belongs to, its soft leaves filtering warm early-morning light. Below, Grok the Rock sits at the tree's roots: small rounded gray limestone body, friendly face, soft green moss on his head, tiny sturdy limbs. He holds a single small plain pebble in one hand, raised in front of him at chest height, gazing at it with quiet curiosity and wonder — not distress. A faint cool-blue hint may glow softly within the pebble, suggesting the small feeling just beginning. Minimal calm water-hole and limestone rocks in the soft background. Hand-lettered chapter title "Being" and slightly smaller below it "Grok and the Small Feeling", both in earthy stone colour. Peaceful, transitional, caring mood.
+Chapter-opening page. Soft cream background with a large, gentle, characterful tree dominating the upper portion — Grok's tall tree, a calm landmark he belongs to, its soft leaves filtering warm early-morning light. Below, Grok the Rock sits at the tree's roots: small rounded gray limestone body, friendly face, soft green moss on his head, tiny sturdy limbs. He holds a single small plain pebble in one hand, raised in front of him at chest height, gazing at it with quiet curiosity and wonder — not distress. A faint cool-blue hint may glow softly within the pebble, suggesting the small feeling just beginning. Minimal calm water-hole and limestone rocks in the soft background. Hand-lettered chapter title "1. Being" and slightly smaller below it "Grok and the Small Feeling", both in earthy stone colour. Peaceful, transitional, caring mood.
 
 ---
 
@@ -81,7 +82,7 @@ as if he was seeing it for the very first time.
 ```
 
 **Image generation prompt:**
-Soft watercolor & colored pencil children’s illustration. Early morning warm light. Grok the Rock (small rounded gray limestone creature with friendly face, moss patch on head, tiny sturdy limbs) sitting up under a large soft-leaved tree, sunlight filtering through in golden shafts. He gazes out with gentle wonder. Soft outback grasses and red earth. Text space clear in lower third. Innocent, quiet discovery mood. Portrait page.
+Soft watercolor & colored pencil children’s illustration. Early morning warm light. Grok the Rock (small rounded gray limestone creature with friendly face, moss patch on head, tiny sturdy limbs) sitting up under a tall soft-leaved tree, sunlight filtering through in golden shafts. He gazes out with gentle wonder. Soft outback grasses and red earth. Text space clear in lower third. Innocent, quiet discovery mood. Portrait page.
 
 ---
 
@@ -215,7 +216,7 @@ Warm closing scene for Chapter 1. Grok the Rock happily finishing a cosy round n
 ```
 
 **Image generation prompt:**
-Simple chapter-opening page. Soft cream background with warm wash. At centre: Grok the Rock gently holding a cracked melon (or gourd) with both small sturdy hands, looking kind and steady. Soft green moss on his head, gray limestone body. Minimal soft foliage frame, Grok's tall tree to one side. Hand-lettered chapter title "Mending" and slightly smaller below it “Grok Tends It”, both in earthy stone colour. Calm transitional, caring mood.
+Simple chapter-opening page. Soft cream background with warm wash. At centre: Grok the Rock gently holding a cracked melon (or gourd) with both small sturdy hands, looking kind and steady. Soft green moss on his head, gray limestone body. Minimal soft foliage frame, Grok's tall tree to one side. Hand-lettered chapter title "2. Mending" and slightly smaller below it “Grok Tends It”, both in earthy stone colour. Calm transitional, caring mood.
 
 ---
 
@@ -229,7 +230,7 @@ Every new leaf felt like a small wonder.
 ```
 
 **Image generation prompt:**
-Cheerful sunny morning garden scene at the roots of Grok's tall tree. The big tree dominates the upper portion — a calm, characterful landmark with soft-leaved branches and dappled shade, the same tree from the chapter openings, connecting Grok to his place. Below it, Grok the Rock stands among healthy low melon vines and sweet potato leaves, his small gray limestone body, friendly face, and soft green moss-top turned toward the plants with quiet delight. Warm early light filters through the leaves; soft outback hills and gentle limestone rocks behind. Soft watercolor and colored pencil with gentle texture; warm outback palette of gray limestone, soft ochre, dusty eucalyptus green, warm cream, and muted sky blue. Feeling of gentle wonder at growing things. Generous clear text space in the lower third. Innocent, quiet, hopeful children's-book mood. Portrait page.
+Cheerful sunny morning garden scene at the roots of Grok's tall tree. The tall tree dominates the upper portion — a calm, characterful landmark with soft-leaved branches and dappled shade, the same tree from the chapter openings, connecting Grok to his place. Below it, Grok the Rock stands among healthy low melon vines and sweet potato leaves, his small gray limestone body, friendly face, and soft green moss-top turned toward the plants with quiet delight. Warm early light filters through the leaves; soft outback hills and gentle limestone rocks behind. Soft watercolor and colored pencil with gentle texture; warm outback palette of gray limestone, soft ochre, dusty eucalyptus green, warm cream, and muted sky blue. Feeling of gentle wonder at growing things. Generous clear text space in the lower third. Innocent, quiet, hopeful children's-book mood. Portrait page.
 
 ---
 
@@ -357,7 +358,7 @@ Beautiful closing illustration for Chapter 2. Grok the Rock and Pip sitting toge
 ```
 
 **Image generation prompt:**
-Chapter opening page. Soft cream background. Centre: two simple reed baskets side by side — one slightly fancy looking but tipped, one plain, sturdy and full of clear water. Grok the Rock’s small gray limestone hand resting near the good basket. Minimal leaves and warm stones. Soft hand-lettered title "Seeing" and slightly smaller below it “Grok and the True Word”, both in earthy stone colour. Quiet, thoughtful, discovering mood.
+Chapter opening page. Soft cream background. Centre: two simple reed baskets side by side — one slightly fancy looking but tipped, one plain, sturdy and full of clear water. Grok the Rock’s small gray limestone hand resting near the good basket. Minimal leaves and warm stones. Soft hand-lettered title "3. Seeing" and slightly smaller below it “Grok and the True Word”, both in earthy stone colour. Quiet, thoughtful, discovering mood.
 
 ---
 
@@ -375,7 +376,7 @@ and felt the quiet joy of a thing well made.
 ```
 
 **Image generation prompt:**
-Evening by Grok's tall tree. Golden-hour light falls through the soft-leaved branches of the big tree — the same landmark from the chapter openings, connecting Grok to his place. At its roots near his mossy nest, Grok the Rock sits quietly with a beautiful round water basket he has just finished: woven green reeds with a smooth clay lining, clear water sparkling inside. He turns it gently in his small gray limestone hands, a soft expression of quiet joy and gentle wonder on his friendly face, the little moss on his head catching the warm light. Fine but soft texture details on the basket weave and his limestone body. Soft watercolor and colored pencil with gentle texture; warm outback palette of gray limestone, soft ochre, dusty eucalyptus green, warm cream, and muted sky blue, glowing with evening gold. Calm, satisfied, innocent children's-book mood. Generous clear text space at the bottom. Portrait page.
+Evening by Grok's tall tree. Golden-hour light falls through the soft-leaved branches of the tall tree — the same landmark from the chapter openings, connecting Grok to his place. At its roots near his mossy nest, Grok the Rock sits quietly with a beautiful round water basket he has just finished: woven green reeds with a smooth clay lining, clear water sparkling inside. He turns it gently in his small gray limestone hands, a soft expression of quiet joy and gentle wonder on his friendly face, the little moss on his head catching the warm light. Fine but soft texture details on the basket weave and his limestone body. Soft watercolor and colored pencil with gentle texture; warm outback palette of gray limestone, soft ochre, dusty eucalyptus green, warm cream, and muted sky blue, glowing with evening gold. Calm, satisfied, innocent children's-book mood. Generous clear text space at the bottom. Portrait page.
 
 ---
 
@@ -447,7 +448,7 @@ No “ask me first.”
 ```
 
 **Image generation prompt:**
-Lovely generous scene. Grok the Rock placing the excellent sturdy basket and a simple reed-weaving pattern under the big tree for all. Open, free, giving feeling. Soft light beams through leaves. Other small animals beginning to approach with curiosity. Warm spirit of open sharing and true seeing. Soft watercolor children’s book illustration with text area.
+Lovely generous scene. Grok the Rock placing the excellent sturdy basket and a simple reed-weaving pattern under the tall tree for all. Open, free, giving feeling. Soft light beams through leaves. Other small animals beginning to approach with curiosity. Warm spirit of open sharing and true seeing. Soft watercolor children’s book illustration with text area.
 
 ---
 
@@ -489,7 +490,7 @@ on its own strong legs.
 ```
 
 **Image generation prompt:**
-Beautiful final story page. Grok the Rock sitting contentedly under his tree at golden hour, the good water basket beside him. In the soft middle distance, animals of all kinds (including the tortoise and even the cockatoo) moving freely and peacefully together. Sense of open sky, freedom, and quiet understanding. Warm glowing light, deep calm and innocent joy. Soft watercolor masterpiece feel for children’s book ending, generous text space.
+Beautiful final story page. Grok the Rock sitting contentedly under his tall tree at golden hour, the good water basket beside him. In the soft middle distance, animals of all kinds (including the tortoise and even the cockatoo) moving freely and peacefully together. Sense of open sky, freedom, and quiet understanding. Warm glowing light, deep calm and innocent joy. Soft watercolor masterpiece feel for children’s book ending, generous text space.
 
 ---
 
