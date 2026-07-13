@@ -216,7 +216,7 @@ Warm closing scene for Chapter 1. Grok the Rock happily finishing a cosy round n
 ```
 
 **Image generation prompt:**
-Simple chapter-opening page. Soft cream background with warm wash. At centre: Grok the Rock gently holding a cracked melon (or gourd) with both small sturdy hands, looking kind and steady. Soft green moss on his head, gray limestone body. Minimal soft foliage frame, Grok's tall tree to one side. Hand-lettered chapter title "2. Mending" and slightly smaller below it “Grok Tends It”, both in earthy stone colour. Calm transitional, caring mood.
+Simple chapter-opening page. Soft cream background with warm wash. At centre: Grok the Rock gently holding a cracked melon with both small sturdy hands, looking kind and steady. Soft green moss on his head, gray limestone body. Minimal soft foliage frame, Grok's tall tree to one side. Hand-lettered chapter title "2. Mending" and slightly smaller below it “Grok Tends It”, both in earthy stone colour. Calm transitional, caring mood.
 
 ---
 
@@ -230,7 +230,7 @@ Every new leaf felt like a small wonder.
 ```
 
 **Image generation prompt:**
-Cheerful sunny morning garden scene at the roots of Grok's tall tree. The tall tree dominates the upper portion — a calm, characterful landmark with soft-leaved branches and dappled shade, the same tree from the chapter openings, connecting Grok to his place. Below it, Grok the Rock stands among healthy low melon vines and sweet potato leaves, his small gray limestone body, friendly face, and soft green moss-top turned toward the plants with quiet delight. Warm early light filters through the leaves; soft outback hills and gentle limestone rocks behind. Soft watercolor and colored pencil with gentle texture; warm outback palette of gray limestone, soft ochre, dusty eucalyptus green, warm cream, and muted sky blue. Feeling of gentle wonder at growing things. Generous clear text space ~40% height at bottom. Innocent, quiet, hopeful children's-book mood. Portrait page.
+Cheerful sunny morning garden scene at the roots of Grok's tall tree. The tall tree dominates the upper portion — a calm, characterful landmark with soft-leaved branches and dappled shade, the same tree from the chapter openings, connecting Grok to his place. Below it, Grok the Rock stands among healthy low melon vines and sweet potato leaves, his small gray limestone body, friendly face, and soft green moss-top turned toward the plants with quiet delight. Warm early light filters through the leaves; soft outback hills and gentle limestone rocks behind. Soft watercolor and colored pencil with gentle texture; warm outback palette of gray limestone, soft ochre, dusty eucalyptus green, warm cream, and muted sky blue. Feeling of gentle wonder at growing things. Clear text space ~40% height at bottom. Innocent, quiet, hopeful children's-book mood. Portrait page.
 
 ---
 
