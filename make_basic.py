@@ -40,8 +40,8 @@ def render_md(s):
         line = line.rstrip()
         line = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", line)
         line = re.sub(r"\*(.+?)\*", r"<em>\1</em>", line)
-        out.append(line)
-    return "<br>\n".join(out)
+        out.append(f"<p>{line}</p>" if line else "<p> </p>")
+    return "\n".join(out)
 
 pages = []
 for chunk in chunks:
