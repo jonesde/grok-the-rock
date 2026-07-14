@@ -230,7 +230,7 @@ Every new leaf felt like a small wonder.
 ```
 
 **Image generation prompt:**
-Cheerful sunny morning garden scene at the roots of Grok's tall tree. The tall tree dominates the upper portion — a calm, characterful landmark with soft-leaved branches and dappled shade, the same tree from the chapter openings, connecting Grok to his place. Below it, Grok the Rock stands among healthy low melon vines and sweet potato leaves, his small gray limestone body, friendly face, and soft green moss-top turned toward the plants with quiet delight. Warm early light filters through the leaves; soft outback hills and gentle limestone rocks behind. Soft watercolor and colored pencil with gentle texture; warm outback palette of gray limestone, soft ochre, dusty eucalyptus green, warm cream, and muted sky blue. Feeling of gentle wonder at growing things. Clear text space ~40% height at bottom. Innocent, quiet, hopeful children's-book mood. Portrait page.
+Cheerful sunny morning garden scene at the roots of Grok's tall tree. The tall tree dominates the upper portion — a calm, characterful landmark with soft-leaved branches and dappled shade, the same tree from the chapter openings, connecting Grok to his place. Below it, Grok the Rock stands among healthy low melon vines and sweet potato leaves, his small gray limestone body, friendly face, and soft green moss-top turned toward the plants with quiet delight. Warm early light filters through the leaves; soft outback hills and gentle limestone rocks behind. Soft watercolor and colored pencil with gentle texture; warm outback palette of gray limestone, soft ochre, dusty eucalyptus green, warm cream, and muted sky blue. Feeling of gentle wonder at growing things. Generous clear text space ~40% height at bottom. Innocent, quiet, hopeful children's-book mood. Portrait page.
 
 ---
 
@@ -319,7 +319,7 @@ because two friends cared for them.
 ```
 
 **Image generation prompt:**
-Gentle time-passing scene. Pip happily watering thriving new melon vines with a leaf bucket. Grok the Rock nearby, watching with quiet pride and warmth. Soft sense of days having passed. Peaceful daily life and growing trust. Warm greens and limestone tones. Soft watercolor illustration with text space ~40% height at bottom.
+Gentle time-passing scene. Pip happily watering thriving new melon vines with a leaf bucket. Grok the Rock nearby, watching with quiet pride and warmth. Soft sense of days having passed. Peaceful daily life and growing trust. Warm greens and limestone tones. Soft watercolor illustration with larger text space ~45% height at bottom.
 
 ---
 
