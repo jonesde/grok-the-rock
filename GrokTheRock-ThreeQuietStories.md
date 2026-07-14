@@ -404,8 +404,8 @@ Scene under the tall tree. Handsome glossy black cockatoo with spectacular tail 
 
 ```
 Later a very old tortoise spoke in a slow soft voice.
-He suggested a tiny change to the handle
-so it would not cut the paws of smaller friends.
+He suggested the small change of a handle,
+making it easy to carry for friends less sturdy than Grok.
 His shell was plain. No one special.
 A few animals turned away because the tortoise was not famous.
 ```
@@ -420,13 +420,14 @@ Quiet contrast scene. Humble old tortoise with plain weathered shell speaking so
 ```
 Grok tried both ideas.
 The cockatoo’s way looked fancy
-but the basket tipped and spilled.
+but the basket tipped and leaked.
 The old tortoise’s small idea
-made the basket comfortable and steady for everyone.
+made Grok's basket comfortable 
+and steady for everyone.
 ```
 
 **Image generation prompt:**
-Clear visual comparison in one cohesive image. Left: a fancy-looking basket tipping and spilling water. Right: a simpler better basket sitting steady, a small animal comfortably carrying it. Grok the Rock in the middle looking thoughtfully between them. Soft learning-and-discovery feeling. Soft watercolor, text space ~40% height at bottom.
+Clear visual comparison in one cohesive image. Left: a fancy-looking black cockatoo feather decorated basket tipping slightly and leaking water through its loose weave. Right: a simpler better basket sitting steady, a small animal comfortably carrying it. Grok the Rock in the middle looking thoughtfully between them. Soft learning-and-discovery feeling. Soft watercolor, text space ~40% height at bottom.
 
 ---
 
