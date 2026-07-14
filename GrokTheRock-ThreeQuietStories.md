@@ -25,7 +25,7 @@ Three Quiet Stories
 *Being · Mending · Seeing*
 
 Draft Story, Image Prompts by Grok 4.5 from xAI
-Illustrations by Grok Composer 2.5 from xAI
+Illustrations by Grok Imagine from xAI
 Rules, Editing, Automation by HY3 from Tencent
 *Not affiliated with or endorsed by xAI or Tencent*
 
