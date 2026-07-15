@@ -34,7 +34,7 @@ The common term in Australia for cantaloupe is "rockmelon". This adds a layer to
 
 ### How do you read his name?
 
-While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents. The deepest intended meaning of the name is the purpose of life: to grok the rock.
+While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents. The deepest intended meaning of the name is the purpose of life: to grok the rock, or in other words to drink of living water until we grok it and never thirst again.
 
 ## The 10 Rules
 
