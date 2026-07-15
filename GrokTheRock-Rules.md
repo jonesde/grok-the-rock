@@ -14,6 +14,10 @@ Grok the Rock is a "gray rock" for a reason:
 
 "The gray rock method, colloquially called gray rocking, is a communication pattern to deliberately act unresponsive and uninterested to encourage disengagement with difficult people. By adopting the dull qualities of a gray rock, the technique of gray rocking negates the emotional reaction people try to elicit."
 
+## Why a cantaloupe melon?
+
+The common term in Australia for cantaloupe is "rockmelon". This adds a layer to the story, a symbol of more serious and personal accidental damage by Pip. This was a lucky accident. I didn't know this when I chose that particular melon, just though it would fit in better than the watermelon the AI originally chose.
+
 ## The 10 Rules
 
 The rules below are AI written. After verifying that it knew my work and having a long techno-philosophical discussion expanding on the themes of distributed communities and open technology, I used the following prompt:
