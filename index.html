@@ -45,7 +45,14 @@
       padding: 0.6vw;
   }
   .book-single .page img {
-      max-height: 100vh;
+      max-height: 96vh;
+      width: auto;
+      margin: 0 auto;
+  }
+  .book-single .page video {
+      display: block;
+      max-height: 96vh;
+      max-width: 96vw;
       width: auto;
       margin: 0 auto;
   }
@@ -85,7 +92,7 @@
       border-top: 3px dotted rgba(150,140,120,0.8);
   }
   .cardtext strong { font-size: 1.15em; }
-  @media (max-width: 640px) {
+  @media (max-width: 1024px) {
     .book { grid-template-columns: 1fr; }
     .textpage { min-height: 30vh; }
   }
@@ -94,7 +101,11 @@
 <body>
   <div class="book-single">
     <div class="page">
-      <img src="images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg" alt="Cover Art">
+        <video autoplay loop muted playsinline>
+          <source src="clips/cover-grok-4d4c6c40-7ffa-4ab3-82ea-aff76693fc27-720p.mp4" type="video/mp4">
+          Your browser does not support the video element.
+        </video>
+        <!-- <img src="images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg" alt="Cover Art"> -->
     </div>
   </div>
   <div class="book-single">
@@ -454,6 +465,8 @@
         <p>on its own strong legs.</p>
       </div>
     </div>
+  </div>
+  <div class="book-single">
     <div class="page">
       <img src="images/page-26-grok-97985439-fb8c-40bb-ab0c-2acc180954f9.jpg" alt="Page 26 - Closing Page">
       <div class="caption" style="bottom:64%; filter:invert(100%);">

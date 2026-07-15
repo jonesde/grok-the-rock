@@ -24,9 +24,9 @@ Clean, calm, wondrous mood. High-quality innocent children’s book cover.
 Three Quiet Stories
 *Being · Mending · Seeing*
 
-Draft Story, Image Prompts by Grok 4.5 from xAI
-Illustrations by Grok Imagine from xAI
-Rules, Editing, Automation by HY3 from Tencent
+Draft Story, Image Prompts with Grok 4.5 from xAI
+Illustrations with Grok Imagine from xAI
+Rules, Editing, Automation with HY3 from Tencent
 *Not affiliated with or endorsed by xAI or Tencent*
 
 This is an AI-generated story-meme
