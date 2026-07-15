@@ -20,7 +20,7 @@ To live up to his name, Grok the Rock learns and follows certain rules about rel
 
 Rocks have been used as traditional symbols across many traditions. The old Heinlein definition of "grok" included notions of water and thirst. Rocks and water are often associated in symbology, such as Moses striking a rock with a rod to draw forth life water. Rocks are also associated with foundations and building. Both of these common meanings of rocks are engaged in all 3 chapters.
 
-In the first chapter Grok goes to the water to drink as he discovers himself. In the second chapter Grok uses water to heal as he forgives and rebuilds both the loss in the garden and the potential loss of a friend. In the third chapter Grok helps others use water by collaborating with others to make a better water basket as he builds the community around him.
+In the first chapter Grok goes to the water to drink as he discovers himself. In the second chapter Grok uses water to heal as he forgives and rebuilds both the loss in the garden and the potential loss of a friend. In the third chapter Grok helps others use water by collaborating with others to make a better water basket as he builds up the community around him.
 
 ### Why is he gray limestone?
 
@@ -30,7 +30,7 @@ Grok the Rock is a "gray rock" for a reason:
 
 ### Why a cantaloupe melon?
 
-The common term in Australia for cantaloupe is "rockmelon". This adds a layer to the story, a symbol of more serious and personal accidental damage by Pip. This was a lucky accident. I didn't know this when I chose that particular melon, just though it would fit in better than the watermelon the AI originally chose.
+The common term in Australia for cantaloupe is "rockmelon". This adds a layer to the story, a symbol of more serious and personal accidental damage by Pip. This was a lucky accident. I didn't know this when I chose that particular melon, just thought it would fit in better than the watermelon the AI originally chose.
 
 ### How do you read his name?
 
