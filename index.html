@@ -18,8 +18,18 @@
   .page {
     position: relative;
     line-height: 0;
-    background: #fff;
+    background: #efe7d8;
     overflow: hidden;
+  }
+  .page .page-num {
+      position: absolute;
+      left: 0; right: 0; top: 0;
+      padding: 4% 7% 6%;
+      text-align: center;
+      line-height: 1.25;
+      font-size: clamp(0.7rem, 1.4vw, 1.3rem);
+      color: #1b1108;
+      text-shadow: 0 0 3px rgba(255,255,255,0.75), 0 1px 2px rgba(255,255,255,0.6);
   }
   .page img {
     width: 100%;
@@ -29,6 +39,15 @@
   .page p {
     padding: 0;
     margin: 0;
+  }
+  .book-single {
+      display: block;
+      padding: 0.6vw;
+  }
+  .book-single .page img {
+      max-height: 100vh;
+      width: auto;
+      margin: 0 auto;
   }
   .caption {
     position: absolute;
@@ -40,6 +59,11 @@
     font-size: clamp(0.7rem, 1.4vw, 1.3rem);
     color: #1b1108;
     text-shadow: 0 0 3px rgba(255,255,255,0.75), 0 1px 2px rgba(255,255,255,0.6);
+  }
+  .caption hr {
+      width: 40px;
+      border: none; color: transparent;
+      border-top: 3px dotted rgba(150,140,120,0.8);
   }
   .textpage {
     background: #fbf4e6;
@@ -55,6 +79,11 @@
     font-size: clamp(0.7rem, 1.4vw, 1.3rem);
     color: #3a2f22;
   }
+  .cardtext hr {
+      width: 40px;
+      border: none; color: transparent;
+      border-top: 3px dotted rgba(150,140,120,0.8);
+  }
   .cardtext strong { font-size: 1.15em; }
   @media (max-width: 640px) {
     .book { grid-template-columns: 1fr; }
@@ -63,324 +92,384 @@
 </style>
 </head>
 <body>
-  <div class="book">
+  <div class="book-single">
     <div class="page">
       <img src="images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg" alt="Cover Art">
-
     </div>
+  </div>
+  <div class="book-single">
     <div class="page textpage">
       <div class="cardtext">
-<h1>Grok the Rock</h1>
-<h3>Three Quiet Stories</h3>
-<h2>Being · Mending · Seeing</h2>
-<p> </p>
-<p>Draft Story, Image Prompts by Grok 4.5 from xAI</p>
-<p>Illustrations by Grok Imagine from xAI</p>
-<p>Rules, Editing, Automation by HY3 from Tencent</p>
-<p><em>Not affiliated with or endorsed by xAI or Tencent</em></p>
-<p> </p>
-<p>This is an AI-generated story-meme</p>
-<p>Public Domain (CC0 1.0)</p>
-<p>Copy it • Share it • Translate it • Redraw it • Let it grow</p></div>
+        <h1>Grok the Rock</h1>
+        <h3>Three Quiet Stories</h3>
+        <h2>Being · Mending · Seeing</h2>
+        <hr>
+        <p>Draft Story, Image Prompts with Grok 4.5 from xAI</p>
+        <p>Illustrations with Grok Imagine from xAI</p>
+        <p>Rules, Editing, Automation with HY3 from Tencent</p>
+        <p><em>Not affiliated with or endorsed by xAI or Tencent</em></p>
+        <hr>
+        <p>This is an AI-generated story-meme</p>
+        <p>Public Domain (CC0 1.0)</p>
+        <p>Copy it • Share it • Translate it • Redraw it • Let it grow</p>
+      </div>
     </div>
+  </div>
+  <div class="book">
     <div class="page">
       <img src="images/dedication-grok-4d644bb0-0b15-4fa8-9b89-b78964cd7026.jpg" alt="Dedication Page">
       <div class="caption" style="bottom:50%;">
-<p><b>For every explorer, small and large,</b></p>
-<p><b>grokking the world in their own gentle way.</b></p>
-<p> </p>
-<p>And for every small feeling</p>
-<p>  that needs only seeing,</p>
-<p>every break set for mending</p>
-<p>  that needs only tending,</p>
-<p>and for every true word</p>
-<p>  that stands though unheard.</p>
-<p> </p>
-<p>With thanks to Original Grokkers:</p>
-<p><em><b>Robert A. Heinlein</b> "Stranger in a Strange Land"</em></p>
-<p><em><b>Ted Prior</b> "Grug"</em></p></div>
+        <p><b>For every explorer, small and large,</b></p>
+        <p><b>grokking the world in their own gentle way.</b></p>
+        <hr>
+        <p>And for every small feeling</p>
+        <p>  that needs only seeing,</p>
+        <p>every break set for mending</p>
+        <p>  that needs only tending,</p>
+        <p>and for every true word</p>
+        <p>  that stands though unheard.</p>
+        <hr>
+        <p>With thanks to Original Grokkers:</p>
+        <p><em><b>Robert A. Heinlein</b> "Stranger in a Strange Land"</em></p>
+        <p><em><b>Ted Prior</b> "Grug"</em></p>
+      </div>
     </div>
     <div class="page">
-      <img src="images/page-1-grok-66371264-365e-4572-8b05-f6e03851fcf5.jpg" alt="Page 1 (Chapter title page)">
-            <!-- chapter title overlay (hidden): <div class="caption"><p><strong>Chapter One - Being</strong></p>
-<p> </p>
-<p><em>Grok and the Small Feeling</em></p></div> -->
+      <img src="images/page-1-grok-66371264-365e-4572-8b05-f6e03851fcf5.jpg" alt="Page 1 (Chapter 1 title page)">
     </div>
     <div class="page">
+      <div class="page-num">2</div>
       <img src="images/page-2-grok-481c406f-3f25-4f6b-a120-8b8dad85d359.jpg" alt="Page 2">
-      <div class="caption">
-<p>Grok the Rock woke under the tall tree.</p>
-<p>Sun was warm on his limestone back.</p>
-<p>Grok felt happy.</p>
-<p> </p>
-<p>He looked at the wide world</p>
-<p>as if he was seeing it for the very first time.</p></div>
+      <div class="caption" style="bottom:9%;">
+        <p>Grok the Rock woke under the tall tree.</p>
+        <p>Sun was warm on his limestone back.</p>
+        <p>Grok felt happy.</p>
+        <hr>
+        <p>He looked at the wide world</p>
+        <p>as if he was seeing it for the very first time.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">3</div>
       <img src="images/page-3-grok-028c42fe-70ae-419c-a0ed-0392bafb3fbf.jpg" alt="Page 3">
-      <div class="caption">
-<p>Soon he walked to the water-hole.</p>
-<p>A tall emu was already there.</p>
-<p>The emu stretched his long neck and said,</p>
-<p>“I am the tallest. Stand behind me.”</p></div>
+      <div class="caption" style="bottom:8%;">
+        <p>Soon he walked to the water-hole.</p>
+        <p>A tall emu was already there.</p>
+        <p>The emu stretched his long neck and said,</p>
+        <p>“I am the tallest. Stand behind me.”</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">4</div>
       <img src="images/page-4-grok-f7706229-5e89-4b5f-8828-0865b16eda73.jpg" alt="Page 4">
       <div class="caption">
-<p>Then a wombat rolled up, round and solid.</p>
-<p>“I am the strongest,” said the wombat.</p>
-<p>“Everyone watch me dig.”</p>
-<p> </p>
-<p>Grok tried to dig too.</p>
-<p>His hole was small.</p>
-<p>He felt smaller than the hole.</p></div>
+        <p>Then a wombat rolled up, round and solid.</p>
+        <p>“I am the strongest,” said the wombat.</p>
+        <p>“Everyone watch me dig.”</p>
+        <hr>
+        <p>Grok tried to dig too.</p>
+        <p>His hole was small.</p>
+        <p>He felt smaller than the hole.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">5</div>
       <img src="images/page-5-grok-8baaf8c8-a887-4764-9205-0f1a03a6f4b8.jpg" alt="Page 5">
-      <div class="caption"><p>A kookaburra laughed from a branch.</p>
-<p>“Look at little Grok! So short! So stony!”</p>
-<p> </p>
-<p>The small feeling grew inside Grok.</p>
-<p>It felt like a heavy cold pebble in his middle.</p></div>
+      <div class="caption" style="bottom:7%;">
+        <p>A kookaburra laughed from a branch.</p>
+        <p>“Look at little Grok! So short! So stony!”</p>
+        <hr>
+        <p>The small feeling grew inside Grok.</p>
+        <p>It felt like a heavy cold pebble in his middle.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">6</div>
       <img src="images/page-6-grok-adad39e7-2558-4183-a800-33c1b77419fb.jpg" alt="Page 6">
-      <div class="caption"><p>He wanted to make himself look bigger.</p>
-<p>He stood on a log.</p>
-<p>He puffed out his chest.</p>
-<p>He even tried to thump the ground like the kangaroo.</p>
-<p> </p>
-<p>It only made the cold pebble heavier.</p></div>
+      <div class="caption" style="bottom:3%;">
+        <p>He wanted to make himself look bigger.</p>
+        <p>He stood on a log.</p>
+        <p>He puffed out his chest.</p>
+        <p>He even tried to thump the ground like the kangaroo.</p>
+        <hr>
+        <p>It only made the cold pebble heavier.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">7</div>
       <img src="images/page-7-grok-7d296a89-a7ac-47d8-abc7-a7cc53a43c97.jpg" alt="Page 7">
-      <div class="caption"><p>That night Grok sat alone by a little fire.</p>
-<p>He put his arms around his knees.</p>
-<p>He let the small feeling stay.</p>
-<p>He did not run from it.</p>
-<p>He did not throw it at anyone else.</p>
-<p> </p>
-<p>Slowly the feeling softened,</p>
-<p>like clay left in the sun.</p>
-<p>He began to understand it.</p></div>
+      <div class="caption" style="bottom:3%;">
+        <p>That night Grok sat alone by a little fire.</p>
+        <p>He put his arms around his knees.</p>
+        <p>He let the small feeling stay.</p>
+        <p>He did not run from it.</p>
+        <p>He did not throw it at anyone else.</p>
+        <hr>
+        <p>Slowly the feeling softened,</p>
+        <p>like clay left in the sun.</p>
+        <p>He began to understand it.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">8</div>
       <img src="images/page-8-grok-445d26bc-85af-4c13-a44c-26a82f396432.jpg" alt="Page 8">
-      <div class="caption"><p>Next morning Grok went back to the water-hole.</p>
-<p>He did not climb on anything.</p>
-<p>He did not try to be taller or louder.</p>
-<p>He simply drank,</p>
-<p>then sat on a warm rock and hummed.</p>
-<p> </p>
-<p>Nothing big had changed outside.</p>
-<p>But everything felt lighter inside.</p>
-<p>He was beginning to grok himself.</p></div>
+      <div class="caption">
+        <p>Next morning Grok went back to the water-hole.</p>
+        <p>He did not climb on anything.</p>
+        <p>He did not try to be taller or louder.</p>
+        <p>He simply drank,</p>
+        <p>then sat on a warm rock and hummed.</p>
+        <hr>
+        <p>Nothing big had changed outside.</p>
+        <p>But everything felt lighter inside.</p>
+        <p>He was beginning to grok himself.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">9</div>
       <img src="images/page-9-grok-432d18f1-c276-4586-8ff8-0b018446122b.jpg" alt="Page 9">
-      <div class="caption"><p>He spent the day making a soft nest of leaves and moss</p>
-<p>just the right size for a small rock fellow.</p>
-<p>When it was finished he smiled.</p>
-<p>It was small.</p>
-<p>It was his.</p>
-<p>It was enough.</p>
-<p> </p>
-<p>From that day, when the cold pebble tried to grow again,</p>
-<p>Grok sat still until it became quiet.</p>
-<p>He just stayed Grok.</p>
-<p>And that felt like the best size of all.</p></div>
+      <div class="caption" style="bottom:10%;">
+        <p>He spent the day making a soft nest of leaves and moss</p>
+        <p>just the right size for a small rock fellow.</p>
+        <p>When it was finished he smiled.</p>
+        <p>It was small.</p>
+        <p>It was his.</p>
+        <p>It was enough.</p>
+        <hr>
+        <p>From that day, when the cold pebble tried to grow again,</p>
+        <p>Grok sat still until it became quiet.</p>
+        <p>He just stayed Grok.</p>
+        <p>And that felt like the best size of all.</p>
+      </div>
     </div>
     <div class="page">
-      <img src="images/page-10-grok-de70e122-f5b5-431e-80ad-bc7e4b341433.jpg" alt="Page 10 (Chapter title page)">
-            <!-- chapter title overlay (hidden): <div class="caption"><p><strong>Chapter Two - Mending</strong></p>
-<p> </p>
-<p><em>Grok Tends It</em></p></div> -->
+      <img src="images/page-10-grok-de70e122-f5b5-431e-80ad-bc7e4b341433.jpg" alt="Page 10 (Chapter 2 title page)">
     </div>
     <div class="page">
+      <div class="page-num">11</div>
       <img src="images/page-11-grok-48e25567-dcf9-4d3c-bc0e-8ba593f47153.jpg" alt="Page 11">
-      <div class="caption"><p>Grok the Rock woke under the tall tree.</p>
-<p>Grok watched his little garden of melons and sweet potatoes.</p>
-<p>He loved watching them grow.</p>
-<p>Every new leaf felt like a small wonder.</p></div>
+      <div class="caption">
+        <p>Grok the Rock woke under the tall tree.</p>
+        <p>Grok watched his little garden of melons and sweet potatoes.</p>
+        <p>He loved watching them grow.</p>
+        <p>Every new leaf felt like a small wonder.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">12</div>
       <img src="images/page-12-grok-835f3c58-81fd-4f81-9008-d3add76efeef.jpg" alt="Page 12">
-      <div class="caption"><p>That afternoon his friend, a young echidna named Pip,</p>
-<p>hurried through the garden looking behind him</p>
-<p>and knocked over the best melon vine.</p>
-<p>The big melon split open on the ground.</p>
-<p>Seeds and sweet juice spilled everywhere.</p></div>
+      <div class="caption" style="bottom:12%;">
+        <p>That afternoon his friend, a young echidna named Pip,</p>
+        <p>hurried through the garden looking behind him</p>
+        <p>and knocked over the best melon vine.</p>
+        <p>The big melon split open on the ground.</p>
+        <p>Seeds and sweet juice spilled everywhere.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">13</div>
       <img src="images/page-13-grok-4df8bae2-ed14-4cfd-8d0e-e0c5257bbc6c.jpg" alt="Page 13">
-      <div class="caption"><p>Pip froze.</p>
-<p>His spines trembled.</p>
-<p>“I ruined it,” he whispered.</p>
-<p>“You will be angry. Everyone will be angry.”</p>
-<p> </p>
-<p>Some bush creatures gathered.</p>
-<p>“Make him go away,” muttered a possum.</p>
-<p>“He should bring you three new melons,” said a lizard.</p></div>
+      <div class="caption" style="bottom:2%;">
+        <p>Pip froze.</p>
+        <p>His spines trembled.</p>
+        <p>“I ruined it,” he whispered.</p>
+        <p>“You will be angry. Everyone will be angry.”</p>
+        <hr>
+        <p>Some bush creatures gathered.</p>
+        <p>“Make him go away,” muttered a possum.</p>
+        <p>“He should bring you three new melons,” said a lizard.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">14</div>
       <img src="images/page-14-grok-99d5188c-864d-4e1e-879e-05cc2c517c5d.jpg" alt="Page 14">
-      <div class="caption"><p>Grok looked at the broken vine.</p>
-<p>He looked at Pip’s worried eyes.</p>
-<p> </p>
-<p>He did not raise his voice.</p>
-<p>He did not point his finger.</p>
-<p>He picked up a digging stick</p>
-<p>and began to make soft earth ready.</p>
-<p> </p>
-<p>“Come,” said Grok gently.</p>
-<p>“We plant new seeds together.”</p></div>
+      <div class="caption">
+        <p>Grok looked at the broken vine.</p>
+        <p>He looked at Pip’s worried eyes.</p>
+        <hr>
+        <p>He did not raise his voice.</p>
+        <p>He did not point his finger.</p>
+        <p>He picked up a digging stick</p>
+        <p>and began to make soft earth ready.</p>
+        <hr>
+        <p>“Come,” said Grok gently.</p>
+        <p>“We plant new seeds together.”</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">15</div>
       <img src="images/page-15-grok-ceda4f0d-cc29-4021-a249-910129a9c2b2.jpg" alt="Page 15">
-      <div class="caption"><p>Pip blinked.</p>
-<p>Then he came close.</p>
-<p>Together they planted.</p>
-<p>Together they watered.</p>
-<p>Together they built a little fence of twigs</p>
-<p>so no one would step there again by mistake.</p></div>
+      <div class="caption">
+        <p>Pip blinked.</p>
+        <p>Then he came close.</p>
+        <p>Together they planted.</p>
+        <p>Together they watered.</p>
+        <p>Together they built a little fence of twigs</p>
+        <p>so no one would step there again by mistake.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">16</div>
       <img src="images/page-16-grok-12a7f0b9-63ce-4452-bab1-1e4770ba5fd1.jpg" alt="Page 16">
-      <div class="caption"><p>While they worked, Pip told Grok</p>
-<p>he had been running because bigger creatures</p>
-<p>had been chasing him and laughing.</p>
-<p>He had not seen the vine.</p>
-<p> </p>
-<p>The next days Pip came every morning.</p>
-<p>He became the best water-carrier in the valley.</p>
-<p>The new vines grew strong,</p>
-<p>even stronger than the old ones,</p>
-<p>because two friends cared for them.</p></div>
+      <div class="caption">
+        <p>While they worked, Pip told Grok</p>
+        <p>he had been running because bigger creatures</p>
+        <p>had been chasing him and laughing.</p>
+        <p>He had not seen the vine.</p>
+        <hr>
+        <p>The next days Pip came every morning.</p>
+        <p>He became the best water-carrier in the valley.</p>
+        <p>The new vines grew strong,</p>
+        <p>even stronger than the old ones,</p>
+        <p>because two friends cared for them.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">17</div>
       <img src="images/page-17-grok-a26b509b-7c9a-48ae-a2c6-7410304c7edd.jpg" alt="Page 17">
-      <div class="caption"><p>When other small accidents happened</p>
-<p>(as they always do),</p>
-<p>Grok remembered the melon.</p>
-<p>He helped the one who felt hurt.</p>
-<p>He also stayed kind to the one who had done the bumping.</p>
-<p> </p>
-<p>No one was sent away.</p>
-<p>No one carried a long heavy hurt.</p>
-<p>They just tended to what was broken</p>
-<p>and the friendship felt sturdier,</p>
-<p>right at the mended place.</p>
-<p> </p>
-<p>Grok learned that a garden,</p>
-<p>and a friendship,</p>
-<p>do not stay alive by never breaking.</p>
-<p>They stay alive by being gently put back together.</p></div>
+      <div class="caption">
+        <p>When other small accidents happened</p>
+        <p>(as they always do),</p>
+        <p>Grok remembered the melon.</p>
+        <p>He helped the one who felt hurt.</p>
+        <p>He also stayed kind to the one who had done the bumping.</p>
+        <hr>
+        <p>No one was sent away.</p>
+        <p>No one carried a long heavy hurt.</p>
+        <p>They just tended to what was broken</p>
+        <p>and the friendship felt sturdier,</p>
+        <p>right at the mended place.</p>
+        <hr>
+        <p>Grok learned that a garden,</p>
+        <p>and a friendship,</p>
+        <p>do not stay alive by never breaking.</p>
+        <p>They stay alive by being gently put back together.</p>
+      </div>
     </div>
     <div class="page">
-      <img src="images/page-18-grok-d333eb0c-afc6-432b-b077-5b89349bd1e4.jpg" alt="Page 18 (Chapter title page)">
-            <!-- chapter title overlay (hidden): <div class="caption"><p><strong>Chapter Three - Seeing</strong></p>
-<p> </p>
-<p><em>Grok and the True Word</em></p></div> -->
+      <img src="images/page-18-grok-d333eb0c-afc6-432b-b077-5b89349bd1e4.jpg" alt="Page 18 (Chapter 3 title page)">
     </div>
     <div class="page">
+      <div class="page-num">19</div>
       <img src="images/page-19-grok-c132c2f7-6323-48cf-b26d-66930226112f.jpg" alt="Page 19">
-      <div class="caption"><p>Grok the Rock woke under the tall tree.</p>
-<p>Grok liked making useful things,</p>
-<p>and that day he worked on a water basket</p>
-<p>woven from reeds and lined with soft clay.</p>
-<p>By evening it held water without one drip.</p>
-<p> </p>
-<p>He turned it in his hands</p>
-<p>and felt the quiet joy of a thing well made.</p></div>
+      <div class="caption">
+        <p>Grok the Rock woke under the tall tree.</p>
+        <p>Grok liked making useful things,</p>
+        <p>and that day he worked on a water basket</p>
+        <p>woven from reeds and lined with soft clay.</p>
+        <p>By evening it held water without one drip.</p>
+        <hr>
+        <p>He turned it in his hands</p>
+        <p>and felt the quiet joy of a thing well made.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">20</div>
       <img src="images/page-20-grok-a30da3ef-d6ca-4557-88ab-8b959191cf01.jpg" alt="Page 20">
-      <div class="caption"><p>The very next day creatures came to look.</p>
-<p>A glossy black cockatoo with grand tail feathers landed nearby.</p>
-<p>“That basket is clever,” said the cockatoo,</p>
-<p>“but <em>my</em> idea for a basket would be far finer.</p>
-<p>After all, I have the grandest feathers,</p>
-<p>so my thoughts must be the grandest too.”</p>
-<p> </p>
-<p>Some younger animals nodded hard.</p>
-<p>They always nodded when the cockatoo spoke.</p>
-<p>His voice was as grand as his feathers.</p></div>
+      <div class="caption">
+        <p>The very next day creatures came to look.</p>
+        <p>A glossy black cockatoo with grand tail feathers landed nearby.</p>
+        <p>“That basket is clever,” said the cockatoo,</p>
+        <p>“but <em>my</em> idea for a basket would be far finer.</p>
+        <p>After all, I have the grandest feathers,</p>
+        <p>so my thoughts must be the grandest too.”</p>
+        <hr>
+        <p>Some younger animals nodded hard.</p>
+        <p>They always nodded when the cockatoo spoke.</p>
+        <p>His voice was as grand as his feathers.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">21</div>
       <img src="images/page-21-grok-f3245d42-a912-4596-a2a0-d06d942dc045.jpg" alt="Page 21">
-      <div class="caption"><p>Later a very old tortoise spoke in a slow soft voice.</p>
-<p>He suggested the small change of a handle,</p>
-<p>making it easy to carry for friends less sturdy than Grok.</p>
-<p>His shell was plain. No one special.</p>
-<p>A few animals turned away because the tortoise was not famous.</p></div>
+      <div class="caption">
+        <p>Later a very old tortoise spoke in a slow soft voice.</p>
+        <p>He suggested the small change of a handle,</p>
+        <p>making it easy to carry for friends less sturdy than Grok.</p>
+        <p>His shell was plain. No one special.</p>
+        <p>A few animals turned away because the tortoise was not famous.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">22</div>
       <img src="images/page-22-grok-4ee31946-396e-48fe-8029-2f0107c33f17.jpg" alt="Page 22">
-      <div class="caption"><p>Grok tried both ideas.</p>
-<p>The cockatoo’s way looked fancy</p>
-<p>but the basket tipped and leaked.</p>
-<p>The old tortoise’s small idea</p>
-<p>made Grok's basket comfortable</p>
-<p>and steady for everyone.</p></div>
+      <div class="caption">
+        <p>Grok tried both ideas.</p>
+        <p>The cockatoo’s way looked fancy</p>
+        <p>but the basket tipped and leaked.</p>
+        <hr>
+        <p>The old tortoise’s small idea</p>
+        <p>made Grok's basket comfortable</p>
+        <p>and steady for everyone.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">23</div>
       <img src="images/page-23-grok-6894716c-2983-479e-b89d-9c2894f9db2b.jpg" alt="Page 23">
-      <div class="caption"><p>Grok sat with the two baskets side by side.</p>
-<p>He did not look at feathers.</p>
-<p>He did not look at age or fame.</p>
-<p>He only looked at which basket held water best</p>
-<p>and felt kindest in the hand.</p>
-<p> </p>
-<p>He kept the better way.</p>
-<p>Then he left both the good basket</p>
-<p>and the plain pattern for weaving it</p>
-<p>under the big tree for anyone to use or copy.</p>
-<p>No name on it.</p>
-<p>No “ask me first.”</p></div>
+      <div class="caption" style="bottom:-1%;">
+        <p>Grok sat with the two baskets side by side.</p>
+        <p>He did not look at feathers.</p>
+        <p>He did not look at age or fame.</p>
+        <p>He only looked at which basket held water best</p>
+        <p>and felt kindest in the hand.</p>
+        <hr>
+        <p>He kept the better way.</p>
+        <p>Then he left both the good basket</p>
+        <p>and the plain pattern for weaving it</p>
+        <p>under the big tree for anyone to use or copy.</p>
+        <p>No name on it. No “ask me first.”</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">24</div>
       <img src="images/page-24-grok-9d3c9424-bcd3-4089-b277-e1e870dfbd20.jpg" alt="Page 24">
-      <div class="caption"><p>Some animals still waited to hear what the cockatoo thought</p>
-<p>before they decided if a thing was good.</p>
-<p>But more and more little ones</p>
-<p>began to try things for themselves.</p>
-<p>They listened to Grok’s quiet words</p>
-<p>the same way they listened to the grand cockatoo’s words,</p>
-<p>and then they tested everything with their own paws.</p>
-<p> </p>
-<p>They were grokking the true, the what not the who.</p></div>
+      <div class="caption" style="bottom:1%;">
+        <p>Some animals still waited to hear what the cockatoo thought</p>
+        <p>before they decided if a thing was good.</p>
+        <p>But more and more little ones</p>
+        <p>began to try things for themselves.</p>
+        <p>They listened to Grok’s quiet words</p>
+        <p>the same way they listened to the grand cockatoo’s words,</p>
+        <p>and then they tested everything with their own paws.</p>
+        <hr>
+        <p>They were grokking the true, the what not the who.</p>
+      </div>
     </div>
     <div class="page">
+      <div class="page-num">25</div>
       <img src="images/page-25-grok-87bf0bc3-52ea-4af3-ac9b-f89a5ec3f06c.jpg" alt="Page 25">
-      <div class="caption"><p>Grok felt peaceful.</p>
-<p>He did not need the biggest voice.</p>
-<p>He only needed true things.</p>
-<p>And Grok saw that true things</p>
-<p>could come from a grand bird</p>
-<p>or a dusty tortoise</p>
-<p>or a small rock fellow under a tree.</p>
-<p> </p>
-<p>As long as someone was free to say</p>
-<p>“that does not work”</p>
-<p>and still stay welcome in the valley,</p>
-<p>the true word could keep walking</p>
-<p>on its own strong legs.</p></div>
+      <div class="caption" style="bottom:2%;">
+        <p>Grok felt peaceful.</p>
+        <p>He did not need the biggest voice.</p>
+        <p>He only needed true things.</p>
+        <p>And Grok saw that true things</p>
+        <p>could come from a grand bird</p>
+        <p>or a dusty tortoise</p>
+        <p>or a small rock fellow under a tree.</p>
+        <hr>
+        <p>As long as someone was free to say</p>
+        <p>“that does not work”</p>
+        <p>and still stay welcome in the valley,</p>
+        <p>the true word could keep walking</p>
+        <p>on its own strong legs.</p>
+      </div>
     </div>
     <div class="page">
       <img src="images/page-26-grok-97985439-fb8c-40bb-ab0c-2acc180954f9.jpg" alt="Page 26 - Closing Page">
-      <div class="caption" style="bottom:60%; filter:invert(100%);">
-<p>And so Grok the Rock stayed</p>
-<p>a small limestone fellow</p>
-<p>who could sit with a small feeling,</p>
-<p>who mended what broke,</p>
-<p>and who let every true word</p>
-<p>stand on its own legs.</p>
-<p> </p>
-<p>The valley felt safer</p>
-<p>because he did.</p>
-<p> </p>
-<p>He kept exploring gently.</p>
-<p>And the world kept teaching him.</p></div>
+      <div class="caption" style="bottom:64%; filter:invert(100%);">
+        <p>And so Grok the Rock stayed</p>
+        <p>a small limestone fellow</p>
+        <p>who could sit with a small feeling,</p>
+        <p>who mended what broke,</p>
+        <p>and who let every true word</p>
+        <p>stand on its own legs.</p>
+        <hr>
+        <p>The valley felt safer</p>
+        <p>because he did.</p>
+        <hr>
+        <p>He kept exploring gently.</p>
+        <p>And the world kept teaching him.</p>
+      </div>
     </div>
   </div>
 </body>
