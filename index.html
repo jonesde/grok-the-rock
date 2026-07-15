@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Grok the Rock — Three Quiet Stories</title>
+<title>Grok the Rock - Three Quiet Stories</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -61,6 +61,7 @@
       width: auto;
       margin: 0 auto;
   }
+  .book-single .cover-img { display: none; }
   .caption {
     position: absolute;
     left: 0; right: 0;
@@ -130,6 +131,54 @@
   }
   .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
   body { padding-top: 2.6rem; }
+  @media print {
+    @page { size: Letter landscape; margin: 0; }
+    html, body { background: #efe7d8; }
+    body { padding-top: 0; }
+    body, .page, .textpage, .card {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .site-header { display: none !important; }
+    .book { grid-template-columns: 1fr 1fr; gap: 0; padding: 0; }
+    .book > .page {
+      overflow: hidden;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .book > .page:nth-child(even) {
+      break-after: page;
+      page-break-after: page;
+    }
+    .page img { width: 100%; height: auto; display: block; }
+    .book-single {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 11in;
+      height: 8.5in;
+      padding: 0;
+      break-after: page;
+      page-break-after: always;
+    }
+    .book-single .page {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .book-single .page img {
+      max-width: 100%;
+      max-height: 100%;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .book-single .page video { display: none; }
+    .cover-img { display: block !important; }
+    .textpage { min-height: 0; }
+  }
 </style>
 </head>
 <body>
@@ -139,11 +188,11 @@
   </header>
   <div class="book-single">
     <div class="page">
-        <video id="cover-video" autoplay muted playsinline>
-          <source src="clips/cover-grok-4d4c6c40-7ffa-4ab3-82ea-aff76693fc27-720p.mp4" type="video/mp4">
-          Your browser does not support the video element.
-        </video>
-        <!-- <img src="images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg" alt="Cover Art"> -->
+         <video id="cover-video" autoplay muted playsinline>
+           <source src="clips/cover-grok-4d4c6c40-7ffa-4ab3-82ea-aff76693fc27-720p.mp4" type="video/mp4">
+           Your browser does not support the video element.
+         </video>
+         <img class="cover-img" src="images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg" alt="Cover Art">
     </div>
   </div>
   <div class="book-single">
@@ -539,6 +588,19 @@
     setTimeout(() => { video.currentTime = 0;
         video.play().catch(error => console.log("Playback prevented:", error)); }, delayBetweenLoops);
     });
+  </script>
+  <script>
+    (function () {
+      const originalTitle = document.title;
+      const printTitle = originalTitle
+        .replace(/[^\p{L}\p{N}\s-]/gu, '')
+        .split(/\s+/)
+        .filter(Boolean)
+        .map((w, i) => i === 0 ? w : w.charAt(0).toUpperCase() + w.slice(1))
+        .join('');
+      window.addEventListener('beforeprint', () => { document.title = printTitle; });
+      window.addEventListener('afterprint', () => { document.title = originalTitle; });
+    })();
   </script>
 </body>
 </html>

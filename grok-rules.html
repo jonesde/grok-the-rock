@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Rules of Relating for Grok the Rock</title>
+<title>Grok the Rock - Rules of Relating</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -219,6 +219,26 @@
   }
   .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
   body { padding-top: 2.6rem; }
+  @media print {
+    @page { size: Letter portrait; scale: 0.62; margin: 0.4in; }
+    html, body { background: #fff; }
+    body { padding-top: 0; }
+    .site-header { display: none !important; }
+    .wrap { max-width: none; margin: 0; padding: 0; }
+    .board { grid-template-columns: repeat(12, 1fr); gap: 0.4rem; }
+    .span12 { grid-column: span 12; }
+    .span7  { grid-column: span 7; }
+    .span5  { grid-column: span 5; }
+    .span8  { grid-column: span 8; }
+    .span4  { grid-column: span 4; }
+    .span6  { grid-column: span 6; }
+    .card {
+      break-inside: avoid;
+      page-break-inside: avoid;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+  }
 </style>
 </head>
 <body>
@@ -358,5 +378,18 @@
   </div>
   <p class="footnote">Rules of Relating for Grok the Rock · Public Domain (CC0 1.0)</p>
 </div>
+  <script>
+    (function () {
+      const originalTitle = document.title;
+      const printTitle = originalTitle
+        .replace(/[^\p{L}\p{N}\s-]/gu, '')
+        .split(/\s+/)
+        .filter(Boolean)
+        .map((w, i) => i === 0 ? w : w.charAt(0).toUpperCase() + w.slice(1))
+        .join('');
+      window.addEventListener('beforeprint', () => { document.title = printTitle; });
+      window.addEventListener('afterprint', () => { document.title = originalTitle; });
+    })();
+  </script>
 </body>
 </html>
