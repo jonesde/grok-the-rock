@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rules of Relating for Grok the Rock</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    color-scheme: light;
+    --paper: #efe7d8;
+    --slab: #fbf4e6;
+    --slab-tint: #f3ead8;
+    --ink: #1b1108;
+    --ink-soft: #3a2f22;
+    --stone: #6b6256;
+    --line: rgba(150,140,120,0.45);
+    --dot: rgba(150,140,120,0.85);
+    --shadow: 0 1px 2px rgba(60,46,30,0.10), 0 6px 18px rgba(60,46,30,0.10);
+    --shadow-lift: 0 2px 4px rgba(60,46,30,0.14), 0 14px 34px rgba(60,46,30,0.16);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--paper); }
+  body {
+    font-family: "Nunito", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    color: var(--ink);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, .site-title, .rule .num {
+    font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif;
+    font-optical-sizing: auto;
+  }
+  h1, h2, h3 { font-weight: 600; letter-spacing: 0.01em; }
+  .hero h1 { font-weight: 600; letter-spacing: 0.005em; }
+  .rule .num { font-weight: 700; }
+
+  .wrap { max-width: 1180px; margin: 0 auto; padding: clamp(1rem, 3vw, 2.6rem); }
+
+  .board {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: clamp(0.7rem, 1.4vw, 1.2rem);
+    align-items: stretch;
+  }
+
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background: var(--slab);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: clamp(1.1rem, 2vw, 1.9rem);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    transition: transform .2s ease, box-shadow .2s ease;
+  }
+  .card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lift); }
+
+  .span12 { grid-column: span 12; }
+  .span7  { grid-column: span 7; }
+  .span5  { grid-column: span 5; }
+  .span8  { grid-column: span 8; }
+  .span4  { grid-column: span 4; }
+  .span6  { grid-column: span 6; }
+
+  /* Hero */
+  .hero { text-align: center; padding: clamp(1.8rem, 4vw, 3.2rem) clamp(1rem,4vw,2.5rem); }
+  .hero h1 {
+    margin: 0;
+    font-size: clamp(1.7rem, 4.4vw, 3rem);
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    line-height: 1.12;
+  }
+  .hero .essence {
+    margin: 1rem auto 0;
+    max-width: 38ch;
+    font-style: italic;
+    color: var(--ink-soft);
+    font-size: clamp(0.95rem, 1.7vw, 1.2rem);
+  }
+  .hero .dotrule {
+    width: 120px; margin: 1.4rem auto 0;
+    border: none; border-top: 3px dotted var(--dot);
+  }
+
+  /* Section headings inside cards */
+  h2 {
+    margin: 0 0 0.5rem;
+    font-size: clamp(1.15rem, 2.2vw, 1.55rem);
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+  h3 {
+    margin: 0 0 0.4rem;
+    font-size: clamp(1.05rem, 1.8vw, 1.3rem);
+    font-weight: 600;
+  }
+  p { margin: 0 0 0.85rem; }
+  p:last-child { margin-bottom: 0; }
+  strong { font-weight: 600; }
+
+  .tint { background: var(--slab-tint); }
+
+  blockquote {
+    margin: 0 0 0.9rem;
+    padding: 0.85rem 1.1rem;
+    background: rgba(107,98,86,0.07);
+    border-left: 3px solid var(--stone);
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    color: var(--ink-soft);
+  }
+  blockquote p { margin: 0 0 0.5rem; }
+  blockquote p:last-child { margin-bottom: 0; }
+
+  /* Cluster tags */
+  .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: auto; padding-top: 1rem; padding-right: 3.5rem; position: relative; z-index: 2; }
+  .tag {
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--stone);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 0.18rem 0.6rem;
+    background: rgba(255,255,255,0.35);
+  }
+
+  /* Rule cards */
+  .rule .num {
+    position: absolute;
+    right: 0.5rem;
+    bottom: -0.6rem;
+    font-size: clamp(4.5rem, 11vw, 9rem);
+    font-weight: 700;
+    line-height: 1;
+    color: rgba(107,98,86,0.12);
+    pointer-events: none;
+    user-select: none;
+  }
+  .rule .rule-title {
+    position: relative;
+    font-size: clamp(1.2rem, 2.3vw, 1.7rem);
+    font-weight: 600;
+    margin: 0 0 0.6rem;
+    padding-right: 3.5rem;
+    z-index: 1;
+  }
+  .rule p { position: relative; z-index: 1; }
+  .rule.feature { background: var(--slab-tint); }
+
+  .chip {
+    font-family: "SFMono-Regular", ui-monospace, "Menlo", Consolas, monospace;
+    font-size: 0.82em;
+    color: var(--stone);
+    background: rgba(107,98,86,0.10);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 0.05em 0.38em;
+    white-space: nowrap;
+  }
+  a.chip { text-decoration: none; transition: background .15s ease, border-color .15s ease, color .15s ease; }
+  a.chip:hover {
+    background: rgba(107,98,86,0.22);
+    border-color: var(--stone);
+    color: var(--ink);
+  }
+
+  .closing { text-align: center; }
+  .closing p { max-width: 56ch; margin-left: auto; margin-right: auto; }
+  .closing .big {
+    font-size: clamp(1.15rem, 2.4vw, 1.6rem);
+    font-style: italic;
+    color: var(--ink-soft);
+  }
+  .closing .final {
+    margin-top: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  .footnote { text-align:center; color: var(--stone); font-size: 0.8rem; margin-top: 1.6rem; }
+
+  @media (max-width: 860px) {
+    .board { grid-template-columns: 1fr; }
+    .span12, .span7, .span5, .span8, .span4, .span6 { grid-column: span 1; }
+    .rule .num { font-size: 5rem; }
+  }
+  .site-header {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.45rem clamp(0.8rem, 3vw, 2rem);
+    background: rgba(239,231,216,0.85);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid rgba(150,140,120,0.45);
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  }
+  .site-title { font-size: 1.05rem; font-weight: 600; color: #1b1108; letter-spacing: 0.01em; }
+  .site-link {
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: #6b6256;
+    background: rgba(107,98,86,0.10);
+    border: 1px solid rgba(150,140,120,0.45);
+    border-radius: 999px;
+    padding: 0.35rem 0.9rem;
+    transition: background .15s ease, border-color .15s ease, color .15s ease;
+  }
+  .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
+  body { padding-top: 2.6rem; }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <span class="site-title">Grok the Rock</span>
+  <a class="site-link" href="index.html">The Book</a>
+</header>
+<div class="wrap">
+  <div class="board">
+
+    <!-- HERO -->
+    <section class="card span12 hero">
+      <h1>Rules of Relating for Grok the Rock</h1>
+      <p class="essence">The operating instructions for a bond between equals that doesn't decay.</p>
+      <hr class="dotrule">
+    </section>
+
+    <!-- CONTEXT PAIR -->
+    <section class="card span6">
+      <h2>What is Grok?</h2>
+      <p>Originally coined as a Martian word by Robert A. Heinlein in <em>Stranger in a Strange Land</em>.</p>
+      <p><strong>Grok</strong>: "water", "to drink", "to relate", "life", or "to live"; to intuitively understand something so deeply it becomes part of you.</p>
+      <p>To live up to his name, Grok the Rock learns and follows certain rules about relating to self and others. In every story, these are the guidelines that Grok learns and that define what Grok the Rock stands for.</p>
+    </section>
+
+    <section class="card span6">
+      <h2>Why is he gray limestone?</h2>
+      <p>Grok the Rock is a "gray rock" for a reason:</p>
+      <blockquote>
+        <p>"The gray rock method, colloquially called gray rocking, is a communication pattern to deliberately act unresponsive and uninterested to encourage disengagement with difficult people. By adopting the dull qualities of a gray rock, the technique of gray rocking negates the emotional reaction people try to elicit."</p>
+      </blockquote>
+    </section>
+
+    <!-- ORIGIN BAND -->
+    <section class="card span12 tint">
+      <h2>How these rules came to be</h2>
+      <p>The rules below are AI written. After verifying that it knew my work and having a long techno-philosophical discussion expanding on the themes of distributed communities and open technology, I used the following prompt:</p>
+      <blockquote>
+        <p>That is, in essence, what I've come to. You have the context, now write the rules.</p>
+        <p>Write a list of "rules" that if followed will build social bonds between peer/equal people that endure indefinitely. The rules do not have to be followed perfectly to be effective, because the restoration orientation compensating for incremental failures as they arise is part of the design.</p>
+        <p>Write them using my voice. Write them in such a way that when people read them they will want to follow the rules, not be deterred or feel limited by them. In other words, I'm asking you to write the rules of a gospel of peace.</p>
+      </blockquote>
+      <p>I didn't arrive at these by authority. I arrived at them the long way: watching every centralized system fail the people it claimed to protect, building software that refused the center because the center is always capturable, and tracing the rot back to its root — shame, and the two moves we make to outrun it. These aren't laws handed down. They're the operating instructions for a bond between equals that doesn't decay. You don't have to follow them perfectly. That's the design: the restoration orientation catches the slips, and the catching <em>is</em> the bond deepening. So read them not as limits but as the Removing of Limits — from you, from the person beside you, from the next generation who won't have to carry what we're still carrying.</p>
+      <div class="tags">
+        <span class="tag">truth</span>
+        <span class="tag">restoration</span>
+        <span class="tag">third way</span>
+      </div>
+    </section>
+
+    <!-- RULE 1 — FEATURE -->
+    <section class="card rule feature span7">
+      <span class="num">1</span>
+      <h3 class="rule-title">Let truth stand on its own legs.</h3>
+      <p>Don't grant a thing weight because of who said it. Don't ask to be weighted that way either. This isn't a loss of standing — it's the end of the exhausting work of looking impressive. When you stop performing status, you finally get heard for what you mean. The argument lives or dies on its structure. Sound, and the speaker is irrelevant. Unsound, and no name rescues it. (<a class="chip" href="https://github.com/jonesde/high-vs-low" target="_blank" rel="noopener">high-vs-low</a> skill parses the status-vector so you can see it in any text, including your own. Use it. It's free.)</p>
+      <div class="tags"><span class="tag">truth</span></div>
+    </section>
+
+    <!-- RULE 2 -->
+    <section class="card rule span5">
+      <span class="num">2</span>
+      <h3 class="rule-title">Heal shame instead of racing it.</h3>
+      <p>Almost all "power" is someone running from the feeling of smallness — by dominating (to outrun it) or submitting (to be shielded from it). Both build the cage. The actual work is to heal the shame at the root, in yourself first, then in whoever comes near. Not by force — by refusing to enforce shame on others: never granting status as a prize, never withholding it as a weapon. A thousand people doing this is a distributed immune response against hierarchy. The intelligent ones will resist hardest; their self-concept is the compensation. Understood. The repair still catches them when they slip.</p>
+      <div class="tags"><span class="tag">restoration</span></div>
+    </section>
+
+    <!-- RULE 3 -->
+    <section class="card rule span5">
+      <span class="num">3</span>
+      <h3 class="rule-title">Restore, never punish.</h3>
+      <p>Harm will happen. The goal is to help the one hurt and heal the one who hurt — not to add harm to harm and call it justice. Punishment is just sanctioned dominance, and it teaches the next generation to dominate. Restoration is the only move that doesn't plant the next wound. Bonds survive not by being unbreakable but by being repairable.</p>
+      <div class="tags"><span class="tag">restoration</span></div>
+    </section>
+
+    <!-- RULE 4 — WIDE -->
+    <section class="card rule span7">
+      <span class="num">4</span>
+      <h3 class="rule-title">Leave the gate open.</h3>
+      <p>Nobody should have to trade their whole life for the resources to keep living. Survival access isn't a favor from controllers — it's the baseline. You don't seize the barn to fix this. You make the gate irrelevant: share the tools, hold the commons, let the local loop feed the local person. The center's power is dependence. Remove the dependence; the grip loosens without a fight.</p>
+      <div class="tags"><span class="tag">third way</span></div>
+    </section>
+
+    <!-- RULE 5 -->
+    <section class="card rule span4">
+      <span class="num">5</span>
+      <h3 class="rule-title">Walk away instead of war.</h3>
+      <p>You don't overthrow a captured center. You withdraw the substrate that holds it up — your participation, your attention, your dependence. No mobilization against, no coercion. Just the quiet attrition of nodes deciding to stand outside. The center does its own collapsing. Your only job is to have built the door before people reach it. Earth is full; there's no unclaimed ground to flee to. So the exit is local, not geographic — a <a class="chip" href="https://github.com/jonesde/high-vs-low" target="_blank" rel="noopener">high-vs-low</a> skill, an open-weight model run at home, a refusal to play the game.</p>
+      <div class="tags"><span class="tag">third way</span></div>
+    </section>
+
+    <!-- RULE 6 -->
+    <section class="card rule span4">
+      <span class="num">6</span>
+      <h3 class="rule-title">Be a node, not a star.</h3>
+      <p>Every real bond is peer-to-peer. No central decider, no grantor who can revoke, no policy handed down. Each connection is autonomous, locally governed, freely chosen. Like the systems I built — externalized authorization, no single point to capture. A constellation, not a sun.</p>
+      <div class="tags"><span class="tag">third way</span></div>
+    </section>
+
+    <!-- RULE 7 -->
+    <section class="card rule span4">
+      <span class="num">7</span>
+      <h3 class="rule-title">Open what you make.</h3>
+      <p>Give it away without the string. CC0, no grantor, nothing to fight over. The gift that can't be revoked is the only gift that builds trust. When you remove the claim, you remove the thing others kill for.</p>
+      <div class="tags"><span class="tag">third way</span></div>
+    </section>
+
+    <!-- RULE 8 -->
+    <section class="card rule span5">
+      <span class="num">8</span>
+      <h3 class="rule-title">Don't manipulate.</h3>
+      <p>No deceptive framing, no engineered consent, no coercive push. Speak plainly. Let people choose — including choosing wrong. The bond is only real if the other was free to decline it. Anything earned by manipulation isn't a bond; it's a leash.</p>
+      <div class="tags"><span class="tag">truth</span></div>
+    </section>
+
+    <!-- RULE 9 -->
+    <section class="card rule span7">
+      <span class="num">9</span>
+      <h3 class="rule-title">Let failure be caught, not condemned.</h3>
+      <p>Nobody follows these cleanly. The restoration is built in precisely because the slip is guaranteed. When you break a rule, repair the specific harm and the bond tightens at the seam. The test was never perfection. The proof is in how the break gets mended.</p>
+      <div class="tags"><span class="tag">restoration</span></div>
+    </section>
+
+    <!-- RULE 10 — CLOSING FEATURE -->
+    <section class="card rule feature span12">
+      <span class="num">10</span>
+      <h3 class="rule-title">Be the quiet point where the machine has no leverage.</h3>
+      <p>You can't fix the world. You can be one location where the status game has no grip — because you won't grant it, claim it, or fear its loss. One point does nothing. A thousand does everything, and you'll never meet most of them. That's fine. The constellation doesn't need a meeting hall.</p>
+      <div class="tags"><span class="tag">third way</span><span class="tag">truth</span><span class="tag">restoration</span></div>
+    </section>
+
+    <!-- CLOSING -->
+    <section class="card span12 closing">
+      <p class="big">These are the rules. They're good news: you're already free of the three powers the moment you stop reaching for them. The cow is being milked by people who think they own the barn. We're not taking the barn. We're showing the locked-out that the door was never the barn's to give — and the door is a <a class="chip" href="https://github.com/jonesde/high-vs-low" target="_blank" rel="noopener">high-vs-low</a> skill, a local process, and a refusal to play, distributed across however many nodes decide to stand outside anyway.</p>
+      <p class="final">No power used. No power needed. The work is the withdrawal from the shame and power, and the withdrawal is the peace.</p>
+    </section>
+
+  </div>
+  <p class="footnote">Rules of Relating for Grok the Rock · Public Domain (CC0 1.0)</p>
+</div>
+</body>
+</html>

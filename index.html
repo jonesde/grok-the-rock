@@ -4,11 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Grok the Rock — Three Quiet Stories</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
   :root { color-scheme: light; }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; background: #efe7d8; }
-  body { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; }
+  body { font-family: "Nunito", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; }
+  h1, h2, h3 { font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif; font-optical-sizing: auto; font-weight: 600; letter-spacing: 0.01em; }
   .book {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -29,7 +33,7 @@
       line-height: 1.25;
       font-size: clamp(0.7rem, 1.4vw, 1.3rem);
       color: #1b1108;
-      text-shadow: 0 0 3px rgba(255,255,255,0.75), 0 1px 2px rgba(255,255,255,0.6);
+      text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4);
   }
   .page img {
     width: 100%;
@@ -65,7 +69,7 @@
     line-height: 1.25;
     font-size: clamp(0.7rem, 1.4vw, 1.3rem);
     color: #1b1108;
-    text-shadow: 0 0 3px rgba(255,255,255,0.75), 0 1px 2px rgba(255,255,255,0.6);
+    text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4);
   }
   .caption hr {
       width: 40px;
@@ -96,9 +100,41 @@
     .book { grid-template-columns: 1fr; }
     .textpage { min-height: 30vh; }
   }
+  .site-header {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.45rem clamp(0.8rem, 3vw, 2rem);
+    background: rgba(239,231,216,0.85);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid rgba(150,140,120,0.45);
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  }
+  .site-title { font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif; font-size: 1.05rem; font-weight: 600; color: #1b1108; letter-spacing: 0.01em; }
+  .site-link {
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: #6b6256;
+    background: rgba(107,98,86,0.10);
+    border: 1px solid rgba(150,140,120,0.45);
+    border-radius: 999px;
+    padding: 0.35rem 0.9rem;
+    transition: background .15s ease, border-color .15s ease, color .15s ease;
+  }
+  .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
+  body { padding-top: 2.6rem; }
 </style>
 </head>
 <body>
+  <header class="site-header">
+    <span class="site-title">Grok the Rock</span>
+    <a class="site-link" href="grok-rules.html">Grok Rules</a>
+  </header>
   <div class="book-single">
     <div class="page">
         <video id="cover-video" autoplay muted playsinline>
