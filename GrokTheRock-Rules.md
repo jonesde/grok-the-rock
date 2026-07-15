@@ -16,11 +16,11 @@ Originally coined as a Martian word by Robert A. Heinlein in "Stranger in a Stra
 
 To live up to his name, Grok the Rock learns and follows certain rules about relating to self and others. In every story, these are the guidlines that Grok learns and that define what Grok the Rock stands for.
 
-### Why is he a rock?
+### Why is he a rock, and why so much water?
 
 Rocks have been used as traditional symbols across many traditions. The old Heinlein definition of "grok" included notions of water and thirst. Rocks and water are often associated in symbology, such as Moses striking a rock with a rod to draw forth life water. Rocks are also associated with foundations and building. Both of these common meanings of rocks are engaged in all 3 chapters.
 
-In the first chapter Grok goes to the water to drink as he discovers himself. In the second chapter Grok uses water to heal as he forgives and rebuilds both the loss in the garden and the potential loss of a friend. In the third chapter Grok helps others use water by making a water basket.
+In the first chapter Grok goes to the water to drink as he discovers himself. In the second chapter Grok uses water to heal as he forgives and rebuilds both the loss in the garden and the potential loss of a friend. In the third chapter Grok helps others use water by collaborating with others to make a better water basket as he builds the community around him.
 
 ### Why is he gray limestone?
 
@@ -34,7 +34,7 @@ The common term in Australia for cantaloupe is "rockmelon". This adds a layer to
 
 ### How do you read his name?
 
-While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents.
+While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents. The deepest intended meaning of the name is the purpose of life: to grok the rock.
 
 ## The 10 Rules
 
