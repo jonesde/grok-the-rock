@@ -101,7 +101,7 @@
 <body>
   <div class="book-single">
     <div class="page">
-        <video autoplay loop muted playsinline>
+        <video id="cover-video" autoplay muted playsinline>
           <source src="clips/cover-grok-4d4c6c40-7ffa-4ab3-82ea-aff76693fc27-720p.mp4" type="video/mp4">
           Your browser does not support the video element.
         </video>
@@ -485,5 +485,13 @@
       </div>
     </div>
   </div>
+  <script>
+    const video = document.getElementById('cover-video');
+    const delayBetweenLoops = 5000; // Time in milliseconds
+    video.addEventListener('ended', () => {
+    setTimeout(() => { video.currentTime = 0;
+        video.play().catch(error => console.log("Playback prevented:", error)); }, delayBetweenLoops);
+    });
+  </script>
 </body>
 </html>
