@@ -1,6 +1,14 @@
 # Rules of Relating for Grok the Rock
 
-## What is Grok?
+## About Grok the Rock
+
+Here is a little about Grok himself, and some of the symbols and meaning in and around him. In modern speech we call some of our most commonly used symbols "memes", and Grok the Rock leans on various recursive memes to add layers of meaning.
+
+While reading this to children, we children of more advanced age can reduce the monotony of repetition by considering the deeper meanings and watching how different symbolic elements interact. This is also part of the point and the fun of the double and triple entendres in the text.
+
+Even the title of this document is a double-entendre: "Rules of Relating". This applies to both how Grok relates to others, and how we relate (narrate) the story of Grok.
+
+### What is Grok?
 
 Originally coined as a Martian word by Robert A. Heinlein in "Stranger in a Strange Land".
 
@@ -8,15 +16,23 @@ Originally coined as a Martian word by Robert A. Heinlein in "Stranger in a Stra
 
 To live up to his name, Grok the Rock learns and follows certain rules about relating to self and others. In every story, these are the guidlines that Grok learns and that define what Grok the Rock stands for.
 
-## Why is he gray limestone?
+### Why is he a rock?
+
+Rocks have been used as traditional symbols across many traditions. Rocks and water are often associated in symbology, such as Moses striking a rock with a rod to draw forth life water. Rocks are also associated with foundations and building. Both of these common meanings of rocks are engaged in all 3 chapters.
+
+### Why is he gray limestone?
 
 Grok the Rock is a "gray rock" for a reason:
 
 "The gray rock method, colloquially called gray rocking, is a communication pattern to deliberately act unresponsive and uninterested to encourage disengagement with difficult people. By adopting the dull qualities of a gray rock, the technique of gray rocking negates the emotional reaction people try to elicit."
 
-## Why a cantaloupe melon?
+### Why a cantaloupe melon?
 
 The common term in Australia for cantaloupe is "rockmelon". This adds a layer to the story, a symbol of more serious and personal accidental damage by Pip. This was a lucky accident. I didn't know this when I chose that particular melon, just though it would fit in better than the watermelon the AI originally chose.
+
+### How do you read his name?
+
+While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents.
 
 ## The 10 Rules
 
