@@ -171,6 +171,19 @@
     color: var(--ink);
   }
 
+  /* Inline see-also links: dark, slightly off-color, wrap-friendly */
+  .seelink {
+    color: #4a3a26;
+    text-decoration: underline;
+    text-decoration-color: rgba(107,98,86,0.55);
+    text-underline-offset: 0.18em;
+    transition: color .15s ease, text-decoration-color .15s ease;
+  }
+  .seelink:hover {
+    color: #1b1108;
+    text-decoration-color: var(--stone);
+  }
+
   .closing { text-align: center; }
   .closing p { max-width: 56ch; margin-left: auto; margin-right: auto; }
   .closing .big {
@@ -265,6 +278,7 @@
       <p>Originally coined as a Martian word by Robert A. Heinlein in <em>Stranger in a Strange Land</em>.</p>
       <p><strong>Grok</strong>: "water", "to drink", "to relate", "life", or "to live"; to intuitively understand something so deeply it becomes part of you.</p>
       <p>To live up to his name, Grok the Rock learns and follows certain rules about relating to self and others. In every story, these are the guidelines that Grok learns and that define what Grok the Rock stands for.</p>
+      <p><strong>NOTE</strong>: See the <a class="seelink" href="about-grok.html#stranger-grug">Grok the Rock = Stranger in a Strange Land + Grug</a> section on the About Grok page for how Ted Prior's <a class="seelink" href="about-grok.html#stranger-grug">Grug</a> resolves the significant issues with <a class="seelink" href="about-grok.html#stranger-grug">Stranger in a Strange Land</a>.</p>
     </section>
 
     <!-- ORIGIN BAND -->
