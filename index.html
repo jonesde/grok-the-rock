@@ -186,6 +186,7 @@
   <header class="site-header">
     <span class="site-title">Grok the Rock - Three Quiet Stories</span>
     <span class="site-nav">
+      <button class="site-link" id="print-btn" type="button">Print</button>
       <!-- IMPORTANT: keep link order so it reads as "Grok Rules About Grok" -->
       <a class="site-link" href="grok-rules.html">Grok Rules</a>
       <a class="site-link" href="about-grok.html">About Grok</a>
@@ -586,6 +587,9 @@
       </div>
     </div>
   </div>
+  <script>
+    document.getElementById('print-btn').addEventListener('click', () => { window.print(); });
+  </script>
   <script>
     const video = document.getElementById('cover-video');
     const delayBetweenLoops = 5000; // Time in milliseconds
