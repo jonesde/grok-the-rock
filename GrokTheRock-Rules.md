@@ -54,6 +54,22 @@ The stories are "woven through" with recurring symbols. A few are worth includin
 
 **The moss on Grok's head.** A small patch of green moss grows on top of his gray limestone head. It is life quietly settling on a still, kind thing. Grok does not need to perform, life simply accrues because he *stays*. It is Being made visible.
 
+## Grok the Rock = Stranger in a Strange Land + Grug
+
+Grok the Rock looks, at first glance, like Ted Prior's *Grug* — a small bush creature, gentle failure-acceptance, no villain, no climax. That read is true on the surface, and Prior is named in the dedication for good reason: Grok inherits Grug's temperament. But the book is more than Heinlein with the edges sanded off. It is Heinlein *answered* — the same Martian word, the same outsider-learns-to-grok arc, but with the messianic, confrontational, and redemptive-violence engine of *Stranger in a Strange Land* replaced by a deliberately decentralized, non-confrontational politics. Prior supplies the surface; the Rules below supply the underlying radicalism.
+
+The shared skeleton is real. Both stories follow an arrival (innocent outsider meets a strange world), a bewilderment (status games and smallness), an inward settling, an applied understanding, and the founding of a new local order. Grok's three chapters — Being, Mending, Seeing — are essentially Valentine Michael Smith's single arc split into three developmental stages: discovering the self, repairing what breaks, and discerning truth from status.
+
+Where Heinlein goes grand, Grok goes small — and the smallness is strategic, not merely childlike. Mike Smith founds the Church of All Worlds, a new sun with a prophet at its center, and is killed by a mob, his death framed as transcendent apotheosis. Grok instead leaves an *ownerless* basket and weaving pattern beneath the tree (Rule 7) and "did not need the biggest voice" (p.25). The prophet-and-confrontation model is quietly refused. This is the covert rejection of redemptive violence: truth "walks on its own strong legs" (p.25) without a crucifixion.
+
+The temperament that makes this refusal *readable as a children's book* is Grug's. Grok wakes "as if seeing the world for the first time" (ThreeQuietStories p.2) in the same disoriented, Grug-scale way Grug meets every new bush surprise; he fails to look big (p.6) the way Grug fails to catch a fish and "happily eats beans" instead. No villain is defeated. The cockatoo's status game is defused by testing-with-paws, not by toppling him. That is Prior's grain — and it is what lets the harder politics hide in plain sight.
+
+But the quietness is *loaded*, and the Rules name it. Grok is a "gray rock" (Rules p.30) on purpose: gray rocking is the deliberate refusal to grant the status game any reaction — the exact opposite of Mike's messianic performance. Rule 5 ("Walk away instead of war") rejects overthrow outright: the center "does its own collapsing" once you withdraw its substrate. Rule 6 ("Be a node, not a star") denies the sun/prophet shape Mike becomes. The martyrdom is replaced by Rule 10: "Be the quiet point where the machine has no leverage." Peace is *withdrawal*, not sacrifice.
+
+So the three sources interlock. Heinlein gives the word *grok* and the arc of an outsider who learns to understand a strange world. Prior gives the gentle, failure-tolerant, bush-creature voice that makes the lesson safe for a child. The Rules give the spine: a "gospel of peace" in which bonds between equals endure by restoring rather than punishing (Rule 3), opening rather than claiming (Rule 7), and withdrawing from power rather than seizing it (Rules 4–5). Grok is radical "in a different way" than *Stranger* — less transgressive about sex and religion, but more durable as a politics of power topology.
+
+The honest trade: by dropping Heinlein's body, ecstasy, and communal confrontation, Grok swaps one radicalism for another. It is less shocking and more *repairable* — which is the point (Rule 9: "the proof is in how the break gets mended"). Read one way it is a calm Australian picture book; read the other way, beneath the moss and the melons, it is a quiet manual for a centerless peace.
+
 ## The 10 Rules
 
 The rules below are AI written. After verifying that it knew my work and having a long techno-philosophical discussion expanding on the themes of distributed communities and open technology, I used the following prompt:
