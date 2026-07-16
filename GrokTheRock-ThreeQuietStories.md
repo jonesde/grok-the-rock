@@ -29,7 +29,7 @@ Illustrations with Grok Imagine from xAI
 Rules, Editing, Automation with HY3 from Tencent
 *Not affiliated with or endorsed by xAI or Tencent*
 
-This is an AI-generated story-meme
+This is an AI-generated human-curated story-meme
 Public Domain (CC0 1.0)
 Copy it • Share it • Translate it • Redraw it • Let it grow
 ```
@@ -50,8 +50,11 @@ and for every true word
   that stands though unheard.
 
 With thanks to Original Grokkers:
-  Robert A. Heinlein (Stranger in a Strange Land)
-  Ted Prior (Grug)
+  Robert A. Heinlein "Stranger in a Strange Land"
+  Ted Prior "Grug"
+
+Grok the Rock = Stranger in a Strange Land + Grug
+("Grug" cleans up "Stranger" for children *and* adults)
 ```
 
 **Image generation prompt:**
