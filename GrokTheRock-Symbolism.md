@@ -147,6 +147,65 @@ Hamilton's thesis reads each letter as a borrowed Egyptian pictograph — a usef
 
 > **Note on the references:** the proto-alphabet thesis (Cryptcracker / Hamilton) is a scholarly debate about letter *origins* (e.g., whether Qop = cup or cord, whether Tet = basket or "good"); the Walking Kabbalah page is a devotional letter-meaning guide; the word-root links are standard lexicon/dictionary references. All are included as the author's own starting points; the letter-meaning claims above are presented as tradition/symbolism, not settled etymology.
 
+### Biblical verse references for each symbol
+
+For readers who know or believe the Bible, here are the passages behind each symbol in the table above, plus a few overarching texts. Each citation links to Bible Gateway, with the relevant phrase quoted. (Translation: NIV unless noted.)
+
+**The Rock (Grok) — *tzur* (צוּר)**
+- **Psalm 18:2** — "The LORD is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge." [Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%2018%3A2&version=NIV)
+- **Matthew 16:18** — "You are Peter [Petros, little rock], and on this rock I will build my church." [Bible Gateway](https://www.biblegateway.com/passage/?search=Matthew%2016%3A18&version=NIV)
+- **1 Corinthians 10:4** — "they drank from the spiritual rock that accompanied them; and that rock was Christ." [Bible Gateway](https://www.biblegateway.com/passage/?search=1%20Corinthians%2010%3A4&version=NIV)
+
+**Water / living water — *Mem* (מ) / *Grok* ("to drink")**
+- **John 4:14** — "whoever drinks the water I give them will never thirst. … It will become in them a spring of water welling up to eternal life." [Bible Gateway](https://www.biblegateway.com/passage/?search=John%204%3A14&version=NIV)
+- **Exodus 17:6** — "Strike the rock, and water will come out of it for the people to drink." [Bible Gateway](https://www.biblegateway.com/passage/?search=Exodus%2017%3A6&version=NIV)
+
+**Gray limestone / the small fellow — *Qof* (ק)**
+- **Isaiah 42:3** — "A bruised reed he will not break, and a smoldering wick he will not snuff out." (the quiet, unremarkable one who is not discarded) [Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%2042%3A3&version=NIV)
+- **Matthew 10:16** — "be as shrewd as snakes and as innocent as doves." [Bible Gateway](https://www.biblegateway.com/passage/?search=Matthew%2010%3A16&version=NIV)
+- **Proverbs 15:1** — "A gentle answer turns away wrath." [Bible Gateway](https://www.biblegateway.com/passage/?search=Proverbs%2015%3A1&version=NIV)
+
+**Cantaloupe / broken melon — *Kaf* (כ) / *Tet* (ט)**
+- **2 Corinthians 4:7** — "we have this treasure in jars of clay … so that the surpassing power may be of God." [Bible Gateway](https://www.biblegateway.com/passage/?search=2%20Corinthians%204%3A7&version=NIV)
+- **Jeremiah 18:4** — "the vessel he was making of clay was spoiled … so he reworked it into another vessel, as seemed good to him." [Bible Gateway](https://www.biblegateway.com/passage/?search=Jeremiah%2018%3A4&version=NIV)
+
+**Moss / green life on the rock — *Khay* (חַי)**
+- **Ezekiel 36:26** — "I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh." [Bible Gateway](https://www.biblegateway.com/passage/?search=Ezekiel%2036%3A26&version=NIV)
+- **Psalm 1:3** — "like a tree planted by streams of water … its leaf does not wither." [Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%201%3A3&version=NIV)
+
+**Basket (reed + clay) — *Tet* (ט) / *Tov* (טוֹב)**
+- **Deuteronomy 26:2** — "put them in a basket" (the firstfruits carried in a basket to the place the LORD chooses). [Bible Gateway](https://www.biblegateway.com/passage/?search=Deuteronomy%2026%3A2&version=NIV)
+- **Exodus 2:3** — "she placed the child in it [a basket of papyrus] and put it among the reeds." [Bible Gateway](https://www.biblegateway.com/passage/?search=Exodus%202%3A3&version=NIV)
+
+**Tree (the tall tree) — *Etz* (עֵץ) / *Etz Chaim* (עֵץ הַחַיִּים)**
+- **Proverbs 3:18** — "She [Wisdom] is a tree of life to those who take hold of her." [Bible Gateway](https://www.biblegateway.com/passage/?search=Proverbs%203%3A18&version=NIV)
+- **Psalm 1:3** — "like a tree planted by streams of water." (see above)
+- **Revelation 22:2** — "the tree of life … and the leaves of the tree are for the healing of the nations." [Bible Gateway](https://www.biblegateway.com/passage/?search=Revelation%2022%3A2&version=NIV)
+
+**Animals & status — *Reish* (ר)**
+- **James 2:1–5** — "don't show favoritism … has not God chosen the poor … to be rich in faith?" (the plain tortoise vs the grand cockatoo) [Bible Gateway](https://www.biblegateway.com/passage/?search=James%202%3A1-5&version=NIV)
+- **1 Samuel 16:7** — "the LORD looks at the heart" — not at height or feathers. [Bible Gateway](https://www.biblegateway.com/passage/?search=1%20Samuel%2016%3A7&version=NIV)
+
+**The small feeling (cold pebble) — *Lev ha-even* (לֵב הָאֶבֶן)**
+- **Ezekiel 36:26** — "heart of stone … heart of flesh." (see Moss above)
+- **Psalm 34:18** — "The LORD is close to the brokenhearted and saves those who are crushed in spirit." [Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%2034%3A18&version=NIV)
+
+**Clay (lining, mending) — *Yatsar* (יָצַר) / *Adamah* (אֲדָמָה)**
+- **Genesis 2:7** — "the LORD God formed [yatsar] the man of dust from the ground." [Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%202%3A7&version=NIV)
+- **Isaiah 64:8** — "We are the clay, you are the potter; we are all the work of your hand." [Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%2064%3A8&version=NIV)
+- **Romans 9:21** — "does not the potter have the right to make … one pot for special purposes and another for common use?" [Bible Gateway](https://www.biblegateway.com/passage/?search=Romans%209%3A21&version=NIV)
+
+**Truth / the true word — *Emet* (אֱמֶת)**
+- **Zechariah 8:16** — "Speak the truth to each other." [Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%208%3A16&version=NIV)
+- **John 8:32** — "the truth will set you free." [Bible Gateway](https://www.biblegateway.com/passage/?search=John%208%3A32&version=NIV)
+- **Golem echo:** the word *emet* on the brow; remove the Aleph and it reads *met* ("dead") — a medieval Jewish image of a being that lives only by a true word.
+
+**Overarching passages for the whole book**
+- **Micah 6:8** — "act justly and to love mercy and to walk humbly with your God." (the three chapters in one verse: Seeing, Mending, Being) [Bible Gateway](https://www.biblegateway.com/passage/?search=Micah%206%3A8&version=NIV)
+- **Ephesians 2:10** — "we are God's handiwork, created in Christ Jesus to do good works." [Bible Gateway](https://www.biblegateway.com/passage/?search=Ephesians%202%3A10&version=NIV)
+- **Galatians 6:2** — "Carry each other's burdens, and in this way you will fulfill the law of Christ." (Rule 3, Restoration) [Bible Gateway](https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=NIV)
+- **Matthew 5:9** — "Blessed are the peacemakers, for they will be called children of God." [Bible Gateway](https://www.biblegateway.com/passage/?search=Matthew%205%3A9&version=NIV)
+
 ---
 
 # Broad Survey (all symbols)
