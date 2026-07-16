@@ -131,6 +131,20 @@
     transition: background .15s ease, border-color .15s ease, color .15s ease;
   }
   .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
+
+  /* Inline see-also links: dark, slightly off-color, wrap-friendly */
+  .seelink {
+    color: #4a3a26;
+    text-decoration: underline;
+    text-decoration-color: rgba(107,98,86,0.55);
+    text-underline-offset: 0.18em;
+    transition: color .15s ease, text-decoration-color .15s ease;
+  }
+  .seelink:hover {
+    color: #1b1108;
+    text-decoration-color: var(--stone);
+  }
+
   body { padding-top: 2.6rem; }
   @media print {
     @page { size: Letter landscape; margin: 0; }
@@ -225,7 +239,7 @@
   <div class="book">
     <div class="page">
       <img src="images/dedication-grok-4d644bb0-0b15-4fa8-9b89-b78964cd7026.jpg" alt="Dedication Page">
-      <div class="caption" style="bottom:45%;">
+      <div class="caption" style="bottom:35%;">
         <p><b>For every explorer, small and large,</b></p>
         <p><b>grokking the world in their own gentle way.</b></p>
         <p>&nbsp;</p>
@@ -243,6 +257,11 @@
         <p>With thanks to Original Grokkers:</p>
         <p><em><b>Robert A. Heinlein</b> "Stranger in a Strange Land"</em></p>
         <p><em><b>Ted Prior</b> "Grug"</em></p>
+        <p>&nbsp;</p>
+        <hr>
+        <p>&nbsp;</p>
+        <p><a class="seelink" href="about-grok.html#stranger-grug">Grok the Rock = Stranger in a Strange Land + Grug</a></p>
+        <p>("Grug" cleans up "Stranger" for children <em>and</em> adults)</p>
       </div>
     </div>
     <div class="page">
