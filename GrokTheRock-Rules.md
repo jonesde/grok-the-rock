@@ -28,6 +28,8 @@ Grok the Rock is a "gray rock" for a reason:
 
 "The gray rock method, colloquially called gray rocking, is a communication pattern to deliberately act unresponsive and uninterested to encourage disengagement with difficult people. By adopting the dull qualities of a gray rock, the technique of gray rocking negates the emotional reaction people try to elicit."
 
+Grok isn't just gray, he is gray limestone. Limestone is a sedimentary rock formed layer by layer over long years. Is it also one of the more absorbent or water-carrying rocks. It is made by dust and water over time, and holds water well.
+
 ### Why a cantaloupe melon?
 
 The common term in Australia for cantaloupe is "rockmelon". This adds a layer to the story, a symbol of more serious and personal accidental damage by Pip. This was a lucky accident. I didn't know this when I chose that particular melon, just thought it would fit in better than the watermelon the AI originally chose.
@@ -35,6 +37,22 @@ The common term in Australia for cantaloupe is "rockmelon". This adds a layer to
 ### How do you read his name?
 
 While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents. The deepest intended meaning of the name is the purpose of life: to grok the rock, or in other words to drink of living water until we grok it and never thirst again.
+
+### A few more of Grok's symbols
+
+The stories are "woven through" with recurring symbols. A few are worth including here. A more thorough review is in `GrokTheRock-Symbolism.md`.
+
+**Clay.** Clay is the centerpiece of the book: it is stone-ground made workable by water, the same earth + water that nearly every tradition names as the substance of the first human. It is the "cold pebble" feeling that "softened, like clay left in the sun," and it is the lining that lets Grok's basket carry water to others. It is one of the themes that appears, by name or image, in all three chapters.
+
+**The clay-lined basket.** Grok weaves a reed basket and lines it with soft clay so it holds water without a drip, then leaves both the basket and the plain weaving pattern under the tree for anyone to copy. The cockatoo's fancy basket leaks. The tortoise's idea improves Grok's design by accommodating others. The vessel that works beats the vessel that impresses. It is the open gift with no owner, Rules 1, 6, and 7 in one object.
+
+**The animals as status-types.** The emu claims height, the wombat claims strength, the kookaburra mocks to feel tall, and the cockatoo trusts his grand feathers over his idea. Each is running a status game that Grok declines. The plain tortoise, "no one special," offers the true idea that wins. Truth stands on its own legs, not on who speaks it.
+
+**The small feeling (the "cold pebble").** The small feeling sits like "a heavy cold pebble" in Grok's middle. He does not run from it or throw it at anyone; he sits with it until it softens "like clay left in the sun." Shame is healed by being met and felt ("seen"), not by being raced or pushed away, and this is the heart of Chapter 1.
+
+**The tall tree.** Grok wakes under the same tall tree in every chapter. It is where he belongs, not something he performs. It shelters the garden that gets mended and stands as the open commons beneath which the basket and pattern are left for all. Place and belonging over status.
+
+**The moss on Grok's head.** A small patch of green moss grows on top of his gray limestone head. It is life quietly settling on a still, kind thing. Grok does not need to perform, life simply accrues because he *stays*. It is Being made visible.
 
 ## The 10 Rules
 
