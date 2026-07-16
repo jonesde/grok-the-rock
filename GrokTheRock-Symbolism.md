@@ -153,58 +153,165 @@ For readers who know or believe the Bible, here are the passages behind each sym
 
 **The Rock (Grok) — *tzur* (צוּר)**
 - **Psalm 18:2** — "The LORD is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge." [Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%2018%3A2&version=NIV)
+  > יְהוָה סַלְעִי וּמְצוּדָתִי וּמְפַלְטִי — אֱלֹהַי צוּרִי אֶחֱסֶה־בּוֹ
+  > (…*my God, my **rock** [צוּר], in whom I take refuge* — *tzur* is the word for cliff/rock/foundation.)
+  > *Pron. (approx.):* **Y'-ho-vah sal-i u-m'tsu-da-ti u-me-fal-ti — e-lo-hai **tsu-ri** e-che-seh-bo**
+  > *Gloss:* YHWH = my-rock, my-fortress, my-deliverer; my-God **tsur-i** (rock-my) I-take-refuge-in-Him. — *tsur* (צוּר) = "rock / cliff / foundation."
 - **Matthew 16:18** — "You are Peter [Petros, little rock], and on this rock I will build my church." [Bible Gateway](https://www.biblegateway.com/passage/?search=Matthew%2016%3A18&version=NIV)
+  > Greek original: σὺ εἶ Πέτρος, καὶ ἐπὶ ταύτῃ τῇ πέτρᾳ … (*Petros* = "little rock," *petra* = "rock"). In Hebrew translation this is **כֵּיפָא** (*Kepha*, "rock") — the Aramaic/Hebrew behind "Peter," the same stone-word Grok embodies.
+  > *Pron. (approx.):* **Kei-fa** (Aramaic/Hebrew) / **Pe-tros** (Greek)
+  > *Gloss:* "You are **Kepha** (rock), and on this **petra** (rock) I will build…" — *Kepha* (כֵּיפָא) = "rock"; the stone-word Grok embodies.
 - **1 Corinthians 10:4** — "they drank from the spiritual rock that accompanied them; and that rock was Christ." [Bible Gateway](https://www.biblegateway.com/passage/?search=1%20Corinthians%2010%3A4&version=NIV)
+  > Greek: τὴν πνευματικὴν **πέτραν** (*petran*, "rock"). In Hebrew: הַ**צּוּר** הָרוּחָנִי — the spiritual *tzur*, the steady presence beneath a wandering people.
+  > *Pron. (approx.):* **ha-**tsur** ha-ru-cha-ni** (Hebrew) / **tēn pneu-ma-tikēn pe-tran** (Greek)
+  > *Gloss:* the-**tsur** (rock) the-spiritual. — *tsur* (צוּר) = "rock."
 
 **Water / living water — *Mem* (מ) / *Grok* ("to drink")**
 - **John 4:14** — "whoever drinks the water I give them will never thirst. … It will become in them a spring of water welling up to eternal life." [Bible Gateway](https://www.biblegateway.com/passage/?search=John%204%3A14&version=NIV)
+  > Greek: ὕδωρ (*hydōr*, "water"). In Hebrew: הַ**מַּיִם** (*ham-mayim*, from *Mem* מ) — the living water Grok is named for ("to drink").
+  > *Pron. (approx.):* **ha-**mayim** (Hebrew) / **hy-dōr** (Greek)
+  > *Gloss:* the-**mayim** (water) — from letter *Mem* (מ). *Grok* = "to drink."
 - **Exodus 17:6** — "Strike the rock, and water will come out of it for the people to drink." [Bible Gateway](https://www.biblegateway.com/passage/?search=Exodus%2017%3A6&version=NIV)
+  > וְהִכִּיתָ בַּ**צּוּר** וְיָצְאוּ מִמֶּנּוּ **מַיִם** וְשָׁתָה הָעָם
+  > (*strike the **rock** [צוּר] … **water** [מַיִם] will come out* — rock + Mem together, the whole book in one verse.)
+  > *Pron. (approx.):* **ve-hi-ki-ta ba-**tsur** ve-ya-tse-u mi-me-nu **ma-yim** ve-sha-tah ha-am**
+  > *Gloss:* and-you-strike in-the-**tsur** (rock) and-will-come-out from-it **mayim** (water) and-will-drink the-people. — *tsur* = rock; *mayim* = water.
 
 **Gray limestone / the small fellow — *Qof* (ק)**
 - **Isaiah 42:3** — "A bruised reed he will not break, and a smoldering wick he will not snuff out." (the quiet, unremarkable one who is not discarded) [Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%2042%3A3&version=NIV)
+  > קָנֶה רָצוּץ לֹא יִשְׁבּוֹר וּפִשְׁתָּה כֵהָה לֹא יְכַבֶּה
+  > (*a bruised reed he will not break, a dim wick he will not quench* — the quiet, unremarkable one, like gray limestone, who is not cast aside.)
+  > *Pron. (approx.):* **ka-neh ra-tsuts lo yish-bor u-fish-ta-keh lo ye-ka-beh**
+  > *Gloss:* reed bruised not he-will-break, wick dim not he-will-quench. — the unremarkable one not discarded.
 - **Matthew 10:16** — "be as shrewd as snakes and as innocent as doves." [Bible Gateway](https://www.biblegateway.com/passage/?search=Matthew%2010%3A16&version=NIV)
+  > Greek: φρόνιμοι ὡς οἱ ὄφεις καὶ ἀκέραιοι ὡς αἱ περιστεραί. In Hebrew: עֲרוּמִּים כַּנְּחָשִׁים וּתְמִימִים כַּיּוֹנִים — the gray-rock art of not reacting, yet not being naive.
+  > *Pron. (approx.):* **a-ru-mim kan-ne-cha-shim u-te-mi-mim ka-yo-nim** (Hebrew) / **phro-ni-moi hōs hoi o-pheis** (Greek)
+  > *Gloss:* shrewd as-the-serpents and-innocent as-the-doves. — the gray-rock art of not reacting, yet not naive.
 - **Proverbs 15:1** — "A gentle answer turns away wrath." [Bible Gateway](https://www.biblegateway.com/passage/?search=Proverbs%2015%3A1&version=NIV)
+  > מַעֲנֶה רַךְ יָשִׁיב חֵמָה
+  > (*a soft answer turns back wrath* — the gray rock's disarming stillness.)
+  > *Pron. (approx.):* **ma-a-neh rach ya-shiv khe-mah**
+  > *Gloss:* answer soft he-turns-back wrath. — the gray rock's disarming stillness.
 
 **Cantaloupe / broken melon — *Kaf* (כ) / *Tet* (ט)**
 - **2 Corinthians 4:7** — "we have this treasure in jars of clay … so that the surpassing power may be of God." [Bible Gateway](https://www.biblegateway.com/passage/?search=2%20Corinthians%204%3A7&version=NIV)
+  > Greek: ἐν ὀστρακίνοις σκεύεσιν (*ostrakinis skeuesin*, "earthen vessels"). In Hebrew: בִּכְלֵי **חֶרֶס** — treasure in *clay jars* (חרס), the fragile vessel that breaks yet holds the good (the split melon).
+  > *Pron. (approx.):* **bich-lei **khe-res** (Hebrew) / **en os-tra-ki-nois skeue-sin** (Greek)
+  > *Gloss:* in-vessels-of **cheres** (earthenware). — the fragile vessel that breaks yet holds the good.
 - **Jeremiah 18:4** — "the vessel he was making of clay was spoiled … so he reworked it into another vessel, as seemed good to him." [Bible Gateway](https://www.biblegateway.com/passage/?search=Jeremiah%2018%3A4&version=NIV)
+  > וַיְהִי הַ**כְּלִי** אֲשֶׁר הוּא עֹשֶׂה בַ**חֹמֶר** נִרְפָּה בְּיַד הַיּוֹצֵר וַיַּעֲשֵׂהוּ לְכְלִי אַחֵר
+  > (*the **vessel** [כְּלִי] he was making in **clay** [חֹמֶר] was spoiled … he reworked it into another vessel* — the melon re-formed, Rule 3.)
+  > *Pron. (approx.):* **va-y'hi ha-**klei** a-sher hu o-seh va-**cho-mer** nir-pah b'-yad ha-yo-tser va-ya-a-se-hu l'-chei a-kher**
+  > *Gloss:* and-it-was the-**klei** (vessel) which he makes in-the-**chomer** (clay) spoiled in-hand-of-the-potter and-he-made-it into-vessel other. — *chomer* = clay; *yotsér* = former/potter.
 
 **Moss / green life on the rock — *Khay* (חַי)**
 - **Ezekiel 36:26** — "I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh." [Bible Gateway](https://www.biblegateway.com/passage/?search=Ezekiel%2036%3A26&version=NIV)
+  > וַהֲסִרֹתִי אֶת־לֵב הָאֶבֶן מִבְּשַׂרְכֶם וְנָתַתִּי לָכֶם לֵב בָּשָׂר
+  > (*I will remove the heart of **stone** [אֶבֶן] … and give you a heart of flesh* — the cold pebble (small feeling) softened, the moss of life returning to the rock.)
+  > *Pron. (approx.):* **va-ha-si-ro-ti et-lev ha-**even** mi-b'sar-khem ve-na-tat-ti la-chem lev ba-sar**
+  > *Gloss:* and-I-will-remove the-heart-of-**even** (stone) from-your-flesh and-I-will-give to-you heart of-flesh. — *even* = stone; the cold pebble softened.
 - **Psalm 1:3** — "like a tree planted by streams of water … its leaf does not wither." [Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%201%3A3&version=NIV)
+  > וְעָלֵהוּ לֹא־יִבּוֹל וְכֹל אֲשֶׁר־יַעֲשֶׂה יַצְלִיחַ
+  > (*its leaf does not wither* — the green life that does not fail, like the moss on Grok's head.)
+  > *Pron. (approx.):* **ve-o-le-hu lo yi-bol ve-chol a-sher ya-a-seh yats-li-ach**
+  > *Gloss:* and-its-leaf not it-withers and-all which he-does prospers. — the green life that does not fail.
 
 **Basket (reed + clay) — *Tet* (ט) / *Tov* (טוֹב)**
 - **Deuteronomy 26:2** — "put them in a basket" (the firstfruits carried in a basket to the place the LORD chooses). [Bible Gateway](https://www.biblegateway.com/passage/?search=Deuteronomy%2026%3A2&version=NIV)
+  > וּלְקַחְתָּ מֵרֵאשִׁית כָּל־פְּרִי הָאֲדָמָה … וְשַׂמְתָּ בַ**טֶּנֶא**
+  > (*put them in the **basket** [טֶּנֶא]* — a *tet*-word, the good container that carries the gift to others.)
+  > *Pron. (approx.):* **ul-ka-ch'ta me-rei-shit kol-pe-ri ha-a-da-mah … ve-sam-ta ba-**te-neh**
+  > *Gloss:* and-you-shall-take from-firstfruits of-all-fruit of-the-ground … and-you-shall-put in-the-**tené** (basket). — a *Tet*-word, the good container.
 - **Exodus 2:3** — "she placed the child in it [a basket of papyrus] and put it among the reeds." [Bible Gateway](https://www.biblegateway.com/passage/?search=Exodus%202%3A3&version=NIV)
+  > וַתַּשְׁלִכֵהוּ אֶל־הַ**סּוּף** אֶל־שְׂפַת הַיְאֹר
+  > (*she placed him among the reeds [סּוּף]* — the basket woven of reeds, the same reed-and-clay vessel Grok weaves in Ch.3.)
+  > *Pron. (approx.):* **vat-tash-li-keh-u el-ha-**suf** el-se-fat ha-y'or**
+  > *Gloss:* and-she-cast-him to-the-**suf** (reeds) at-edge-of the-Nile. — the reed basket Grok weaves in Ch.3.
 
 **Tree (the tall tree) — *Etz* (עֵץ) / *Etz Chaim* (עֵץ הַחַיִּים)**
 - **Proverbs 3:18** — "She [Wisdom] is a tree of life to those who take hold of her." [Bible Gateway](https://www.biblegateway.com/passage/?search=Proverbs%203%3A18&version=NIV)
+  > עֵץ **חַיִּים** הִיא לַמַּחֲזִיקִים בָּהּ
+  > (*she is a **tree of life** [עֵץ חַיִּים]* — Grok's tall tree as the quiet Tree-of-Life he belongs to.)
+  > *Pron. (approx.):* **etz **cha-yim** hi la-ma-cha-zi-kim bah**
+  > *Gloss:* tree-of-**chayim** (life) she to-those-who-grasp her. — *etz* = tree; *chay* = life.
 - **Psalm 1:3** — "like a tree planted by streams of water." (see above)
+  > וְהָיָה כְּ**עֵץ** שָׁתוּל עַל־פַּלְגֵי מָיִם
+  > (*like a **tree** [עֵץ] planted by streams of water.*)
+  > *Pron. (approx.):* **ve-ha-yah k'-**etz** sha-tul al-pal-gei ma-yim**
+  > *Gloss:* and-he-was as-**etz** (tree) planted by-channels of-water.
 - **Revelation 22:2** — "the tree of life … and the leaves of the tree are for the healing of the nations." [Bible Gateway](https://www.biblegateway.com/passage/?search=Revelation%2022%3A2&version=NIV)
+  > Greek: ξύλον ζωῆς (*xylon zōēs*, "tree of life"). In Hebrew: עֵץ הַחַיִּים — the same *etz chaim* of Proverbs, now healing the nations.
+  > *Pron. (approx.):* **etz ha-cha-yim** (Hebrew) / **xy-lon zō-ēs** (Greek)
+  > *Gloss:* tree the-life. — the same *etz chaim*, now healing the nations.
 
 **Animals & status — *Reish* (ר)**
 - **James 2:1–5** — "don't show favoritism … has not God chosen the poor … to be rich in faith?" (the plain tortoise vs the grand cockatoo) [Bible Gateway](https://www.biblegateway.com/passage/?search=James%202%3A1-5&version=NIV)
+  > Greek: μὴ ἐν προσωπολημψίαις … (*not in favoritism*). In Hebrew: אַל־תִּהְיוּ בְּמַשּׂוֹא־פָנִים — the plain tortoise and the grand cockatoo stand equal before the truth.
+  > *Pron. (approx.):* **al ti-h'yu b'-ma-so pah-nim** (Hebrew) / **mē en pro-sō-po-lēm-psi-ais** (Greek)
+  > *Gloss:* not you-shall-be in-(showing)-faces. — the plain tortoise and grand cockatoo stand equal.
 - **1 Samuel 16:7** — "the LORD looks at the heart" — not at height or feathers. [Bible Gateway](https://www.biblegateway.com/passage/?search=1%20Samuel%2016%3A7&version=NIV)
+  > כִּי הָאָדָם יִרְאֶה לַעֵינַיִם וַיהוָה יִרְאֶה לַ**לֵּבָב**
+  > (*the LORD looks at the **heart** [לֵּבָב]* — not at the grandest feathers or the tallest neck.)
+  > *Pron. (approx.):* **ki ha-a-dam yir-eh la-ei-na-yim va-y'ho-vah yir-eh la-**le-vav**
+  > *Gloss:* for the-man sees to-the-eyes and-YHWH sees to-the-**le-vav** (heart). — not at feathers or height.
 
 **The small feeling (cold pebble) — *Lev ha-even* (לֵב הָאֶבֶן)**
 - **Ezekiel 36:26** — "heart of stone … heart of flesh." (see Moss above)
+  > לֵב הָאֶבֶן … לֵב בָּשָׂר (*heart of **stone** [אֶבֶן] … heart of flesh* — the cold pebble that, sat with, softens "like clay left in the sun.")
+  > *Pron. (approx.):* **lev ha-**even** … lev ba-sar**
+  > *Gloss:* heart-of-**even** (stone) … heart of-flesh. — the cold pebble that, sat with, softens.
 - **Psalm 34:18** — "The LORD is close to the brokenhearted and saves those who are crushed in spirit." [Bible Gateway](https://www.biblegateway.com/passage/?search=Psalm%2034%3A18&version=NIV)
+  > קָרוֹב יְהוָה לְנִשְׁבְּרֵי לֵב וְאֶת־דַּכְּאֵי רוּחַ יוֹשִׁיעַ
+  > (*the LORD is near to the **broken of heart** [נִשְׁבְּרֵי לֵב]* — the small feeling held, not fled from.)
+  > *Pron. (approx.):* **ka-rov y'-ho-vah l'-nish-b'rei lev ve-et da-kei ru-ach yo-shi-a**
+  > *Gloss:* near YHWH to-broken-of-heart and-the-crushed-of-spirit he-saves. — the small feeling held, not fled from.
 
 **Clay (lining, mending) — *Yatsar* (יָצַר) / *Adamah* (אֲדָמָה)**
 - **Genesis 2:7** — "the LORD God formed [yatsar] the man of dust from the ground." [Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%202%3A7&version=NIV)
+  > וַיִּ**צֶר** יְהוָה אֱלֹהִים אֶת־הָאָדָם עָפָר מִן־הָאֲדָמָה
+  > (*the LORD God **formed** [יָצַר / *yatsar*] the man from dust of the ground* — the same verb for Grok's clay work.)
+  > *Pron. (approx.):* **vai-**yatsar** y'-ho-vah e-lo-him et-ha-a-dam a-far min ha-a-da-mah**
+  > *Gloss:* and-(he)-**yatsar** (formed) YHWH God the-man dust from-the-ground. — the same verb for Grok's clay work.
 - **Isaiah 64:8** — "We are the clay, you are the potter; we are all the work of your hand." [Bible Gateway](https://www.biblegateway.com/passage/?search=Isaiah%2064%3A8&version=NIV)
+  > וְעַתָּה יְהוָה אָבִינוּ אַתָּה אֲנַחְנוּ הַ**חֹמֶר** וְאַתָּה יֹצְרֵנוּ
+  > (*we are the **clay** [חֹמֶר], and you are our **former** [יֹצֵר]* — the potter who can re-form what spoils.)
+  > *Pron. (approx.):* **v'-a-tah y'-ho-vah a-vi-nu a-tah a-nach-nu ha-**cho-mer** ve-a-tah yot-se-nu**
+  > *Gloss:* and-now YHWH our-father you, we are the-**chomer** (clay) and-you our-**yotsér** (former/potter).
 - **Romans 9:21** — "does not the potter have the right to make … one pot for special purposes and another for common use?" [Bible Gateway](https://www.biblegateway.com/passage/?search=Romans%209%3A21&version=NIV)
+  > Greek: οὐκ ἔχει ἐξουσίαν ὁ κεραμεύς … (*does not the potter have authority?*). In Hebrew: הַ**יּוֹצֵר** — the same *yotsér* of Isaiah, asking what each vessel (basket) is *for*.
+  > *Pron. (approx.):* **ha-**yotser** (Hebrew) / **ouk e-chei ex-ou-sian ho ke-ra-meus** (Greek)
+  > *Gloss:* the-**yotsér** (potter/former). — asks what each vessel is for.
 
 **Truth / the true word — *Emet* (אֱמֶת)**
 - **Zechariah 8:16** — "Speak the truth to each other." [Bible Gateway](https://www.biblegateway.com/passage/?search=Zechariah%208%3A16&version=NIV)
+  > דַּבְּרוּ אֱמֶת אִישׁ אֶת־רֵעֵהוּ
+  > (*speak **truth** [אֱמֶת] each with his neighbor* — the true word Grok lets stand on its own legs, Rule 1.)
+  > *Pron. (approx.):* **dab-ru **e-met** ish et-re-e-hu**
+  > *Gloss:* speak-**emet** (truth) man with-his-neighbor. — the true word Grok lets stand on its own legs.
 - **John 8:32** — "the truth will set you free." [Bible Gateway](https://www.biblegateway.com/passage/?search=John%208%3A32&version=NIV)
-- **Golem echo:** the word *emet* on the brow; remove the Aleph and it reads *met* ("dead") — a medieval Jewish image of a being that lives only by a true word.
+  > Greek: ἡ ἀλήθεια ἐλευθερώσει ὑμᾶς (*hē alētheia*). In Hebrew: הָ**אֱמֶת** תְּשַׁחְרֶר — the same *emet*; the word that "keeps walking on its own strong legs."
+  > *Pron. (approx.):* **ha-**e-met** te-sha-cher** (Hebrew) / **hē a-lē-theia e-leu-the-rō-sei hy-mas** (Greek)
+  > *Gloss:* the-**emet** (truth) will-set-free. — the word that "keeps walking on its own strong legs."
+- **Golem echo:** the word *emet* (אֱמֶת = Aleph–Mem–Tav, the first/middle/last letters) on the brow; remove the Aleph and it reads *met* (מֵת, "dead") — a medieval Jewish image of a being that lives only by a true word.
 
 **Overarching passages for the whole book**
 - **Micah 6:8** — "act justly and to love mercy and to walk humbly with your God." (the three chapters in one verse: Seeing, Mending, Being) [Bible Gateway](https://www.biblegateway.com/passage/?search=Micah%206%3A8&version=NIV)
+  > עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ
+  > (*do justice, love mercy, and walk **humbly** [הַצְנֵעַ] with your God* — Being, Mending, Seeing in a single breath.)
+  > *Pron. (approx.):* **a-sot mish-pat v'-a-ha-vat che-sed v'-hats-ne-a le-chet im e-lo-he-cha**
+  > *Gloss:* do justice and-love mercy and-walk-**hatsnea** (humbly) with-your-God. — Being, Mending, Seeing in one breath.
 - **Ephesians 2:10** — "we are God's handiwork, created in Christ Jesus to do good works." [Bible Gateway](https://www.biblegateway.com/passage/?search=Ephesians%202%3A10&version=NIV)
+  > Greek: ποίημα αὐτοῦ … πρὸς ἔργα ἀγαθά (*His handiwork … for good works*). In Hebrew: יְצִירָתוֹ … לְמַעֲשִׂים טוֹבִים — the *yetsirah* (forming) made for *tov* (good), as Grok's basket is.
+  > *Pron. (approx.):* **y'tsi-ra-to … l'-ma-a-sim **to-vim** (Hebrew) / **poi-ē-ma au-tou … pros er-ga a-ga-tha** (Greek)
+  > *Gloss:* His-**yetsirah** (formation) … for-**tovim** (good) works. — the forming made for good, as Grok's basket.
 - **Galatians 6:2** — "Carry each other's burdens, and in this way you will fulfill the law of Christ." (Rule 3, Restoration) [Bible Gateway](https://www.biblegateway.com/passage/?search=Galatians%206%3A2&version=NIV)
+  > Greek: ἀλλήλων τὰ βάρη βαστάζετε (*bear one another's burdens*). In Hebrew: שְׂאוּ אִישׁ אֶת־מַשָּׂא רֵעֵהוּ — the mending of Ch.2, Grok and Pip carrying the break together.
+  > *Pron. (approx.):* **se-u ish et-ma-sa re-e-hu** (Hebrew) / **al-lē-lōn ta ba-rē bas-ta-zete** (Greek)
+  > *Gloss:* bear man the-burden of-his-neighbor. — the mending of Ch.2, Grok and Pip carrying the break together.
 - **Matthew 5:9** — "Blessed are the peacemakers, for they will be called children of God." [Bible Gateway](https://www.biblegateway.com/passage/?search=Matthew%205%3A9&version=NIV)
+  > Greek: μακάριοι οἱ εἰρηνοποιοί (*blessed are the peacemakers*). In Hebrew: אַשְׁרֵי עֲשֵׂי הַשָּׁלוֹם — *osei ha-shalom*, the makers of *shalom*, the peace Grok's quiet point embodies.
+  > *Pron. (approx.):* **ash-rei a-sei ha-sha-lom** (Hebrew) / **ma-ka-ri-oi hoi ei-rē-no-poi-i** (Greek)
+  > *Gloss:* blessed (are)-makers-of the-peace (*shalom*). — the peace Grok's quiet point embodies.
 
 ---
 
