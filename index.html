@@ -135,6 +135,15 @@
     transition: background .15s ease, border-color .15s ease, color .15s ease;
   }
   .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
+  #lang-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding-right: 1.4rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%236b6256' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.6rem center;
+  }
 
   /* Inline see-also links: dark, slightly off-color, wrap-friendly */
   .seelink {
@@ -202,48 +211,49 @@
 </head>
 <body>
   <header class="site-header">
-    <span class="site-title">Grok the Rock - Three Quiet Stories</span>
+    <span class="site-title" data-i18n="site.title">Grok the Rock - Three Quiet Stories</span>
     <span class="site-nav">
-      <button class="site-link" id="print-btn" type="button">Print</button>
+      <button class="site-link" id="print-btn" type="button" data-i18n="nav.print">Print</button>
+      <select id="lang-select" class="site-link" aria-label="Language"></select>
       <!-- IMPORTANT: keep link order so it reads as "Grok Rules About Grok" -->
-      <a class="site-link" href="grok-rules.html">Grok Rules</a>
-      <a class="site-link" href="about-grok.html">About Grok</a>
+      <a class="site-link" href="grok-rules.html" data-i18n="nav.rules">Grok Rules</a>
+      <a class="site-link" href="about-grok.html" data-i18n="nav.about">About Grok</a>
     </span>
   </header>
   <div class="book-single">
     <div class="page">
          <video id="cover-video" autoplay muted playsinline>
-           <source src="clips/cover-grok-4d4c6c40-7ffa-4ab3-82ea-aff76693fc27-720p.mp4" type="video/mp4">
-           Your browser does not support the video element.
-         </video>
-         <img class="cover-img" src="images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg" alt="Cover Art">
+            <source src="clips/cover-grok-4d4c6c40-7ffa-4ab3-82ea-aff76693fc27-720p.mp4" type="video/mp4">
+            Your browser does not support the video element.
+          </video>
+          <img class="cover-img" src="images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg" alt="Cover Art" data-i18n-alt="cover.alt">
     </div>
   </div>
   <div class="book-single">
     <div class="page textpage">
       <div class="cardtext">
-        <h1>Grok the Rock</h1>
-        <h3>Three Quiet Stories</h3>
-        <h2>Being · Mending · Seeing</h2>
+        <h1 data-i18n="title.h1">Grok the Rock</h1>
+        <h3 data-i18n="title.h3">Three Quiet Stories</h3>
+        <h2 data-i18n="title.h2">Being · Mending · Seeing</h2>
         <hr>
         <p>&nbsp;</p>
-        <p>Draft Story, Image Prompts with Grok 4.5 from xAI</p>
-        <p>Illustrations with Grok Imagine from xAI</p>
-        <p>Rules, Editing, Automation with HY3 from Tencent</p>
-        <p><em>Not affiliated with or endorsed by xAI or Tencent</em></p>
+        <p data-i18n="credit.1">Draft Story, Image Prompts with Grok 4.5 from xAI</p>
+        <p data-i18n="credit.2">Illustrations with Grok Imagine from xAI</p>
+        <p data-i18n="credit.3">Rules, Editing, Automation with HY3 from Tencent</p>
+        <p data-i18n="credit.4"><em>Not affiliated with or endorsed by xAI or Tencent</em></p>
         <p>&nbsp;</p>
         <hr>
         <p>&nbsp;</p>
-        <p>This is an AI-generated human-curated story-meme</p>
-        <p>Public Domain (CC0 1.0)</p>
-        <p>Copy it • Share it • Translate it • Redraw it • Let it grow</p>
+        <p data-i18n="credit.5">This is an AI-generated human-curated story-meme</p>
+        <p data-i18n="credit.6">Public Domain (CC0 1.0)</p>
+        <p data-i18n="credit.7">Copy it • Share it • Translate it • Redraw it • Let it grow</p>
       </div>
     </div>
   </div>
   <div class="book">
     <div class="page">
-      <img src="images/dedication-grok-4d644bb0-0b15-4fa8-9b89-b78964cd7026.jpg" alt="Dedication Page">
-      <div class="caption" style="bottom:35%;">
+      <img src="images/dedication-grok-4d644bb0-0b15-4fa8-9b89-b78964cd7026.jpg" alt="Dedication Page" data-i18n-alt="dedication.alt">
+      <div class="caption" style="bottom:35%;" data-i18n-html="dedication">
         <p><b>For every explorer, small and large,</b></p>
         <p><b>grokking the world in their own gentle way.</b></p>
         <p>&nbsp;</p>
@@ -269,12 +279,12 @@
       </div>
     </div>
     <div class="page">
-      <img src="images/page-1-grok-66371264-365e-4572-8b05-f6e03851fcf5.jpg" alt="Page 1 (Chapter 1 title page)">
+      <img src="images/page-1-grok-66371264-365e-4572-8b05-f6e03851fcf5.jpg" alt="Page 1 (Chapter 1 title page)" data-i18n-alt="p1.alt">
     </div>
     <div class="page" style="background:#f9f8f4;">
       <div class="page-num">2</div>
-      <img src="images/page-2-grok-481c406f-3f25-4f6b-a120-8b8dad85d359.jpg" alt="Page 2">
-      <div class="caption" style="bottom:8%;">
+      <img src="images/page-2-grok-481c406f-3f25-4f6b-a120-8b8dad85d359.jpg" alt="Page 2" data-i18n-alt="p2.alt">
+      <div class="caption" style="bottom:8%;" data-i18n-html="p2">
         <p>Grok the Rock woke under the tall tree.</p>
         <p>Sun was warm on his limestone back.</p>
         <p>Grok felt happy.</p>
@@ -285,8 +295,8 @@
     </div>
     <div class="page" style="background:#f0e8da;">
       <div class="page-num">3</div>
-      <img src="images/page-3-grok-028c42fe-70ae-419c-a0ed-0392bafb3fbf.jpg" alt="Page 3">
-      <div class="caption" style="bottom:8%;">
+      <img src="images/page-3-grok-028c42fe-70ae-419c-a0ed-0392bafb3fbf.jpg" alt="Page 3" data-i18n-alt="p3.alt">
+      <div class="caption" style="bottom:8%;" data-i18n-html="p3">
         <p>Soon he walked to the water-hole.</p>
         <p>A tall emu was already there.</p>
         <p>The emu stretched his long neck and said,</p>
@@ -295,8 +305,8 @@
     </div>
     <div class="page" style="background:#e6d6bd;">
       <div class="page-num">4</div>
-      <img src="images/page-4-grok-f7706229-5e89-4b5f-8828-0865b16eda73.jpg" alt="Page 4">
-      <div class="caption">
+      <img src="images/page-4-grok-f7706229-5e89-4b5f-8828-0865b16eda73.jpg" alt="Page 4" data-i18n-alt="p4.alt">
+      <div class="caption" data-i18n-html="p4">
         <p>Then a wombat rolled up, round and solid.</p>
         <p>“I am the strongest,” said the wombat.</p>
         <p>“Everyone watch me dig.”</p>
@@ -308,8 +318,8 @@
     </div>
     <div class="page" style="background:#e7d4bd;">
       <div class="page-num">5</div>
-      <img src="images/page-5-grok-8baaf8c8-a887-4764-9205-0f1a03a6f4b8.jpg" alt="Page 5">
-      <div class="caption" style="bottom:7%;">
+      <img src="images/page-5-grok-8baaf8c8-a887-4764-9205-0f1a03a6f4b8.jpg" alt="Page 5" data-i18n-alt="p5.alt">
+      <div class="caption" style="bottom:7%;" data-i18n-html="p5">
         <p>A kookaburra laughed from a branch.</p>
         <p>“Look at little Grok! So short! So stony!”</p>
         <hr>
@@ -319,8 +329,8 @@
     </div>
     <div class="page" style="background:#efe7d7;">
       <div class="page-num">6</div>
-      <img src="images/page-6-grok-adad39e7-2558-4183-a800-33c1b77419fb.jpg" alt="Page 6">
-      <div class="caption" style="bottom:3%;">
+      <img src="images/page-6-grok-adad39e7-2558-4183-a800-33c1b77419fb.jpg" alt="Page 6" data-i18n-alt="p6.alt">
+      <div class="caption" style="bottom:3%;" data-i18n-html="p6">
         <p>He wanted to make himself look bigger.</p>
         <p>He stood on a log.</p>
         <p>He puffed out his chest.</p>
@@ -331,8 +341,8 @@
     </div>
     <div class="page" style="background:#eee7d7;">
       <div class="page-num">7</div>
-      <img src="images/page-7-grok-7d296a89-a7ac-47d8-abc7-a7cc53a43c97.jpg" alt="Page 7">
-      <div class="caption" style="bottom:3%;">
+      <img src="images/page-7-grok-7d296a89-a7ac-47d8-abc7-a7cc53a43c97.jpg" alt="Page 7" data-i18n-alt="p7.alt">
+      <div class="caption" style="bottom:3%;" data-i18n-html="p7">
         <p>That night Grok sat alone by a little fire.</p>
         <p>He put his arms around his knees.</p>
         <p>He let the small feeling stay.</p>
@@ -346,8 +356,8 @@
     </div>
     <div class="page" style="background:#e6d7bf;">
       <div class="page-num">8</div>
-      <img src="images/page-8-grok-445d26bc-85af-4c13-a44c-26a82f396432.jpg" alt="Page 8">
-      <div class="caption" style="bottom:3%;">
+      <img src="images/page-8-grok-445d26bc-85af-4c13-a44c-26a82f396432.jpg" alt="Page 8" data-i18n-alt="p8.alt">
+      <div class="caption" style="bottom:3%;" data-i18n-html="p8">
         <p>Next morning Grok went back to the water-hole.</p>
         <p>He did not climb on anything.</p>
         <p>He did not try to be taller or louder.</p>
@@ -361,8 +371,8 @@
     </div>
     <div class="page" style="background:#eee6d4;">
       <div class="page-num">9</div>
-      <img src="images/page-9-grok-432d18f1-c276-4586-8ff8-0b018446122b.jpg" alt="Page 9">
-      <div class="caption" style="bottom:10%;">
+      <img src="images/page-9-grok-432d18f1-c276-4586-8ff8-0b018446122b.jpg" alt="Page 9" data-i18n-alt="p9.alt">
+      <div class="caption" style="bottom:10%;" data-i18n-html="p9">
         <p>He spent the day making a soft nest of leaves and moss</p>
         <p>just the right size for a small rock fellow.</p>
         <p>When it was finished he smiled.</p>
@@ -377,12 +387,12 @@
       </div>
     </div>
     <div class="page">
-      <img src="images/page-10-grok-de70e122-f5b5-431e-80ad-bc7e4b341433.jpg" alt="Page 10 (Chapter 2 title page)">
+      <img src="images/page-10-grok-de70e122-f5b5-431e-80ad-bc7e4b341433.jpg" alt="Page 10 (Chapter 2 title page)" data-i18n-alt="p10.alt">
     </div>
     <div class="page" style="background:#eee5d3;">
       <div class="page-num">11</div>
-      <img src="images/page-11-grok-48e25567-dcf9-4d3c-bc0e-8ba593f47153.jpg" alt="Page 11">
-      <div class="caption">
+      <img src="images/page-11-grok-48e25567-dcf9-4d3c-bc0e-8ba593f47153.jpg" alt="Page 11" data-i18n-alt="p11.alt">
+      <div class="caption" data-i18n-html="p11">
         <p>Grok the Rock woke under the tall tree.</p>
         <p>Grok watched his little garden of melons and sweet potatoes.</p>
         <p>He loved watching them grow.</p>
@@ -391,8 +401,8 @@
     </div>
     <div class="page" style="background:#e7d8bf;">
       <div class="page-num">12</div>
-      <img src="images/page-12-grok-835f3c58-81fd-4f81-9008-d3add76efeef.jpg" alt="Page 12">
-      <div class="caption" style="bottom:9%;">
+      <img src="images/page-12-grok-835f3c58-81fd-4f81-9008-d3add76efeef.jpg" alt="Page 12" data-i18n-alt="p12.alt">
+      <div class="caption" style="bottom:9%;" data-i18n-html="p12">
         <p>That afternoon his friend,</p>
         <p>a young echidna named Pip,</p>
         <p>hurried through the garden looking behind him</p>
@@ -404,8 +414,8 @@
     </div>
     <div class="page" style="background:#ecddc7;">
       <div class="page-num">13</div>
-      <img style="transform: translateY(-6%);" src="images/page-13-grok-4df8bae2-ed14-4cfd-8d0e-e0c5257bbc6c.jpg" alt="Page 13">
-      <div class="caption" style="bottom:3%;">
+      <img style="transform: translateY(-6%);" src="images/page-13-grok-4df8bae2-ed14-4cfd-8d0e-e0c5257bbc6c.jpg" alt="Page 13" data-i18n-alt="p13.alt">
+      <div class="caption" style="bottom:3%;" data-i18n-html="p13">
         <p>Pip froze.</p>
         <p>His spines trembled.</p>
         <p>“I ruined it,” he whispered.</p>
@@ -418,8 +428,8 @@
     </div>
     <div class="page" style="background:#ebdbc3;">
       <div class="page-num">14</div>
-      <img style="transform: translateY(-6%);" src="images/page-14-grok-99d5188c-864d-4e1e-879e-05cc2c517c5d.jpg" alt="Page 14">
-      <div class="caption" style="bottom:0;">
+      <img style="transform: translateY(-6%);" src="images/page-14-grok-99d5188c-864d-4e1e-879e-05cc2c517c5d.jpg" alt="Page 14" data-i18n-alt="p14.alt">
+      <div class="caption" style="bottom:0;" data-i18n-html="p14">
         <p>Grok looked at the broken vine.</p>
         <p>He looked at Pip’s worried eyes.</p>
         <hr>
@@ -434,8 +444,8 @@
     </div>
     <div class="page" style="background:#ede6d3;">
       <div class="page-num">15</div>
-      <img style="transform: translateY(-3%);" src="images/page-15-grok-ceda4f0d-cc29-4021-a249-910129a9c2b2.jpg" alt="Page 15">
-      <div class="caption" style="bottom:3%;">
+      <img style="transform: translateY(-3%);" src="images/page-15-grok-ceda4f0d-cc29-4021-a249-910129a9c2b2.jpg" alt="Page 15" data-i18n-alt="p15.alt">
+      <div class="caption" style="bottom:3%;" data-i18n-html="p15">
         <p>Pip blinked.</p>
         <p>Then he came close.</p>
         <p>Together they planted.</p>
@@ -446,8 +456,8 @@
     </div>
     <div class="page" style="background:#ede4d2;">
       <div class="page-num">16</div>
-      <img src="images/page-16-grok-12a7f0b9-63ce-4452-bab1-1e4770ba5fd1.jpg" alt="Page 16">
-      <div class="caption" style="bottom:3%;">
+      <img src="images/page-16-grok-12a7f0b9-63ce-4452-bab1-1e4770ba5fd1.jpg" alt="Page 16" data-i18n-alt="p16.alt">
+      <div class="caption" style="bottom:3%;" data-i18n-html="p16">
         <p>While they worked, Pip told Grok</p>
         <p>he had been running because bigger creatures</p>
         <p>had been chasing him and laughing.</p>
@@ -462,8 +472,8 @@
     </div>
     <div class="page" style="background:#edd7b8;">
       <div class="page-num">17</div>
-      <img style="transform: translateY(-6%);" src="images/page-17-grok-a26b509b-7c9a-48ae-a2c6-7410304c7edd.jpg" alt="Page 17">
-      <div class="caption" style="bottom:0;">
+      <img style="transform: translateY(-6%);" src="images/page-17-grok-a26b509b-7c9a-48ae-a2c6-7410304c7edd.jpg" alt="Page 17" data-i18n-alt="p17.alt">
+      <div class="caption" style="bottom:0;" data-i18n-html="p17">
         <p>When other small accidents happened</p>
         <p>(as they always do),</p>
         <p>Grok remembered the melon.</p>
@@ -483,12 +493,12 @@
       </div>
     </div>
     <div class="page">
-      <img src="images/page-18-grok-d333eb0c-afc6-432b-b077-5b89349bd1e4.jpg" alt="Page 18 (Chapter 3 title page)">
+      <img src="images/page-18-grok-d333eb0c-afc6-432b-b077-5b89349bd1e4.jpg" alt="Page 18 (Chapter 3 title page)" data-i18n-alt="p18.alt">
     </div>
     <div class="page" style="background:#ece2cf;">
       <div class="page-num">19</div>
-      <img src="images/page-19-grok-c132c2f7-6323-48cf-b26d-66930226112f.jpg" alt="Page 19">
-      <div class="caption" style="bottom:2%;">
+      <img src="images/page-19-grok-c132c2f7-6323-48cf-b26d-66930226112f.jpg" alt="Page 19" data-i18n-alt="p19.alt">
+      <div class="caption" style="bottom:2%;" data-i18n-html="p19">
         <p>Grok the Rock woke under the tall tree.</p>
         <p>Grok liked making useful things,</p>
         <p>and that day he worked on a water basket</p>
@@ -501,8 +511,8 @@
     </div>
     <div class="page" style="background:#eae3d1;">
       <div class="page-num">20</div>
-      <img style="transform: translateY(-7%);" src="images/page-20-grok-a30da3ef-d6ca-4557-88ab-8b959191cf01.jpg" alt="Page 20">
-      <div class="caption" style="bottom:2%;">
+      <img style="transform: translateY(-7%);" src="images/page-20-grok-a30da3ef-d6ca-4557-88ab-8b959191cf01.jpg" alt="Page 20" data-i18n-alt="p20.alt">
+      <div class="caption" style="bottom:2%;" data-i18n-html="p20">
         <p>The very next day creatures came to look.</p>
         <p>A glossy black cockatoo with grand tail feathers landed nearby.</p>
         <p>“That basket is clever,” said the cockatoo,</p>
@@ -517,8 +527,8 @@
     </div>
     <div class="page" style="background:#f0e9d7;">
       <div class="page-num">21</div>
-      <img src="images/page-21-grok-f3245d42-a912-4596-a2a0-d06d942dc045.jpg" alt="Page 21">
-      <div class="caption" style="bottom:7%;">
+      <img src="images/page-21-grok-f3245d42-a912-4596-a2a0-d06d942dc045.jpg" alt="Page 21" data-i18n-alt="p21.alt">
+      <div class="caption" style="bottom:7%;" data-i18n-html="p21">
         <p>Later a very old tortoise spoke in a slow soft voice.</p>
         <p>He suggested the small change of a handle,</p>
         <p>making it easy to carry for friends less sturdy than Grok.</p>
@@ -528,8 +538,8 @@
     </div>
     <div class="page" style="background:#ece5d2;">
       <div class="page-num">22</div>
-      <img src="images/page-22-grok-4ee31946-396e-48fe-8029-2f0107c33f17.jpg" alt="Page 22">
-      <div class="caption" style="bottom:4%;">
+      <img src="images/page-22-grok-4ee31946-396e-48fe-8029-2f0107c33f17.jpg" alt="Page 22" data-i18n-alt="p22.alt">
+      <div class="caption" style="bottom:4%;" data-i18n-html="p22">
         <p>Grok tried both ideas.</p>
         <p>The cockatoo’s way looked fancy</p>
         <p>but the basket tipped and leaked.</p>
@@ -541,8 +551,8 @@
     </div>
     <div class="page" style="background:#dfd8c6;">
       <div class="page-num">23</div>
-      <img style="transform: translateY(-4%);" src="images/page-23-grok-6894716c-2983-479e-b89d-9c2894f9db2b.jpg" alt="Page 23">
-      <div class="caption" style="bottom:1%;">
+      <img style="transform: translateY(-4%);" src="images/page-23-grok-6894716c-2983-479e-b89d-9c2894f9db2b.jpg" alt="Page 23" data-i18n-alt="p23.alt">
+      <div class="caption" style="bottom:1%;" data-i18n-html="p23">
         <p>Grok sat with the two baskets side by side.</p>
         <p>He did not look at feathers.</p>
         <p>He did not look at age or fame.</p>
@@ -558,8 +568,8 @@
     </div>
     <div class="page" style="background:#f1ead8;">
       <div class="page-num">24</div>
-      <img style="transform: translateY(-3%);" src="images/page-24-grok-9d3c9424-bcd3-4089-b277-e1e870dfbd20.jpg" alt="Page 24">
-      <div class="caption" style="bottom:2%;">
+      <img style="transform: translateY(-3%);" src="images/page-24-grok-9d3c9424-bcd3-4089-b277-e1e870dfbd20.jpg" alt="Page 24" data-i18n-alt="p24.alt">
+      <div class="caption" style="bottom:2%;" data-i18n-html="p24">
         <p>Some animals still waited to hear what the cockatoo thought</p>
         <p>before they decided if a thing was good.</p>
         <p>But more and more little ones</p>
@@ -573,8 +583,8 @@
     </div>
     <div class="page" style="background:#eed7b2;">
       <div class="page-num">25</div>
-      <img style="transform: translateY(-1%);" src="images/page-25-grok-87bf0bc3-52ea-4af3-ac9b-f89a5ec3f06c.jpg" alt="Page 25">
-      <div class="caption" style="bottom:1%;">
+      <img style="transform: translateY(-1%);" src="images/page-25-grok-87bf0bc3-52ea-4af3-ac9b-f89a5ec3f06c.jpg" alt="Page 25" data-i18n-alt="p25.alt">
+      <div class="caption" style="bottom:1%;" data-i18n-html="p25">
         <p>Grok felt peaceful.</p>
         <p>He did not need the biggest voice.</p>
         <p>He only needed true things.</p>
@@ -593,8 +603,8 @@
   </div>
   <div class="book-single">
     <div class="page">
-      <img src="images/page-26-grok-97985439-fb8c-40bb-ab0c-2acc180954f9.jpg" alt="Page 26 - Closing Page">
-      <div class="caption" style="top:5%; bottom:auto; filter:invert(100%);">
+      <img src="images/page-26-grok-97985439-fb8c-40bb-ab0c-2acc180954f9.jpg" alt="Page 26 - Closing Page" data-i18n-alt="p26.alt">
+      <div class="caption" style="top:5%; bottom:auto; filter:invert(100%);" data-i18n-html="p26">
         <p>And so Grok the Rock stayed</p>
         <p>a small limestone fellow</p>
         <p>who could sit with a small feeling,</p>
@@ -634,5 +644,7 @@
       window.addEventListener('afterprint', () => { document.title = originalTitle; });
     })();
   </script>
+  <script src="lang/es.js"></script>
+  <script src="i18n.js"></script>
 </body>
 </html>

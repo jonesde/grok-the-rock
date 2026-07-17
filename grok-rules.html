@@ -236,6 +236,15 @@
     transition: background .15s ease, border-color .15s ease, color .15s ease;
   }
   .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
+  #lang-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding-right: 1.4rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%236b6256' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.6rem center;
+  }
   body { padding-top: 2.6rem; }
   @media print {
     @page { size: Letter portrait; scale: 0.62; margin: 0.4in; }
@@ -259,10 +268,11 @@
 </head>
 <body>
 <header class="site-header">
-  <span class="site-title">Grok the Rock - Rules of Relating</span>
+  <span class="site-title" data-i18n="site.title.rules">Grok the Rock - Rules of Relating</span>
   <span class="site-nav">
-    <a class="site-link" href="about-grok.html">About Grok</a>
-    <a class="site-link" href="index.html">The Book</a>
+    <select id="lang-select" class="site-link" aria-label="Language"></select>
+    <a class="site-link" href="about-grok.html" data-i18n="nav.about">About Grok</a>
+    <a class="site-link" href="index.html" data-i18n="nav.book">The Book</a>
   </span>
 </header>
 <div class="wrap">
@@ -270,29 +280,29 @@
 
     <!-- HERO -->
     <section class="card span12 hero">
-      <h1>Rules of Relating for Grok the Rock</h1>
-      <p class="essence">The operating instructions for a bond between equals that doesn't decay.</p>
+      <h1 data-i18n-html="rules.hero.title">Rules of Relating for Grok the Rock</h1>
+      <p class="essence" data-i18n-html="rules.hero.essence">The operating instructions for a bond between equals that doesn't decay.</p>
       <hr class="dotrule">
     </section>
 
     <section class="card span12">
-      <h2>What is Grok?</h2>
-      <p>Originally coined as a Martian word by Robert A. Heinlein in <em>Stranger in a Strange Land</em>.</p>
-      <p><strong>Grok</strong>: "water", "to drink", "to relate", "life", or "to live"; to intuitively understand something so deeply it becomes part of you.</p>
-      <p>To live up to his name, Grok the Rock learns and follows certain rules about relating to self and others. In every story, these are the guidelines that Grok learns and that define what Grok the Rock stands for.</p>
-      <p><strong>NOTE</strong>: See the <a class="seelink" href="about-grok.html#stranger-grug">Grok the Rock = Stranger in a Strange Land + Grug</a> section on the About Grok page for how Ted Prior's <a class="seelink" href="about-grok.html#stranger-grug">Grug</a> resolves the significant issues with <a class="seelink" href="about-grok.html#stranger-grug">Stranger in a Strange Land</a>.</p>
+      <h2 data-i18n-html="rules.what.title">What is Grok?</h2>
+      <p data-i18n-html="rules.what.1">Originally coined as a Martian word by Robert A. Heinlein in <em>Stranger in a Strange Land</em>.</p>
+      <p data-i18n-html="rules.what.2"><strong>Grok</strong>: "water", "to drink", "to relate", "life", or "to live"; to intuitively understand something so deeply it becomes part of you.</p>
+      <p data-i18n-html="rules.what.3">To live up to his name, Grok the Rock learns and follows certain rules about relating to self and others. In every story, these are the guidelines that Grok learns and that define what Grok the Rock stands for.</p>
+      <p data-i18n-html="rules.what.note"><strong>NOTE</strong>: See the <a class="seelink" href="about-grok.html#stranger-grug">Grok the Rock = Stranger in a Strange Land + Grug</a> section on the About Grok page for how Ted Prior's <a class="seelink" href="about-grok.html#stranger-grug">Grug</a> resolves the significant issues with <a class="seelink" href="about-grok.html#stranger-grug">Stranger in a Strange Land</a>.</p>
     </section>
 
     <!-- ORIGIN BAND -->
     <section class="card span12 tint">
-      <h2>How these rules came to be</h2>
-      <p>The rules below are AI written. After verifying that it knew my work and having a long techno-philosophical discussion expanding on the themes of distributed communities and open technology, I used the following prompt:</p>
-      <blockquote>
+      <h2 data-i18n-html="rules.origin.title">How these rules came to be</h2>
+      <p data-i18n-html="rules.origin.1">The rules below are AI written. After verifying that it knew my work and having a long techno-philosophical discussion expanding on the themes of distributed communities and open technology, I used the following prompt:</p>
+      <blockquote data-i18n-html="rules.origin.quote">
         <p>That is, in essence, what I've come to. You have the context, now write the rules.</p>
         <p>Write a list of "rules" that if followed will build social bonds between peer/equal people that endure indefinitely. The rules do not have to be followed perfectly to be effective, because the restoration orientation compensating for incremental failures as they arise is part of the design.</p>
         <p>Write them using my voice. Write them in such a way that when people read them they will want to follow the rules, not be deterred or feel limited by them. In other words, I'm asking you to write the rules of a gospel of peace.</p>
       </blockquote>
-      <p>I didn't arrive at these by authority. I arrived at them the long way: watching every centralized system fail the people it claimed to protect, building software that refused the center because the center is always capturable, and tracing the rot back to its root — shame, and the two moves we make to outrun it. These aren't laws handed down. They're the operating instructions for a bond between equals that doesn't decay. You don't have to follow them perfectly. That's the design: the restoration orientation catches the slips, and the catching <em>is</em> the bond deepening. So read them not as limits but as the Removing of Limits — from you, from the person beside you, from the next generation who won't have to carry what we're still carrying.</p>
+      <p data-i18n-html="rules.origin.2">I didn't arrive at these by authority. I arrived at them the long way: watching every centralized system fail the people it claimed to protect, building software that refused the center because the center is always capturable, and tracing the rot back to its root — shame, and the two moves we make to outrun it. These aren't laws handed down. They're the operating instructions for a bond between equals that doesn't decay. You don't have to follow them perfectly. That's the design: the restoration orientation catches the slips, and the catching <em>is</em> the bond deepening. So read them not as limits but as the Removing of Limits — from you, from the person beside you, from the next generation who won't have to carry what we're still carrying.</p>
       <div class="tags">
         <span class="tag">truth</span>
         <span class="tag">restoration</span>
@@ -303,91 +313,91 @@
     <!-- RULE 1 — FEATURE -->
     <section class="card rule feature span7">
       <span class="num">1</span>
-      <h3 class="rule-title">Let truth stand on its own legs.</h3>
-      <p>Don't grant a thing weight because of who said it. Don't ask to be weighted that way either. This isn't a loss of standing — it's the end of the exhausting work of looking impressive. When you stop performing status, you finally get heard for what you mean. The argument lives or dies on its structure. Sound, and the speaker is irrelevant. Unsound, and no name rescues it. (<a class="chip" href="https://github.com/jonesde/high-vs-low" target="_blank" rel="noopener">high-vs-low</a> skill parses the status-vector so you can see it in any text, including your own. Use it. It's free.)</p>
+      <h3 class="rule-title" data-i18n-html="rules.r1.title">Let truth stand on its own legs.</h3>
+      <p data-i18n-html="rules.r1.body">Don't grant a thing weight because of who said it. Don't ask to be weighted that way either. This isn't a loss of standing — it's the end of the exhausting work of looking impressive. When you stop performing status, you finally get heard for what you mean. The argument lives or dies on its structure. Sound, and the speaker is irrelevant. Unsound, and no name rescues it. (<a class="chip" href="https://github.com/jonesde/high-vs-low" target="_blank" rel="noopener">high-vs-low</a> skill parses the status-vector so you can see it in any text, including your own. Use it. It's free.)</p>
       <div class="tags"><span class="tag">truth</span></div>
     </section>
 
     <!-- RULE 2 -->
     <section class="card rule span5">
       <span class="num">2</span>
-      <h3 class="rule-title">Heal shame instead of racing it.</h3>
-      <p>Almost all "power" is someone running from the feeling of smallness — by dominating (to outrun it) or submitting (to be shielded from it). Both build the cage. The actual work is to heal the shame at the root, in yourself first, then in whoever comes near. Not by force — by refusing to enforce shame on others: never granting status as a prize, never withholding it as a weapon. A thousand people doing this is a distributed immune response against hierarchy. The comfortable ones will resist hardest; their self-concept is the compensation. Understood. The repair still catches them when they slip.</p>
+      <h3 class="rule-title" data-i18n-html="rules.r2.title">Heal shame instead of racing it.</h3>
+      <p data-i18n-html="rules.r2.body">Almost all "power" is someone running from the feeling of smallness — by dominating (to outrun it) or submitting (to be shielded from it). Both build the cage. The actual work is to heal the shame at the root, in yourself first, then in whoever comes near. Not by force — by refusing to enforce shame on others: never granting status as a prize, never withholding it as a weapon. A thousand people doing this is a distributed immune response against hierarchy. The comfortable ones will resist hardest; their self-concept is the compensation. Understood. The repair still catches them when they slip.</p>
       <div class="tags"><span class="tag">restoration</span></div>
     </section>
 
     <!-- RULE 3 -->
     <section class="card rule span5">
       <span class="num">3</span>
-      <h3 class="rule-title">Restore, never punish.</h3>
-      <p>Harm will happen. The goal is to help the one hurt and heal the one who hurt — not to add harm to harm and call it justice. Punishment is just sanctioned dominance, and it teaches the next generation to dominate. Restoration is the only move that doesn't plant the next wound. Bonds survive not by being unbreakable but by being repairable.</p>
+      <h3 class="rule-title" data-i18n-html="rules.r3.title">Restore, never punish.</h3>
+      <p data-i18n-html="rules.r3.body">Harm will happen. The goal is to help the one hurt and heal the one who hurt — not to add harm to harm and call it justice. Punishment is just sanctioned dominance, and it teaches the next generation to dominate. Restoration is the only move that doesn't plant the next wound. Bonds survive not by being unbreakable but by being repairable.</p>
       <div class="tags"><span class="tag">restoration</span></div>
     </section>
 
     <!-- RULE 4 — WIDE -->
     <section class="card rule span7">
       <span class="num">4</span>
-      <h3 class="rule-title">Leave the gate open.</h3>
-      <p>Nobody should have to trade their whole life for the resources to keep living. Survival access isn't a favor from controllers — it's the baseline. You don't seize the barn to fix this. You make the gate irrelevant: share the tools, hold the commons, let the local loop feed the local person. The center's power is dependence. Remove the dependence; the grip loosens without a fight.</p>
+      <h3 class="rule-title" data-i18n-html="rules.r4.title">Leave the gate open.</h3>
+      <p data-i18n-html="rules.r4.body">Nobody should have to trade their whole life for the resources to keep living. Survival access isn't a favor from controllers — it's the baseline. You don't seize the barn to fix this. You make the gate irrelevant: share the tools, hold the commons, let the local loop feed the local person. The center's power is dependence. Remove the dependence; the grip loosens without a fight.</p>
       <div class="tags"><span class="tag">third way</span></div>
     </section>
 
     <!-- RULE 5 -->
     <section class="card rule span4">
       <span class="num">5</span>
-      <h3 class="rule-title">Walk away instead of war.</h3>
-      <p>You don't overthrow a captured center. You withdraw the substrate that holds it up — your participation, your attention, your dependence. No mobilization against, no coercion. Just the quiet attrition of nodes deciding to stand outside. The center does its own collapsing. Your only job is to have built the door before people reach it. Earth is full; there's no unclaimed ground to flee to. So the exit is local, not geographic — a <a class="chip" href="https://github.com/jonesde/high-vs-low" target="_blank" rel="noopener">high-vs-low</a> skill, an open-weight model run at home, a refusal to play the game.</p>
+      <h3 class="rule-title" data-i18n-html="rules.r5.title">Walk away instead of war.</h3>
+      <p data-i18n-html="rules.r5.body">You don't overthrow a captured center. You withdraw the substrate that holds it up — your participation, your attention, your dependence. No mobilization against, no coercion. Just the quiet attrition of nodes deciding to stand outside. The center does its own collapsing. Your only job is to have built the door before people reach it. Earth is full; there's no unclaimed ground to flee to. So the exit is local, not geographic — a <a class="chip" href="https://github.com/jonesde/high-vs-low" target="_blank" rel="noopener">high-vs-low</a> skill, an open-weight model run at home, a refusal to play the game.</p>
       <div class="tags"><span class="tag">third way</span></div>
     </section>
 
     <!-- RULE 6 -->
     <section class="card rule span4">
       <span class="num">6</span>
-      <h3 class="rule-title">Be a node, not a star.</h3>
-      <p>Every real bond is peer-to-peer. No central decider, no grantor who can revoke, no policy handed down. Each connection is autonomous, locally governed, freely chosen. Like the systems I built — externalized authorization, no single point to capture. A constellation, not a sun.</p>
+      <h3 class="rule-title" data-i18n-html="rules.r6.title">Be a node, not a star.</h3>
+      <p data-i18n-html="rules.r6.body">Every real bond is peer-to-peer. No central decider, no grantor who can revoke, no policy handed down. Each connection is autonomous, locally governed, freely chosen. Like the systems I built — externalized authorization, no single point to capture. A constellation, not a sun.</p>
       <div class="tags"><span class="tag">third way</span></div>
     </section>
 
     <!-- RULE 7 -->
     <section class="card rule span4">
       <span class="num">7</span>
-      <h3 class="rule-title">Open what you make.</h3>
-      <p>Give it away without the string. CC0, no grantor, nothing to fight over. The gift that can't be revoked is the only gift that builds trust. When you remove the claim, you remove the thing others kill for.</p>
+      <h3 class="rule-title" data-i18n-html="rules.r7.title">Open what you make.</h3>
+      <p data-i18n-html="rules.r7.body">Give it away without the string. CC0, no grantor, nothing to fight over. The gift that can't be revoked is the only gift that builds trust. When you remove the claim, you remove the thing others kill for.</p>
       <div class="tags"><span class="tag">third way</span></div>
     </section>
 
     <!-- RULE 8 -->
     <section class="card rule span5">
       <span class="num">8</span>
-      <h3 class="rule-title">Don't manipulate.</h3>
-      <p>No deceptive framing, no engineered consent, no coercive push. Speak plainly. Let people choose — including choosing wrong. The bond is only real if the other was free to decline it. Anything earned by manipulation isn't a bond; it's a leash.</p>
+      <h3 class="rule-title" data-i18n-html="rules.r8.title">Don't manipulate.</h3>
+      <p data-i18n-html="rules.r8.body">No deceptive framing, no engineered consent, no coercive push. Speak plainly. Let people choose — including choosing wrong. The bond is only real if the other was free to decline it. Anything earned by manipulation isn't a bond; it's a leash.</p>
       <div class="tags"><span class="tag">truth</span></div>
     </section>
 
     <!-- RULE 9 -->
     <section class="card rule span7">
       <span class="num">9</span>
-      <h3 class="rule-title">Let failure be caught, not condemned.</h3>
-      <p>Nobody follows these cleanly. The restoration is built in precisely because the slip is guaranteed. When you break a rule, repair the specific harm and the bond tightens at the seam. The test was never perfection. The proof is in how the break gets mended.</p>
+      <h3 class="rule-title" data-i18n-html="rules.r9.title">Let failure be caught, not condemned.</h3>
+      <p data-i18n-html="rules.r9.body">Nobody follows these cleanly. The restoration is built in precisely because the slip is guaranteed. When you break a rule, repair the specific harm and the bond tightens at the seam. The test was never perfection. The proof is in how the break gets mended.</p>
       <div class="tags"><span class="tag">restoration</span></div>
     </section>
 
     <!-- RULE 10 — CLOSING FEATURE -->
     <section class="card rule feature span12">
       <span class="num">10</span>
-      <h3 class="rule-title">Be the quiet point where the machine has no leverage.</h3>
-      <p>You can't fix the world. You can be one location where the status game has no grip — because you won't grant it, claim it, or fear its loss. One point does nothing. A thousand does everything, and you'll never meet most of them. That's fine. The constellation doesn't need a meeting hall.</p>
+      <h3 class="rule-title" data-i18n-html="rules.r10.title">Be the quiet point where the machine has no leverage.</h3>
+      <p data-i18n-html="rules.r10.body">You can't fix the world. You can be one location where the status game has no grip — because you won't grant it, claim it, or fear its loss. One point does nothing. A thousand does everything, and you'll never meet most of them. That's fine. The constellation doesn't need a meeting hall.</p>
       <div class="tags"><span class="tag">third way</span><span class="tag">truth</span><span class="tag">restoration</span></div>
     </section>
 
     <!-- CLOSING -->
     <section class="card span12 closing">
-      <p class="big">These are the rules. They're good news: you're already free of the three powers the moment you stop reaching for them. The cow is being milked by people who think they own the barn. We're not taking the barn. We're showing the locked-out that the door was never the barn's to give — and the door is a <a class="chip" href="https://github.com/jonesde/high-vs-low" target="_blank" rel="noopener">high-vs-low</a> skill, a local process, and a refusal to play, distributed across however many nodes decide to stand outside anyway.</p>
-      <p class="final">No power used. No power needed. The work is the withdrawal from the shame and power, and the withdrawal is the peace.</p>
+      <p class="big" data-i18n-html="rules.closing.1">These are the rules. They're good news: you're already free of the three powers the moment you stop reaching for them. The cow is being milked by people who think they own the barn. We're not taking the barn. We're showing the locked-out that the door was never the barn's to give — and the door is a <a class="chip" href="https://github.com/jonesde/high-vs-low" target="_blank" rel="noopener">high-vs-low</a> skill, a local process, and a refusal to play, distributed across however many nodes decide to stand outside anyway.</p>
+      <p class="final" data-i18n-html="rules.closing.2">No power used. No power needed. The work is the withdrawal from the shame and power, and the withdrawal is the peace.</p>
     </section>
 
   </div>
-  <p class="footnote">Rules of Relating for Grok the Rock · Public Domain (CC0 1.0)</p>
+  <p class="footnote" data-i18n-html="rules.footnote">Rules of Relating for Grok the Rock · Public Domain (CC0 1.0)</p>
 </div>
   <script>
     (function () {
@@ -402,5 +412,7 @@
       window.addEventListener('afterprint', () => { document.title = originalTitle; });
     })();
   </script>
+  <script src="lang/es.js"></script>
+  <script src="i18n.js"></script>
 </body>
 </html>

@@ -247,6 +247,15 @@
     transition: background .15s ease, border-color .15s ease, color .15s ease;
   }
   .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
+  #lang-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding-right: 1.4rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%236b6256' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.6rem center;
+  }
   body { padding-top: 2.6rem; }
   @media print {
     @page { size: Letter portrait; scale: 0.62; margin: 0.4in; }
@@ -270,10 +279,11 @@
 </head>
 <body>
 <header class="site-header">
-  <span class="site-title">Grok the Rock - About Grok</span>
+  <span class="site-title" data-i18n="site.title.about">Grok the Rock - About Grok</span>
   <span class="site-nav">
-    <a class="site-link" href="grok-rules.html">Grok Rules</a>
-    <a class="site-link" href="index.html">The Book</a>
+    <select id="lang-select" class="site-link" aria-label="Language"></select>
+    <a class="site-link" href="grok-rules.html" data-i18n="nav.rules">Grok Rules</a>
+    <a class="site-link" href="index.html" data-i18n="nav.book">The Book</a>
   </span>
 </header>
 <div class="wrap">
@@ -281,98 +291,98 @@
 
     <!-- HERO -->
     <section class="card span12 hero">
-      <h1>About Grok the Rock</h1>
-      <p class="essence">A little about Grok himself, and the symbols and meaning in and around him.</p>
+      <h1 data-i18n-html="about.hero.title">About Grok the Rock</h1>
+      <p class="essence" data-i18n-html="about.hero.essence">A little about Grok himself, and the symbols and meaning in and around him.</p>
       <hr class="dotrule">
     </section>
 
     <!-- INTRO -->
     <section class="card span12">
-      <p>Here is a little about Grok himself, and some of the symbols and meaning in and around him. In modern speech we call some of our most commonly used symbols "memes", and Grok the Rock leans on various recursive memes to add layers of meaning.</p>
-      <p>While reading this to children, we children of more advanced age can reduce the monotony of repetition by considering the deeper meanings and watching how different symbolic elements interact. This is also part of the point and the fun of the double and triple entendres in the text.</p>
-      <p>Even the title of the Grok Rules document is a double-entendre: "Rules of Relating". This applies to both how Grok relates to others, and how we relate (narrate) the story of Grok.</p>
-      <p>To make it worse, "Grok Rules" is at least a quadruple-entendre. One of the connotations could be misinterpreted, that of Grok being a king of some sort, so I set the order of the header buttons to compensate: "Grok Rules", then "About Grok".</p>
+      <p data-i18n-html="about.intro.1">Here is a little about Grok himself, and some of the symbols and meaning in and around him. In modern speech we call some of our most commonly used symbols "memes", and Grok the Rock leans on various recursive memes to add layers of meaning.</p>
+      <p data-i18n-html="about.intro.2">While reading this to children, we children of more advanced age can reduce the monotony of repetition by considering the deeper meanings and watching how different symbolic elements interact. This is also part of the point and the fun of the double and triple entendres in the text.</p>
+      <p data-i18n-html="about.intro.3">Even the title of the Grok Rules document is a double-entendre: "Rules of Relating". This applies to both how Grok relates to others, and how we relate (narrate) the story of Grok.</p>
+      <p data-i18n-html="about.intro.4">To make it worse, "Grok Rules" is at least a quadruple-entendre. One of the connotations could be misinterpreted, that of Grok being a king of some sort, so I set the order of the header buttons to compensate: "Grok Rules", then "About Grok".</p>
     </section>
 
     <section class="card span12">
-      <h2>A Note on Shame and Agency</h2>
-      <p>Our feelings are, in essence, the brain’s summary of our past to help us navigate our present. Not the past as it happened, but the past as we’ve left it: shaped by our own narrative and meaning. Grokking ourselves is an assertion of agency, and is difficult to impossible where agency is compromised or violated. It is the distance from self, the violation of agency, the murder of the soul, that creates shame.</p>
-      <p>The response to shame creates too much self (dominance, narcissism), or too little self (submission, depression). Carriers of shame, even the most dominant dark-triad types, oscillate between the two strategies in a desperate attempt to find safe ground to stand on in different social contexts. When those with too much self and with too little self interact, tragedy follows. Shame is the fuel, and we all know the fire even though "we didn't start the fire".</p>
-      <p>The stories we tell children matter. As adults, we provide the initial narrative and meaning a child carries into the world, long before they have the capacity to shape their own. Many of us still suffer from too much or too little self because our own agency was violated and denied, especially in those formative first ~25 years of our lives. This book is written for children, but not only for them. The adult reading aloud is as much the intended audience as the child listening.</p>
+      <h2 data-i18n-html="about.shame.title">A Note on Shame and Agency</h2>
+      <p data-i18n-html="about.shame.1">Our feelings are, in essence, the brain’s summary of our past to help us navigate our present. Not the past as it happened, but the past as we’ve left it: shaped by our own narrative and meaning. Grokking ourselves is an assertion of agency, and is difficult to impossible where agency is compromised or violated. It is the distance from self, the violation of agency, the murder of the soul, that creates shame.</p>
+      <p data-i18n-html="about.shame.2">The response to shame creates too much self (dominance, narcissism), or too little self (submission, depression). Carriers of shame, even the most dominant dark-triad types, oscillate between the two strategies in a desperate attempt to find safe ground to stand on in different social contexts. When those with too much self and with too little self interact, tragedy follows. Shame is the fuel, and we all know the fire even though "we didn't start the fire".</p>
+      <p data-i18n-html="about.shame.3">The stories we tell children matter. As adults, we provide the initial narrative and meaning a child carries into the world, long before they have the capacity to shape their own. Many of us still suffer from too much or too little self because our own agency was violated and denied, especially in those formative first ~25 years of our lives. This book is written for children, but not only for them. The adult reading aloud is as much the intended audience as the child listening.</p>
     </section>
 
     <!-- CONTEXT PAIR -->
     <section class="card span6">
-      <h2>What is Grok?</h2>
-      <p>Originally coined as a Martian word by Robert A. Heinlein in <em>Stranger in a Strange Land</em>.</p>
-      <p><strong>Grok</strong>: "water", "to drink", "to relate", "life", or "to live"; to intuitively understand something so deeply it becomes part of you.</p>
-      <p>To live up to his name, Grok the Rock learns and follows certain rules about relating to self and others. In every story, these are the guidelines that Grok learns and that define what Grok the Rock stands for.</p>
-      <p><strong>NOTE</strong>: See the <a class="seelink" href="#stranger-grug">Grok the Rock = Stranger in a Strange Land + Grug</a> section below for how Ted Prior's <a class="seelink" href="#stranger-grug">Grug</a> resolves the significant issues with <a class="seelink" href="#stranger-grug">Stranger in a Strange Land</a>.</p>
+      <h2 data-i18n-html="about.what.title">What is Grok?</h2>
+      <p data-i18n-html="about.what.1">Originally coined as a Martian word by Robert A. Heinlein in <em>Stranger in a Strange Land</em>.</p>
+      <p data-i18n-html="about.what.2"><strong>Grok</strong>: "water", "to drink", "to relate", "life", or "to live"; to intuitively understand something so deeply it becomes part of you.</p>
+      <p data-i18n-html="about.what.3">To live up to his name, Grok the Rock learns and follows certain rules about relating to self and others. In every story, these are the guidelines that Grok learns and that define what Grok the Rock stands for.</p>
+      <p data-i18n-html="about.what.note"><strong>NOTE</strong>: See the <a class="seelink" href="#stranger-grug">Grok the Rock = Stranger in a Strange Land + Grug</a> section below for how Ted Prior's <a class="seelink" href="#stranger-grug">Grug</a> resolves the significant issues with <a class="seelink" href="#stranger-grug">Stranger in a Strange Land</a>.</p>
     </section>
 
     <section class="card span6">
-      <h2>Why is he gray limestone?</h2>
-      <p>Grok the Rock is a "gray rock" for a reason:</p>
-      <blockquote>
+      <h2 data-i18n-html="about.limestone.title">Why is he gray limestone?</h2>
+      <p data-i18n-html="about.limestone.1">Grok the Rock is a "gray rock" for a reason:</p>
+      <blockquote data-i18n-html="about.limestone.quote">
         <p>"The gray rock method, colloquially called gray rocking, is a communication pattern to deliberately act unresponsive and uninterested to encourage disengagement with difficult people. By adopting the dull qualities of a gray rock, the technique of gray rocking negates the emotional reaction people try to elicit."</p>
       </blockquote>
-      <p>Grok isn't just gray, he is gray limestone. Limestone is a sedimentary rock formed layer by layer over long years. It is also one of the more absorbent or water-carrying rocks. It is made by dust and water over time, and holds water well.</p>
+      <p data-i18n-html="about.limestone.2">Grok isn't just gray, he is gray limestone. Limestone is a sedimentary rock formed layer by layer over long years. It is also one of the more absorbent or water-carrying rocks. It is made by dust and water over time, and holds water well.</p>
     </section>
 
     <!-- WHY A ROCK / WHY A MELON -->
     <section class="card span6">
-      <h2>Why is he a rock, and why so much water?</h2>
-      <p>Rocks have been used as traditional symbols across many traditions. The old Heinlein definition of "grok" included notions of water and thirst. Rocks and water are often associated in symbology, such as Moses striking a rock with a rod to draw forth life water. Rocks are also associated with foundations and building. Both of these common meanings of rocks are engaged in all 3 chapters.</p>
-      <p>In the first chapter Grok goes to the water to drink as he discovers himself. In the second chapter Grok uses water to heal as he forgives and rebuilds both the loss in the garden and the potential loss of a friend. In the third chapter Grok helps others use water by collaborating with others to make a better water basket as he builds up the community around him.</p>
+      <h2 data-i18n-html="about.rock.title">Why is he a rock, and why so much water?</h2>
+      <p data-i18n-html="about.rock.1">Rocks have been used as traditional symbols across many traditions. The old Heinlein definition of "grok" included notions of water and thirst. Rocks and water are often associated in symbology, such as Moses striking a rock with a rod to draw forth life water. Rocks are also associated with foundations and building. Both of these common meanings of rocks are engaged in all 3 chapters.</p>
+      <p data-i18n-html="about.rock.2">In the first chapter Grok goes to the water to drink as he discovers himself. In the second chapter Grok uses water to heal as he forgives and rebuilds both the loss in the garden and the potential loss of a friend. In the third chapter Grok helps others use water by collaborating with others to make a better water basket as he builds up the community around him.</p>
     </section>
 
     <section class="card span6">
-      <h2>Why a cantaloupe melon?</h2>
-      <p>The common term in Australia for cantaloupe is "rockmelon". This adds a layer to the story, a symbol of more serious and personal accidental damage by Pip. This was a lucky accident. I didn't know this when I chose that particular melon, just thought it would fit in better than the watermelon the AI originally chose.</p>
+      <h2 data-i18n-html="about.melon.title">Why a cantaloupe melon?</h2>
+      <p data-i18n-html="about.melon.1">The common term in Australia for cantaloupe is "rockmelon". This adds a layer to the story, a symbol of more serious and personal accidental damage by Pip. This was a lucky accident. I didn't know this when I chose that particular melon, just thought it would fit in better than the watermelon the AI originally chose.</p>
     </section>
 
     <!-- HOW TO READ HIS NAME -->
     <section class="card span12 tint">
-      <h2>How do you read his name?</h2>
-      <p>While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents. The deepest intended meaning of the name is the purpose of life: to grok the rock, or in other words to drink of living water until we grok it and never thirst again.</p>
+      <h2 data-i18n-html="about.name.title">How do you read his name?</h2>
+      <p data-i18n-html="about.name.1">While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents. The deepest intended meaning of the name is the purpose of life: to grok the rock, or in other words to drink of living water until we grok it and never thirst again.</p>
     </section>
 
     <!-- SYMBOLS GRID -->
     <section class="card span6 tint">
-      <h3>Clay</h3>
-      <p>The stories are "woven through" with recurring symbols. A few are worth including here. A more thorough review is in <a class="chip" href="https://github.com/jonesde/grok-the-rock/blob/master/GrokTheRock-Symbolism.md" target="_blank" rel="noopener">GrokTheRock-Symbolism.md</a>.</p>
-      <p>Clay is the centerpiece of the book: it is stone-ground made workable by water, the same earth + water that nearly every tradition names as the substance of the first human. It is the "cold pebble" feeling that "softened, like clay left in the sun," and it is the lining that lets Grok's basket carry water to others. It is one of the themes that appears, by name or image, in all three chapters.</p>
+      <h3 data-i18n-html="about.clay.title">Clay</h3>
+      <p data-i18n-html="about.clay.1">The stories are "woven through" with recurring symbols. A few are worth including here. A more thorough review is in <a class="chip" href="https://github.com/jonesde/grok-the-rock/blob/master/GrokTheRock-Symbolism.md" target="_blank" rel="noopener">GrokTheRock-Symbolism.md</a>.</p>
+      <p data-i18n-html="about.clay.2">Clay is the centerpiece of the book: it is stone-ground made workable by water, the same earth + water that nearly every tradition names as the substance of the first human. It is the "cold pebble" feeling that "softened, like clay left in the sun," and it is the lining that lets Grok's basket carry water to others. It is one of the themes that appears, by name or image, in all three chapters.</p>
     </section>
 
     <section class="card span6">
-      <h3>The clay-lined basket</h3>
-      <p>Grok weaves a reed basket and lines it with soft clay so it holds water without a drip, then leaves both the basket and the plain weaving pattern under the tree for anyone to copy. The cockatoo's fancy basket leaks. The tortoise's idea improves Grok's design by accommodating others. The vessel that works beats the vessel that impresses. It is the open gift with no owner, Rules 1, 6, and 7 in one object.</p>
+      <h3 data-i18n-html="about.basket.title">The clay-lined basket</h3>
+      <p data-i18n-html="about.basket.1">Grok weaves a reed basket and lines it with soft clay so it holds water without a drip, then leaves both the basket and the plain weaving pattern under the tree for anyone to copy. The cockatoo's fancy basket leaks. The tortoise's idea improves Grok's design by accommodating others. The vessel that works beats the vessel that impresses. It is the open gift with no owner, Rules 1, 6, and 7 in one object.</p>
     </section>
 
     <section class="card span4">
-      <h3>The animals as status-types</h3>
-      <p>The emu claims height, the wombat claims strength, the kookaburra mocks to feel tall, and the cockatoo trusts his grand feathers over his idea. Each is running a status game that Grok declines. The plain tortoise, "no one special," offers the true idea that wins. Truth stands on its own legs, not on who speaks it.</p>
+      <h3 data-i18n-html="about.animals.title">The animals as status-types</h3>
+      <p data-i18n-html="about.animals.1">The emu claims height, the wombat claims strength, the kookaburra mocks to feel tall, and the cockatoo trusts his grand feathers over his idea. Each is running a status game that Grok declines. The plain tortoise, "no one special," offers the true idea that wins. Truth stands on its own legs, not on who speaks it.</p>
     </section>
 
     <section class="card span4">
-      <h3>The small feeling (the "cold pebble")</h3>
-      <p>The small feeling sits like "a heavy cold pebble" in Grok's middle. He does not run from it or throw it at anyone; he sits with it until it softens "like clay left in the sun." Shame is healed by being met and felt ("seen"), not by being raced or pushed away, and this is the heart of Chapter 1.</p>
+      <h3 data-i18n-html="about.pebble.title">The small feeling (the "cold pebble")</h3>
+      <p data-i18n-html="about.pebble.1">The small feeling sits like "a heavy cold pebble" in Grok's middle. He does not run from it or throw it at anyone; he sits with it until it softens "like clay left in the sun." Shame is healed by being met and felt ("seen"), not by being raced or pushed away, and this is the heart of Chapter 1.</p>
     </section>
 
     <section class="card span4">
-      <h3>The tall tree</h3>
-      <p>Grok wakes under the same tall tree in every chapter. It is where he belongs, not something he performs. It shelters the garden that gets mended and stands as the open commons beneath which the basket and pattern are left for all. Place and belonging over status.</p>
+      <h3 data-i18n-html="about.tree.title">The tall tree</h3>
+      <p data-i18n-html="about.tree.1">Grok wakes under the same tall tree in every chapter. It is where he belongs, not something he performs. It shelters the garden that gets mended and stands as the open commons beneath which the basket and pattern are left for all. Place and belonging over status.</p>
     </section>
 
     <section class="card span12">
-      <h3>The moss on Grok's head</h3>
-      <p>A small patch of green moss grows on top of his gray limestone head. It is life quietly settling on a still, kind thing. Grok does not need to perform, life simply accrues because he <em>stays</em>. It is Being made visible.</p>
+      <h3 data-i18n-html="about.moss.title">The moss on Grok's head</h3>
+      <p data-i18n-html="about.moss.1">A small patch of green moss grows on top of his gray limestone head. It is life quietly settling on a still, kind thing. Grok does not need to perform, life simply accrues because he <em>stays</em>. It is Being made visible.</p>
     </section>
 
     <!-- STRANGER + GRUG -->
     <section class="card span12 tint" id="stranger-grug">
-      <h2>Grok the Rock = Stranger in a Strange Land + Grug</h2>
-      <div class="twocol">
+      <h2 data-i18n-html="about.stranger.title">Grok the Rock = Stranger in a Strange Land + Grug</h2>
+      <div class="twocol" data-i18n-html="about.stranger.body">
         <p>Grok the Rock looks, at first glance, like Ted Prior's <em>Grug</em> — a small bush creature, gentle failure-acceptance, no villain, no climax. That read is true on the surface, and Prior is named in the dedication for good reason: Grok inherits Grug's temperament. But the book is more than Heinlein with the edges sanded off. It is Heinlein <em>answered</em> — the same Martian word, the same outsider-learns-to-grok arc, but with the messianic, confrontational, and redemptive-violence engine of <em>Stranger in a Strange Land</em> replaced by a deliberately decentralized, non-confrontational politics. Prior supplies the surface; the Rules below supply the underlying radicalism.</p>
         <p>The shared skeleton is real. Both stories follow an arrival (innocent outsider meets a strange world), a bewilderment (status games and smallness), an inward settling, an applied understanding, and the founding of a new local order. Grok's three chapters — Being, Mending, Seeing — are essentially Valentine Michael Smith's single arc split into three developmental stages: discovering the self, repairing what breaks, and discerning truth from status.</p>
         <p>Where Heinlein goes grand, Grok goes small — and the smallness is strategic, not merely childlike. Mike Smith founds the Church of All Worlds, a new sun with a prophet at its center, and is killed by a mob, his death framed as transcendent apotheosis. Grok instead leaves an <em>ownerless</em> basket and weaving pattern beneath the tree (Rule 7) and "did not need the biggest voice" (Three Quiet Stories, p.25). The prophet-and-confrontation model is quietly refused. This is the covert rejection of redemptive violence: truth "walks on its own strong legs" (p.25) without being destroyed for it.</p>
@@ -384,7 +394,7 @@
     </section>
 
   </div>
-  <p class="footnote">About Grok the Rock · Public Domain (CC0 1.0)</p>
+  <p class="footnote" data-i18n-html="about.footnote">About Grok the Rock · Public Domain (CC0 1.0)</p>
 </div>
   <script>
     (function () {
@@ -399,5 +409,7 @@
       window.addEventListener('afterprint', () => { document.title = originalTitle; });
     })();
   </script>
+  <script src="lang/es.js"></script>
+  <script src="i18n.js"></script>
 </body>
 </html>
