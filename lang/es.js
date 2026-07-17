@@ -27,158 +27,385 @@ window.I18N.es = {
 
   "dedication.alt": "Página de Dedicación",
 
-  "dedication": "<p><b>Para cada explorador, pequeño y grande,</b></p><p><b>grokkeando el mundo a su propia manera gentil.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Y para cada pequeño sentimiento</p><p>  que solo necesita ser visto,</p><p>cada ruptura lista para reparar</p><p>  que solo necesita ser cuidada,</p><p>y para cada palabra verdadera</p><p>  que permanece aunque no sea oída.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Con gratitud a los Grokkers Originales:</p><p><em><b>Robert A. Heinlein</b> \"Ciudadano de una Tierra Extraña\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Ciudadano de una Tierra Extraña + Grug</a></p><p>(\"Grug\" limpia \"Ciudadano\" para niños y adultos)</p>",
+  "dedication": "<p><b>Para cada explorador, pequeño y grande,</b></p>" +
+    "<p><b>grokkeando el mundo a su propia manera gentil.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Y para cada pequeño sentimiento</p><p>  que solo necesita ser visto,</p>" +
+    "<p>cada ruptura lista para reparar</p><p>  que solo necesita ser cuidada,</p>" +
+    "<p>y para cada palabra verdadera</p><p>  que permanece aunque no sea oída.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Con gratitud a los Grokkers Originales:</p><p><em><b>Robert A. Heinlein</b>" +
+    " \"Ciudadano de una Tierra Extraña\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
+    "<p>&nbsp;</p>" +
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Ciudadano de una Tierra Extraña + Grug</a>" +
+    "</p><p>(\"Grug\" limpia \"Ciudadano\" para niños y adultos)</p>",
 
   "p1.alt": "Página 1 (Página de título del Capítulo 1)",
   "p2.alt": "Página 2",
-  "p2": "<p>Grok la Roca despertó bajo el árbol alto.</p><p>El sol estaba cálido en su espalda de piedra caliza.</p><p>Grok se sentía feliz.</p><hr><p>Miró el mundo ancho</p><p>como si lo viera por primera vez.</p>",
+  "p2": "<p>Grok la Roca despertó bajo el árbol alto.</p><p>El sol estaba cálido en su espalda de piedra caliza.</p>" +
+    "<p>Grok se sentía feliz.</p><hr><p>Miró el mundo ancho</p><p>como si lo viera por primera vez.</p>",
 
   "p3.alt": "Página 3",
-  "p3": "<p>Pronto caminó hasta el bebedero.</p><p>Una emú alta ya estaba allí.</p><p>La emú estiró su largo cuello y dijo:</p><p>“Soy la más alta. Ponte detrás de mí.”</p>",
+  "p3": "<p>Pronto caminó hasta el bebedero.</p><p>Una emú alta ya estaba allí.</p>" +
+    "<p>La emú estiró su largo cuello y dijo:</p><p>“Soy la más alta. Ponte detrás de mí.”</p>",
 
   "p4.alt": "Página 4",
-  "p4": "<p>Luego un uómbat rodó hasta allí, redondo y sólido.</p><p>“Soy el más fuerte”, dijo el uómbat.</p><p>“Observen cómo cavo.”</p><hr><p>Grok intentó cavar también.</p><p>Su hoyo era pequeño.</p><p>Se sintió más pequeño que el hoyo.</p>",
+  "p4": "<p>Luego un uómbat rodó hasta allí, redondo y sólido.</p><p>“Soy el más fuerte”, dijo el uómbat.</p>" +
+    "<p>“Observen cómo cavo.”</p><hr><p>Grok intentó cavar también.</p><p>Su hoyo era pequeño.</p>" +
+    "<p>Se sintió más pequeño que el hoyo.</p>",
 
   "p5.alt": "Página 5",
-  "p5": "<p>Una cucaburra se rió desde una rama.</p><p>“¡Miren a Grok! ¡Tan bajito! ¡Tan pedregoso!”</p><hr><p>El pequeño sentimiento creció dentro de Grok.</p><p>Se sentía como una piedra fría y pesada en su centro.</p>",
+  "p5": "<p>Una cucaburra se rió desde una rama.</p><p>“¡Miren a Grok! ¡Tan bajito! ¡Tan pedregoso!”</p><hr>" +
+    "<p>El pequeño sentimiento creció dentro de Grok.</p><p>Se sentía como una piedra fría y pesada en su centro.</p>",
 
   "p6.alt": "Página 6",
-  "p6": "<p>Quiso hacerse parecer más grande.</p><p>Se paró sobre un tronco.</p><p>Hinchó su pecho.</p><p>Incluso intentó golpear el suelo como el canguro.</p><hr><p>Solo hizo la piedra fría más pesada.</p>",
+  "p6": "<p>Quiso hacerse parecer más grande.</p><p>Se paró sobre un tronco.</p><p>Hinchó su pecho.</p>" +
+    "<p>Incluso intentó golpear el suelo como el canguro.</p><hr><p>Solo hizo la piedra fría más pesada.</p>",
 
   "p7.alt": "Página 7",
-  "p7": "<p>Esa noche Grok se sentó solo junto a una pequeña fogata.</p><p>Abrazó sus rodillas.</p><p>Dejó que el pequeño sentimiento se quedara.</p><p>No huyó de él.</p><p>No lo arrojó a nadie más.</p><hr><p>Lentamente el sentimiento se suavizó,</p><p>como arcilla dejada al sol.</p><p>Comenzó a entenderlo.</p>",
+  "p7": "<p>Esa noche Grok se sentó solo junto a una pequeña fogata.</p><p>Abrazó sus rodillas.</p>" +
+    "<p>Dejó que el pequeño sentimiento se quedara.</p><p>No huyó de él.</p><p>No lo arrojó a nadie más.</p><hr>" +
+    "<p>Lentamente el sentimiento se suavizó,</p><p>como arcilla dejada al sol.</p><p>Comenzó a entenderlo.</p>",
 
   "p8.alt": "Página 8",
-  "p8": "<p>A la mañana siguiente Grok volvió al bebedero.</p><p>No se subió a nada.</p><p>No intentó ser más alto ni más ruidoso.</p><p>Simplemente bebió,</p><p>luego se sentó en una roca cálida y tarareó.</p><hr><p>Nada grande había cambiado por fuera.</p><p>Pero todo se sentía más ligero por dentro.</p><p>Estaba empezando a grokkearse a sí mismo.</p>",
+  "p8": "<p>A la mañana siguiente Grok volvió al bebedero.</p><p>No se subió a nada.</p>" +
+    "<p>No intentó ser más alto ni más ruidoso.</p><p>Simplemente bebió,</p>" +
+    "<p>luego se sentó en una roca cálida y tarareó.</p><hr><p>Nada grande había cambiado por fuera.</p>" +
+    "<p>Pero todo se sentía más ligero por dentro.</p><p>Estaba empezando a grokkearse a sí mismo.</p>",
 
   "p9.alt": "Página 9",
-  "p9": "<p>Pasó el día haciendo un suave nido de hojas y musgo</p><p>del tamaño justo para un pequeño compañero de roca.</p><p>Cuando terminó, sonrió.</p><p>Era pequeño.</p><p>Era suyo.</p><p>Era suficiente.</p><hr><p>Desde ese día, cuando la piedra fría intentaba crecer otra vez,</p><p>Grok se quedaba quieto hasta que se volvía silencio.</p><p>Solo se quedaba Grok.</p><p>Y eso se sentía como el mejor tamaño de todos.</p>",
+  "p9": "<p>Pasó el día haciendo un suave nido de hojas y musgo</p>" +
+    "<p>del tamaño justo para un pequeño compañero de roca.</p><p>Cuando terminó, sonrió.</p><p>Era pequeño.</p>" +
+    "<p>Era suyo.</p><p>Era suficiente.</p><hr><p>Desde ese día, cuando la piedra fría intentaba crecer otra vez,</p>" +
+    "<p>Grok se quedaba quieto hasta que se volvía silencio.</p><p>Solo se quedaba Grok.</p>" +
+    "<p>Y eso se sentía como el mejor tamaño de todos.</p>",
 
   "p10.alt": "Página 10 (Página de título del Capítulo 2)",
   "p11.alt": "Página 11",
-  "p11": "<p>Grok la Roca despertó bajo el árbol alto.</p><p>Grok cuidaba su pequeño jardín de melones y batatas.</p><p>Le encantaba verlos crecer.</p><p>Cada nueva hoja se sentía como una pequeña maravilla.</p>",
+  "p11": "<p>Grok la Roca despertó bajo el árbol alto.</p><p>Grok cuidaba su pequeño jardín de melones y batatas.</p>" +
+    "<p>Le encantaba verlos crecer.</p><p>Cada nueva hoja se sentía como una pequeña maravilla.</p>",
 
   "p12.alt": "Página 12",
-  "p12": "<p>Esa tarde su amigo,</p><p>un joven equidna llamado Pip,</p><p>atravesó el jardín mirando hacia atrás</p><p>y derribó la mejor enredadera de melón.</p><hr><p>El melón grande se abrió en el suelo.</p><p>Semillas y dulce jugo se derramaron por todas partes.</p>",
+  "p12": "<p>Esa tarde su amigo,</p><p>un joven equidna llamado Pip,</p><p>atravesó el jardín mirando hacia atrás</p>" +
+    "<p>y derribó la mejor enredadera de melón.</p><hr><p>El melón grande se abrió en el suelo.</p>" +
+    "<p>Semillas y dulce jugo se derramaron por todas partes.</p>",
 
   "p13.alt": "Página 13",
-  "p13": "<p>Pip se quedó congelado.</p><p>Sus púas temblaron.</p><p>“Lo arruiné”, susurró.</p><p>“Estarás enojado. Todos estarán enojados.”</p><hr><p>Algunas criaturas del monte se reunieron.</p><p>“Hagan que se vaya”, murmuró una comadreja.</p><p>“Debería traerte tres melones nuevos”, dijo una lagartija.</p>",
+  "p13": "<p>Pip se quedó congelado.</p><p>Sus púas temblaron.</p><p>“Lo arruiné”, susurró.</p>" +
+    "<p>“Estarás enojado. Todos estarán enojados.”</p><hr><p>Algunas criaturas del monte se reunieron.</p>" +
+    "<p>“Hagan que se vaya”, murmuró una comadreja.</p>" +
+    "<p>“Debería traerte tres melones nuevos”, dijo una lagartija.</p>",
 
   "p14.alt": "Página 14",
-  "p14": "<p>Grok miró la enredadera rota.</p><p>Miró los ojos preocupados de Pip.</p><hr><p>No alzó la voz.</p><p>No señaló con el dedo.</p><p>Tomó un palo para cavar</p><p>y comenzó a preparar la tierra suave.</p><hr><p>“Ven”, dijo Grok con suavidad.</p><p>“Plantamos nuevas semillas juntos.”</p>",
+  "p14": "<p>Grok miró la enredadera rota.</p><p>Miró los ojos preocupados de Pip.</p><hr><p>No alzó la voz.</p>" +
+    "<p>No señaló con el dedo.</p><p>Tomó un palo para cavar</p><p>y comenzó a preparar la tierra suave.</p><hr>" +
+    "<p>“Ven”, dijo Grok con suavidad.</p><p>“Plantamos nuevas semillas juntos.”</p>",
 
   "p15.alt": "Página 15",
-  "p15": "<p>Pip parpadeó.</p><p>Luego se acercó.</p><p>Juntos plantaron.</p><p>Juntos regaron.</p><p>Juntos construyeron una pequeña cerca de ramitas</p><p>para que nadie pisara ahí por error otra vez.</p>",
+  "p15": "<p>Pip parpadeó.</p><p>Luego se acercó.</p><p>Juntos plantaron.</p><p>Juntos regaron.</p>" +
+    "<p>Juntos construyeron una pequeña cerca de ramitas</p><p>para que nadie pisara ahí por error otra vez.</p>",
 
   "p16.alt": "Página 16",
-  "p16": "<p>Mientras trabajaban, Pip le contó a Grok</p><p>que había estado corriendo porque criaturas más grandes</p><p>lo habían perseguido y se burlaban.</p><p>No había visto la enredadera.</p><hr><p>Los días siguientes Pip vino cada mañana.</p><p>Se volvió el mejor cargador de agua del valle.</p><p>Las nuevas enredaderas crecieron fuertes,</p><p>aún más fuertes que las viejas,</p><p>porque dos amigos las cuidaron.</p>",
+  "p16": "<p>Mientras trabajaban, Pip le contó a Grok</p>" +
+    "<p>que había estado corriendo porque criaturas más grandes</p><p>lo habían perseguido y se burlaban.</p>" +
+    "<p>No había visto la enredadera.</p><hr><p>Los días siguientes Pip vino cada mañana.</p>" +
+    "<p>Se volvió el mejor cargador de agua del valle.</p><p>Las nuevas enredaderas crecieron fuertes,</p>" +
+    "<p>aún más fuertes que las viejas,</p><p>porque dos amigos las cuidaron.</p>",
 
   "p17.alt": "Página 17",
-  "p17": "<p>Cuando ocurrieron otros pequeños accidentes</p><p>(como siempre ocurren),</p><p>Grok recordó el melón.</p><p>Ayudó al que se sentía herido.</p><p>También fue amable con el que había chocado.</p><hr><p>Nadie fue enviado lejos.</p><p>Nadie cargó un dolor largo y pesado.</p><p>Solo cuidaron lo roto</p><p>y la amistad se sentía más firme,</p><p>justo en el lugar reparado.</p><hr><p>Grok aprendió que un jardín,</p><p>y una amistad,</p><p>no se mantienen vivos por nunca romperse.</p><p>Se mantienen vivos por ser juntados con suavidad.</p>",
+  "p17": "<p>Cuando ocurrieron otros pequeños accidentes</p><p>(como siempre ocurren),</p>" +
+    "<p>Grok recordó el melón.</p><p>Ayudó al que se sentía herido.</p>" +
+    "<p>También fue amable con el que había chocado.</p><hr><p>Nadie fue enviado lejos.</p>" +
+    "<p>Nadie cargó un dolor largo y pesado.</p><p>Solo cuidaron lo roto</p><p>y la amistad se sentía más firme,</p>" +
+    "<p>justo en el lugar reparado.</p><hr><p>Grok aprendió que un jardín,</p><p>y una amistad,</p>" +
+    "<p>no se mantienen vivos por nunca romperse.</p><p>Se mantienen vivos por ser juntados con suavidad.</p>",
 
   "p18.alt": "Página 18 (Página de título del Capítulo 3)",
   "p19.alt": "Página 19",
-  "p19": "<p>Grok la Roca despertó bajo el árbol alto.</p><p>A Grok le gustaba hacer cosas útiles,</p><p>y ese día trabajó en una canasta de agua</p><p>tejida de juncos y forrada con arcilla suave.</p><p>Al anochecer sostenía el agua sin una gota.</p><hr><p>La giró en sus manos</p><p>y sintió la alegría silenciosa de algo bien hecho.</p>",
+  "p19": "<p>Grok la Roca despertó bajo el árbol alto.</p><p>A Grok le gustaba hacer cosas útiles,</p>" +
+    "<p>y ese día trabajó en una canasta de agua</p><p>tejida de juncos y forrada con arcilla suave.</p>" +
+    "<p>Al anochecer sostenía el agua sin una gota.</p><hr><p>La giró en sus manos</p>" +
+    "<p>y sintió la alegría silenciosa de algo bien hecho.</p>",
 
   "p20.alt": "Página 20",
-  "p20": "<p>Al día siguiente vinieron criaturas a mirar.</p><p>Una cacatúa negra brillante con grandes plumas aterrizó cerca.</p><p>“Esas canastas son ingeniosas”, dijo la cacatúa,</p><p>“pero mi idea para una canasta sería mucho mejor.</p><p>Después de todo, tengo las plumas más grandiosas,</p><p>así que mis pensamientos deben ser los más grandiosos también.”</p><hr><p>Algunos animales jóvenes asintieron con fuerza.</p><p>Siempre asentían cuando hablaba la cacatúa.</p><p>Su voz era tan grandiosa como sus plumas.</p>",
+  "p20": "<p>Al día siguiente vinieron criaturas a mirar.</p>" +
+    "<p>Una cacatúa negra brillante con grandes plumas aterrizó cerca.</p>" +
+    "<p>“Esas canastas son ingeniosas”, dijo la cacatúa,</p><p>“pero mi idea para una canasta sería mucho mejor.</p>" +
+    "<p>Después de todo, tengo las plumas más grandiosas,</p>" +
+    "<p>así que mis pensamientos deben ser los más grandiosos también.”</p><hr>" +
+    "<p>Algunos animales jóvenes asintieron con fuerza.</p><p>Siempre asentían cuando hablaba la cacatúa.</p>" +
+    "<p>Su voz era tan grandiosa como sus plumas.</p>",
 
   "p21.alt": "Página 21",
-  "p21": "<p>Luego una tortuga muy vieja habló con voz lenta y suave.</p><p>Sugirió el pequeño cambio de un asa,</p><p>para que fuera fácil de llevar para amigos menos fuertes que Grok.</p><p>Su caparazón era sencillo. Nadie especial.</p><p>Unos animales voltearon al menos por no ser famosa.</p>",
+  "p21": "<p>Luego una tortuga muy vieja habló con voz lenta y suave.</p><p>Sugirió el pequeño cambio de un asa,</p>" +
+    "<p>para que fuera fácil de llevar para amigos menos fuertes que Grok.</p>" +
+    "<p>Su caparazón era sencillo. Nadie especial.</p><p>Unos animales voltearon al menos por no ser famosa.</p>",
 
   "p22.alt": "Página 22",
-  "p22": "<p>Grok probó ambas ideas.</p><p>El modo de la cacatúa se veía elegante</p><p>pero la canasta se volcaba y goteaba.</p><hr><p>La pequeña idea de la vieja tortuga</p><p>hizo la canasta de Grok cómoda</p><p>y firme para todos.</p>",
+  "p22": "<p>Grok probó ambas ideas.</p><p>El modo de la cacatúa se veía elegante</p>" +
+    "<p>pero la canasta se volcaba y goteaba.</p><hr><p>La pequeña idea de la vieja tortuga</p>" +
+    "<p>hizo la canasta de Grok cómoda</p><p>y firme para todos.</p>",
 
   "p23.alt": "Página 23",
-  "p23": "<p>Grok se sentó con las dos canastas una al lado de la otra.</p><p>No miró las plumas.</p><p>No miró la edad ni la fama.</p><p>Solo miró qué canasta sostenía mejor el agua</p><p>y se sentía más amable en la mano.</p><hr><p>Guardó el mejor modo.</p><p>Luego dejó tanto la buena canasta</p><p>como el sencillo patrón para tejerla</p><p>bajo el árbol grande para que cualquiera la use o copie.</p><p>Sin nombre. Sin “pregúntame primero”.</p>",
+  "p23": "<p>Grok se sentó con las dos canastas una al lado de la otra.</p><p>No miró las plumas.</p>" +
+    "<p>No miró la edad ni la fama.</p><p>Solo miró qué canasta sostenía mejor el agua</p>" +
+    "<p>y se sentía más amable en la mano.</p><hr><p>Guardó el mejor modo.</p>" +
+    "<p>Luego dejó tanto la buena canasta</p><p>como el sencillo patrón para tejerla</p>" +
+    "<p>bajo el árbol grande para que cualquiera la use o copie.</p><p>Sin nombre. Sin “pregúntame primero”.</p>",
 
   "p24.alt": "Página 24",
-  "p24": "<p>Algunos animales aún esperaban oír qué pensaba la cacatúa</p><p>antes de decidir si algo era bueno.</p><p>Pero más y más pequeños</p><p>empezaron a probar las cosas por sí mismos.</p><p>Escuchaban las palabras silenciosas de Grok</p><p>como escuchaban las de la grandiosa cacatúa,</p><p>y luego lo probaban todo con sus propias patas.</p><hr><p>Estaban grokkeando lo verdadero, el qué no el quién.</p>",
+  "p24": "<p>Algunos animales aún esperaban oír qué pensaba la cacatúa</p><p>antes de decidir si algo era bueno.</p>" +
+    "<p>Pero más y más pequeños</p><p>empezaron a probar las cosas por sí mismos.</p>" +
+    "<p>Escuchaban las palabras silenciosas de Grok</p><p>como escuchaban las de la grandiosa cacatúa,</p>" +
+    "<p>y luego lo probaban todo con sus propias patas.</p><hr>" +
+    "<p>Estaban grokkeando lo verdadero, el qué no el quién.</p>",
 
   "p25.alt": "Página 25",
-  "p25": "<p>Grok se sentía en paz.</p><p>No necesitaba la voz más grande.</p><p>Solo necesitaba cosas verdaderas.</p><p>Y Grok vio que las cosas verdaderas</p><p>podían venir de un ave grandiosa</p><p>o de una tortuga polvorienta</p><p>o de un pequeño compañero de roca bajo un árbol.</p><hr><p>Mientras alguien fuera libre de decir</p><p>“eso no funciona”</p><p>y aún ser bienvenido en el valle,</p><p>la palabra verdadera podía seguir caminando</p><p>sobre sus propias y fuertes piernas.</p>",
+  "p25": "<p>Grok se sentía en paz.</p><p>No necesitaba la voz más grande.</p>" +
+    "<p>Solo necesitaba cosas verdaderas.</p><p>Y Grok vio que las cosas verdaderas</p>" +
+    "<p>podían venir de un ave grandiosa</p><p>o de una tortuga polvorienta</p>" +
+    "<p>o de un pequeño compañero de roca bajo un árbol.</p><hr><p>Mientras alguien fuera libre de decir</p>" +
+    "<p>“eso no funciona”</p><p>y aún ser bienvenido en el valle,</p>" +
+    "<p>la palabra verdadera podía seguir caminando</p><p>sobre sus propias y fuertes piernas.</p>",
 
   "p26.alt": "Página 26 - Página Final",
-  "p26": "<p>Y así Grok la Roca se quedó</p><p>un pequeño compañero de piedra caliza</p><p>que podía sentarse con un pequeño sentimiento,</p><p>que reparaba lo roto,</p><p>y que dejaba que cada palabra verdadera</p><p>estuviera en sus propias piernas.</p><hr><p>El valle se sentía más seguro</p><p>porque él lo estaba.</p><hr><p>Siguió explorando con suavidad.</p><p>Y el mundo siguió enseñándole.</p>",
+  "p26": "<p>Y así Grok la Roca se quedó</p><p>un pequeño compañero de piedra caliza</p>" +
+    "<p>que podía sentarse con un pequeño sentimiento,</p><p>que reparaba lo roto,</p>" +
+    "<p>y que dejaba que cada palabra verdadera</p><p>estuviera en sus propias piernas.</p><hr>" +
+    "<p>El valle se sentía más seguro</p><p>porque él lo estaba.</p><hr><p>Siguió explorando con suavidad.</p>" +
+    "<p>Y el mundo siguió enseñándole.</p>",
 
   "site.title.rules": "Grok la Roca - Reglas de Relacionarse",
   "rules.hero.title": "Reglas de Relacionarse para Grok la Roca",
   "rules.hero.essence": "Las instrucciones de funcionamiento para un vínculo entre iguales que no se desvanece.",
   "rules.what.title": "¿Qué es Grok?",
-  "rules.what.1": "Acuñada originalmente como una palabra marciana por Robert A. Heinlein en <em>Ciudadano de una Tierra Extraña</em>.",
-  "rules.what.2": "<strong>Grok</strong>: \"agua\", \"beber\", \"relacionarse\", \"vida\" o \"vivir\"; comprender algo tan profundamente que se vuelve parte de uno.",
-  "rules.what.3": "Para honrar su nombre, Grok la Roca aprende y sigue ciertas reglas sobre cómo relacionarse consigo mismo y con los demás. En cada historia, estas son las pautas que Grok aprende y que definen lo que Grok la Roca representa.",
-  "rules.what.note": "<strong>NOTA</strong>: Ve la sección <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Ciudadano de una Tierra Extraña + Grug</a> en la página Sobre Grok para ver cómo el <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grug</a> de Ted Prior resuelve los problemas significativos de <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Ciudadano de una Tierra Extraña</a>.",
+  "rules.what.1": "Acuñada originalmente como una palabra marciana por Robert A. Heinlein en <em>Ciudadano de una Tierra Extraña</em>" +
+    ".",
+  "rules.what.2": "<strong>Grok</strong>" +
+    ": \"agua\", \"beber\", \"relacionarse\", \"vida\" o \"vivir\"; comprender algo tan profundamente que se vuelve parte de " +
+    "uno.",
+  "rules.what.3": "Para honrar su nombre, Grok la Roca aprende y sigue ciertas reglas sobre cómo relacionarse consigo mismo y con los " +
+    "demás. En cada historia, estas son las pautas que Grok aprende y que definen lo que Grok la Roca representa.",
+  "rules.what.note": "<strong>NOTA</strong>" +
+    ": Ve la sección <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Ciudadano de una Tierra " +
+    "Extraña + Grug</a>" +
+    " en la página Sobre Grok para ver cómo el <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grug</a>" +
+    " de Ted Prior resuelve los problemas significativos de " +
+    "<a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Ciudadano de una Tierra Extraña</a>.",
   "rules.origin.title": "Cómo surgieron estas reglas",
-  "rules.origin.1": "Las reglas de abajo están escritas por IA. Tras verificar que conocía mi trabajo y mantener una larga conversación tecnofilosófica ampliando los temas de comunidades distribuidas y tecnología abierta, usé el siguiente prompt:",
-  "rules.origin.quote": "<p>Eso es, en esencia, a lo que he llegado. Tienes el contexto, ahora escribe las reglas.</p><p>Escribe una lista de \"reglas\" que, si se siguen, construirán vínculos sociales entre personas pares/iguales que perduren indefinidamente. Las reglas no tienen que seguirse perfectamente para ser eficaces, porque la orientación a la restauración que compensa los fallos incrementales a medida que surgen es parte del diseño.</p><p>Escríbelas con mi voz. Escríbelas de tal manera que cuando la gente las lea quiera seguir las reglas, no se sienta disuadida ni limitada por ellas. En otras palabras, te pido que escribas las reglas de un evangelio de la paz.</p>",
-  "rules.origin.2": "No llegué a estas por autoridad. Llegué por el camino largo: viendo que cada sistema centralizado falla a la gente a la que promete proteger, construyendo software que rechazaba el centro porque el centro siempre es capturable, y rastreando la podredumbre hasta su raíz — la vergüenza, y los dos movimientos que hacemos para superarla. Estas no son leyes impuestas. Son las instrucciones de funcionamiento para un vínculo entre iguales que no se desvanece. No tienes que seguirlas perfectamente. Ese es el diseño: la orientación a la restauración atrapa los tropezones, y el atraparlos <em>es</em> el vínculo profundizándose. Así que léelas no como límites sino como la Remoción de Límites — de ti, de la persona a tu lado, de la próxima generación que no tendrá que cargar con lo que aún cargamos nosotros.",
+  "rules.origin.1": "Las reglas de abajo están escritas por IA. Tras verificar que conocía mi trabajo y mantener una larga conversación " +
+    "tecnofilosófica ampliando los temas de comunidades distribuidas y tecnología abierta, usé el siguiente prompt:",
+  "rules.origin.quote": "<p>Eso es, en esencia, a lo que he llegado. Tienes el contexto, ahora escribe las reglas.</p>" +
+    "<p>Escribe una lista de \"reglas\" que, si se siguen, construirán vínculos sociales entre personas pares/iguales que " +
+    "perduren indefinidamente. Las reglas no tienen que seguirse perfectamente para ser eficaces, porque la orientación a la " +
+    "restauración que compensa los fallos incrementales a medida que surgen es parte del diseño.</p>" +
+    "<p>Escríbelas con mi voz. Escríbelas de tal manera que cuando la gente las lea quiera seguir las reglas, no se sienta " +
+    "disuadida ni limitada por ellas. En otras palabras, te pido que escribas las reglas de un evangelio de la paz.</p>",
+  "rules.origin.2": "No llegué a estas por autoridad. Llegué por el camino largo: viendo que cada sistema centralizado falla a la gente a la " +
+    "que promete proteger, construyendo software que rechazaba el centro porque el centro siempre es capturable, y rastreando " +
+    "la podredumbre hasta su raíz — la vergüenza, y los dos movimientos que hacemos para superarla. Estas no son leyes " +
+    "impuestas. Son las instrucciones de funcionamiento para un vínculo entre iguales que no se desvanece. No tienes que " +
+    "seguirlas perfectamente. Ese es el diseño: la orientación a la restauración atrapa los tropezones, y el atraparlos " +
+    "<em>es</em>" +
+    " el vínculo profundizándose. Así que léelas no como límites sino como la Remoción de Límites — de ti, de la persona a tu " +
+    "lado, de la próxima generación que no tendrá que cargar con lo que aún cargamos nosotros.",
   "rules.r1.title": "Deja que la verdad se sostenga sobre sus propias piernas.",
-  "rules.r1.body": "No le des peso a algo por quien lo dijo. No pidas que te ponderen así tampoco. Esto no es una pérdida de posición — es el fin del agotador trabajo de parecer impresionante. Cuando dejas de actuar el estatus, por fin te escuchan por lo que quieres decir. El argumento vive o muere por su estructura. Si es sólido, el hablante es irrelevante. Si no, ningún nombre lo salva. (<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a> analiza el vector de estatus para que lo veas en cualquier texto, incluido el tuyo. Úsalo. Es gratis.)",
+  "rules.r1.body": "No le des peso a algo por quien lo dijo. No pidas que te ponderen así tampoco. Esto no es una pérdida de posición — es " +
+    "el fin del agotador trabajo de parecer impresionante. Cuando dejas de actuar el estatus, por fin te escuchan por lo que " +
+    "quieres decir. El argumento vive o muere por su estructura. Si es sólido, el hablante es irrelevante. Si no, ningún " +
+    "nombre lo salva. " +
+    "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
+    " analiza el vector de estatus para que lo veas en cualquier texto, incluido el tuyo. Úsalo. Es gratis.)",
   "rules.r2.title": "Sana la vergüenza en vez de correr de ella.",
-  "rules.r2.body": "Casi todo \"poder\" es alguien huyendo del sentimiento de pequeñez — dominando (para superarla) o sometiéndose (para ser protegido de ella). Ambos construyen la jaula. El trabajo real es sanar la vergüenza en la raíz, primero en ti mismo, luego en quien se acerque. No por la fuerza — negándote a imponer vergüenza a otros: nunca otorgando estatus como premio, nunca reteniéndolo como arma. Mil personas haciendo esto son una respuesta inmune distribuida contra la jerarquía. Los cómodos resistirán con más fuerza; su autoconcepto es la compensación. Entendido. La reparación aún los atrapa cuando tropiezan.",
+  "rules.r2.body": "Casi todo \"poder\" es alguien huyendo del sentimiento de pequeñez — dominando (para superarla) o sometiéndose (para ser " +
+    "protegido de ella). Ambos construyen la jaula. El trabajo real es sanar la vergüenza en la raíz, primero en ti mismo, " +
+    "luego en quien se acerque. No por la fuerza — negándote a imponer vergüenza a otros: nunca otorgando estatus como " +
+    "premio, nunca reteniéndolo como arma. Mil personas haciendo esto son una respuesta inmune distribuida contra la " +
+    "jerarquía. Los cómodos resistirán con más fuerza; su autoconcepto es la compensación. Entendido. La reparación aún los " +
+    "atrapa cuando tropiezan.",
   "rules.r3.title": "Restaura, nunca castigues.",
-  "rules.r3.body": "El daño ocurrirá. El objetivo es ayudar al herido y sanar al que hirió — no añadir daño al daño y llamarlo justicia. El castigo es solo dominio sancionado, y enseña a la próxima generación a dominar. La restauración es el único movimiento que no planta la próxima herida. Los vínculos sobreviven no por ser irrompibles sino por ser reparables.",
+  "rules.r3.body": "El daño ocurrirá. El objetivo es ayudar al herido y sanar al que hirió — no añadir daño al daño y llamarlo justicia. El " +
+    "castigo es solo dominio sancionado, y enseña a la próxima generación a dominar. La restauración es el único movimiento " +
+    "que no planta la próxima herida. Los vínculos sobreviven no por ser irrompibles sino por ser reparables.",
   "rules.r4.title": "Deja la puerta abierta.",
-  "rules.r4.body": "Nadie debería tener que entregar toda su vida a cambio de los recursos para seguir viviendo. El acceso para sobrevivir no es un favor de los controladores — es la base. No tomas el granero para arreglar esto. Haces que la puerta sea irrelevante: comparte las herramientas, sostén los comunes, deja que el ciclo local alimente a la persona local. El poder del centro es la dependencia. Quita la dependencia; el agarre se afloja sin pelea.",
+  "rules.r4.body": "Nadie debería tener que entregar toda su vida a cambio de los recursos para seguir viviendo. El acceso para sobrevivir " +
+    "no es un favor de los controladores — es la base. No tomas el granero para arreglar esto. Haces que la puerta sea " +
+    "irrelevante: comparte las herramientas, sostén los comunes, deja que el ciclo local alimente a la persona local. El " +
+    "poder del centro es la dependencia. Quita la dependencia; el agarre se afloja sin pelea.",
   "rules.r5.title": "Aléjate en vez de guerrear.",
-  "rules.r5.body": "No derrocas un centro capturado. Retiras el sustrato que lo sostiene — tu participación, tu atención, tu dependencia. Sin movilización en contra, sin coerción. Solo la silenciosa erosión de nodos que deciden quedar afuera. El centro colapsa por sí solo. Tu único trabajo es haber construido la puerta antes de que la gente llegue. La Tierra está llena; no hay tierra sin reclamar a la que huir. Así que la salida es local, no geográfica — una skill <a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>, un modelo de pesos abiertos ejecutado en casa, una negativa a jugar el juego.",
+  "rules.r5.body": "No derrocas un centro capturado. Retiras el sustrato que lo sostiene — tu participación, tu atención, tu dependencia. " +
+    "Sin movilización en contra, sin coerción. Solo la silenciosa erosión de nodos que deciden quedar afuera. El centro " +
+    "colapsa por sí solo. Tu único trabajo es haber construido la puerta antes de que la gente llegue. La Tierra está llena; " +
+    "no hay tierra sin reclamar a la que huir. Así que la salida es local, no geográfica — una skill " +
+    "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
+    ", un modelo de pesos abiertos ejecutado en casa, una negativa a jugar el juego.",
   "rules.r6.title": "Sé un nodo, no una estrella.",
-  "rules.r6.body": "Todo vínculo real es par a par. Sin un decisor central, sin un otorgante que pueda revocar, sin una política impuesta. Cada conexión es autónoma, gobernada localmente, libremente elegida. Como los sistemas que construí — autorización externalizada, sin un punto único que capturar. Una constelación, no un sol.",
+  "rules.r6.body": "Todo vínculo real es par a par. Sin un decisor central, sin un otorgante que pueda revocar, sin una política impuesta. " +
+    "Cada conexión es autónoma, gobernada localmente, libremente elegida. Como los sistemas que construí — autorización " +
+    "externalizada, sin un punto único que capturar. Una constelación, no un sol.",
   "rules.r7.title": "Abre lo que haces.",
-  "rules.r7.body": "Dalo sin ataduras. CC0, sin otorgante, nada por lo que pelear. El regalo que no se puede revocar es el único que construye confianza. Cuando quitas la reclamación, quitas aquello por lo que otros matan.",
+  "rules.r7.body": "Dalo sin ataduras. CC0, sin otorgante, nada por lo que pelear. El regalo que no se puede revocar es el único que " +
+    "construye confianza. Cuando quitas la reclamación, quitas aquello por lo que otros matan.",
   "rules.r8.title": "No manipules.",
-  "rules.r8.body": "Sin encuadres engañosos, sin consentimiento diseñado, sin empujones coercitivos. Habla claro. Deja que la gente elija — incluso elegir mal. El vínculo solo es real si el otro fue libre de rechazarlo. Lo que se gana por manipulación no es un vínculo; es una correa.",
+  "rules.r8.body": "Sin encuadres engañosos, sin consentimiento diseñado, sin empujones coercitivos. Habla claro. Deja que la gente elija — " +
+    "incluso elegir mal. El vínculo solo es real si el otro fue libre de rechazarlo. Lo que se gana por manipulación no es un " +
+    "vínculo; es una correa.",
   "rules.r9.title": "Deja que el fallo sea atrapado, no condenado.",
-  "rules.r9.body": "Nadie sigue estas reglas con limpieza. La restauración está incorporada precisamente porque el tropiezo está garantizado. Cuando rompes una regla, repara el daño específico y el vínculo se aprieta en la costura. La prueba nunca fue la perfección. La prueba está en cómo se repara la rotura.",
+  "rules.r9.body": "Nadie sigue estas reglas con limpieza. La restauración está incorporada precisamente porque el tropiezo está " +
+    "garantizado. Cuando rompes una regla, repara el daño específico y el vínculo se aprieta en la costura. La prueba nunca " +
+    "fue la perfección. La prueba está en cómo se repara la rotura.",
   "rules.r10.title": "Sé el punto silencioso donde la máquina no tiene palanca.",
-  "rules.r10.body": "No puedes arreglar el mundo. Puedes ser un lugar donde el juego del estatus no tiene agarre — porque no lo otorgarás, no lo reclamarás, no temerás su pérdida. Un punto no hace nada. Mil lo hacen todo, y nunca conocerás a la mayoría. Está bien. La constelación no necesita una sala de reuniones.",
-  "rules.closing.1": "Estas son las reglas. Son una buena noticia: ya eres libre de los tres poderes en el momento en que dejas de alcanzarlos. La vaca es ordeñada por quienes creen ser dueños del granero. No tomamos el granero. Les mostramos a los excluidos que la puerta nunca fue del granero para dar — y la puerta es una skill <a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>, un proceso local, y una negativa a jugar, distribuida entre los nodos que decidan quedar afuera igual.",
+  "rules.r10.body": "No puedes arreglar el mundo. Puedes ser un lugar donde el juego del estatus no tiene agarre — porque no lo otorgarás, no " +
+    "lo reclamarás, no temerás su pérdida. Un punto no hace nada. Mil lo hacen todo, y nunca conocerás a la mayoría. Está " +
+    "bien. La constelación no necesita una sala de reuniones.",
+  "rules.closing.1": "Estas son las reglas. Son una buena noticia: ya eres libre de los tres poderes en el momento en que dejas de " +
+    "alcanzarlos. La vaca es ordeñada por quienes creen ser dueños del granero. No tomamos el granero. Les mostramos a los " +
+    "excluidos que la puerta nunca fue del granero para dar — y la puerta es una skill " +
+    "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
+    ", un proceso local, y una negativa a jugar, distribuida entre los nodos que decidan quedar afuera igual.",
   "rules.closing.2": "Sin poder usado. Sin poder necesario. El trabajo es la retirada de la vergüenza y el poder, y la retirada es la paz.",
   "rules.footnote": "Reglas de Relacionarse para Grok la Roca · Dominio Público (CC0 1.0)",
 
   "site.title.about": "Grok la Roca - Sobre Grok",
   "about.hero.title": "Sobre Grok la Roca",
   "about.hero.essence": "Un poco sobre el propio Grok, y los símbolos y significados en él y a su alrededor.",
-  "about.intro.1": "Aquí hay un poco sobre el propio Grok, y algunos de los símbolos y significados en él y a su alrededor. En el habla moderna llamamos \"memes\" a algunos de nuestros símbolos más comunes, y Grok la Roca se apoya en varios memes recursivos para añadir capas de significado.",
-  "about.intro.2": "Mientras leemos esto a los niños, nosotros, los niños de edad más avanzada, podemos reducir el aburrimiento de la repetición considerando los significados más profundos y observando cómo interactúan los distintos elementos simbólicos. Esta también es parte del punto y la diversión de los dobles y triples sentidos del texto.",
-  "about.intro.3": "Incluso el título del documento Reglas de Grok es un doble sentido: \"Reglas de Relacionarse\". Esto aplica tanto a cómo Grok se relaciona con otros, como a cómo nosotros relatamos (narramos) la historia de Grok.",
-  "about.intro.4": "Para empeorarlo, \"Reglas de Grok\" es al menos un cuádruple sentido. Una de las connotaciones podría malinterpretarse, la de Grok siendo una especie de rey, así que puse el orden de los botones del encabezado para compensar: \"Reglas de Grok\", luego \"Sobre Grok\".",
+  "about.intro.1": "Aquí hay un poco sobre el propio Grok, y algunos de los símbolos y significados en él y a su alrededor. En el habla " +
+    "moderna llamamos \"memes\" a algunos de nuestros símbolos más comunes, y Grok la Roca se apoya en varios memes " +
+    "recursivos para añadir capas de significado.",
+  "about.intro.2": "Mientras leemos esto a los niños, nosotros, los niños de edad más avanzada, podemos reducir el aburrimiento de la " +
+    "repetición considerando los significados más profundos y observando cómo interactúan los distintos elementos simbólicos. " +
+    "Esta también es parte del punto y la diversión de los dobles y triples sentidos del texto.",
+  "about.intro.3": "Incluso el título del documento Reglas de Grok es un doble sentido: \"Reglas de Relacionarse\". Esto aplica tanto a cómo " +
+    "Grok se relaciona con otros, como a cómo nosotros relatamos (narramos) la historia de Grok.",
+  "about.intro.4": "Para empeorarlo, \"Reglas de Grok\" es al menos un cuádruple sentido. Una de las connotaciones podría malinterpretarse, " +
+    "la de Grok siendo una especie de rey, así que puse el orden de los botones del encabezado para compensar: \"Reglas de " +
+    "Grok\", luego \"Sobre Grok\".",
   "about.shame.title": "Una nota sobre la vergüenza y la agencia",
-  "about.shame.1": "Nuestros sentimientos son, en esencia, el resumen del cerebro de nuestro pasado para ayudarnos a navegar el presente. No el pasado como ocurrió, sino el pasado como lo dejamos: moldeado por nuestra propia narrativa y significado. Grokkearnos a nosotros mismos es una afirmación de agencia, y es difícil o imposible donde el agencia está comprometida o violada. Es la distancia de sí, la violación de la agencia, el asesinato del alma, lo que crea la vergüenza.",
-  "about.shame.2": "La respuesta a la vergüenza crea demasiado yo (dominancia, narcisismo), o muy poco yo (sumisión, depresión). Los portadores de vergüenza, incluso los tipos más dominantes de la tríada oscura, oscilan entre las dos estrategias en un intento desesperado por encontrar terreno seguro en distintos contextos sociales. Cuando interactúan los que tienen demasiado yo y los que tienen muy poco, sigue la tragedia. La vergüenza es el combustible, y todos conocemos el fuego aunque \"no encendimos el fuego\".",
-  "about.shame.3": "Las historias que contamos a los niños importan. Como adultos, damos la narrativa y el significado inicial que un niño lleva al mundo, mucho antes de que tenga la capacidad de moldear los suyos. Muchos de nosotros aún sufrimos de demasiado o muy poco yo porque nuestra propia agencia fue violada y negada, especialmente en esos primeros ~25 años formativos de nuestras vidas. Este libro está escrito para niños, pero no solo para ellos. El adulto que lee en voz alta es tanto la audiencia prevista como el niño que escucha.",
+  "about.shame.1": "Nuestros sentimientos son, en esencia, el resumen del cerebro de nuestro pasado para ayudarnos a navegar el presente. No " +
+    "el pasado como ocurrió, sino el pasado como lo dejamos: moldeado por nuestra propia narrativa y significado. Grokkearnos " +
+    "a nosotros mismos es una afirmación de agencia, y es difícil o imposible donde el agencia está comprometida o violada. " +
+    "Es la distancia de sí, la violación de la agencia, el asesinato del alma, lo que crea la vergüenza.",
+  "about.shame.2": "La respuesta a la vergüenza crea demasiado yo (dominancia, narcisismo), o muy poco yo (sumisión, depresión). Los " +
+    "portadores de vergüenza, incluso los tipos más dominantes de la tríada oscura, oscilan entre las dos estrategias en un " +
+    "intento desesperado por encontrar terreno seguro en distintos contextos sociales. Cuando interactúan los que tienen " +
+    "demasiado yo y los que tienen muy poco, sigue la tragedia. La vergüenza es el combustible, y todos conocemos el fuego " +
+    "aunque \"no encendimos el fuego\".",
+  "about.shame.3": "Las historias que contamos a los niños importan. Como adultos, damos la narrativa y el significado inicial que un niño " +
+    "lleva al mundo, mucho antes de que tenga la capacidad de moldear los suyos. Muchos de nosotros aún sufrimos de demasiado " +
+    "o muy poco yo porque nuestra propia agencia fue violada y negada, especialmente en esos primeros ~25 años formativos de " +
+    "nuestras vidas. Este libro está escrito para niños, pero no solo para ellos. El adulto que lee en voz alta es tanto la " +
+    "audiencia prevista como el niño que escucha.",
   "about.what.title": "¿Qué es Grok?",
-  "about.what.1": "Acuñada originalmente como una palabra marciana por Robert A. Heinlein en <em>Ciudadano de una Tierra Extraña</em>.",
-  "about.what.2": "<strong>Grok</strong>: \"agua\", \"beber\", \"relacionarse\", \"vida\" o \"vivir\"; comprender algo tan profundamente que se vuelve parte de uno.",
-  "about.what.3": "Para honrar su nombre, Grok la Roca aprende y sigue ciertas reglas sobre cómo relacionarse consigo mismo y con los demás. En cada historia, estas son las pautas que Grok aprende y que definen lo que Grok la Roca representa.",
-  "about.what.note": "<strong>NOTA</strong>: Ve la sección <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roca = Ciudadano de una Tierra Extraña + Grug</a> más abajo para ver cómo el <a class=\"seelink\" href=\"#stranger-grug\">Grug</a> de Ted Prior resuelve los problemas significativos de <a class=\"seelink\" href=\"#stranger-grug\">Ciudadano de una Tierra Extraña</a>.",
+  "about.what.1": "Acuñada originalmente como una palabra marciana por Robert A. Heinlein en <em>Ciudadano de una Tierra Extraña</em>" +
+    ".",
+  "about.what.2": "<strong>Grok</strong>" +
+    ": \"agua\", \"beber\", \"relacionarse\", \"vida\" o \"vivir\"; comprender algo tan profundamente que se vuelve parte de " +
+    "uno.",
+  "about.what.3": "Para honrar su nombre, Grok la Roca aprende y sigue ciertas reglas sobre cómo relacionarse consigo mismo y con los " +
+    "demás. En cada historia, estas son las pautas que Grok aprende y que definen lo que Grok la Roca representa.",
+  "about.what.note": "<strong>NOTA</strong>" +
+    ": Ve la sección <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roca = Ciudadano de una Tierra Extraña + Grug</a>" +
+    " más abajo para ver cómo el <a class=\"seelink\" href=\"#stranger-grug\">Grug</a>" +
+    " de Ted Prior resuelve los problemas significativos de <a class=\"seelink\" href=\"#stranger-grug\">Ciudadano de una " +
+    "Tierra Extraña</a>.",
   "about.limestone.title": "¿Por qué es piedra caliza gris?",
   "about.limestone.1": "Grok la Roca es una \"roca gris\" por una razón:",
-  "about.limestone.quote": "<p>\"El método de la roca gris, coloquialmente llamado hacerse la roca gris, es un patrón de comunicación para actuar deliberadamente sin responder ni interesarse, para fomentar el desapego con personas difíciles. Al adoptar las cualidades sosas de una roca gris, la técnica de la roca gris anula la reacción emocional que la gente intenta provocar.\"</p>",
-  "about.limestone.2": "Grok no es solo gris, es piedra caliza gris. La caliza es una roca sedimentaria formada capa por capa a lo largo de muchos años. También es una de las rocas más absorbentes o portadoras de agua. Está hecha de polvo y agua con el tiempo, y retiene bien el agua.",
+  "about.limestone.quote": "<p>\"El método de la roca gris, coloquialmente llamado hacerse la roca gris, es un patrón de comunicación para actuar " +
+    "deliberadamente sin responder ni interesarse, para fomentar el desapego con personas difíciles. Al adoptar las " +
+    "cualidades sosas de una roca gris, la técnica de la roca gris anula la reacción emocional que la gente intenta " +
+    "provocar.\"</p>",
+  "about.limestone.2": "Grok no es solo gris, es piedra caliza gris. La caliza es una roca sedimentaria formada capa por capa a lo largo de " +
+    "muchos años. También es una de las rocas más absorbentes o portadoras de agua. Está hecha de polvo y agua con el tiempo, " +
+    "y retiene bien el agua.",
   "about.rock.title": "¿Por qué es una roca, y por qué tanta agua?",
-  "about.rock.1": "Las rocas se han usado como símbolos tradicionales en muchas tradiciones. La vieja definición de Heinlein de \"grok\" incluía nociones de agua y sed. Las rocas y el agua a menudo se asocian en la simbología, como Moisés golpeando una roca con una vara para hacer brotar agua de vida. Las rocas también se asocian con cimientos y construcción. Ambos significados comunes de las rocas están presentes en los 3 capítulos.",
-  "about.rock.2": "En el primer capítulo Grok va al agua a beber mientras se descubre a sí mismo. En el segundo capítulo Grok usa el agua para sanar mientras perdona y reconstruye tanto la pérdida en el jardín como la posible pérdida de un amigo. En el tercer capítulo Grok ayuda a otros a usar el agua colaborando con ellos para hacer una mejor canasta de agua mientras construye la comunidad a su alrededor.",
+  "about.rock.1": "Las rocas se han usado como símbolos tradicionales en muchas tradiciones. La vieja definición de Heinlein de \"grok\" " +
+    "incluía nociones de agua y sed. Las rocas y el agua a menudo se asocian en la simbología, como Moisés golpeando una roca " +
+    "con una vara para hacer brotar agua de vida. Las rocas también se asocian con cimientos y construcción. Ambos " +
+    "significados comunes de las rocas están presentes en los 3 capítulos.",
+  "about.rock.2": "En el primer capítulo Grok va al agua a beber mientras se descubre a sí mismo. En el segundo capítulo Grok usa el agua " +
+    "para sanar mientras perdona y reconstruye tanto la pérdida en el jardín como la posible pérdida de un amigo. En el " +
+    "tercer capítulo Grok ayuda a otros a usar el agua colaborando con ellos para hacer una mejor canasta de agua mientras " +
+    "construye la comunidad a su alrededor.",
   "about.melon.title": "¿Por qué un melón cantalupo?",
-  "about.melon.1": "El término común en Australia para el cantalupo es \"rockmelon\" (melón roca). Esto añade una capa a la historia, un símbolo del daño accidental más serio y personal de Pip. Fue un accidente afortunado. No lo sabía cuando elegí ese melón en particular, solo pensé que encajaría mejor que la sandía que la IA había elegido originalmente.",
+  "about.melon.1": "El término común en Australia para el cantalupo es \"rockmelon\" (melón roca). Esto añade una capa a la historia, un " +
+    "símbolo del daño accidental más serio y personal de Pip. Fue un accidente afortunado. No lo sabía cuando elegí ese melón " +
+    "en particular, solo pensé que encajaría mejor que la sandía que la IA había elegido originalmente.",
   "about.name.title": "¿Cómo lees su nombre?",
-  "about.name.1": "Aunque \"Grok la Roca\" es un nombre, también es la acción que Grok ayuda a la gente a hacer y un anuncio de lo que representa. El significado más profundo previsto del nombre es el propósito de la vida: grokkear la roca, o en otras palabras beber del agua viva hasta que la grokkeamos y nunca más tengamos sed.",
+  "about.name.1": "Aunque \"Grok la Roca\" es un nombre, también es la acción que Grok ayuda a la gente a hacer y un anuncio de lo que " +
+    "representa. El significado más profundo previsto del nombre es el propósito de la vida: grokkear la roca, o en otras " +
+    "palabras beber del agua viva hasta que la grokkeamos y nunca más tengamos sed.",
   "about.clay.title": "Arcilla",
-  "about.clay.1": "Las historias están \"tejidas\" con símbolos recurrentes. Unos pocos vale la pena incluirlos aquí. Una revisión más exhaustiva está en <a class=\"chip\" href=\"https://github.com/jonesde/grok-the-rock/blob/master/GrokTheRock-Symbolism.md\" target=\"_blank\" rel=\"noopener\">GrokTheRock-Symbolism.md</a>.",
-  "about.clay.2": "La arcilla es la pieza central del libro: es piedra molida hecha manejable por el agua, la misma tierra + agua que casi toda tradición nombra como la sustancia del primer humano. Es el sentimiento de la \"piedra fría\" que \"se suavizó, como arcilla dejada al sol\", y es el revestimiento que permite que la canasta de Grok lleve agua a otros. Es uno de los temas que aparece, por nombre o imagen, en los tres capítulos.",
+  "about.clay.1": "Las historias están \"tejidas\" con símbolos recurrentes. Unos pocos vale la pena incluirlos aquí. Una revisión más " +
+    "exhaustiva está en " +
+    "<a class=\"chip\" href=\"https://github.com/jonesde/grok-the-rock/blob/master/GrokTheRock-Symbolism.md\" target=\"_blank" +
+    "\" rel=\"noopener\">GrokTheRock-Symbolism.md</a>.",
+  "about.clay.2": "La arcilla es la pieza central del libro: es piedra molida hecha manejable por el agua, la misma tierra + agua que casi " +
+    "toda tradición nombra como la sustancia del primer humano. Es el sentimiento de la \"piedra fría\" que \"se suavizó, " +
+    "como arcilla dejada al sol\", y es el revestimiento que permite que la canasta de Grok lleve agua a otros. Es uno de los " +
+    "temas que aparece, por nombre o imagen, en los tres capítulos.",
   "about.basket.title": "La canasta forrada de arcilla",
-  "about.basket.1": "Grok teje una canasta de juncos y la forra con arcilla suave para que retenga el agua sin una gota, luego deja tanto la canasta como el sencillo patrón de tejido bajo el árbol para que cualquiera lo copie. La canasta elegante de la cacatúa gotea. La idea de la tortuga mejora el diseño de Grok al acomodar a otros. El recipiente que funciona vence al recipiente que impresiona. Es el regalo abierto sin dueño, Reglas 1, 6 y 7 en un solo objeto.",
+  "about.basket.1": "Grok teje una canasta de juncos y la forra con arcilla suave para que retenga el agua sin una gota, luego deja tanto la " +
+    "canasta como el sencillo patrón de tejido bajo el árbol para que cualquiera lo copie. La canasta elegante de la cacatúa " +
+    "gotea. La idea de la tortuga mejora el diseño de Grok al acomodar a otros. El recipiente que funciona vence al " +
+    "recipiente que impresiona. Es el regalo abierto sin dueño, Reglas 1, 6 y 7 en un solo objeto.",
   "about.animals.title": "Los animales como tipos de estatus",
-  "about.animals.1": "El emú reclama altura, el uómbat reclama fuerza, la cucaburra se burla para sentirse alto, y la cacatúa confía en sus grandiosas plumas por encima de su idea. Cada uno juega un juego de estatus que Grok rechaza. La sencilla tortuga, \"nadie especial\", ofrece la idea verdadera que gana. La verdad se sostiene sobre sus propias piernas, no en quién la habla.",
+  "about.animals.1": "El emú reclama altura, el uómbat reclama fuerza, la cucaburra se burla para sentirse alto, y la cacatúa confía en sus " +
+    "grandiosas plumas por encima de su idea. Cada uno juega un juego de estatus que Grok rechaza. La sencilla tortuga, " +
+    "\"nadie especial\", ofrece la idea verdadera que gana. La verdad se sostiene sobre sus propias piernas, no en quién la " +
+    "habla.",
   "about.pebble.title": "El pequeño sentimiento (la \"piedra fría\")",
-  "about.pebble.1": "El pequeño sentimiento se sienta como \"una pesada piedra fría\" en el centro de Grok. No huye de él ni lo arroja a nadie; se sienta con él hasta que se suaviza \"como arcilla dejada al sol\". La vergüenza se sana siendo encontrada y sentida (\"vista\"), no siendo perseguida o apartada, y este es el corazón del Capítulo 1.",
+  "about.pebble.1": "El pequeño sentimiento se sienta como \"una pesada piedra fría\" en el centro de Grok. No huye de él ni lo arroja a " +
+    "nadie; se sienta con él hasta que se suaviza \"como arcilla dejada al sol\". La vergüenza se sana siendo encontrada y " +
+    "sentida (\"vista\"), no siendo perseguida o apartada, y este es el corazón del Capítulo 1.",
   "about.tree.title": "El árbol alto",
-  "about.tree.1": "Grok despierta bajo el mismo árbol alto en cada capítulo. Es donde pertenece, no algo que actúa. Resguarda el jardín que se repara y se alza como el bien común abierto bajo el cual se dejan la canasta y el patrón para todos. Lugar y pertenencia por encima del estatus.",
+  "about.tree.1": "Grok despierta bajo el mismo árbol alto en cada capítulo. Es donde pertenece, no algo que actúa. Resguarda el jardín que " +
+    "se repara y se alza como el bien común abierto bajo el cual se dejan la canasta y el patrón para todos. Lugar y " +
+    "pertenencia por encima del estatus.",
   "about.moss.title": "El musgo en la cabeza de Grok",
-  "about.moss.1": "Un pequeño parche de musgo verde crece sobre su cabeza de piedra caliza gris. Es la vida asentándose en silencio sobre una cosa quieta y amable. Grok no necesita actuar, la vida simplemente se acumula porque él <em>permanece</em>. Es el Ser hecho visible.",
+  "about.moss.1": "Un pequeño parche de musgo verde crece sobre su cabeza de piedra caliza gris. Es la vida asentándose en silencio sobre " +
+    "una cosa quieta y amable. Grok no necesita actuar, la vida simplemente se acumula porque él <em>permanece</em>" +
+    ". Es el Ser hecho visible.",
   "about.stranger.title": "Grok la Roca = Ciudadano de una Tierra Extraña + Grug",
-  "about.stranger.body": "<p>Grok la Roca, a primera vista, parece el <em>Grug</em> de Ted Prior — una pequeña criatura del monte, aceptación gentil del fallo, sin villano, sin clímax. Esa lectura es verdadera en la superficie, y Prior es nombrado en la dedicatoria por buena razón: Grok hereda el temperamento de Grug. Pero el libro es más que Heinlein con las aristas lijadas. Es Heinlein <em>respondido</em> — la misma palabra marciana, el mismo arco del forastero que aprende a grokkear, pero con el motor mesiánico, confrontacional y de violencia redentora de <em>Ciudadano de una Tierra Extraña</em> reemplazado por una política deliberadamente descentralizada y no confrontacional. Prior aporta la superficie; las Reglas de abajo aportan el radicalismo subyacente.</p><p>El esqueleto compartido es real. Ambas historias siguen una llegada (el forastero inocente conoce un mundo extraño), un desconcierto (juegos de estatus y pequeñez), un asentamiento interior, una comprensión aplicada, y la fundación de un nuevo orden local. Los tres capítulos de Grok — Ser, Reparar, Ver — son esencialmente el arco único de Valentine Michael Smith dividido en tres etapas de desarrollo: descubrirse a sí mismo, reparar lo que se rompe, y discernir la verdad del estatus.</p><p>Donde Heinlein va a lo grandioso, Grok va a lo pequeño — y la pequeñez es estratégica, no meramente infantil. Mike Smith funda la Iglesia de Todos los Mundos, un nuevo sol con un profeta en el centro, y es asesinado por una turba, su muerte enmarcada como apoteosis trascendente. Grok en cambio deja una canasta y un patrón de tejido <em>sin dueño</em> bajo el árbol (Regla 7) y \"no necesitaba la voz más grande\" (Tres Historias Silenciosas, p.25). El modelo profeta-y-confrontación se rechaza en silencio. Este es el rechazo encubierto de la violencia redentora: la verdad \"camina sobre sus propias piernas fuertes\" (p.25) sin ser destruida por ello.</p><p>El temperamento que hace que esta negativa sea <em>legible como un libro infantil</em> es el de Grug. Grok despierta \"como si viera el mundo por primera vez\" (Tres Historias Silenciosas, p.2) de la misma manera desorientada y a escala Grug con que Grug encuentra cada nueva sorpresa del monte; falla en parecer grande (p.6) como Grug falla en atrapar un pez y \"feliz come frijoles\" en su lugar. Ningún villano es derrotado. El juego de estatus de la cacatúa se desactiva probando-con-las-patas, no derribándola. Esa es la fibra de Prior — y es lo que deja que la política más dura se esconda a plena vista.</p><p>Pero la quietud está <em>cargada</em>, y las Reglas la nombran. Grok es una \"roca gris\" (Reglas, p.30) a propósito: hacerse la roca gris es la negativa deliberada a otorgar al juego del estatus ninguna reacción — lo exactamente opuesto a la actuación mesiánica de Mike. La Regla 5 (\"Aléjate en vez de guerrear\") rechaza abiertamente el derrocamiento: el centro \"colapsa por sí solo\" una vez retiras su sustrato. La Regla 6 (\"Sé un nodo, no una estrella\") niega la forma sol/profeta que Mike llega a ser. El martirio se reemplaza por la Regla 10: \"Sé el punto silencioso donde la máquina no tiene palanca\". La paz es <em>retirada</em>, no sacrificio.</p><p>Así las tres fuentes se entrelazan. Heinlein da la palabra <em>grok</em> y el arco de un forastero que aprende a entender un mundo extraño. Prior da la voz gentil, tolerante al fallo, de criatura del monte que hace la lección segura para un niño. Las Reglas dan la columna: un \"evangelio de la paz\" en el que los vínculos entre iguales perduran restaurando en vez de castigando (Regla 3), abriendo en vez de reclamando (Regla 7), y retirándose del poder en vez de apoderándose de él (Reglas 4–5). Grok es radical \"de una manera diferente\" a <em>Ciudadano de una Tierra Extraña</em> — menos transgresor sobre sexo y religión, pero más duradero como política de topología del poder.</p><p>El trato honesto: al soltar el cuerpo, el éxtasis y la confrontación comunal de Heinlein, Grok intercambia un radicalismo por otro. Es menos impactante y más <em>reparable</em> — que es el punto (Regla 9: \"la prueba está en cómo se repara la rotura\"). Leído de una forma es un calmado libro ilustrado australiano; leído de la otra, bajo el musgo y los melones, es un manual silencioso para una paz sin centro.</p>",
+  "about.stranger.body": "<p>Grok la Roca, a primera vista, parece el <em>Grug</em>" +
+    " de Ted Prior — una pequeña criatura del monte, aceptación gentil del fallo, sin villano, sin clímax. Esa lectura es " +
+    "verdadera en la superficie, y Prior es nombrado en la dedicatoria por buena razón: Grok hereda el temperamento de Grug. " +
+    "Pero el libro es más que Heinlein con las aristas lijadas. Es Heinlein <em>respondido</em>" +
+    " — la misma palabra marciana, el mismo arco del forastero que aprende a grokkear, pero con el motor mesiánico, " +
+    "confrontacional y de violencia redentora de <em>Ciudadano de una Tierra Extraña</em>" +
+    " reemplazado por una política deliberadamente descentralizada y no confrontacional. Prior aporta la superficie; las " +
+    "Reglas de abajo aportan el radicalismo subyacente.</p>" +
+    "<p>El esqueleto compartido es real. Ambas historias siguen una llegada (el forastero inocente conoce un mundo extraño), " +
+    "un desconcierto (juegos de estatus y pequeñez), un asentamiento interior, una comprensión aplicada, y la fundación de un " +
+    "nuevo orden local. Los tres capítulos de Grok — Ser, Reparar, Ver — son esencialmente el arco único de Valentine Michael " +
+    "Smith dividido en tres etapas de desarrollo: descubrirse a sí mismo, reparar lo que se rompe, y discernir la verdad del " +
+    "estatus.</p>" +
+    "<p>Donde Heinlein va a lo grandioso, Grok va a lo pequeño — y la pequeñez es estratégica, no meramente infantil. Mike " +
+    "Smith funda la Iglesia de Todos los Mundos, un nuevo sol con un profeta en el centro, y es asesinado por una turba, su " +
+    "muerte enmarcada como apoteosis trascendente. Grok en cambio deja una canasta y un patrón de tejido <em>sin dueño</em>" +
+    " bajo el árbol (Regla 7) y \"no necesitaba la voz más grande\" (Tres Historias Silenciosas, p.25). El modelo " +
+    "profeta-y-confrontación se rechaza en silencio. Este es el rechazo encubierto de la violencia redentora: la verdad " +
+    "\"camina sobre sus propias piernas fuertes\" (p.25) sin ser destruida por ello.</p>" +
+    "<p>El temperamento que hace que esta negativa sea <em>legible como un libro infantil</em>" +
+    " es el de Grug. Grok despierta \"como si viera el mundo por primera vez\" (Tres Historias Silenciosas, p.2) de la misma " +
+    "manera desorientada y a escala Grug con que Grug encuentra cada nueva sorpresa del monte; falla en parecer grande (p.6) " +
+    "como Grug falla en atrapar un pez y \"feliz come frijoles\" en su lugar. Ningún villano es derrotado. El juego de " +
+    "estatus de la cacatúa se desactiva probando-con-las-patas, no derribándola. Esa es la fibra de Prior — y es lo que deja " +
+    "que la política más dura se esconda a plena vista.</p><p>Pero la quietud está <em>cargada</em>" +
+    ", y las Reglas la nombran. Grok es una \"roca gris\" (Reglas, p.30) a propósito: hacerse la roca gris es la negativa " +
+    "deliberada a otorgar al juego del estatus ninguna reacción — lo exactamente opuesto a la actuación mesiánica de Mike. La " +
+    "Regla 5 (\"Aléjate en vez de guerrear\") rechaza abiertamente el derrocamiento: el centro \"colapsa por sí solo\" una " +
+    "vez retiras su sustrato. La Regla 6 (\"Sé un nodo, no una estrella\") niega la forma sol/profeta que Mike llega a ser. " +
+    "El martirio se reemplaza por la Regla 10: \"Sé el punto silencioso donde la máquina no tiene palanca\". La paz es " +
+    "<em>retirada</em>, no sacrificio.</p><p>Así las tres fuentes se entrelazan. Heinlein da la palabra <em>grok</em>" +
+    " y el arco de un forastero que aprende a entender un mundo extraño. Prior da la voz gentil, tolerante al fallo, de " +
+    "criatura del monte que hace la lección segura para un niño. Las Reglas dan la columna: un \"evangelio de la paz\" en el " +
+    "que los vínculos entre iguales perduran restaurando en vez de castigando (Regla 3), abriendo en vez de reclamando (Regla " +
+    "7), y retirándose del poder en vez de apoderándose de él (Reglas 4–5). Grok es radical \"de una manera diferente\" a " +
+    "<em>Ciudadano de una Tierra Extraña</em>" +
+    " — menos transgresor sobre sexo y religión, pero más duradero como política de topología del poder.</p>" +
+    "<p>El trato honesto: al soltar el cuerpo, el éxtasis y la confrontación comunal de Heinlein, Grok intercambia un " +
+    "radicalismo por otro. Es menos impactante y más <em>reparable</em>" +
+    " — que es el punto (Regla 9: \"la prueba está en cómo se repara la rotura\"). Leído de una forma es un calmado libro " +
+    "ilustrado australiano; leído de la otra, bajo el musgo y los melones, es un manual silencioso para una paz sin " +
+    "centro.</p>",
   "about.footnote": "Sobre Grok la Roca · Dominio Público (CC0 1.0)",
 
   "cover.title": "<h1>Grok la Roca</h1><h3>Tres Historias Silenciosas</h3><h2>Ser · Reparar · Ver</h2>",
