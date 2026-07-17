@@ -26,19 +26,6 @@ window.I18N.nl = {
   "credit.7": "Kopieer het · Deel het · Vertaal het · Herteken het · Laat het groeien",
 
   "dedication.alt": "Opdrachtpagina",
-  "dedication.1": "Voor elke ontdekkingsreiziger, klein en groot,",
-  "dedication.2": "de wereld op hun eigen zachte manier grokkend.",
-  "dedication.3": "En voor elk klein gevoel",
-  "dedication.4": "dat alleen maar gezien hoeft te worden,",
-  "dedication.5": "elke breuk klaar om te herstellen",
-  "dedication.6": "die alleen verzorging nodig heeft,",
-  "dedication.7": "en voor elk waar woord",
-  "dedication.8": "dat blijft staan ook al wordt het niet gehoord.",
-  "dedication.9": "Met dank aan de oorspronkelijke Grokkers:",
-  "dedication.10": "\"Vreemdeling in een vreemd land\" van Robert A. Heinlein",
-  "dedication.11": "\"Grug\" van Ted Prior",
-  "dedication.12": "Grok la Roca = Vreemdeling in een vreemd land + Grug",
-  "dedication.13": "(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)",
 
   "dedication": "<p><b>Voor elke ontdekkingsreiziger, klein en groot,</b></p><p><b>de wereld op hun eigen zachte manier grokkend.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>En voor elk klein gevoel</p><p>  dat alleen maar gezien hoeft te worden,</p><p>elke breuk klaar om te herstellen</p><p>  die alleen verzorging nodig heeft,</p><p>en voor elk waar woord</p><p>  dat blijft staan ook al wordt het niet gehoord.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Met dank aan de oorspronkelijke Grokkers:</p><p><em><b>Robert A. Heinlein</b> \"Vreemdeling in een vreemd land\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Vreemdeling in een vreemd land + Grug</a></p><p>(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)</p>",
 

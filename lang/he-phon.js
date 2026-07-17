@@ -21,19 +21,6 @@ window.I18N["he-phon"] = {
   "credit.7": "העתיקו · שתפו · תרגמו · ציירו מחדש · תנו לזה לצמוח",
 
   "dedication.alt": "עמוד הקדשה",
-  "dedication.1": "לכל חוקר, קטן וגדול,",
-  "dedication.2": "הגּוֹרֵק את העולם בדרכו העדינה.",
-  "dedication.3": "ולכל תחושה קטנה",
-  "dedication.4": "שרק צריכה להיראות,",
-  "dedication.5": "כל שבר שמוכן לתיקון",
-  "dedication.6": "שרק צריך טיפול,",
-  "dedication.7": "ולכל מילת אמת",
-  "dedication.8": "שעומדת גם כשאיש אינו שומע.",
-  "dedication.9": "בתודה לגרוקרים המקוריים:",
-  "dedication.10": "\"אזרח בגלקסיה זרה\" מאת רוברט א. היינליין",
-  "dedication.11": "\"גראג\" מאת טד פריור",
-  "dedication.12": "גרוק הצור = אזרח בגלקסיה זרה + גראג",
-  "dedication.13": "(\"גראג\" מנקה את \"אזרח\" למען ילדים ומבוגרים)",
 
   "dedication": "<p><b>לכל חוקר, קטן וגדול,</b></p><p class=\"phon\">le-KHOL kho-KER, ka-TAN ve-ga-DOL,</p><p><b>הגּוֹרֵק את העולם בדרכו העדינה.</b></p><p class=\"phon\">ha-go-REK et ha-o-LAM be-dar-KO ha-a-di-NAH.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>ולכל תחושה קטנה</p><p class=\"phon\">ul-khol t'chu-SHAH kta-NAH</p><p>  שרק צריכה להיראות,</p><p class=\"phon\">  she-RAK tsri-KHAH le-he-ra-OT,</p><p>כל שבר שמוכן לתיקון</p><p class=\"phon\">kol SHE-ver she-mu-KHAN le-ti-KUN</p><p>  שרק צריך טיפול,</p><p class=\"phon\">  she-RAK tsa-RIKH ti-PUL,</p><p>ולכל מילת אמת</p><p class=\"phon\">ul-khol mi-LAT e-MET</p><p>  שעומדת גם כשאיש אינו שומע.</p><p class=\"phon\">  she-o-ME-det gam kshe-ISH ey-NO sho-ME-a.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>בתודה לגרוקרים המקוריים:</p><p class=\"phon\">be-to-DAH la-gro-KER-im ha-me-ko-ri-YIM:</p><p><em><b>רוברט א. היינליין</b> \"אזרח בגלקסיה זרה\"</em></p><p class=\"phon\"><em>RO-bert A. HAYN-layn \"ez-RAKH ba-galak-SYAH za-RAH\"</em></p><p><em><b>טד פריור</b> \"גראג\"</em></p><p class=\"phon\"><em>TED PRA-yor \"GRUG\"</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גרוק הצור = אזרח בגלקסיה זרה + גראג</a></p><p class=\"phon\">GROK ha-TZUR = ez-RAKH ba-galak-SYAH za-RAH + GRUG</p><p>(\"גראג\" מנקה את \"אזרח\" למען ילדים ומבוגרים)</p><p class=\"phon\">(\"GRUG\" me-na-KEH et \"ez-RAKH\" le-MA-an ye-la-DIM u-me-vu-ga-RIM)</p>",
 

@@ -26,19 +26,6 @@ window.I18N.fr = {
   "credit.7": "Copiez-le • Partagez-le • Traduisez-le • Redessinez-le • Laissez-le grandir",
 
   "dedication.alt": "Page de dédicace",
-  "dedication.1": "Pour chaque explorateur, petit et grand,",
-  "dedication.2": "grokant le monde à sa propre manière douce.",
-  "dedication.3": "Et pour chaque petit sentiment",
-  "dedication.4": "qui a seulement besoin d'être vu,",
-  "dedication.5": "chaque rupture prête à réparer",
-  "dedication.6": "qui a seulement besoin d'être soignée,",
-  "dedication.7": "et pour chaque parole vraie",
-  "dedication.8": "qui demeure même si elle n'est pas entendue.",
-  "dedication.9": "Avec gratitude envers les Grokkers Originaux :",
-  "dedication.10": "« Stranger in a Strange Land » de Robert A. Heinlein",
-  "dedication.11": "« Grug » de Ted Prior",
-  "dedication.12": "Grok la Roca = Stranger in a Strange Land + Grug",
-  "dedication.13": "(« Grug » nettoie « Citizen » pour les enfants et les adultes)",
 
   "dedication": "<p><b>Pour chaque explorateur, petit et grand,</b></p><p><b>grokant le monde à sa propre manière douce.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Et pour chaque petit sentiment</p><p>  qui a seulement besoin d'être vu,</p><p>chaque rupture prête à réparer</p><p>  qui a seulement besoin d'être soignée,</p><p>et pour chaque parole vraie</p><p>  qui demeure même si elle n'est pas entendue.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Avec gratitude envers les Grokkers Originaux :</p><p><em><b>Robert A. Heinlein</b> « Stranger in a Strange Land »</em></p><p><em><b>Ted Prior</b> « Grug »</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Stranger in a Strange Land + Grug</a></p><p>(« Grug » nettoie « Citizen » pour les enfants et les adultes)</p>",
 

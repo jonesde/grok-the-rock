@@ -26,19 +26,6 @@ window.I18N.de = {
   "credit.7": "Kopiere es • Teile es • Übersetze es • Zeichne es neu • Lass es wachsen",
 
   "dedication.alt": "Widmungsseite",
-  "dedication.1": "Für jeden Entdecker, klein und groß,",
-  "dedication.2": "die Welt auf ihre eigene sanfte Weise grokkend.",
-  "dedication.3": "Und für jedes kleine Gefühl",
-  "dedication.4": "das nur gesehen werden muss,",
-  "dedication.5": "jeden Bruch, der Heilung braucht",
-  "dedication.6": "der nur Pflege braucht,",
-  "dedication.7": "und für jedes wahre Wort",
-  "dedication.8": "das besteht, auch wenn es niemand hört.",
-  "dedication.9": "Mit Dank an die ursprünglichen Grokker:",
-  "dedication.10": "„Fremder in einer fremden Welt“ von Robert A. Heinlein",
-  "dedication.11": "„Grug“ von Ted Prior",
-  "dedication.12": "Grok la Roca = Fremder in einer fremden Welt + Grug",
-  "dedication.13": "(„Grug“ macht „Fremder“ sauber für Kinder und Erwachsene)",
 
   "dedication": "<p><b>Für jeden Entdecker, klein und groß,</b></p><p><b>die Welt auf ihre eigene sanfte Weise grokkend.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Und für jedes kleine Gefühl</p><p>  das nur gesehen werden muss,</p><p>jeden Bruch, der Heilung braucht</p><p>  der nur Pflege braucht,</p><p>und für jedes wahre Wort</p><p>  das besteht, auch wenn es niemand hört.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Mit Dank an die ursprünglichen Grokker:</p><p><em><b>Robert A. Heinlein</b> „Fremder in einer fremden Welt“</em></p><p><em><b>Ted Prior</b> „Grug“</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Fremder in einer fremden Welt + Grug</a></p><p>(„Grug“ macht „Fremder“ sauber für Kinder und Erwachsene)</p>",
 

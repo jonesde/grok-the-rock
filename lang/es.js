@@ -21,19 +21,6 @@ window.I18N.es = {
   "credit.7": "Cópialo • Compártelo • Tradúcelo • Redibújalo • Déjalo crecer",
 
   "dedication.alt": "Página de Dedicación",
-  "dedication.1": "Para cada explorador, pequeño y grande,",
-  "dedication.2": "grokkeando el mundo a su propia manera gentil.",
-  "dedication.3": "Y para cada pequeño sentimiento",
-  "dedication.4": "que solo necesita ser visto,",
-  "dedication.5": "cada ruptura lista para reparar",
-  "dedication.6": "que solo necesita ser cuidada,",
-  "dedication.7": "y para cada palabra verdadera",
-  "dedication.8": "que permanece aunque no sea oída.",
-  "dedication.9": "Con gratitud a los Grokkers Originales:",
-  "dedication.10": "\"Ciudadano de una Tierra Extraña\" de Robert A. Heinlein",
-  "dedication.11": "\"Grug\" de Ted Prior",
-  "dedication.12": "Grok la Roca = Ciudadano de una Tierra Extraña + Grug",
-  "dedication.13": "(\"Grug\" limpia \"Ciudadano\" para niños y adultos)",
 
   "dedication": "<p><b>Para cada explorador, pequeño y grande,</b></p><p><b>grokkeando el mundo a su propia manera gentil.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Y para cada pequeño sentimiento</p><p>  que solo necesita ser visto,</p><p>cada ruptura lista para reparar</p><p>  que solo necesita ser cuidada,</p><p>y para cada palabra verdadera</p><p>  que permanece aunque no sea oída.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Con gratitud a los Grokkers Originales:</p><p><em><b>Robert A. Heinlein</b> \"Ciudadano de una Tierra Extraña\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Ciudadano de una Tierra Extraña + Grug</a></p><p>(\"Grug\" limpia \"Ciudadano\" para niños y adultos)</p>",
 

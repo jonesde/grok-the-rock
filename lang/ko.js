@@ -26,19 +26,6 @@ window.I18N.ko = {
   "credit.7": "복사하세요 · 공유하세요 · 번역하세요 · 다시 그리세요 · 자라게 두세요",
 
   "dedication.alt": "헌정 페이지",
-  "dedication.1": "크고 작은 모든 탐험가에게,",
-  "dedication.2": "저마다의 부드러운 방식으로 세상을 그록하며 사는 이들에게.",
-  "dedication.3": "그리고 그저 보아주기만을 바라는",
-  "dedication.4": "모든 작은 느낌에게,",
-  "dedication.5": "그저 돌봄만을 기다리는",
-  "dedication.6": "고쳐지길 바라는 모든 깨짐에게,",
-  "dedication.7": "그리고 들리지 않아도 서 있는",
-  "dedication.8": "모든 참된 말에게.",
-  "dedication.9": "원조 Grokker들께 감사하며:",
-  "dedication.10": "로버트 A. 하인라인 『낯선 땅의 이방인』",
-  "dedication.11": "테드 프라이어 『Grug』",
-  "dedication.12": "그록 라 로카 = 『낯선 땅의 이방인』 + Grug",
-  "dedication.13": "（『Grug』가 『이방인』을 아이들과 어른들에게 깨끗이 해줍니다）",
 
   "dedication": "<p><b>크고 작은 모든 탐험가에게,</b></p><p><b>저마다의 부드러운 방식으로 세상을 그록하며 사는 이들에게.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>그리고 그저 보아주기만을 바라는</p><p>  모든 작은 느낌에게,</p><p>그저 돌봄만을 기다리는</p><p>  고쳐지길 바라는 모든 깨짐에게,</p><p>그리고 들리지 않아도 서 있는</p><p>  모든 참된 말에게.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>원조 Grokker들께 감사하며:</p><p><em><b>로버트 A. 하인라인</b> 『낯선 땅의 이방인』</em></p><p><em><b>테드 프라이어</b> 『Grug』</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">그록 라 로카 = 『낯선 땅의 이방인』 + Grug</a></p><p>（『Grug』가 『이방인』을 아이들과 어른들에게 깨끗이 해줍니다）</p>",
 

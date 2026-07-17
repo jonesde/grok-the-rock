@@ -26,19 +26,6 @@ window.I18N.pt = {
   "credit.7": "Copie • Compartilhe • Traduza • Redesenhe • Deixe crescer",
 
   "dedication.alt": "Página de Dedicatória",
-  "dedication.1": "Para cada explorador, pequeno e grande,",
-  "dedication.2": "grokando o mundo à sua própria maneira gentil.",
-  "dedication.3": "E para cada pequeno sentimento",
-  "dedication.4": "que só precisa ser visto,",
-  "dedication.5": "cada quebra pronta para consertar",
-  "dedication.6": "que só precisa ser cuidada,",
-  "dedication.7": "e para cada palavra verdadeira",
-  "dedication.8": "que permanece mesmo não sendo ouvida.",
-  "dedication.9": "Com gratidão aos Grokkers Originais:",
-  "dedication.10": "\"Um Estranho numa Terra Estranha\" de Robert A. Heinlein",
-  "dedication.11": "\"Grug\" de Ted Prior",
-  "dedication.12": "Grok la Roca = Um Estranho numa Terra Estranha + Grug",
-  "dedication.13": "(\"Grug\" limpa \"Estranho\" para crianças e adultos)",
 
   "dedication": "<p><b>Para cada explorador, pequeno e grande,</b></p><p><b>grokando o mundo à sua própria maneira gentil.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>E para cada pequeno sentimento</p><p>  que só precisa ser visto,</p><p>cada quebra pronta para consertar</p><p>  que só precisa ser cuidada,</p><p>e para cada palavra verdadeira</p><p>  que permanece mesmo não sendo ouvida.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Com gratidão aos Grokkers Originais:</p><p><em><b>Robert A. Heinlein</b> \"Um Estranho numa Terra Estranha\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Um Estranho numa Terra Estranha + Grug</a></p><p>(\"Grug\" limpa \"Estranho\" para crianças e adultos)</p>",
 

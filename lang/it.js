@@ -26,19 +26,6 @@ window.I18N.it = {
   "credit.7": "Copialo • Condividilo • Traducilo • Ridisegnalo • Lascialo crescere",
 
   "dedication.alt": "Pagina di dedica",
-  "dedication.1": "Per ogni esploratore, piccolo e grande,",
-  "dedication.2": "che grokka il mondo a modo suo, con dolcezza.",
-  "dedication.3": "E per ogni piccolo sentimento",
-  "dedication.4": "che ha solo bisogno di essere visto,",
-  "dedication.5": "ogni rottura pronta per essere riparata",
-  "dedication.6": "che ha solo bisogno di cura,",
-  "dedication.7": "e per ogni parola vera",
-  "dedication.8": "che resta in piedi anche se inascoltata.",
-  "dedication.9": "Con gratitudine ai Grokker originali:",
-  "dedication.10": "\"Straniero in terra straniera\" di Robert A. Heinlein",
-  "dedication.11": "\"Grug\" di Ted Prior",
-  "dedication.12": "Grok la Roca = Straniero in terra straniera + Grug",
-  "dedication.13": "(\"Grug\" ripulisce \"Straniero\" per bambini e adulti)",
 
   "dedication": "<p><b>Per ogni esploratore, piccolo e grande,</b></p><p><b>che grokka il mondo a modo suo, con dolcezza.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>E per ogni piccolo sentimento</p><p>  che ha solo bisogno di essere visto,</p><p>ogni rottura pronta per essere riparata</p><p>  che ha solo bisogno di cura,</p><p>e per ogni parola vera</p><p>  che resta in piedi anche se inascoltata.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Con gratitudine ai Grokker originali:</p><p><em><b>Robert A. Heinlein</b> \"Straniero in terra straniera\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Straniero in terra straniera + Grug</a></p><p>(\"Grug\" ripulisce \"Straniero\" per bambini e adulti)</p>",
 

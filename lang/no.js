@@ -26,19 +26,6 @@ window.I18N.no = {
   "credit.7": "Kopier det · Del det · Oversett det · Tegn det på nytt · La det vokse",
 
   "dedication.alt": "Dedikasjonsside",
-  "dedication.1": "Til hver eneste oppdager, liten og stor,",
-  "dedication.2": "som grokker verden på sin egen milde måte.",
-  "dedication.3": "Og til hver lille følelse",
-  "dedication.4": "som bare trenger å bli sett,",
-  "dedication.5": "hvert brudd klart for å repareres",
-  "dedication.6": "som bare trenger å bli stelt,",
-  "dedication.7": "og til hvert sant ord",
-  "dedication.8": "som står selv om det ikke blir hørt.",
-  "dedication.9": "Med takk til de opprinnelige Grokkers:",
-  "dedication.10": "\"Fremmed i en fremmed verden\" av Robert A. Heinlein",
-  "dedication.11": "\"Grug\" av Ted Prior",
-  "dedication.12": "Grok la Roca = Fremmed i en fremmed verden + Grug",
-  "dedication.13": "(\"Grug\" renser \"Fremmed\" for barn og voksne)",
 
   "dedication": "<p><b>Til hver eneste oppdager, liten og stor,</b></p><p><b>som grokker verden på sin egen milde måte.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Og til hver lille følelse</p><p>  som bare trenger å bli sett,</p><p>hvert brudd klart for å repareres</p><p>  som bare trenger å bli stelt,</p><p>og til hvert sant ord</p><p>  som står selv om det ikke blir hørt.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Med takk til de opprinnelige Grokkers:</p><p><em><b>Robert A. Heinlein</b> \"Fremmed i en fremmed verden\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Fremmed i en fremmed verden + Grug</a></p><p>(\"Grug\" renser \"Fremmed\" for barn og voksne)</p>",
 

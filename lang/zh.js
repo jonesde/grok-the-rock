@@ -26,19 +26,6 @@ window.I18N.zh = {
   "credit.7": "复制它 · 分享它 · 翻译它 · 重绘它 · 让它生长",
 
   "dedication.alt": "献词页",
-  "dedication.1": "献给每一位探索者，无论大小，",
-  "dedication.2": "用各自温柔的方式格罗克化着这个世界。",
-  "dedication.3": "献给每一个微小的感受",
-  "dedication.4": "它只需要被看见，",
-  "dedication.5": "每一个等待修复的破损",
-  "dedication.6": "它只需要被照料，",
-  "dedication.7": "以及每一句真实的话语",
-  "dedication.8": "即使无人听见，依然站立。",
-  "dedication.9": "感谢最初的 Grokker 们：",
-  "dedication.10": "罗伯特·A·海因莱因《异乡异客》",
-  "dedication.11": "泰德·普赖尔《Grug》",
-  "dedication.12": "格罗克拉罗卡 = 《异乡异客》+ Grug",
-  "dedication.13": "（《Grug》为儿童和成人净化了《异乡客》）",
 
   "dedication": "<p><b>献给每一位探索者，无论大小，</b></p><p><b>用各自温柔的方式格罗克化着这个世界。</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>献给每一个微小的感受</p><p>  它只需要被看见，</p><p>每一个等待修复的破损</p><p>  它只需要被照料，</p><p>以及每一句真实的话语</p><p>  即使无人听见，依然站立。</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>感谢最初的 Grokker 们：</p><p><em><b>罗伯特·A·海因莱因</b> 《异乡异客》</em></p><p><em><b>泰德·普赖尔</b> 《Grug》</em></p><p>&nbsp;</p><hr><p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">格罗克拉罗卡 = 《异乡异客》+ Grug</a></p><p>（《Grug》为儿童和成人净化了《异乡客》）</p>",
 
