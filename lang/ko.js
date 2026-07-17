@@ -1,7 +1,7 @@
 // Locale ko for grok-the-rock.
 // Translated from the English original. Convention:
 // - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration: 그록 라 로카.
-// - Verb "grok" coined as: 그록하다 (inf.) / 그록하며 (ger.) / 스스로 그록하기 (refl.).
+// - Verb "grok" coined as: 그록하다 (inf.) / 그록하며 (ger.) / 자기 자신을 그록하기 (refl., p8) / 스스로 그록하기 (refl., p24).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.ko = {

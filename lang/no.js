@@ -1,7 +1,7 @@
 // Locale no (Bokmål) for grok-the-rock.
 // Norwegian translation from the English original. Convention:
 // - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
-// - Verb "grok" coined as: grokke (inf.) / grokkende (ger.) / grokke seg (refl.).
+// - Verb "grok" coined as: grokke (inf.) / grokkende (ger.) / grokke seg selv (refl., p8/dedication) / selv (refl., p24).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.no = {

@@ -1,7 +1,7 @@
 // Locale pt for grok-the-rock.
 // Translated from the English original. Convention:
 // - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
-// - Verb "grok" coined as: grokar (inf.) / grokando (ger.) / grokar-se (refl.).
+// - Verb "grok" coined as: grokar (inf.) / grokando (ger.) / grokar-se (refl., p8) / por si mesmos (refl., p24) / a nós mesmos (refl., collective, about.shame).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.pt = {

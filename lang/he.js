@@ -1,3 +1,9 @@
+// Locale he for grok-the-rock.
+// Translated from the English original. Convention:
+// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration: גרוק.
+// - Root: ג-ר-ק (g-r-k), matching the noun גרוק. Pi'el or pa'al binyan.
+// - Verb "grok" coined as: לִגרוֹק (ligrok, inf.) / גּוֹרֵק (gorek, ger.) / לִגרוֹק אֶת עַצְמוֹ (ligrok et atzmo, refl., p8) / בְּעַצְמָם (b'atzam, refl., p24).
+// - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.he = {
   "__title": "גרוק הצור – שלושה סיפורים שקטים",

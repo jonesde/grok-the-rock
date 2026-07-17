@@ -14,41 +14,47 @@
 
 ## Verb form conventions for each language
 
-| Code | Language | Infinitive | Gerund / Participle | Reflexive |
-|------|----------|-----------|---------------------|-----------|
-| **ar** | Arabic | يُغرِك (yughrik) | غَرْك (ghark, masdar) | يُغرِك نفسه (yughrik nafsahu) |
-| **bn** | Bengali | গ্রক করা (grok kôra) | গ্রক করতে করতে (grok korte korte) | নিজেকে গ্রক করা (nijeke grok kôra) |
-| **ca** | Catalan | grokar | grokant | grokar-se |
-| **cs** | Czech | grokovat | grokujíc | grokovat se |
-| **da** | Danish | grokke | grokkende | grokke sig |
-| **de** | German | grokken | grokkend | sich grokken |
-| **el** | Greek | γκροκάρω (grokáro) | γκροκάροντας (grokárontas) | γκροκάρομαι (grokáromai) |
-| **en** | English | grok | grokking | grok oneself |
-| **es** | Spanish | grokkear | grokkeando | grokkearse |
-| **eu** | Basque | grokatu | grokatzen | bere burua grokatu |
-| **fi** | Finnish | grokata | grokaten | grokata itseään |
-| **fr** | French | groker | grokant | se groker (also: grokons, 1pl) |
-| **he** | Hebrew | לִגרוֹק (ligrok) | גּוֹרֵק (gorek) | לִגרוֹק את עצמו (ligrok et atzmo) |
-| **hi** | Hindi | ग्रॉक करना (grok karnā) | ग्रॉक करते हुए (grok karte hue) | खुद को ग्रॉक करना (khud ko grok karnā) |
-| **hu** | Hungarian | grokolni | grokolva | grokolni magát |
-| **id** | Indonesian | menggrok | sedang menggrok | menggrok diri |
-| **it** | Italian | grokkare | grokkando | grokkarsi |
-| **ja** | Japanese | グロクする (guroku suru) | グロクして (guroku shite) | 自分をグロクする (jibun o guroku suru) |
-| **ko** | Korean | 그록하다 (geurok-hada) | 그록하며 (geurok-hamyeo) | 스스로 그록하기 (seuseuro geurok-hagi) |
-| **nl** | Dutch | grokken | grokkend | zich grokken |
-| **no** | Norwegian | grokke | grokkende | grokke seg |
-| **pl** | Polish | grokować | grokując | grokować się |
-| **pt** | Portuguese | grokar | grokando | grokar-se |
-| **ro** | Romanian | a groca | grocând | a se groca |
-| **ru** | Russian | грокать (grokat') | грокая (grokaya) | грокать себя (grokat' sebya) |
-| **sv** | Swedish | grokka | grokkande | grokka sig |
-| **sw** | Swahili | kuguroka | akiguroka | kujiguroka |
-| **th** | Thai | กร็อก (gròk) | กำลังกร็อก (gamlang gròk) | กร็อกตัวเอง (gròk dtua-eeng) |
-| **tl** | Tagalog | gumrok | gumrogrok | gumrok sa sarili |
-| **tr** | Turkish | groklamak | groklayarak | kendini groklamak |
-| **uk** | Ukrainian | ґрокати (grokaty) | ґрокаючи (grokayuchy) | ґрокати себе (grokaty sebe) |
-| **vi** | Vietnamese | grok | đang grok | tự grok |
-| **zh** | Chinese | 格罗克化 (géluókè huà) | 格罗克化中 (géluókè huà zhōng) | 让自己格罗克化 (ràng zìjǐ géluókè huà) |
+| Code | Language | Infinitive | Gerund / Participle | Reflexive (p8 context) | Reflexive (collective context) |
+|------|----------|-----------|---------------------|----------------------|-------------------------------|
+| **ar** | Arabic | يُغرِك (yughrik) | غَرْك (ghark, masdar) | يُغرِك نفسه (yughrik nafsahu) | أنفسهم (anfusuhum, "themselves") |
+| **bn** | Bengali | গ্রক করা (grok kôra) | গ্রক করতে করতে (grok korte korte) | নিজেকে গ্রক করা (nijeke grok kôra) | — |
+| **ca** | Catalan | grokar | grokant | grokar-se | — |
+| **cs** | Czech | grokovat | grokujíc | grokovat se | — |
+| **da** | Danish | grokke | grokkende | grokke sig | — |
+| **de** | German | grokken | grokkend | sich selbst zu grokken | sich selbst (p24: "selbst auszuprobieren") |
+| **el** | Greek | γκροκάρω (grokáro) | γκροκάροντας (grokárontas) | γκροκάρομαι (grokáromai) | — |
+| **en** | English | grok | grokking | grok oneself | — |
+| **es** | Spanish | grokkear | grokkeando | grokkearse a sí mismo | por sí mismos (p24) |
+| **eu** | Basque | grokatu | grokatzen | bere burua grokatu | — |
+| **fi** | Finnish | grokata | grokaten | grokata itseään | — |
+| **fr** | French | groker | grokant | se groker lui-même | nous-mêmes (about.shame: "Se groker nous-mêmes") |
+| **he** | Hebrew | לִגרוֹק (ligrok) | גּוֹרֵק (gorek) | לִגרוֹק אֶת עַצְמוֹ (ligrok et atzmo) | בְּעַצְמָם (b'atzam, p24: "themselves") |
+| **hi** | Hindi | ग्रॉक करना (grok karnā) | ग्रॉक करते हुए (grok karte hue) | खुद को ग्रॉक करना (khud ko grok karnā) | खुद को (khud ko, p24) |
+| **hu** | Hungarian | grokolni | grokolva | grokolni magát | — |
+| **id** | Indonesian | menggrok | sedang menggrok | menggrok diri | — |
+| **it** | Italian | grokkare | grokkando | grokkarsi | da sé (about.shame: "distanza da sé") |
+| **ja** | Japanese | グロクする (guroku suru) | グロクして (guroku shite) | 自分をグロクする (jibun o guroku suru) | 自身を (jishin o, about.shame) / 自分自身を (jibunjishin o, "ourselves") |
+| **ko** | Korean | 그록하다 (geurok-hada) | 그록하며 (geurok-hamyeo) | 자기 자신을 그록하기 (jacjajineul geurok-hagi) | 스스로 (seuseuro, p24: "themselves") |
+| **nl** | Dutch | grokken | grokkend | zichzelf te grokken | zelf (p24: "zelf uit te proberen") / Onszelf (about.shame: "Onszelf grokken") |
+| **no** | Norwegian | grokke | grokkende | grokke seg selv | seg selv (dedication, p6, p8) / selv (p24) |
+| **pl** | Polish | grokować | grokując | grokować się | — |
+| **pt** | Portuguese | grokar | grokando | grokar-se | por si mesmos (p24) / a nós mesmos (about.shame) |
+| **ro** | Romanian | a groca | grocând | a se groca | — |
+| **ru** | Russian | грокать (grokat') | грокая (grokaya) | грокать самого себя (grokat' samovo sebya) | самих себя (about.shame: "Грокать самих себя") / сами (p24) |
+| **sv** | Swedish | grokka | grokkande | grokka sig | — |
+| **sw** | Swahili | kuguroka | akiguroka | kujiguroka | — |
+| **th** | Thai | กร็อก (gròk) | กำลังกร็อก (gamlang gròk) | กร็อกตัวเอง (gròk dtua-eeng) | — |
+| **tl** | Tagalog | gumrok | gumrogrok | gumrok sa sarili | — |
+| **tr** | Turkish | groklamak | groklayarak | kendini groklamak | — |
+| **uk** | Ukrainian | ґрокати (grokaty) | ґрокаючи (grokayuchy) | ґрокати себе (grokaty sebe) | — |
+| **vi** | Vietnamese | grok | đang grok | tự grok | — |
+| **zh** | Chinese | 格罗克化 (géluókè huà) | 格罗克化中 (géluókè huà zhōng) | 格罗克化自己 (géluókè huà zìjǐ) | 我们自己 (about.shame: "格罗克化我们自己") |
+
+### Notes on reflexive forms
+
+- **Intensified reflexives are standard.** In the p8 context ("grokking himself" — an introspective moment), all translators added an intensifier to the reflexive pronoun. This is the natural choice in each language, not a deviation. The "Reflexive (p8 context)" column reflects the actual forms used.
+- **Collective "ourselves" in about.shame.1.** The shame section uses plural reflexives ("grokking ourselves"). Each language adapts this with its own plural/collective reflexive form (shown in the "Reflexive (collective context)" column).
+- **p24 "themselves" context.** In the p24 section, "themselves" is often rendered with a simpler form (e.g., German "selbst", Dutch "zelf", Norwegian "selv", Russian "сами") rather than the full intensified reflexive, reflecting a shift from introspective to observational context.
 
 ### Notes on specific verb forms
 

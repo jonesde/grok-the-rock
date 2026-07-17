@@ -1,7 +1,7 @@
 // Locale nl for grok-the-rock.
 // Translated from the English original. Convention:
 // - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
-// - Verb "grok" coined as: grokken (inf.) / grokkend (ger.) / zich grokken (refl.).
+// - Verb "grok" coined as: grokken (inf.) / grokkend (ger.) / zichzelf te grokken (refl., p8) / zelf (refl., p24) / Onszelf (refl., collective, about.shame).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.nl = {
