@@ -13,6 +13,7 @@
     de: "Deutsch",
     en: "English",
     es: "Español",
+    fa: "فارسی",
     fr: "Français",
     he: "עברית",
     hi: "हिन्दी",
