@@ -236,6 +236,14 @@
     transition: background .15s ease, border-color .15s ease, color .15s ease;
   }
   .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
+  .site-link.active {
+    cursor: default;
+    color: #1b1108;
+    background: rgba(107,98,86,0.30);
+    border-color: #6b6256;
+    font-weight: 700;
+  }
+  .site-link.active:hover { background: rgba(107,98,86,0.30); border-color: #6b6256; color: #1b1108; }
   #lang-select {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -276,6 +284,7 @@
   <span class="site-title" data-i18n="site.title.rules">Grok the Rock - Rules of Relating</span>
   <span class="site-nav">
     <select id="lang-select" class="site-link" aria-label="Language"></select>
+    <span class="site-link active" aria-current="page" data-i18n="nav.rules">Grok Rules</span>
     <a class="site-link" href="about-grok.html" data-i18n="nav.about">About Grok</a>
     <a class="site-link" href="index.html" data-i18n="nav.book">The Book</a>
   </span>

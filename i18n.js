@@ -9,21 +9,21 @@
   let originalTitle = document.title;
 
   const LANGS = {
+    ar: "العربية",
+    de: "Deutsch",
     en: "English",
     es: "Español",
     fr: "Français",
-    de: "Deutsch",
+    he: "עברית",
+    hi: "हिन्दी",
     it: "Italiano",
-    pt: "Português",
-    nl: "Nederlands",
-    ru: "Русский",
-    zh: "中文",
     ja: "日本語",
     ko: "한국어",
-    ar: "العربية",
+    nl: "Nederlands",
     no: "Norsk",
-    hi: "हिन्दी",
-    he: "עברית",
+    pt: "Português",
+    ru: "Русский",
+    zh: "中文",
     "he-phon": "עברית (תעתיק)"
   };
 

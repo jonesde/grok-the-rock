@@ -161,6 +161,14 @@
     transition: background .15s ease, border-color .15s ease, color .15s ease;
   }
   .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
+  .site-link.active {
+    cursor: default;
+    color: #1b1108;
+    background: rgba(107,98,86,0.30);
+    border-color: #6b6256;
+    font-weight: 700;
+  }
+  .site-link.active:hover { background: rgba(107,98,86,0.30); border-color: #6b6256; color: #1b1108; }
   #lang-select {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -252,6 +260,7 @@
       <!-- IMPORTANT: keep link order so it reads as "Grok Rules About Grok" -->
       <a class="site-link" href="grok-rules.html" data-i18n="nav.rules">Grok Rules</a>
       <a class="site-link" href="about-grok.html" data-i18n="nav.about">About Grok</a>
+      <span class="site-link active" aria-current="page" data-i18n="nav.book">The Book</span>
     </span>
   </header>
   <div class="book-single cover">
