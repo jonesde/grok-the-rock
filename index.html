@@ -66,6 +66,27 @@
       margin: 0 auto;
   }
   .book-single .cover-img { display: none; }
+  /* Cover title overlay (screen only; printed JPG keeps its own baked text) */
+  .book-single.cover .page {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  .book-single.cover .cardtext { position: absolute; left: 0; right: 0; top: 0; bottom: 30%; z-index: 3; display: flex; flex-direction: column; justify-content: center; padding: 4% 10%; line-height: 0.75; color: #1b1108; text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4); }
+  /* Chapter title page overlays sit over the upper image area */
+  .chapter-title {
+      position: absolute;
+      left: 0; right: 0; top: 6%;
+      z-index: 2;
+      text-align: center;
+      padding: 4% 8% 0;
+      pointer-events: none;
+      line-height: 1.3;
+      color: #1b1108;
+      text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4);
+  }
+  .chapter-title h2 { font-size: clamp(1.1rem, 2.4vw, 2.2rem); margin: 0 0 0.3em; }
+  .chapter-title p { font-size: clamp(0.8rem, 1.6vw, 1.4rem); margin: 0; }
   .caption {
     position: absolute;
     left: 0; right: 0;
@@ -207,6 +228,9 @@
     .cover-img { display: block !important; }
     .textpage { min-height: 0; }
   }
+  /* Hide new overlays for English (baked-in image text is used instead) */
+  html[data-lang="en"] .book-single.cover .cardtext,
+  html[data-lang="en"] .chapter-title { display: none !important; }
 </style>
 </head>
 <body>
@@ -220,13 +244,18 @@
       <a class="site-link" href="about-grok.html" data-i18n="nav.about">About Grok</a>
     </span>
   </header>
-  <div class="book-single">
+  <div class="book-single cover">
     <div class="page">
          <video id="cover-video" autoplay muted playsinline>
             <source src="clips/cover-grok-4d4c6c40-7ffa-4ab3-82ea-aff76693fc27-720p.mp4" type="video/mp4">
             Your browser does not support the video element.
           </video>
           <img class="cover-img" src="images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg" alt="Cover Art" data-i18n-alt="cover.alt">
+          <div class="cardtext" data-i18n-html="cover.title">
+            <h1>Grok the Rock</h1>
+            <h3>Three Quiet Stories</h3>
+            <h2>Being · Mending · Seeing</h2>
+          </div>
     </div>
   </div>
   <div class="book-single">
@@ -280,6 +309,10 @@
     </div>
     <div class="page">
       <img src="images/page-1-grok-66371264-365e-4572-8b05-f6e03851fcf5.jpg" alt="Page 1 (Chapter 1 title page)" data-i18n-alt="p1.alt">
+      <div class="chapter-title" data-i18n-html="c1.title">
+        <h2>Chapter One - Being</h2>
+        <p><em>Grok and the Small Feeling</em></p>
+      </div>
     </div>
     <div class="page" style="background:#f9f8f4;">
       <div class="page-num">2</div>
@@ -388,6 +421,10 @@
     </div>
     <div class="page">
       <img src="images/page-10-grok-de70e122-f5b5-431e-80ad-bc7e4b341433.jpg" alt="Page 10 (Chapter 2 title page)" data-i18n-alt="p10.alt">
+      <div class="chapter-title" data-i18n-html="c2.title">
+        <h2>Chapter Two - Mending</h2>
+        <p><em>Grok Tends It</em></p>
+      </div>
     </div>
     <div class="page" style="background:#eee5d3;">
       <div class="page-num">11</div>
@@ -494,6 +531,10 @@
     </div>
     <div class="page">
       <img src="images/page-18-grok-d333eb0c-afc6-432b-b077-5b89349bd1e4.jpg" alt="Page 18 (Chapter 3 title page)" data-i18n-alt="p18.alt">
+      <div class="chapter-title" data-i18n-html="c3.title">
+        <h2>Chapter Three - Seeing</h2>
+        <p><em>Grok and the True Word</em></p>
+      </div>
     </div>
     <div class="page" style="background:#ece2cf;">
       <div class="page-num">19</div>

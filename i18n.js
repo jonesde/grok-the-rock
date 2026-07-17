@@ -116,7 +116,10 @@
     });
 
     const html = document.documentElement;
-    if (html) html.setAttribute("lang", lang);
+    if (html) {
+      html.setAttribute("lang", lang);
+      html.setAttribute("data-lang", lang);
+    }
 
     if (lang === "en") {
       if (document.title !== originalTitle) document.title = originalTitle;
