@@ -16,6 +16,7 @@
 
 | Code | Language | Infinitive | Gerund / Participle | Reflexive (p8 context) | Reflexive (collective context) |
 |------|----------|-----------|---------------------|----------------------|-------------------------------|
+| **am** | Amharic | መግሮክ (mägrok) | እየገረከ (eyägäräkä) | ራሱን መግሮክ (rasun mägrok) | — |
 | **ar** | Arabic | يُغرِك (yughrik) | غَرْك (ghark, masdar) | يُغرِك نفسه (yughrik nafsahu) | أنفسهم (anfusuhum, "themselves") |
 | **bn** | Bengali | গ্রক করা (grok kôra) | গ্রক করতে করতে (grok korte korte) | নিজেকে গ্রক করা (nijeke grok kôra) | — |
 | **ca** | Catalan | grokar | grokant | grokar-se | — |
@@ -26,28 +27,41 @@
 | **en** | English | grok | grokking | grok oneself | — |
 | **es** | Spanish | grokkear | grokkeando | grokkearse a sí mismo | por sí mismos (p24) |
 | **eu** | Basque | grokatu | grokatzen | bere burua grokatu | — |
+| **fa** | Persian | گروک کردن (grok kardan) | در حال گروک کردن (dar hāl-e grok kardan) | خود را گروک کردن (khod rā grok kardan) | خودمان (khodamān) |
 | **fi** | Finnish | grokata | grokaten | grokata itseään | — |
 | **fr** | French | groker | grokant | se groker lui-même | nous-mêmes (about.shame: "Se groker nous-mêmes") |
+| **gu** | Gujarati | ગ્રૉક કરવું (grok karvũ) | ગ્રૉક કરતાં (grok kartā̃) | પોતાને ગ્રૉક કરવું (potāne grok karvũ) | — |
+| **ha** | Hausa | gurokā | yana gurokāwa | gurokā kansa | — |
 | **he** | Hebrew | לִגרוֹק (ligrok) | גּוֹרֵק (gorek) | לִגרוֹק אֶת עַצְמוֹ (ligrok et atzmo) | בְּעַצְמָם (b'atzam, p24: "themselves") |
 | **hi** | Hindi | ग्रॉक करना (grok karnā) | ग्रॉक करते हुए (grok karte hue) | खुद को ग्रॉक करना (khud ko grok karnā) | खुद को (khud ko, p24) |
 | **hu** | Hungarian | grokolni | grokolva | grokolni magát | — |
+| **ig** | Igbo | groku | na-egroku | groku onwe ya | — |
 | **id** | Indonesian | menggrok | sedang menggrok | menggrok diri | — |
 | **it** | Italian | grokkare | grokkando | grokkarsi | da sé (about.shame: "distanza da sé") |
 | **ja** | Japanese | グロクする (guroku suru) | グロクして (guroku shite) | 自分をグロクする (jibun o guroku suru) | 自身を (jishin o, about.shame) / 自分自身を (jibunjishin o, "ourselves") |
+| **kn** | Kannada | ಗ್ರಾಕ್ ಮಾಡು (grāk māḍu) | ಗ್ರಾಕ್ ಮಾಡುತ್ತ (grāk māḍutta) | ತನ್ನನ್ನು ತಾನೇ ಗ್ರಾಕ್ ಮಾಡಿಕೊ (tannannu tānē grāk māḍiko) | — |
 | **ko** | Korean | 그록하다 (geurok-hada) | 그록하며 (geurok-hamyeo) | 자기 자신을 그록하기 (jacjajineul geurok-hagi) | 스스로 (seuseuro, p24: "themselves") |
+| **mr** | Marathi | ग्रॉक करणे (grok karṇe) | ग्रॉक करताना (grok kartānā) | स्वतःला ग्रॉक करणे (svataḥlā grok karṇe) | — |
+| **ms** | Malay | menggrok | sedang menggrok | menggrok diri | — |
+| **my** | Burmese | ဂရော့က်လုပ် (grauk lup) | ဂရော့က်လုပ်နေ (grauk lup ne) | ကိုယ့်ကိုယ်ကို ဂရော့က်လုပ် (kui. kuikui grau lup) | — |
+| **ne** | Nepali | ग्रोक गर्ने (grok garne) | ग्रोक गर्दै (grok gardai) | आफैलाई ग्रोक गर्ने (āphailāī grok garne) | — |
 | **nl** | Dutch | grokken | grokkend | zichzelf te grokken | zelf (p24: "zelf uit te proberen") / Onszelf (about.shame: "Onszelf grokken") |
 | **no** | Norwegian | grokke | grokkende | grokke seg selv | seg selv (dedication, p6, p8) / selv (p24) |
+| **pa** | Punjabi | ਗ੍ਰੋਕ ਕਰਨਾ (grok karnā) | ਗ੍ਰੋਕ ਕਰਦਿਆਂ (grok kardeā̃) | ਆਪਣੇ ਆਪ ਨੂੰ ਗ੍ਰੋਕ ਕਰਨਾ (apṇe āp nū̃ grok karnā) | — |
 | **pl** | Polish | grokować | grokując | grokować się | — |
 | **pt** | Portuguese | grokar | grokando | grokar-se | por si mesmos (p24) / a nós mesmos (about.shame) |
 | **ro** | Romanian | a groca | grocând | a se groca | — |
 | **ru** | Russian | грокать (grokat') | грокая (grokaya) | грокать самого себя (grokat' samovo sebya) | самих себя (about.shame: "Грокать самих себя") / сами (p24) |
 | **sv** | Swedish | grokka | grokkande | grokka sig | — |
+| **ta** | Tamil | குரோக் செய்ய (kurōk seyyā) | குரோக் செய்து கொண்டிருக்கும் (kurōk seytu koṇṭirukkum) | தன்னைத் தானே குரோக் செய்து கொள்ள (taṉṉait tāṉē kurōk seytu koḷḷa) | — |
 | **sw** | Swahili | kuguroka | akiguroka | kujiguroka | — |
 | **th** | Thai | กร็อก (gròk) | กำลังกร็อก (gamlang gròk) | กร็อกตัวเอง (gròk dtua-eeng) | — |
 | **tl** | Tagalog | gumrok | gumrogrok | gumrok sa sarili | — |
 | **tr** | Turkish | groklamak | groklayarak | kendini groklamak | — |
 | **uk** | Ukrainian | ґрокати (grokaty) | ґрокаючи (grokayuchy) | ґрокати себе (grokaty sebe) | — |
+| **ur** | Urdu | گروک کرنا (grok karnā) | گروک کرتے ہوئے (grok karte hue) | خود کو گروک کرنا (khud ko grok karnā) | خود کو (khud ko) |
 | **vi** | Vietnamese | grok | đang grok | tự grok | — |
+| **yo** | Yoruba | grok | ń grok | grok ara rẹ̀ | grok ara wa |
 | **zh** | Chinese | 格罗克化 (géluókè huà) | 格罗克化中 (géluókè huà zhōng) | 格罗克化自己 (géluókè huà zìjǐ) | 我们自己 (about.shame: "格罗克化我们自己") |
 
 ### Notes on reflexive forms
@@ -63,6 +77,21 @@
 - **Ukrainian**: Uses `ґ` (ghe, U+0490) rather than `г` (he) to preserve the hard /g/ sound; standard Ukrainian `г` is pronounced /ɦ/.
 - **Hebrew**: Root is ג-ר-ק (g-r-k), matching the noun גרוק. Pi'el or pa'al binyan; `ligrok` follows the pa'al pattern for a hollow root.
 - **French**: Also needs `grokons` (1st person plural) for the sentence "until we grok it" in the About page.
+- **Amharic**: Uses Ge'ez script. The infinitive prefix `መ-` (mä-) is attached to the borrowed root. The gerund uses the `እየ-` (eyä-) progressive prefix with internal vowel changes.
+- **Burmese**: Verbs do not conjugate; aspect is marked by particles. `လုပ်` (lup, "do/make") is the light verb. The continuous particle `နေ` (ne) marks ongoing action. The reflexive uses the reduplicated `ကိုယ့်ကိုယ်ကို` (kui. kuikui, "self by self").
+- **Hausa**: `gurokā` inserts an epenthetic `u` to break the initial `gr-` cluster (parallel to Swahili). The `-ā` suffix marks the grade-1 infinitive. The continuous form `yana gurokāwa` uses the progressive marker `yana` + the grade-1 continuous suffix `-wā`.
+- **Yoruba**: Yoruba is a tonal language; `grok` is used as a bare verb (Yoruba has no distinct infinitive form). The continuous marker `ń` precedes the verb. The reflexive uses `ara` (body/self) + the appropriate possessive pronoun (`rẹ̀` = his/her, `wa` = our).
+- **Persian**: Uses the compound verb pattern `گروک کردن` (grok kardan, "to grok do"). The gerund uses the prepositional phrase `در حال` (dar hāl-e, "in the state of") + the infinitive. The reflexive uses `خود را` (khod rā, "self [obj.]").
+- **Urdu**: Written in Nastaliq script. Follows the same compound verb pattern as Hindi (`گروک کرنا`, grok karnā) but in Perso-Arabic script. The gerund `گروک کرتے ہوئے` (grok karte hue) is identical in structure to Hindi.
+- **Punjabi**: Written in Gurmukhi script (for Indian Punjabi). Uses the compound verb pattern `ਗ੍ਰੋਕ ਕਰਨਾ` (grok karnā). The gerund `ਗ੍ਰੋਕ ਕਰਦਿਆਂ` (grok kardeā̃) uses the conjunctive participle form.
+- **Tamil**: Uses the Dravidian verb pattern. `செய்ய` (seyyā, "to do") is the light verb. The continuous form uses `செய்து கொண்டிருக்கும்` (seytu koṇṭirukkum, "having done, remains"), the standard Tamil continuous construction. The reflexive uses the reduplicated `தன்னைத் தானே` (taṉṉait tāṉē, "self by self").
+- **Igbo**: Uses the borrowed verb `groku` with Igbo prefix patterns. The continuous marker `na-` + subject prefix `e-` gives `na-egroku`. The reflexive uses `onwe` (self) + possessive `ya` (his/her).
+- **Telugu**: Uses the compound verb pattern `గ్రోక్ చేయడం` (grōk cēyaḍaṁ, "to do grok"). The continuous `గ్రోక్ చేస్తూ` (grōk cēstū) uses the present participle. The reflexive uses the reduplicated `తనను తాను` (tananu tānu, "self by self").
+- **Marathi**: Uses the compound verb `ग्रॉक करणे` (grok karṇe). The gerund `ग्रॉक करताना` (grok kartānā) uses the "while doing" form. The reflexive uses `स्वतःला` (svataḥlā, "to oneself").
+- **Gujarati**: Uses the compound verb `ગ્રૉક કરવું` (grok karvũ). The gerund `ગ્રૉક કરતાં` (grok kartā̃) uses the adverbial participle. The reflexive uses `પોતાને` (potāne, "to oneself").
+- **Kannada**: Uses the compound verb `ಗ್ರಾಕ್ ಮಾಡು` (grāk māḍu, "do grok"). The continuous `ಗ್ರಾಕ್ ಮಾಡುತ್ತ` (grāk māḍutta) uses the present participle. The reflexive uses the reduplicated `ತನ್ನನ್ನು ತಾನೇ` (tannannu tānē, "self by self").
+- **Nepali**: Uses the compound verb pattern `ग्रोक गर्ने` (grok garne). The gerund `ग्रोक गर्दै` (grok gardai) uses the progressive form. The reflexive uses `आफैलाई` (āphailāī, "to oneself"), an intensified form of `आफू` (āphū).
+- **Malay**: Closely parallel to Indonesian. Uses the `meng-` prefix for the active verb form. The continuous uses `sedang` (currently). The reflexive uses `diri` (self).
 
 ## Translation keys by page
 
@@ -159,6 +188,9 @@
 | 4 | el, tr, he, ca | Mediterranean / Middle Eastern |
 | 5 | hi, bn, th, vi, id | South / Southeast Asian |
 | 6 | fi, sw, eu, tl | Outliers |
+| 7 | ur, pa, gu, mr, kn, te, ta, ne | South Asian (Indic) |
+| 8 | fa, ha, am, yo, ig | Middle Eastern / African |
+| 9 | ms, my | Southeast Asian additions |
 
 ## File structure
 
