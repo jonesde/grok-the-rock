@@ -20,7 +20,9 @@
     zh: "中文",
     ja: "日本語",
     ko: "한국어",
-    ar: "العربية"
+    ar: "العربية",
+    no: "Norsk",
+    hi: "हिन्दी"
   };
 
   const STORAGE_KEY = "grok-lang";
