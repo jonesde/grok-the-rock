@@ -1,6 +1,6 @@
 // Locale ja for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration: グロク・ラ・ロカ.
+// - Proper noun "Grok" kept as recognizable transliteration: グロク. "Grok the Rock" → グロク・ロック.
 // - Verb "grok" coined as: グロクする (inf.) / グロクして (ger.) / 自分をグロクする (refl., p8) / 自身を (refl., about.shame) / 自分自身を (refl., collective, about.shame).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};

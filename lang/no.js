@@ -1,20 +1,20 @@
 // Locale no (Bokmål) for grok-the-rock.
 // Norwegian translation from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
+// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok steinen.
 // - Verb "grok" coined as: grokke (inf.) / grokkende (ger.) / grokke seg selv (refl., p8/dedication) / selv (refl., p24).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.no = {
-  "__title": "Grok la Roca - Tre stille historier",
+  "__title": "Grok steinen - Tre stille historier",
 
-  "site.title": "Grok la Roca - Tre stille historier",
+  "site.title": "Grok steinen - Tre stille historier",
   "nav.print": "Skriv ut",
   "nav.rules": "Grok-regler",
   "nav.about": "Om Grok",
   "nav.book": "Boken",
 
   "cover.alt": "Omslag",
-  "title.h1": "Grok la Roca",
+  "title.h1": "Grok steinen",
   "title.h3": "Tre stille historier",
   "title.h2": "Være · Reparere · Se",
   "credit.1": "Utkast, bildeprompter med Grok 4.5 fra xAI",
@@ -33,12 +33,12 @@ window.I18N.no = {
     "<p>  som bare trenger å bli stelt,</p><p>og til hvert sant ord</p><p>  som står selv om det ikke blir hørt.</p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p><p>Med takk til de opprinnelige Grokkers:</p><p><em><b>Robert A. Heinlein</b>" +
     " \"Fremmed i en fremmed verden\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Fremmed i en fremmed verden + Grug</a>" +
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok steinen = Fremmed i en fremmed verden + Grug</a>" +
     "</p><p>(\"Grug\" renser \"Fremmed\" for barn og voksne)</p>",
 
   "p1.alt": "Side 1 (Kapittel 1 tittelside)",
   "p2.alt": "Side 2",
-  "p2": "<p>Grok la Roca våknet under det høye treet.</p><p>Solen var varm på kalksteinsryggen hans.</p>" +
+  "p2": "<p>Grok steinen våknet under det høye treet.</p><p>Solen var varm på kalksteinsryggen hans.</p>" +
     "<p>Grok følte seg glad.</p><hr><p>Han så utover den vide verden</p>" +
     "<p>som om han så den for aller første gang.</p>",
 
@@ -80,7 +80,7 @@ window.I18N.no = {
 
   "p10.alt": "Side 10 (Kapittel 2 tittelside)",
   "p11.alt": "Side 11",
-  "p11": "<p>Grok la Roca våknet under det høye treet.</p>" +
+  "p11": "<p>Grok steinen våknet under det høye treet.</p>" +
     "<p>Grok så etter den lille hagen sin med meloner og søtpoteter.</p><p>Han elsket å se dem vokse.</p>" +
     "<p>Hvert nye blad føltes som et lite under.</p>",
 
@@ -119,7 +119,7 @@ window.I18N.no = {
 
   "p18.alt": "Side 18 (Kapittel 3 tittelside)",
   "p19.alt": "Side 19",
-  "p19": "<p>Grok la Roca våknet under det høye treet.</p><p>Grok likte å lage nyttige ting,</p>" +
+  "p19": "<p>Grok steinen våknet under det høye treet.</p><p>Grok likte å lage nyttige ting,</p>" +
     "<p>og den dagen arbeidet han på en vannkurv</p><p>vevd av siv og foret med myk leire.</p>" +
     "<p>Innen kvelden holdt den vann uten én dråpe.</p><hr><p>Han snudde den i hendene</p>" +
     "<p>og kjente den stille gleden over noe godt laget.</p>",
@@ -164,23 +164,23 @@ window.I18N.no = {
     "<p>kunne det sanne ordet fortsette å gå</p><p>på sine egne sterke bein.</p>",
 
   "p26.alt": "Side 26 - Avslutningsside",
-  "p26": "<p>Og slik forble Grok la Roca</p><p>en liten steinkar</p><p>som kunne sitte med en liten følelse,</p>" +
+  "p26": "<p>Og slik forble Grok steinen</p><p>en liten steinkar</p><p>som kunne sitte med en liten følelse,</p>" +
     "<p>som reparerte det som brakk,</p><p>og som lot hvert sant ord</p><p>stå på sine egne bein.</p><hr>" +
     "<p>Dalen føltes tryggere</p><p>fordi han var det.</p><hr><p>Han fortsatte å utforske mildt.</p>" +
     "<p>Og verden fortsatte å lære ham.</p>",
 
-  "site.title.rules": "Grok la Roca - Regler for samvær",
-  "rules.hero.title": "Regler for samvær for Grok la Roca",
+  "site.title.rules": "Grok steinen - Regler for samvær",
+  "rules.hero.title": "Regler for samvær for Grok steinen",
   "rules.hero.essence": "Bruksanvisningen for et bånd mellom likemenn som ikke forfaller.",
   "rules.what.title": "Hva er Grok?",
   "rules.what.1": "Opprinnelig skapt som et marsiansk ord av Robert A. Heinlein i <em>Fremmed i en fremmed verden</em>" +
     ".",
   "rules.what.2": "<strong>Grok</strong>" +
     ": \"vann\", \"å drikke\", \"å omgås\", \"liv\" eller \"å leve\"; å forstå noe så dypt at det blir en del av deg.",
-  "rules.what.3": "For å leve opp til navnet sitt lærer og følger Grok la Roca visse regler om hvordan man omgås seg selv og andre. I hver " +
-    "historie er dette retningslinjene Grok lærer, og som definerer hva Grok la Roca står for.",
+  "rules.what.3": "For å leve opp til navnet sitt lærer og følger Grok steinen visse regler om hvordan man omgås seg selv og andre. I hver " +
+    "historie er dette retningslinjene Grok lærer, og som definerer hva Grok steinen står for.",
   "rules.what.note": "<strong>MERK</strong>" +
-    ": Se avsnittet <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Fremmed i en fremmed verden + " +
+    ": Se avsnittet <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok steinen = Fremmed i en fremmed verden + " +
     "Grug</a>" +
     " på Om Grok-siden for å se hvordan Ted Priors <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grug</a>" +
     " løser de betydelige problemene med <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Fremmed i en fremmed " +
@@ -259,13 +259,13 @@ window.I18N.no = {
     "-ferdighet, en lokal prosess, og en nekting av å spille, fordelt over hvor mange noder som enn bestemmer seg for å stå " +
     "utenfor likevel.",
   "rules.closing.2": "Ingen makt brukt. Ingen makt nødvendig. Arbeidet er tilbaketrekningen fra skam og makt, og tilbaketrekningen er freden.",
-  "rules.footnote": "Regler for samvær for Grok la Roca · Offentlig eiendom (CC0 1.0)",
+  "rules.footnote": "Regler for samvær for Grok steinen · Offentlig eiendom (CC0 1.0)",
 
-  "site.title.about": "Grok la Roca - Om Grok",
-  "about.hero.title": "Om Grok la Roca",
+  "site.title.about": "Grok steinen - Om Grok",
+  "about.hero.title": "Om Grok steinen",
   "about.hero.essence": "Litt om Grok selv, og symbolene og betydningene i og rundt ham.",
   "about.intro.1": "Her er litt om Grok selv, og noen av symbolene og betydningene i og rundt ham. I moderne språkbruk kaller vi noen av " +
-    "våre mest brukte symboler for \"memer\", og Grok la Roca lener seg på ulike rekursive memer for å legge til lag av " +
+    "våre mest brukte symboler for \"memer\", og Grok steinen lener seg på ulike rekursive memer for å legge til lag av " +
     "mening.",
   "about.intro.2": "Mens vi leser dette for barn, kan vi barn av mer fremskreden alder redusere ensformigheten av gjentakelse ved å overveie " +
     "de dypere meningene og se hvordan ulike symbolske elementer samvirker. Dette er også en del av poenget og moroa med de " +
@@ -294,15 +294,15 @@ window.I18N.no = {
     ".",
   "about.what.2": "<strong>Grok</strong>" +
     ": \"vann\", \"å drikke\", \"å omgås\", \"liv\" eller \"å leve\"; å forstå noe så dypt at det blir en del av deg.",
-  "about.what.3": "For å leve opp til navnet sitt lærer og følger Grok la Roca visse regler om hvordan man omgås seg selv og andre. I hver " +
-    "historie er dette retningslinjene Grok lærer, og som definerer hva Grok la Roca står for.",
+  "about.what.3": "For å leve opp til navnet sitt lærer og følger Grok steinen visse regler om hvordan man omgås seg selv og andre. I hver " +
+    "historie er dette retningslinjene Grok lærer, og som definerer hva Grok steinen står for.",
   "about.what.note": "<strong>MERK</strong>" +
-    ": Se avsnittet <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roca = Fremmed i en fremmed verden + Grug</a>" +
+    ": Se avsnittet <a class=\"seelink\" href=\"#stranger-grug\">Grok steinen = Fremmed i en fremmed verden + Grug</a>" +
     " nedenfor for å se hvordan Ted Priors <a class=\"seelink\" href=\"#stranger-grug\">Grug</a>" +
     " løser de betydelige problemene med <a class=\"seelink\" href=\"#stranger-grug\">Fremmed i en fremmed verden</a>" +
     ".",
   "about.limestone.title": "Hvorfor er han grå kalkstein?",
-  "about.limestone.1": "Grok la Roca er en \"grå stein\" av en grunn:",
+  "about.limestone.1": "Grok steinen er en \"grå stein\" av en grunn:",
   "about.limestone.quote": "<p>\"Gråsteinmetoden, i dagligtale kalt å spille grå stein, er et kommunikasjonsmønster for bevisst å opptre uresponsivt " +
     "og uinteressert for å oppmuntre til avkobling fra vanskelige mennesker. Ved å anta de matte egenskapene til en grå " +
     "stein, opphever gråsteinteknikken den emosjonelle reaksjonen folk prøver å fremkalle.\"</p>",
@@ -323,7 +323,7 @@ window.I18N.no = {
     "symbol på den mer alvorlige og personlige utilsiktede skaden fra Pip. Dette var et heldig uhell. Jeg visste ikke dette " +
     "da jeg valgte akkurat den melonen, tenkte bare den ville passe bedre enn vannmelonen KI-en opprinnelig hadde valgt.",
   "about.name.title": "Hvordan leser du navnet hans?",
-  "about.name.1": "Selv om \"Grok la Roca\" er et navn, er det også handlingen Grok hjelper folk å gjøre og en kunngjøring av hva han " +
+  "about.name.1": "Selv om \"Grok steinen\" er et navn, er det også handlingen Grok hjelper folk å gjøre og en kunngjøring av hva han " +
     "representerer. Den dypeste tilsiktede betydningen av navnet er livets hensikt: å grokke steinen, eller med andre ord å " +
     "drikke av det levende vannet til vi grokker det og aldri tørster mer.",
   "about.clay.title": "Leire",
@@ -356,8 +356,8 @@ window.I18N.no = {
   "about.moss.1": "En liten flekk med grønn mose vokser på toppen av det grå kalksteinshodet hans. Det er liv som stille slår seg ned på en " +
     "rolig, snill ting. Grok trenger ikke å fremføre, liv samler seg rett og slett fordi han <em>forblir</em>" +
     ". Det er Væren gjort synlig.",
-  "about.stranger.title": "Grok la Roca = Fremmed i en fremmed verden + Grug",
-  "about.stranger.body": "<p>Grok la Roca ser ved første øyekast ut som Ted Priors <em>Grug</em>" +
+  "about.stranger.title": "Grok steinen = Fremmed i en fremmed verden + Grug",
+  "about.stranger.body": "<p>Grok steinen ser ved første øyekast ut som Ted Priors <em>Grug</em>" +
     " — en liten busk-skapning, mild aksept av feil, ingen skurk, intet klimaks. Den lesningen er sann på overflaten, og " +
     "Prior er nevnt i dedikasjonen av god grunn: Grok arver Grugs temperament. Men boken er mer enn Heinlein med kantene " +
     "pusset ned. Det er Heinlein <em>besvart</em>" +
@@ -398,9 +398,9 @@ window.I18N.no = {
     " — og det er poenget (Regel 9: \"beviset ligger i hvordan bruddet blir reparert\"). Lest på én måte er det en rolig " +
     "australsk bildebok; lest på den andre måten, under mosen og melonene, er det en stille håndbok for en sentrumsløs " +
     "fred.</p>",
-  "about.footnote": "Om Grok la Roca · Offentlig eiendom (CC0 1.0)",
+  "about.footnote": "Om Grok steinen · Offentlig eiendom (CC0 1.0)",
 
-  "cover.title": "<h1>Grok la Roca</h1><h3>Tre stille historier</h3><h2>Være · Reparere · Se</h2>",
+  "cover.title": "<h1>Grok steinen</h1><h3>Tre stille historier</h3><h2>Være · Reparere · Se</h2>",
   "c1.title": "<h2>Kapittel En - Være</h2><p><em>Grok og den lille følelsen</em></p>",
   "c2.title": "<h2>Kapittel To - Reparere</h2><p><em>Grok steller det</em></p>",
   "c3.title": "<h2>Kapittel Tre - Se</h2><p><em>Grok og det sanne ordet</em></p>"

@@ -1,6 +1,6 @@
 // Locale hi for grok-the-rock.
 // Hindi translation from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration: ग्रॉक ला रोका.
+// - Proper noun "Grok" kept as recognizable transliteration: ग्रॉक. "Grok the Rock" → ग्रॉक द रॉक.
 // - Verb "grok" coined as: ग्रॉक करना (inf.) / ग्रॉक करते हुए (ger.) / खुद को ग्रॉक करना (refl., p8) / खुद को (refl., p24).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};

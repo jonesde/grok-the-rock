@@ -1,20 +1,20 @@
 // Locale it for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
+// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok la Roccia.
 // - Verb "grok" coined as: grokkare (inf.) / grokkando (ger.) / grokkarsi (refl., p8) / da sé (refl., about.shame).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.it = {
-  "__title": "Grok la Roca - Tre storie silenziose",
+  "__title": "Grok la Roccia - Tre storie silenziose",
 
-  "site.title": "Grok la Roca - Tre storie silenziose",
+  "site.title": "Grok la Roccia - Tre storie silenziose",
   "nav.print": "Stampa",
   "nav.rules": "Regole di Grok",
   "nav.about": "Su Grok",
   "nav.book": "Il libro",
 
   "cover.alt": "Copertina",
-  "title.h1": "Grok la Roca",
+  "title.h1": "Grok la Roccia",
   "title.h3": "Tre storie silenziose",
   "title.h2": "Essere · Riparare · Vedere",
   "credit.1": "Bozza, spunti per le immagini con Grok 4.5 di xAI",
@@ -35,12 +35,12 @@ window.I18N.it = {
     "<p>Con gratitudine ai Grokker originali:</p><p><em><b>Robert A. Heinlein</b>" +
     " \"Straniero in terra straniera\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Straniero in terra straniera + Grug</a>" +
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roccia = Straniero in terra straniera + Grug</a>" +
     "</p><p>(\"Grug\" ripulisce \"Straniero\" per bambini e adulti)</p>",
 
   "p1.alt": "Pagina 1 (Frontespizio Capitolo 1)",
   "p2.alt": "Pagina 2",
-  "p2": "<p>Grok la Roca si svegliò sotto l'albero alto.</p><p>Il sole era caldo sulla sua schiena di calcare.</p>" +
+  "p2": "<p>Grok la Roccia si svegliò sotto l'albero alto.</p><p>Il sole era caldo sulla sua schiena di calcare.</p>" +
     "<p>Grok si sentiva felice.</p><hr><p>Guardò il mondo vasto</p><p>come se lo vedesse per la prima volta.</p>",
 
   "p3.alt": "Pagina 3",
@@ -81,7 +81,7 @@ window.I18N.it = {
 
   "p10.alt": "Pagina 10 (Frontespizio Capitolo 2)",
   "p11.alt": "Pagina 11",
-  "p11": "<p>Grok la Roca si svegliò sotto l'albero alto.</p>" +
+  "p11": "<p>Grok la Roccia si svegliò sotto l'albero alto.</p>" +
     "<p>Grok guardava il suo piccolo orto di meloni e patate dolci.</p><p>Amava guardarli crescere.</p>" +
     "<p>Ogni nuova foglia sembrava una piccola meraviglia.</p>",
 
@@ -124,7 +124,7 @@ window.I18N.it = {
 
   "p18.alt": "Pagina 18 (Frontespizio Capitolo 3)",
   "p19.alt": "Pagina 19",
-  "p19": "<p>Grok la Roca si svegliò sotto l'albero alto.</p><p>A Grok piaceva fare cose utili,</p>" +
+  "p19": "<p>Grok la Roccia si svegliò sotto l'albero alto.</p><p>A Grok piaceva fare cose utili,</p>" +
     "<p>e quel giorno lavorò a un cesto per l'acqua</p><p>intrecciato di giunchi e rivestito di argilla morbida.</p>" +
     "<p>A sera teneva l'acqua senza una goccia.</p><hr><p>Lo girò tra le mani</p>" +
     "<p>e sentì la gioia silenziosa di una cosa ben fatta.</p>",
@@ -174,14 +174,14 @@ window.I18N.it = {
     "<p>la parola vera poteva continuare a camminare</p><p>sulle sue gambe forti.</p>",
 
   "p26.alt": "Pagina 26 - Pagina finale",
-  "p26": "<p>E così Grok la Roca rimase</p><p>un piccolo tipo di calcare</p>" +
+  "p26": "<p>E così Grok la Roccia rimase</p><p>un piccolo tipo di calcare</p>" +
     "<p>che sapeva sedersi con un piccolo sentimento,</p><p>che riparava ciò che si rompeva,</p>" +
     "<p>e che lasciava che ogni parola vera</p><p>stesse sulle proprie gambe.</p><hr>" +
     "<p>La valle sembrava più sicura</p><p>perché lui lo era.</p><hr><p>Continuò a esplorare con dolcezza.</p>" +
     "<p>E il mondo continuò a insegnargli.</p>",
 
-  "site.title.rules": "Grok la Roca - Regole dello stare insieme",
-  "rules.hero.title": "Regole dello stare insieme per Grok la Roca",
+  "site.title.rules": "Grok la Roccia - Regole dello stare insieme",
+  "rules.hero.title": "Regole dello stare insieme per Grok la Roccia",
   "rules.hero.essence": "Le istruzioni per un legame tra pari che non si sgretola.",
   "rules.what.title": "Che cos'è Grok?",
   "rules.what.1": "Coniato originariamente come parola marziana da Robert A. Heinlein in <em>Straniero in terra straniera</em>" +
@@ -189,10 +189,10 @@ window.I18N.it = {
   "rules.what.2": "<strong>Grok</strong>" +
     ": \"acqua\", \"bere\", \"stare insieme\", \"vita\" o \"vivere\"; capire qualcosa così profondamente che diventa parte di " +
     "te.",
-  "rules.what.3": "Per onorare il suo nome, Grok la Roca impara e segue certe regole su come stare insieme con sé stesso e con gli altri. " +
-    "In ogni storia, queste sono le linee guida che Grok impara e che definiscono ciò che Grok la Roca rappresenta.",
+  "rules.what.3": "Per onorare il suo nome, Grok la Roccia impara e segue certe regole su come stare insieme con sé stesso e con gli altri. " +
+    "In ogni storia, queste sono le linee guida che Grok impara e che definiscono ciò che Grok la Roccia rappresenta.",
   "rules.what.note": "<strong>NOTA</strong>" +
-    ": Vedi la sezione <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Straniero in terra " +
+    ": Vedi la sezione <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roccia = Straniero in terra " +
     "straniera + Grug</a>" +
     " sulla pagina Su Grok per vedere come il <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grug</a>" +
     " di Ted Prior risolve i problemi significativi di <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Straniero " +
@@ -272,13 +272,13 @@ window.I18N.it = {
     "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
     ", un processo locale, e un rifiuto di giocare, distribuito tra quanti nodi decidano di stare fuori lo stesso.",
   "rules.closing.2": "Nessun potere usato. Nessun potere necessario. Il lavoro è il ritiro dalla vergogna e dal potere, e il ritiro è la pace.",
-  "rules.footnote": "Regole dello stare insieme per Grok la Roca · Pubblico dominio (CC0 1.0)",
+  "rules.footnote": "Regole dello stare insieme per Grok la Roccia · Pubblico dominio (CC0 1.0)",
 
-  "site.title.about": "Grok la Roca - Su Grok",
-  "about.hero.title": "Su Grok la Roca",
+  "site.title.about": "Grok la Roccia - Su Grok",
+  "about.hero.title": "Su Grok la Roccia",
   "about.hero.essence": "Un po' su Grok stesso, e i simboli e significati in lui e attorno a lui.",
   "about.intro.1": "Ecco un po' su Grok stesso, e alcuni dei simboli e significati in lui e attorno a lui. Nel linguaggio moderno chiamiamo " +
-    "\"meme\" alcuni dei nostri simboli più comuni, e Grok la Roca si appoggia a vari meme ricorsivi per aggiungere strati di " +
+    "\"meme\" alcuni dei nostri simboli più comuni, e Grok la Roccia si appoggia a vari meme ricorsivi per aggiungere strati di " +
     "significato.",
   "about.intro.2": "Mentre leggiamo questo ai bambini, noi bambini di età più avanzata possiamo ridurre la monotonia della ripetizione " +
     "considerando i significati più profondi e osservando come interagiscono i diversi elementi simbolici. Anche questo fa " +
@@ -309,15 +309,15 @@ window.I18N.it = {
   "about.what.2": "<strong>Grok</strong>" +
     ": \"acqua\", \"bere\", \"stare insieme\", \"vita\" o \"vivere\"; capire qualcosa così profondamente che diventa parte di " +
     "te.",
-  "about.what.3": "Per onorare il suo nome, Grok la Roca impara e segue certe regole su come stare insieme con sé stesso e con gli altri. " +
-    "In ogni storia, queste sono le linee guida che Grok impara e che definiscono ciò che Grok la Roca rappresenta.",
+  "about.what.3": "Per onorare il suo nome, Grok la Roccia impara e segue certe regole su come stare insieme con sé stesso e con gli altri. " +
+    "In ogni storia, queste sono le linee guida che Grok impara e che definiscono ciò che Grok la Roccia rappresenta.",
   "about.what.note": "<strong>NOTA</strong>" +
-    ": Vedi la sezione <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roca = Straniero in terra straniera + Grug</a>" +
+    ": Vedi la sezione <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roccia = Straniero in terra straniera + Grug</a>" +
     " più sotto per vedere come il <a class=\"seelink\" href=\"#stranger-grug\">Grug</a>" +
     " di Ted Prior risolve i problemi significativi di <a class=\"seelink\" href=\"#stranger-grug\">Straniero in terra " +
     "straniera</a>.",
   "about.limestone.title": "Perché è calcare grigio?",
-  "about.limestone.1": "Grok la Roca è una \"roccia grigia\" per una ragione:",
+  "about.limestone.1": "Grok la Roccia è una \"roccia grigia\" per una ragione:",
   "about.limestone.quote": "<p>\"Il metodo della roccia grigia, colloquialmente chiamato fare la roccia grigia, è uno schema di comunicazione per " +
     "agire deliberatamente in modo impassibile e disinteressato per incoraggiare il disimpegno con persone difficili. " +
     "Adottando le qualità opache di una roccia grigia, la tecnica della roccia grigia annulla la reazione emotiva che le " +
@@ -339,7 +339,7 @@ window.I18N.it = {
     "un simbolo del danno accidentale più serio e personale di Pip. È stato un incidente fortunato. Non lo sapevo quando ho " +
     "scelto quel melone in particolare, pensavo solo che ci stesse meglio dell'anguria che l'IA aveva scelto originariamente.",
   "about.name.title": "Come si legge il suo nome?",
-  "about.name.1": "Sebbene \"Grok la Roca\" sia un nome, è anche l'azione che Grok aiuta le persone a fare e un annuncio di ciò che " +
+  "about.name.1": "Sebbene \"Grok la Roccia\" sia un nome, è anche l'azione che Grok aiuta le persone a fare e un annuncio di ciò che " +
     "rappresenta. Il significato più profondo inteso del nome è lo scopo della vita: grokkare la roccia, o in altre parole " +
     "bere dell'acqua viva finché la grokkiamo e non abbiamo più sete.",
   "about.clay.title": "Argilla",
@@ -371,8 +371,8 @@ window.I18N.it = {
   "about.moss.1": "Un piccolo ciuffo di muschio verde cresce sulla sua testa di calcare grigio. È la vita che si posa silenziosamente su " +
     "una cosa quieta e gentile. Grok non ha bisogno di mettersi in scena, la vita semplicemente si accumula perché lui " +
     "<em>resta</em>. È l'Essere reso visibile.",
-  "about.stranger.title": "Grok la Roca = Straniero in terra straniera + Grug",
-  "about.stranger.body": "<p>Grok la Roca, a prima vista, assomiglia al <em>Grug</em>" +
+  "about.stranger.title": "Grok la Roccia = Straniero in terra straniera + Grug",
+  "about.stranger.body": "<p>Grok la Roccia, a prima vista, assomiglia al <em>Grug</em>" +
     " di Ted Prior — una piccola creatura del bosco, dolce accettazione del fallimento, nessun cattivo, nessun climax. Questa " +
     "lettura è vera in superficie, e Prior è nominato nella dedica per una buona ragione: Grok eredita il temperamento di " +
     "Grug. Ma il libro è più di Heinlein con gli spigoli smussati. È Heinlein <em>risposto</em>" +
@@ -416,9 +416,9 @@ window.I18N.it = {
     " — che è il punto (Regola 9: \"la prova è in come la rottura viene riparata\"). Letto in un modo è un tranquillo albo " +
     "illustrato australiano; letto nell'altro modo, sotto il muschio e i meloni, è un manuale silenzioso per una pace senza " +
     "centro.</p>",
-  "about.footnote": "Su Grok la Roca · Pubblico dominio (CC0 1.0)",
+  "about.footnote": "Su Grok la Roccia · Pubblico dominio (CC0 1.0)",
 
-  "cover.title": "<h1>Grok la Roca</h1><h3>Tre storie silenziose</h3><h2>Essere · Riparare · Vedere</h2>",
+  "cover.title": "<h1>Grok la Roccia</h1><h3>Tre storie silenziose</h3><h2>Essere · Riparare · Vedere</h2>",
   "c1.title": "<h2>Capitolo Uno - Essere</h2><p><em>Grok e il piccolo sentimento</em></p>",
   "c2.title": "<h2>Capitolo Due - Riparare</h2><p><em>Grok se ne prende cura</em></p>",
   "c3.title": "<h2>Capitolo Tre - Vedere</h2><p><em>Grok e la parola vera</em></p>"

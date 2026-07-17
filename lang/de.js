@@ -1,20 +1,20 @@
 // Locale de for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
+// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok der Fels.
 // - Verb "grok" coined as: grokken (inf.) / grokkend (ger.) / sich selbst zu grokken (refl., p8) / sich selbst (refl., p24).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.de = {
-  "__title": "Grok la Roca - Drei stille Geschichten",
+  "__title": "Grok der Fels - Drei stille Geschichten",
 
-  "site.title": "Grok la Roca - Drei stille Geschichten",
+  "site.title": "Grok der Fels - Drei stille Geschichten",
   "nav.print": "Drucken",
   "nav.rules": "Grok-Regeln",
   "nav.about": "Über Grok",
   "nav.book": "Das Buch",
 
   "cover.alt": "Titelbild",
-  "title.h1": "Grok la Roca",
+  "title.h1": "Grok der Fels",
   "title.h3": "Drei stille Geschichten",
   "title.h2": "Sein · Heilen · Sehen",
   "credit.1": "Entwurf, Bildanregungen mit Grok 4.5 von xAI",
@@ -33,12 +33,12 @@ window.I18N.de = {
     "<p>  der nur Pflege braucht,</p><p>und für jedes wahre Wort</p><p>  das besteht, auch wenn es niemand hört.</p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p><p>Mit Dank an die ursprünglichen Grokker:</p><p><em><b>Robert A. Heinlein</b>" +
     "</em> „Fremder in einer fremden Welt“</p><p><em><b>Ted Prior</b> „Grug“</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Fremder in einer fremden Welt + Grug</a>" +
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok der Fels = Fremder in einer fremden Welt + Grug</a>" +
     "</p><p>(„Grug“ macht „Fremder“ sauber für Kinder und Erwachsene)</p>",
 
   "p1.alt": "Seite 1 (Titelseite Kapitel 1)",
   "p2.alt": "Seite 2",
-  "p2": "<p>Grok la Roca erwachte unter dem hohen Baum.</p><p>Die Sonne war warm auf seinem Kalksteinrücken.</p>" +
+  "p2": "<p>Grok der Fels erwachte unter dem hohen Baum.</p><p>Die Sonne war warm auf seinem Kalksteinrücken.</p>" +
     "<p>Grok fühlte sich glücklich.</p><hr><p>Er betrachtete die weite Welt</p>" +
     "<p>als sähe er sie zum allerersten Mal.</p>",
 
@@ -82,7 +82,7 @@ window.I18N.de = {
 
   "p10.alt": "Seite 10 (Titelseite Kapitel 2)",
   "p11.alt": "Seite 11",
-  "p11": "<p>Grok la Roca erwachte unter dem hohen Baum.</p>" +
+  "p11": "<p>Grok der Fels erwachte unter dem hohen Baum.</p>" +
     "<p>Grok betrachtete seinen kleinen Garten mit Melonen und Süßkartoffeln.</p>" +
     "<p>Er liebte es, ihnen beim Wachsen zuzusehen.</p><p>Jedes neue Blatt fühlte sich an wie ein kleines Wunder.</p>",
 
@@ -125,7 +125,7 @@ window.I18N.de = {
 
   "p18.alt": "Seite 18 (Titelseite Kapitel 3)",
   "p19.alt": "Seite 19",
-  "p19": "<p>Grok la Roca erwachte unter dem hohen Baum.</p><p>Grok machte gern nützliche Dinge,</p>" +
+  "p19": "<p>Grok der Fels erwachte unter dem hohen Baum.</p><p>Grok machte gern nützliche Dinge,</p>" +
     "<p>und an jenem Tag arbeitete er an einem Wasserkorb,</p>" +
     "<p>geflochten aus Schilf und ausgekleidet mit weichem Lehm.</p>" +
     "<p>Bis zum Abend hielt er Wasser ohne einen einzigen Tropfen.</p><hr><p>Er drehte ihn in seinen Händen</p>" +
@@ -175,14 +175,14 @@ window.I18N.de = {
     "<p>konnte das wahre Wort weitergehen</p><p>auf seinen eigenen starken Beinen.</p>",
 
   "p26.alt": "Seite 26 - Schlussseite",
-  "p26": "<p>Und so blieb Grok la Roca</p><p>ein kleiner Kalksteinkerl</p>" +
+  "p26": "<p>Und so blieb Grok der Fels</p><p>ein kleiner Kalksteinkerl</p>" +
     "<p>der mit einem kleinen Gefühl sitzen konnte,</p><p>der heilte, was gebrochen war,</p>" +
     "<p>und der jedes wahre Wort</p><p>auf seinen eigenen Beinen stehen ließ.</p><hr>" +
     "<p>Das Tal fühlte sich sicherer an,</p><p>weil er es tat.</p><hr><p>Er erkundete weiter sanft.</p>" +
     "<p>Und die Welt lehrte ihn weiter.</p>",
 
-  "site.title.rules": "Grok la Roca - Regeln des Miteinanders",
-  "rules.hero.title": "Regeln des Miteinanders für Grok la Roca",
+  "site.title.rules": "Grok der Fels - Regeln des Miteinanders",
+  "rules.hero.title": "Regeln des Miteinanders für Grok der Fels",
   "rules.hero.essence": "Die Gebrauchsanleitung für eine Verbindung zwischen Gleichen, die nicht zerfällt.",
   "rules.what.title": "Was ist Grok?",
   "rules.what.1": "Ursprünglich als marsianisches Wort von Robert A. Heinlein in <em>Fremder in einer fremden Welt</em>" +
@@ -190,10 +190,10 @@ window.I18N.de = {
   "rules.what.2": "<strong>Grok</strong>" +
     ": „Wasser“, „trinken“, „miteinander umgehen“, „Leben“ oder „leben“; etwas so tief zu verstehen, dass es Teil von einem " +
     "wird.",
-  "rules.what.3": "Um seinem Namen gerecht zu werden, lernt und befolgt Grok la Roca bestimmte Regeln im Umgang mit sich selbst und " +
-    "anderen. In jeder Geschichte sind dies die Leitlinien, die Grok lernt und die ausmachen, wofür Grok la Roca steht.",
+  "rules.what.3": "Um seinem Namen gerecht zu werden, lernt und befolgt Grok der Fels bestimmte Regeln im Umgang mit sich selbst und " +
+    "anderen. In jeder Geschichte sind dies die Leitlinien, die Grok lernt und die ausmachen, wofür Grok der Fels steht.",
   "rules.what.note": "<strong>HINWEIS</strong>" +
-    ": Siehe den Abschnitt <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Fremder in einer " +
+    ": Siehe den Abschnitt <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok der Fels = Fremder in einer " +
     "fremden Welt + Grug</a>" +
     " auf der Über-Grok-Seite, wie Ted Priors <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grug</a>" +
     " die wesentlichen Probleme von <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Fremder in einer fremden " +
@@ -281,13 +281,13 @@ window.I18N.de = {
     "entscheiden, trotzdem draußen zu stehen.",
   "rules.closing.2": "Keine Macht eingesetzt. Keine Macht nötig. Die Arbeit ist der Rückzug aus Scham und Macht, und der Rückzug ist der " +
     "Frieden.",
-  "rules.footnote": "Regeln des Miteinanders für Grok la Roca · Gemeinfrei (CC0 1.0)",
+  "rules.footnote": "Regeln des Miteinanders für Grok der Fels · Gemeinfrei (CC0 1.0)",
 
-  "site.title.about": "Grok la Roca - Über Grok",
-  "about.hero.title": "Über Grok la Roca",
+  "site.title.about": "Grok der Fels - Über Grok",
+  "about.hero.title": "Über Grok der Fels",
   "about.hero.essence": "Ein wenig über Grok selbst und die Symbole und Bedeutungen in ihm und um ihn herum.",
   "about.intro.1": "Hier ist ein wenig über Grok selbst und einige der Symbole und Bedeutungen in ihm und um ihn herum. In der modernen " +
-    "Sprache nennen wir einige unserer meistgebrauchten Symbole „Memes“, und Grok la Roca stützt sich auf verschiedene " +
+    "Sprache nennen wir einige unserer meistgebrauchten Symbole „Memes“, und Grok der Fels stützt sich auf verschiedene " +
     "rekursive Memes, um Bedeutungsebenen hinzuzufügen.",
   "about.intro.2": "Während wir dies Kindern vorlesen, können wir Kinder gehobeneren Alters die Eintönigkeit der Wiederholung mildern, indem " +
     "wir die tieferen Bedeutungen bedenken und beobachten, wie verschiedene symbolische Elemente miteinander wirken. Auch das " +
@@ -319,15 +319,15 @@ window.I18N.de = {
   "about.what.2": "<strong>Grok</strong>" +
     ": „Wasser“, „trinken“, „miteinander umgehen“, „Leben“ oder „leben“; etwas so tief zu verstehen, dass es Teil von einem " +
     "wird.",
-  "about.what.3": "Um seinem Namen gerecht zu werden, lernt und befolgt Grok la Roca bestimmte Regeln im Umgang mit sich selbst und " +
-    "anderen. In jeder Geschichte sind dies die Leitlinien, die Grok lernt und die ausmachen, wofür Grok la Roca steht.",
+  "about.what.3": "Um seinem Namen gerecht zu werden, lernt und befolgt Grok der Fels bestimmte Regeln im Umgang mit sich selbst und " +
+    "anderen. In jeder Geschichte sind dies die Leitlinien, die Grok lernt und die ausmachen, wofür Grok der Fels steht.",
   "about.what.note": "<strong>HINWEIS</strong>" +
-    ": Siehe den Abschnitt <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roca = Fremder in einer fremden Welt + " +
+    ": Siehe den Abschnitt <a class=\"seelink\" href=\"#stranger-grug\">Grok der Fels = Fremder in einer fremden Welt + " +
     "Grug</a> weiter unten, wie Ted Priors <a class=\"seelink\" href=\"#stranger-grug\">Grug</a>" +
     " die wesentlichen Probleme von <a class=\"seelink\" href=\"#stranger-grug\">Fremder in einer fremden Welt</a>" +
     " löst.",
   "about.limestone.title": "Warum ist er grauer Kalkstein?",
-  "about.limestone.1": "Grok la Roca ist ein „grauer Fels“ aus einem Grund:",
+  "about.limestone.1": "Grok der Fels ist ein „grauer Fels“ aus einem Grund:",
   "about.limestone.quote": "<p>„Die Grauer-Fels-Methode, umgangssprachlich Grauer-Felsen genannt, ist ein Kommunikationsmuster, um bewusst " +
     "teilnahmslos und desinteressiert zu wirken, um die Loslösung von schwierigen Menschen zu fördern. Indem man die stumpfen " +
     "Eigenschaften eines grauen Felsens annimmt, negiert die Grauer-Fels-Technik die emotionale Reaktion, die Menschen " +
@@ -350,7 +350,7 @@ window.I18N.de = {
     "glücklicher Zufall. Ich wusste das nicht, als ich diese bestimmte Melone auswählte, dachte nur, dass sie besser passen " +
     "würde als die Wassermelone, die die KI ursprünglich gewählt hatte.",
   "about.name.title": "Wie liest man seinen Namen?",
-  "about.name.1": "Obwohl „Grok la Roca“ ein Name ist, ist es auch die Handlung, zu der Grok Menschen verhilft, und eine Ankündigung " +
+  "about.name.1": "Obwohl „Grok der Fels“ ein Name ist, ist es auch die Handlung, zu der Grok Menschen verhilft, und eine Ankündigung " +
     "dessen, wofür er steht. Die tiefste beabsichtigte Bedeutung des Namens ist der Zweck des Lebens: den Fels zu grokken, " +
     "oder mit anderen Worten vom lebendigen Wasser zu trinken, bis wir es grokken und nie wieder dürsten.",
   "about.clay.title": "Lehm",
@@ -385,8 +385,8 @@ window.I18N.de = {
   "about.moss.1": "Ein kleiner Fleck grünen Mooses wächst auf seinem grauen Kalksteinkopf. Es ist Leben, das sich still auf einem ruhigen, " +
     "freundlichen Ding niederlässt. Grok muss nichts aufführen, das Leben sammelt sich einfach an, weil er <em>bleibt</em>" +
     ". Es ist das Sein, sichtbar gemacht.",
-  "about.stranger.title": "Grok la Roca = Fremder in einer fremden Welt + Grug",
-  "about.stranger.body": "<p>Grok la Roca sieht auf den ersten Blick aus wie Ted Priors <em>Grug</em>" +
+  "about.stranger.title": "Grok der Fels = Fremder in einer fremden Welt + Grug",
+  "about.stranger.body": "<p>Grok der Fels sieht auf den ersten Blick aus wie Ted Priors <em>Grug</em>" +
     " — ein kleines Buschwesen, sanfte Akzeptanz von Misserfolg, kein Bösewicht, kein Höhepunkt. Diese Lesart stimmt an der " +
     "Oberfläche, und Prior wird aus gutem Grund in der Widmung genannt: Grok erbt Grugs Temperament. Aber das Buch ist mehr " +
     "als Heinlein mit abgeschliffenen Kanten. Es ist Heinlein <em>beantwortet</em>" +
@@ -429,9 +429,9 @@ window.I18N.de = {
     " — und das ist der Punkt (Regel 9: „Der Beweis liegt darin, wie der Bruch geflickt wird“). Auf eine Weise gelesen ist es " +
     "ein ruhiges australisches Bilderbuch; auf die andere Weise gelesen, unter dem Moos und den Melonen, ist es ein stilles " +
     "Handbuch für einen Frieden ohne Zentrum.</p>",
-  "about.footnote": "Über Grok la Roca · Gemeinfrei (CC0 1.0)",
+  "about.footnote": "Über Grok der Fels · Gemeinfrei (CC0 1.0)",
 
-  "cover.title": "<h1>Grok la Roca</h1><h3>Drei stille Geschichten</h3><h2>Sein · Heilen · Sehen</h2>",
+  "cover.title": "<h1>Grok der Fels</h1><h3>Drei stille Geschichten</h3><h2>Sein · Heilen · Sehen</h2>",
   "c1.title": "<h2>Kapitel Eins - Sein</h2><p><em>Grok und das kleine Gefühl</em></p>",
   "c2.title": "<h2>Kapitel Zwei - Heilen</h2><p><em>Grok kümmert sich darum</em></p>",
   "c3.title": "<h2>Kapitel Drei - Sehen</h2><p><em>Grok und das wahre Wort</em></p>"

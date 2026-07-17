@@ -1,6 +1,6 @@
 // Locale es for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
+// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok la Roca.
 // - Verb "grok" coined as: grokkear (inf.) / grokkeando (ger.) / grokkearse a sí mismo (refl., p8) / por sí mismos (refl., p24).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};

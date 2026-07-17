@@ -1,20 +1,20 @@
 // Locale nl for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
+// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok de Rots.
 // - Verb "grok" coined as: grokken (inf.) / grokkend (ger.) / zichzelf te grokken (refl., p8) / zelf (refl., p24) / Onszelf (refl., collective, about.shame).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.nl = {
-  "__title": "Grok la Roca - Drie stille verhalen",
+  "__title": "Grok de Rots - Drie stille verhalen",
 
-  "site.title": "Grok la Roca - Drie stille verhalen",
+  "site.title": "Grok de Rots - Drie stille verhalen",
   "nav.print": "Afdrukken",
   "nav.rules": "Grok-regels",
   "nav.about": "Over Grok",
   "nav.book": "Het boek",
 
   "cover.alt": "Omslag",
-  "title.h1": "Grok la Roca",
+  "title.h1": "Grok de Rots",
   "title.h3": "Drie stille verhalen",
   "title.h2": "Zijn · Herstellen · Zien",
   "credit.1": "Schetsverhaal, beeldaanwijzingen met Grok 4.5 van xAI",
@@ -35,12 +35,12 @@ window.I18N.nl = {
     "<p>Met dank aan de oorspronkelijke Grokkers:</p><p><em><b>Robert A. Heinlein</b>" +
     " \"Vreemdeling in een vreemd land\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Vreemdeling in een vreemd land + Grug</a>" +
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok de Rots = Vreemdeling in een vreemd land + Grug</a>" +
     "</p><p>(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)</p>",
 
   "p1.alt": "Pagina 1 (Titelpagina hoofdstuk 1)",
   "p2.alt": "Pagina 2",
-  "p2": "<p>Grok la Roca werd wakker onder de hoge boom.</p><p>De zon was warm op zijn kalksteenrug.</p>" +
+  "p2": "<p>Grok de Rots werd wakker onder de hoge boom.</p><p>De zon was warm op zijn kalksteenrug.</p>" +
     "<p>Grok voelde zich blij.</p><hr><p>Hij keek naar de wijde wereld</p><p>alsof hij hem voor het eerst zag.</p>",
 
   "p3.alt": "Pagina 3",
@@ -84,7 +84,7 @@ window.I18N.nl = {
 
   "p10.alt": "Pagina 10 (Titelpagina hoofdstuk 2)",
   "p11.alt": "Pagina 11",
-  "p11": "<p>Grok la Roca werd wakker onder de hoge boom.</p>" +
+  "p11": "<p>Grok de Rots werd wakker onder de hoge boom.</p>" +
     "<p>Grok keek naar zijn tuintje met meloenen en zoete aardappels.</p>" +
     "<p>Hij hield ervan om ze te zien groeien.</p><p>Elk nieuw blad voelde als een klein wonder.</p>",
 
@@ -127,7 +127,7 @@ window.I18N.nl = {
 
   "p18.alt": "Pagina 18 (Titelpagina hoofdstuk 3)",
   "p19.alt": "Pagina 19",
-  "p19": "<p>Grok la Roca werd wakker onder de hoge boom.</p><p>Grok maakte graag nuttige dingen,</p>" +
+  "p19": "<p>Grok de Rots werd wakker onder de hoge boom.</p><p>Grok maakte graag nuttige dingen,</p>" +
     "<p>en die dag werkte hij aan een watermand</p><p>gevlochten van riet en bekleed met zachte klei.</p>" +
     "<p>Tegen de avond hield hij water zonder ook maar één druppel.</p><hr><p>Hij draaide hem in zijn handen</p>" +
     "<p>en voelde de stille vreugde van iets dat goed gemaakt is.</p>",
@@ -177,23 +177,23 @@ window.I18N.nl = {
     "<p>op zijn eigen sterke benen.</p>",
 
   "p26.alt": "Pagina 26 - Slotpagina",
-  "p26": "<p>En zo bleef Grok la Roca</p><p>een kleine kalksteenjongen</p><p>die kon zitten met een klein gevoel,</p>" +
+  "p26": "<p>En zo bleef Grok de Rots</p><p>een kleine kalksteenjongen</p><p>die kon zitten met een klein gevoel,</p>" +
     "<p>die herstelde wat brak,</p><p>en die elk waar woord</p><p>op zijn eigen benen liet staan.</p><hr>" +
     "<p>De vallei voelde veiliger</p><p>omdat hij dat deed.</p><hr><p>Hij bleef zachtjes op verkenning gaan.</p>" +
     "<p>En de wereld bleef hem onderwijzen.</p>",
 
-  "site.title.rules": "Grok la Roca - Regels van het samenzijn",
-  "rules.hero.title": "Regels van het samenzijn voor Grok la Roca",
+  "site.title.rules": "Grok de Rots - Regels van het samenzijn",
+  "rules.hero.title": "Regels van het samenzijn voor Grok de Rots",
   "rules.hero.essence": "De gebruiksaanwijzing voor een band tussen gelijken die niet vergaat.",
   "rules.what.title": "Wat is Grok?",
   "rules.what.1": "Oorspronkelijk bedacht als een Marswoord door Robert A. Heinlein in <em>Vreemdeling in een vreemd land</em>" +
     ".",
   "rules.what.2": "<strong>Grok</strong>" +
     ": \"water\", \"drinken\", \"met elkaar omgaan\", \"leven\"; iets zo diep begrijpen dat het deel van je wordt.",
-  "rules.what.3": "Om zijn naam eer aan te doen, leert en volgt Grok la Roca bepaalde regels over hoe met zichzelf en anderen om te gaan. " +
-    "In elk verhaal zijn dit de richtlijnen die Grok leert en die bepalen waar Grok la Roca voor staat.",
+  "rules.what.3": "Om zijn naam eer aan te doen, leert en volgt Grok de Rots bepaalde regels over hoe met zichzelf en anderen om te gaan. " +
+    "In elk verhaal zijn dit de richtlijnen die Grok leert en die bepalen waar Grok de Rots voor staat.",
   "rules.what.note": "<strong>OPMERKING</strong>" +
-    ": Zie de sectie <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Vreemdeling in een vreemd " +
+    ": Zie de sectie <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok de Rots = Vreemdeling in een vreemd " +
     "land + Grug</a>" +
     " op de Over Grok-pagina om te zien hoe Ted Priors <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grug</a>" +
     " de belangrijke problemen met <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Vreemdeling in een vreemd " +
@@ -277,13 +277,13 @@ window.I18N.nl = {
     "besluiten erbuiten te staan.",
   "rules.closing.2": "Geen macht gebruikt. Geen macht nodig. Het werk is de terugtrekking uit schaamte en macht, en de terugtrekking is de " +
     "vrede.",
-  "rules.footnote": "Regels van het samenzijn voor Grok la Roca · Publiek domein (CC0 1.0)",
+  "rules.footnote": "Regels van het samenzijn voor Grok de Rots · Publiek domein (CC0 1.0)",
 
-  "site.title.about": "Grok la Roca - Over Grok",
-  "about.hero.title": "Over Grok la Roca",
+  "site.title.about": "Grok de Rots - Over Grok",
+  "about.hero.title": "Over Grok de Rots",
   "about.hero.essence": "Een beetje over Grok zelf, en de symbolen en betekenissen in en rondom hem.",
   "about.intro.1": "Hier is een beetje over Grok zelf, en enkele van de symbolen en betekenissen in en rondom hem. In modern taalgebruik " +
-    "noemen we sommige van onze meest gebruikte symbolen \"memes\", en Grok la Roca steunt op diverse recursieve memes om " +
+    "noemen we sommige van onze meest gebruikte symbolen \"memes\", en Grok de Rots steunt op diverse recursieve memes om " +
     "betekenislagen toe te voegen.",
   "about.intro.2": "Terwijl we dit aan kinderen voorlezen, kunnen wij kinderen van gevorderde leeftijd de eentonigheid van herhaling " +
     "verminderen door de diepere betekenissen te overwegen en te kijken hoe verschillende symbolische elementen op elkaar " +
@@ -314,15 +314,15 @@ window.I18N.nl = {
     ".",
   "about.what.2": "<strong>Grok</strong>" +
     ": \"water\", \"drinken\", \"met elkaar omgaan\", \"leven\"; iets zo diep begrijpen dat het deel van je wordt.",
-  "about.what.3": "Om zijn naam eer aan te doen, leert en volgt Grok la Roca bepaalde regels over hoe met zichzelf en anderen om te gaan. " +
-    "In elk verhaal zijn dit de richtlijnen die Grok leert en die bepalen waar Grok la Roca voor staat.",
+  "about.what.3": "Om zijn naam eer aan te doen, leert en volgt Grok de Rots bepaalde regels over hoe met zichzelf en anderen om te gaan. " +
+    "In elk verhaal zijn dit de richtlijnen die Grok leert en die bepalen waar Grok de Rots voor staat.",
   "about.what.note": "<strong>OPMERKING</strong>" +
-    ": Zie de sectie <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roca = Vreemdeling in een vreemd land + Grug</a>" +
+    ": Zie de sectie <a class=\"seelink\" href=\"#stranger-grug\">Grok de Rots = Vreemdeling in een vreemd land + Grug</a>" +
     " hieronder om te zien hoe Ted Priors <a class=\"seelink\" href=\"#stranger-grug\">Grug</a>" +
     " de belangrijke problemen met <a class=\"seelink\" href=\"#stranger-grug\">Vreemdeling in een vreemd land</a>" +
     " oplost.",
   "about.limestone.title": "Waarom is hij grijze kalksteen?",
-  "about.limestone.1": "Grok la Roca is een \"grijze rots\" met een reden:",
+  "about.limestone.1": "Grok de Rots is een \"grijze rots\" met een reden:",
   "about.limestone.quote": "<p>\"De grijze rots-methode, in de volksmond grijze rotsen genoemd, is een communicatiepatroon om bewust niet reagerend " +
     "en ongeïnteresseerd te handelen om afstandelijkheid met moeilijke mensen te bevorderen. Door de doffe eigenschappen van " +
     "een grijze rots aan te nemen, ontkracht de grijze rots-techniek de emotionele reactie die mensen proberen uit te " +
@@ -345,7 +345,7 @@ window.I18N.nl = {
     "niet toen ik die specifieke meloen koos, ik dacht gewoon dat hij beter zou passen dan de watermeloen die de AI " +
     "oorspronkelijk had gekozen.",
   "about.name.title": "Hoe lees je zijn naam?",
-  "about.name.1": "Hoewel \"Grok la Roca\" een naam is, is het ook de handeling die Grok mensen helpt te verrichten en een aankondiging van " +
+  "about.name.1": "Hoewel \"Grok de Rots\" een naam is, is het ook de handeling die Grok mensen helpt te verrichten en een aankondiging van " +
     "waar hij voor staat. De diepste bedoelde betekenis van de naam is het doel van het leven: de rots grokken, of met andere " +
     "woorden van het levende water drinken totdat we het grokken en nooit meer dorst hebben.",
   "about.clay.title": "Klei",
@@ -379,8 +379,8 @@ window.I18N.nl = {
   "about.moss.1": "Een klein plukje groen mos groeit bovenop zijn grijze kalksteenhoofd. Het is leven dat zich stilletjes nestelt op een " +
     "stil, vriendelijk ding. Grok hoeft niet op te voeren, het leven verzamelt zich simpelweg omdat hij <em>blijft</em>" +
     ". Het is het Zijn dat zichtbaar wordt gemaakt.",
-  "about.stranger.title": "Grok la Roca = Vreemdeling in een vreemd land + Grug",
-  "about.stranger.body": "<p>Grok la Roca ziet er op het eerste gezicht uit als Ted Priors <em>Grug</em>" +
+  "about.stranger.title": "Grok de Rots = Vreemdeling in een vreemd land + Grug",
+  "about.stranger.body": "<p>Grok de Rots ziet er op het eerste gezicht uit als Ted Priors <em>Grug</em>" +
     " — een klein boswezen, zachte acceptatie van falen, geen slechterik, geen climax. Die lezing klopt aan de oppervlakte, " +
     "en Prior wordt niet voor niets in de opdracht genoemd: Grok erft Grugs temperament. Maar het boek is meer dan Heinlein " +
     "met afgeschuurde scherpe kantjes. Het is Heinlein <em>beantwoord</em>" +
@@ -424,9 +424,9 @@ window.I18N.nl = {
     " — en dat is het punt (Regel 9: \"het bewijs zit in hoe de breuk hersteld wordt\"). Op de ene manier gelezen is het een " +
     "kalm Australisch prentenboek; op de andere manier gelezen, onder het mos en de meloenen, is het een stille handleiding " +
     "voor een centrumloze vrede.</p>",
-  "about.footnote": "Over Grok la Roca · Publiek domein (CC0 1.0)",
+  "about.footnote": "Over Grok de Rots · Publiek domein (CC0 1.0)",
 
-  "cover.title": "<h1>Grok la Roca</h1><h3>Drie stille verhalen</h3><h2>Zijn · Herstellen · Zien</h2>",
+  "cover.title": "<h1>Grok de Rots</h1><h3>Drie stille verhalen</h3><h2>Zijn · Herstellen · Zien</h2>",
   "c1.title": "<h2>Hoofdstuk Een - Zijn</h2><p><em>Grok en het kleine gevoel</em></p>",
   "c2.title": "<h2>Hoofdstuk Twee - Herstellen</h2><p><em>Grok zorgt ervoor</em></p>",
   "c3.title": "<h2>Hoofdstuk Drie - Zien</h2><p><em>Grok en het ware woord</em></p>"

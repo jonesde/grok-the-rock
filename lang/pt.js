@@ -1,20 +1,20 @@
 // Locale pt for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
+// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok a Rocha.
 // - Verb "grok" coined as: grokar (inf.) / grokando (ger.) / grokar-se (refl., p8) / por si mesmos (refl., p24) / a nós mesmos (refl., collective, about.shame).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.pt = {
-  "__title": "Grok la Roca - Três Histórias Silenciosas",
+  "__title": "Grok a Rocha - Três Histórias Silenciosas",
 
-  "site.title": "Grok la Roca - Três Histórias Silenciosas",
+  "site.title": "Grok a Rocha - Três Histórias Silenciosas",
   "nav.print": "Imprimir",
   "nav.rules": "Regras de Grok",
   "nav.about": "Sobre Grok",
   "nav.book": "O Livro",
 
   "cover.alt": "Capa",
-  "title.h1": "Grok la Roca",
+  "title.h1": "Grok a Rocha",
   "title.h3": "Três Histórias Silenciosas",
   "title.h2": "Ser · Consertar · Ver",
   "credit.1": "Rascunho, sugestões de imagem com Grok 4.5 da xAI",
@@ -35,12 +35,12 @@ window.I18N.pt = {
     "<p>Com gratidão aos Grokkers Originais:</p><p><em><b>Robert A. Heinlein</b>" +
     " \"Um Estranho numa Terra Estranha\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Um Estranho numa Terra Estranha + Grug</a>" +
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok a Rocha = Um Estranho numa Terra Estranha + Grug</a>" +
     "</p><p>(\"Grug\" limpa \"Estranho\" para crianças e adultos)</p>",
 
   "p1.alt": "Página 1 (Página de título do Capítulo 1)",
   "p2.alt": "Página 2",
-  "p2": "<p>Grok la Roca acordou sob a árvore alta.</p><p>O sol estava quente em suas costas de calcário.</p>" +
+  "p2": "<p>Grok a Rocha acordou sob a árvore alta.</p><p>O sol estava quente em suas costas de calcário.</p>" +
     "<p>Grok se sentia feliz.</p><hr><p>Ele olhou para o mundo vasto</p>" +
     "<p>como se o estivesse vendo pela primeira vez.</p>",
 
@@ -83,7 +83,7 @@ window.I18N.pt = {
 
   "p10.alt": "Página 10 (Página de título do Capítulo 2)",
   "p11.alt": "Página 11",
-  "p11": "<p>Grok la Roca acordou sob a árvore alta.</p>" +
+  "p11": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
     "<p>Grok observava sua pequena horta de melões e batatas-doces.</p><p>Ele adorava vê-los crescer.</p>" +
     "<p>Cada nova folha parecia uma pequena maravilha.</p>",
 
@@ -126,7 +126,7 @@ window.I18N.pt = {
 
   "p18.alt": "Página 18 (Página de título do Capítulo 3)",
   "p19.alt": "Página 19",
-  "p19": "<p>Grok la Roca acordou sob a árvore alta.</p><p>Grok gostava de fazer coisas úteis,</p>" +
+  "p19": "<p>Grok a Rocha acordou sob a árvore alta.</p><p>Grok gostava de fazer coisas úteis,</p>" +
     "<p>e naquele dia ele trabalhou num cesto de água</p><p>trançado de juncos e forrado com argila macia.</p>" +
     "<p>Ao anoitecer ele segurava água sem uma gota.</p><hr><p>Ele o virou nas mãos</p>" +
     "<p>e sentiu a alegria silenciosa de algo bem feito.</p>",
@@ -174,24 +174,24 @@ window.I18N.pt = {
     "<p>a palavra verdadeira podia continuar andando</p><p>sobre suas próprias pernas fortes.</p>",
 
   "p26.alt": "Página 26 - Página de Encerramento",
-  "p26": "<p>E assim Grok la Roca permaneceu</p><p>um pequeno sujeito de calcário</p>" +
+  "p26": "<p>E assim Grok a Rocha permaneceu</p><p>um pequeno sujeito de calcário</p>" +
     "<p>que sabia se sentar com um pequeno sentimento,</p><p>que consertava o que se quebrava,</p>" +
     "<p>e que deixava cada palavra verdadeira</p><p>ficar sobre suas próprias pernas.</p><hr>" +
     "<p>O vale parecia mais seguro</p><p>porque ele estava.</p><hr><p>Ele continuou explorando com suavidade.</p>" +
     "<p>E o mundo continuou lhe ensinando.</p>",
 
-  "site.title.rules": "Grok la Roca - Regras de Convivência",
-  "rules.hero.title": "Regras de Convivência para Grok la Roca",
+  "site.title.rules": "Grok a Rocha - Regras de Convivência",
+  "rules.hero.title": "Regras de Convivência para Grok a Rocha",
   "rules.hero.essence": "As instruções de funcionamento para um vínculo entre iguais que não se desfaz.",
   "rules.what.title": "O que é Grok?",
   "rules.what.1": "Originalmente cunhada como uma palavra marciana por Robert A. Heinlein em <em>Um Estranho numa Terra Estranha</em>" +
     ".",
   "rules.what.2": "<strong>Grok</strong>" +
     ": \"água\", \"beber\", \"conviver\", \"vida\" ou \"viver\"; entender algo tão profundamente que se torna parte de você.",
-  "rules.what.3": "Para honrar seu nome, Grok la Roca aprende e segue certas regras sobre como conviver consigo mesmo e com os outros. Em " +
-    "cada história, estas são as diretrizes que Grok aprende e que definem o que Grok la Roca representa.",
+  "rules.what.3": "Para honrar seu nome, Grok a Rocha aprende e segue certas regras sobre como conviver consigo mesmo e com os outros. Em " +
+    "cada história, estas são as diretrizes que Grok aprende e que definem o que Grok a Rocha representa.",
   "rules.what.note": "<strong>NOTA</strong>" +
-    ": Veja a seção <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Um Estranho numa Terra " +
+    ": Veja a seção <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok a Rocha = Um Estranho numa Terra " +
     "Estranha + Grug</a>" +
     " na página Sobre Grok para ver como o <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grug</a>" +
     " de Ted Prior resolve os problemas significativos de <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Um " +
@@ -270,13 +270,13 @@ window.I18N.pt = {
     "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
     ", um processo local, e uma recusa a jogar, distribuída entre quantos nós decidirem ficar de fora de qualquer jeito.",
   "rules.closing.2": "Nenhum poder usado. Nenhum poder necessário. O trabalho é o afastamento da vergonha e do poder, e o afastamento é a paz.",
-  "rules.footnote": "Regras de Convivência para Grok la Roca · Domínio Público (CC0 1.0)",
+  "rules.footnote": "Regras de Convivência para Grok a Rocha · Domínio Público (CC0 1.0)",
 
-  "site.title.about": "Grok la Roca - Sobre Grok",
-  "about.hero.title": "Sobre Grok la Roca",
+  "site.title.about": "Grok a Rocha - Sobre Grok",
+  "about.hero.title": "Sobre Grok a Rocha",
   "about.hero.essence": "Um pouco sobre o próprio Grok, e os símbolos e significados nele e ao seu redor.",
   "about.intro.1": "Aqui está um pouco sobre o próprio Grok, e alguns dos símbolos e significados nele e ao seu redor. Na fala moderna " +
-    "chamamos alguns dos nossos símbolos mais usados de \"memes\", e Grok la Roca se apoia em vários memes recursivos para " +
+    "chamamos alguns dos nossos símbolos mais usados de \"memes\", e Grok a Rocha se apoia em vários memes recursivos para " +
     "adicionar camadas de significado.",
   "about.intro.2": "Enquanto lemos isto para crianças, nós, crianças de idade mais avançada, podemos reduzir a monotonia da repetição " +
     "considerando os significados mais profundos e observando como diferentes elementos simbólicos interagem. Isso também faz " +
@@ -306,15 +306,15 @@ window.I18N.pt = {
     ".",
   "about.what.2": "<strong>Grok</strong>" +
     ": \"água\", \"beber\", \"conviver\", \"vida\" ou \"viver\"; entender algo tão profundamente que se torna parte de você.",
-  "about.what.3": "Para honrar seu nome, Grok la Roca aprende e segue certas regras sobre como conviver consigo mesmo e com os outros. Em " +
-    "cada história, estas são as diretrizes que Grok aprende e que definem o que Grok la Roca representa.",
+  "about.what.3": "Para honrar seu nome, Grok a Rocha aprende e segue certas regras sobre como conviver consigo mesmo e com os outros. Em " +
+    "cada história, estas são as diretrizes que Grok aprende e que definem o que Grok a Rocha representa.",
   "about.what.note": "<strong>NOTA</strong>" +
-    ": Veja a seção <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roca = Um Estranho numa Terra Estranha + Grug</a>" +
+    ": Veja a seção <a class=\"seelink\" href=\"#stranger-grug\">Grok a Rocha = Um Estranho numa Terra Estranha + Grug</a>" +
     " abaixo para ver como o <a class=\"seelink\" href=\"#stranger-grug\">Grug</a>" +
     " de Ted Prior resolve os problemas significativos de <a class=\"seelink\" href=\"#stranger-grug\">Um Estranho numa Terra " +
     "Estranha</a>.",
   "about.limestone.title": "Por que ele é calcário cinzento?",
-  "about.limestone.1": "Grok la Roca é uma \"rocha cinzenta\" por uma razão:",
+  "about.limestone.1": "Grok a Rocha é uma \"rocha cinzenta\" por uma razão:",
   "about.limestone.quote": "<p>\"O método da rocha cinzenta, coloquialmente chamado de fazer-se de rocha cinzenta, é um padrão de comunicação para " +
     "agir deliberadamente de forma impassível e desinteressada para encorajar o desengajamento com pessoas difíceis. Ao " +
     "adotar as qualidades apagadas de uma rocha cinzenta, a técnica da rocha cinzenta anula a reação emocional que as pessoas " +
@@ -335,7 +335,7 @@ window.I18N.pt = {
     "do dano acidental mais sério e pessoal de Pip. Foi um acidente feliz. Eu não sabia disso quando escolhi esse melão em " +
     "particular, só achei que encaixaria melhor que a melancia que a IA tinha escolhido originalmente.",
   "about.name.title": "Como se lê o nome dele?",
-  "about.name.1": "Embora \"Grok la Roca\" seja um nome, é também a ação que Grok ajuda as pessoas a fazerem e um anúncio do que ele " +
+  "about.name.1": "Embora \"Grok a Rocha\" seja um nome, é também a ação que Grok ajuda as pessoas a fazerem e um anúncio do que ele " +
     "representa. O significado mais profundo pretendido do nome é o propósito da vida: grokar a rocha, ou em outras palavras " +
     "beber da água viva até groká-la e nunca mais ter sede.",
   "about.clay.title": "Argila",
@@ -369,8 +369,8 @@ window.I18N.pt = {
   "about.moss.1": "Um pequeno tufo de musgo verde cresce sobre sua cabeça de calcário cinzento. É a vida assentando-se silenciosamente " +
     "sobre uma coisa quieta e gentil. Grok não precisa representar, a vida simplesmente se acumula porque ele " +
     "<em>permanece</em>. É o Ser tornado visível.",
-  "about.stranger.title": "Grok la Roca = Um Estranho numa Terra Estranha + Grug",
-  "about.stranger.body": "<p>Grok la Roca, à primeira vista, parece o <em>Grug</em>" +
+  "about.stranger.title": "Grok a Rocha = Um Estranho numa Terra Estranha + Grug",
+  "about.stranger.body": "<p>Grok a Rocha, à primeira vista, parece o <em>Grug</em>" +
     " de Ted Prior — uma pequena criatura do mato, aceitação gentil do fracasso, sem vilão, sem clímax. Essa leitura é " +
     "verdadeira na superfície, e Prior é nomeado na dedicatória por uma boa razão: Grok herda o temperamento de Grug. Mas o " +
     "livro é mais que Heinlein com as arestas lixadas. É Heinlein <em>respondido</em>" +
@@ -412,9 +412,9 @@ window.I18N.pt = {
     "por outro. É menos chocante e mais <em>reparável</em>" +
     " — que é o ponto (Regra 9: \"a prova está em como a quebra é consertada\"). Lido de um jeito é um tranquilo livro " +
     "ilustrado australiano; lido do outro jeito, sob o musgo e os melões, é um manual silencioso para uma paz sem centro.</p>",
-  "about.footnote": "Sobre Grok la Roca · Domínio Público (CC0 1.0)",
+  "about.footnote": "Sobre Grok a Rocha · Domínio Público (CC0 1.0)",
 
-  "cover.title": "<h1>Grok la Roca</h1><h3>Três Histórias Silenciosas</h3><h2>Ser · Consertar · Ver</h2>",
+  "cover.title": "<h1>Grok a Rocha</h1><h3>Três Histórias Silenciosas</h3><h2>Ser · Consertar · Ver</h2>",
   "c1.title": "<h2>Capítulo Um - Ser</h2><p><em>Grok e o pequeno sentimento</em></p>",
   "c2.title": "<h2>Capítulo Dois - Consertar</h2><p><em>Grok cuida disso</em></p>",
   "c3.title": "<h2>Capítulo Três - Ver</h2><p><em>Grok e a palavra verdadeira</em></p>"

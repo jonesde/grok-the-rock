@@ -1,6 +1,6 @@
 // Locale zh for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration: 格罗克拉罗卡.
+// - Proper noun "Grok" kept as recognizable transliteration: 格罗克. "Grok the Rock" → 格罗克岩石.
 // - Verb "grok" coined as: 格罗克化 (inf.) / 格罗克化中 (ger.) / 格罗克化自己 (refl., p8) / 格罗克化我们自己 (refl., collective, about.shame).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};

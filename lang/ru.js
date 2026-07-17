@@ -1,6 +1,6 @@
 // Locale ru for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration.
+// - Proper noun "Grok" kept as recognizable transliteration. "Grok the Rock" → Грок-камень.
 // - Verb "grok" coined as: грокать (grokat', inf.) / грокая (grokaya, ger.) / грокать самого себя (refl., p8) / грокать самих себя (refl., collective, about.shame).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};

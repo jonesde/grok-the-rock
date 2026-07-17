@@ -7,7 +7,7 @@
 - **Word play and double entendres** exist (e.g. "Grok Rules" = rules of Grok / rules of relating / Grok rules!). Where possible, preserve them. Where impossible, prefer the literal meaning and note the loss.
 - **Keep the tone gentle.** No harsh or aggressive language. Grok is a calm, quiet, restorative presence. Match that register.
 - **Animal names**: use common/local names for emu, wombat, kookaburra, echidna, cockatoo, possum, lizard, tortoise, kangaroo. If an Australian animal is unfamiliar in the target culture, use a similar local animal or a descriptive phrase rather than leaving the English name unexplained.
-- **Proper noun "Grok"** stays as-is (recognizable transliteration where script differs). The agent noun **"Grokkers"** stays English everywhere.
+- **Proper noun "Grok"** stays as-is (recognizable transliteration where script differs). Translate **"Grok the Rock"** into the target language (e.g. Spanish "Grok la Roca", French "Grok le Rocher", German "Grok der Fels"). The agent noun **"Grokkers"** stays English everywhere.
 - **"grok" as a verb** is coined per language using the productive verb-forming slot (see table below). Three forms are needed: infinitive, gerund/participle (for "grokking the world"), and reflexive (for "grokking himself").
 - **HTML keys**: some i18n keys are full HTML blocks (`data-i18n-html`). Preserve the `<p>`, `<b>`, `<em>`, `<hr>`, `<a>` structure exactly — only translate the text content between/within tags.
 - **"Rockmelon" note**: In the About page, the melon is a cantaloupe, which is called "rockmelon" in Australia. If the target language has a similar wordplay between "rock" and a melon name, use it. Otherwise translate literally and note the lost pun.
@@ -59,7 +59,7 @@
 | **tl** | Tagalog | gumrok | gumrogrok | gumrok sa sarili | — |
 | **tr** | Turkish | groklamak | groklayarak | kendini groklamak | — |
 | **uk** | Ukrainian | ґрокати (grokaty) | ґрокаючи (grokayuchy) | ґрокати себе (grokaty sebe) | — |
-| **ur** | Urdu | گروک کرنا (grok karnā) | گروک کرتے ہوئے (grok karte hue) | خود کو گروک کرنا (khud ko grok karnā) | خود کو (khud ko) |
+| **ur** | Urdu | گروک کرنا (grok karnā) | گروک کرتے ہوئے (grok karte hue) | خود کو گروک کرنا (khud ko grok karnā) | ہمیں خود (hamīn khud, about.shame) |
 | **vi** | Vietnamese | grok | đang grok | tự grok | — |
 | **yo** | Yoruba | grok | ń grok | grok ara rẹ̀ | grok ara wa |
 | **zh** | Chinese | 格罗克化 (géluókè huà) | 格罗克化中 (géluókè huà zhōng) | 格罗克化自己 (géluókè huà zìjǐ) | 我们自己 (about.shame: "格罗克化我们自己") |

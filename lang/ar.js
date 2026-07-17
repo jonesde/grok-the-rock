@@ -1,6 +1,6 @@
 // Locale ar for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" / "Grok la Roca" kept as recognizable transliteration: غروك لا روكا.
+// - Proper noun "Grok" kept as recognizable transliteration: غروك. "Grok the Rock" → غروك الصخرة.
 // - Verb "grok" coined as: يُغرِك (yughrik, inf.) / غَرْك (ghark, masdar) / يُغرِك نفسه (yughrik nafsahu, refl., p8) / أنفسهم (anfusuhum, refl., collective, p24).
 // - Root: غ-ر-ك (gh-r-k), matching the noun transliteration غروك.
 // - Agent noun "Grokkers" stays English.
