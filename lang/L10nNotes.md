@@ -7,7 +7,7 @@
 - **Word play and double entendres** exist (e.g. "Grok Rules" = rules of Grok / rules of relating / Grok rules!). Where possible, preserve them. Where impossible, prefer the literal meaning and note the loss.
 - **Keep the tone gentle.** No harsh or aggressive language. Grok is a calm, quiet, restorative presence. Match that register.
 - **Animal names**: use common/local names for emu, wombat, kookaburra, echidna, cockatoo, possum, lizard, tortoise, kangaroo. If an Australian animal is unfamiliar in the target culture, use a similar local animal or a descriptive phrase rather than leaving the English name unexplained.
-- **Proper noun "Grok" / "Grok la Roca"** stays as-is (recognizable transliteration where script differs). The agent noun **"Grokkers"** stays English everywhere.
+- **Proper noun "Grok"** stays as-is (recognizable transliteration where script differs). The agent noun **"Grokkers"** stays English everywhere.
 - **"grok" as a verb** is coined per language using the productive verb-forming slot (see table below). Three forms are needed: infinitive, gerund/participle (for "grokking the world"), and reflexive (for "grokking himself").
 - **HTML keys**: some i18n keys are full HTML blocks (`data-i18n-html`). Preserve the `<p>`, `<b>`, `<em>`, `<hr>`, `<a>` structure exactly — only translate the text content between/within tags.
 - **"Rockmelon" note**: In the About page, the melon is a cantaloupe, which is called "rockmelon" in Australia. If the target language has a similar wordplay between "rock" and a melon name, use it. Otherwise translate literally and note the lost pun.
