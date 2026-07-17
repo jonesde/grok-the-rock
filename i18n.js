@@ -114,9 +114,11 @@
 
   function buildOptions(current) {
     if (!selectEl) return;
-    const known = Object.keys(LANGS).filter(
-      (c) => c === "en" || (window.I18N && window.I18N[c]) || loaded[c] || loading[c]
-    );
+    // List every advertised language so stubs/locales are selectable and then
+    // lazily fetched via loadLang(). They only need to be in window.I18N once
+    // actually chosen; showing them up front avoids a chicken-and-egg where a
+    // language can never be selected because it was never loaded.
+    const known = Object.keys(LANGS);
     selectEl.innerHTML = "";
     known.forEach((code) => {
       const opt = document.createElement("option");
