@@ -62,7 +62,7 @@ window.I18N.nl = {
   "p7": "<p>Die avond zat Grok alleen bij een klein vuurtje.</p><p>Hij sloeg zijn armen om zijn knieën.</p><p>Hij liet het kleine gevoel blijven.</p><p>Hij liep er niet voor weg.</p><p>Hij gooide het op niemand anders.</p><hr><p>Langzaam verzachtte het gevoel,</p><p>als klei die in de zon ligt.</p><p>Hij begon het te begrijpen.</p>",
 
   "p8.alt": "Pagina 8",
-  "p8": "<p>De volgende ochtend ging Grok terug naar de waterpoel.</p><p>Hij klom nergens op.</p><p>Hij probeerde niet groter of luider te zijn.</p><p>Hij dronk gewoon,</p><p>ging toen op een warme steen zitten en neuriede.</p><hr><p>Aan de buitenkant was er niets groots veranderd.</p><p>Maar vanbinnen voelde alles lichter.</p><p>Hij begon zichzelf te grokken.</p>",
+  "p8": "<p>De volgende ochtend ging Grok terug naar de waterpoel.</p><p>Hij klom nergens op.</p><p>Hij probeerde niet groter of luider te zijn.</p><p>Hij dronk gewoon,</p><p>ging toen op een warme steen zitten en neurieste.</p><hr><p>Aan de buitenkant was er niets groots veranderd.</p><p>Maar vanbinnen voelde alles lichter.</p><p>Hij begon zichzelf te grokken.</p>",
 
   "p9.alt": "Pagina 9",
   "p9": "<p>Hij bracht de dag door met het maken van een zacht nest van bladeren en mos</p><p>precies de goede maat voor een kleine rotsjongen.</p><p>Toen het klaar was glimlachte hij.</p><p>Het was klein.</p><p>Het was van hem.</p><p>Het was genoeg.</p><hr><p>Vanaf die dag, als de koude kiezel weer probeerde te groeien,</p><p>bleef Grok stil zitten totdat hij rustig werd.</p><p>Hij bleef gewoon Grok.</p><p>En dat voelde als de beste maat van allemaal.</p>",

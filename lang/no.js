@@ -106,13 +106,13 @@ window.I18N.no = {
   "p23": "<p>Grok satt med de to kurvene side om side.</p><p>Han så ikke på fjær.</p><p>Han så ikke på alder eller berømmelse.</p><p>Han så bare på hvilken kurv som holdt vann best</p><p>og føltes snillest i hånden.</p><hr><p>Han beholdt den beste måten.</p><p>Så la han både den gode kurven</p><p>og det enkle mønsteret for å veve den</p><p>under det store treet, så hvem som helst kunne bruke eller kopiere den.</p><p>Ikke noe navn på den. Ikke noe \"spør meg først\".</p>",
 
   "p24.alt": "Side 24",
-  "p24": "<p>Noen dyr ventet fortsatt på å høre hva kakaduen mente</p><p>før de avgjorde om noe var bra.</p><p>Men stadig flere små</p><p>begynte å prøve ting selv.</p><p>De lyttet til Groks stille ord</p><p>på samme måte som de lyttet til den flotte kakaduens ord,</p><p>og så testet de alt med sine egne labber.</p><hr><p>De holdt på å grokke det sanne, hvaen, ikke hvem.</p>",
+  "p24": "<p>Noen dyr ventet fortsatt på å høre hva kakaduen mente</p><p>før de avgjorde om noe var bra.</p><p>Men stadig flere små</p><p>begynte å prøve ting selv.</p><p>De lyttet til Groks stille ord</p><p>på samme måte som de lyttet til den flotte kakaduens ord,</p><p>og så testet de alt med sine egne labber.</p><hr><p>De holdt på å grokke det sanne, hva, ikke hvem.</p>",
 
   "p25.alt": "Side 25",
   "p25": "<p>Grok følte seg fredfull.</p><p>Han trengte ikke den største stemmen.</p><p>Han trengte bare sanne ting.</p><p>Og Grok så at sanne ting</p><p>kunne komme fra en flott fugl</p><p>eller en støvete skilpadde</p><p>eller en liten steinkar under et tre.</p><hr><p>Så lenge noen var fri til å si</p><p>\"det fungerer ikke\"</p><p>og fortsatt være velkommen i dalen,</p><p>kunne det sanne ordet fortsette å gå</p><p>på sine egne sterke bein.</p>",
 
   "p26.alt": "Side 26 - Avslutningsside",
-  "p26": "<p>Og slik forble Grok la Roca</p><p>en liten kalksteinskar</p><p>som kunne sitte med en liten følelse,</p><p>som reparerte det som brakk,</p><p>og som lot hvert sant ord</p><p>stå på sine egne bein.</p><hr><p>Dalen føltes tryggere</p><p>fordi han var det.</p><hr><p>Han fortsatte å utforske mildt.</p><p>Og verden fortsatte å lære ham.</p>",
+  "p26": "<p>Og slik forble Grok la Roca</p><p>en liten steinkar</p><p>som kunne sitte med en liten følelse,</p><p>som reparerte det som brakk,</p><p>og som lot hvert sant ord</p><p>stå på sine egne bein.</p><hr><p>Dalen føltes tryggere</p><p>fordi han var det.</p><hr><p>Han fortsatte å utforske mildt.</p><p>Og verden fortsatte å lære ham.</p>",
 
   "site.title.rules": "Grok la Roca - Regler for samvær",
   "rules.hero.title": "Regler for samvær for Grok la Roca",
