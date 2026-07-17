@@ -23,7 +23,8 @@
     ar: "العربية",
     no: "Norsk",
     hi: "हिन्दी",
-    he: "עברית"
+    he: "עברית",
+    "he-phon": "עברית (תעתיק)"
   };
 
   const STORAGE_KEY = "grok-lang";
