@@ -33,6 +33,19 @@
     return "en";
   }
 
+  // Pick the best supported language from the browser's locale list, falling
+  // back to "en" when nothing matches.
+  function detectBrowserLang() {
+    const prefs = navigator.languages && navigator.languages.length
+      ? navigator.languages
+      : [navigator.language || navigator.userLanguage || "en"];
+    for (let i = 0; i < prefs.length; i++) {
+      const code = String(prefs[i]).split("-")[0].toLowerCase();
+      if (Object.prototype.hasOwnProperty.call(LANGS, code)) return code;
+    }
+    return "en";
+  }
+
   function setSavedLang(lang) {
     try {
       localStorage.setItem(STORAGE_KEY, lang);
@@ -167,12 +180,15 @@
     if (!selectEl) return;
     captureOriginal();
     const saved = getSavedLang();
-    buildOptions(saved);
+    const initial = saved !== "en" ? saved : detectBrowserLang();
+    buildOptions(initial);
     selectEl.addEventListener("change", function () {
       selectLang(selectEl.value);
     });
     if (saved !== "en") {
       selectLang(saved);
+    } else if (initial !== "en") {
+      selectLang(initial);
     } else {
       applyLang("en");
     }
