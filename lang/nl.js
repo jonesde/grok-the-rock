@@ -75,7 +75,7 @@ window.I18N.nl = {
   "p12": "<p>Die middag rende zijn vriend,</p><p>een jonge mierenegel die Pip heette,</p><p>door de tuin terwijl hij achterom keek</p><p>en gooide de beste meloenrank omver.</p><hr><p>De grote meloen barstte open op de grond.</p><p>Zaden en zoet sap stroomden overal naartoe.</p>",
 
   "p13.alt": "Pagina 13",
-  "p13": "<p>Pip verstijfde.</p><p>Zijn stekels trilden.</p><p>\"Ik heb het verpest,\" fluisterde hij.</p><p>\"Je zult boos zijn. Iedereen zal boos zijn.\"</p><hr><p>Enkele bosdieren verzamelden zich.</p><p>\"Stuur hem weg,\" mompelde een opossum.</p><p>\"Hij zou je drie nieuwe meloenen moeten brengen,\" zei een hagedis.</p>",
+  "p13": "<p>Pip verstijfde.</p><p>Zijn stekels trilden.</p><p>\"Ik heb het stukgemaakt,\" fluisterde hij.</p><p>\"Je zult boos zijn. Iedereen zal boos zijn.\"</p><hr><p>Enkele bosdieren verzamelden zich.</p><p>\"Stuur hem weg,\" mompelde een opossum.</p><p>\"Hij zou je drie nieuwe meloenen moeten brengen,\" zei een hagedis.</p>",
 
   "p14.alt": "Pagina 14",
   "p14": "<p>Grok keek naar de gebroken rank.</p><p>Hij keek naar Pips bezorgde ogen.</p><hr><p>Hij verhief zijn stem niet.</p><p>Hij wees niet met zijn vinger.</p><p>Hij pakte een graafstok</p><p>en begon zachte aarde klaar te maken.</p><hr><p>\"Kom,\" zei Grok zachtjes.</p><p>\"We planten samen nieuwe zaden.\"</p>",
