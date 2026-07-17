@@ -40,7 +40,7 @@ window.I18N.pt = {
   "p4": "<p>Então um vombate rolou até lá, redondo e sólido.</p><p>\"Sou o mais forte\", disse o vombate.</p><p>\"Vejam-me cavar.\"</p><hr><p>Grok tentou cavar também.</p><p>Seu buraco era pequeno.</p><p>Ele se sentiu menor que o buraco.</p>",
 
   "p5.alt": "Página 5",
-  "p5": "<p>Uma kookaburra riu de um galho.</p><p>\"Vejam o pequeno Grok! Tão baixinho! Tão pedregoso!\"</p><hr><p>O pequeno sentimento cresceu dentro de Grok.</p><p>Parecia um seixo pesado e frio no seu meio.</p>",
+  "p5": "<p>Uma kookaburra (pássaro que ria) riu de um galho.</p><p>\"Vejam o pequeno Grok! Tão baixinho! Tão pedregoso!\"</p><hr><p>O pequeno sentimento cresceu dentro de Grok.</p><p>Parecia um seixo pesado e frio no seu meio.</p>",
 
   "p6.alt": "Página 6",
   "p6": "<p>Ele quis parecer maior.</p><p>Subiu num tronco.</p><p>Estufou o peito.</p><p>Até tentou bater no chão como o canguru.</p><hr><p>Aquilo só tornou o seixo frio mais pesado.</p>",
@@ -56,7 +56,7 @@ window.I18N.pt = {
 
   "p10.alt": "Página 10 (Página de título do Capítulo 2)",
   "p11.alt": "Página 11",
-  "p11": "<p>Grok la Roca acordou sob a árvore alta.</p><p>Grok cuidava de sua pequena horta de melões e batatas-doces.</p><p>Ele adorava vê-los crescer.</p><p>Cada nova folha parecia uma pequena maravilha.</p>",
+  "p11": "<p>Grok la Roca acordou sob a árvore alta.</p><p>Grok observava sua pequena horta de melões e batatas-doces.</p><p>Ele adorava vê-los crescer.</p><p>Cada nova folha parecia uma pequena maravilha.</p>",
 
   "p12.alt": "Página 12",
   "p12": "<p>Naquela tarde seu amigo,</p><p>uma jovem equidna chamada Pip,</p><p>atravessou a horta olhando para trás</p><p>e derrubou a melhor trepadeira de melão.</p><hr><p>O grande melão se abriu no chão.</p><p>Sementes e suco doce se espalharam por toda parte.</p>",

@@ -43,7 +43,7 @@ window.I18N.nl = {
   "p5": "<p>Een kookaburra lachte vanaf een tak.</p><p>\"Moet je kleine Grok zien! Zo kort! Zo stenig!\"</p><hr><p>Het kleine gevoel groeide binnen in Grok.</p><p>Het voelde als een zware koude kiezel in zijn midden.</p>",
 
   "p6.alt": "Pagina 6",
-  "p6": "<p>Hij wilde zichzelf groter laten lijken.</p><p>Hij ging op een boomstam staan.</p><p>Hij zette zijn borst op.</p><p>Hij probeerde zelfs op de grond te stampen zoals de kangoeroe.</p><hr><p>Het maakte de koude kiezel alleen maar zwaarder.</p>",
+  "p6": "<p>Hij wilde zichzelf groter laten lijken.</p><p>Hij ging op een boomstam staan.</p><p>Hij stuwde zijn borst vooruit.</p><p>Hij probeerde zelfs op de grond te stampen zoals de kangoeroe.</p><hr><p>Het maakte de koude kiezel alleen maar zwaarder.</p>",
 
   "p7.alt": "Pagina 7",
   "p7": "<p>Die avond zat Grok alleen bij een klein vuurtje.</p><p>Hij sloeg zijn armen om zijn knieën.</p><p>Hij liet het kleine gevoel blijven.</p><p>Hij liep er niet voor weg.</p><p>Hij gooide het op niemand anders.</p><hr><p>Langzaam verzachtte het gevoel,</p><p>als klei die in de zon ligt.</p><p>Hij begon het te begrijpen.</p>",
