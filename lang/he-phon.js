@@ -1,5 +1,5 @@
 window.I18N = window.I18N || {};
-window.I18N.he = {
+window.I18N["he-phon"] = {
   "__title": "גרוק הצור – שלושה סיפורים שקטים (תעתיק)",
 
   "site.title": "גרוק הצור – שלושה סיפורים שקטים",
