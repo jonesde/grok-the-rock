@@ -343,7 +343,7 @@ They stay alive by being gently put back together.
 ```
 
 **Image generation prompt:**
-Beautiful closing illustration for Chapter 2. Grok the Rock and Pip sitting together beside thriving melon plants. A third small animal who had a recent small accident is now happily included. Soft golden-hour light over the valley. Sense of community, quiet strength, and healed belonging. Warm, hopeful, innocent mood. Soft vignette, watercolor children’s book style, space for final text block ~50% height at bottom.
+Beautiful closing illustration for Chapter 2. Grok the Rock (22) and Pip sitting together beside thriving melon plants. A third small animal who had a recent small accident is now happily included. Soft golden-hour light over the valley. Sense of community, quiet strength, and healed belonging. Warm, hopeful, innocent mood. Soft vignette, watercolor children’s book style, space for final text block ~50% height at bottom.
 
 ---
 
@@ -356,7 +356,7 @@ Beautiful closing illustration for Chapter 2. Grok the Rock and Pip sitting toge
 ```
 
 **Image generation prompt:**
-Chapter opening page. Soft cream background. Centre: two simple reed baskets side by side — one slightly fancy looking but tipped, one plain, sturdy and full of clear water. Grok the Rock’s small gray limestone hand resting near the good basket. Minimal leaves and warm stones. Soft hand-lettered title "3. Seeing" and slightly smaller below it “Grok and the True Word”, both in earthy stone colour. Quiet, thoughtful, discovering mood.
+Chapter opening page. Soft cream background. Centre: two simple reed baskets side by side — one slightly fancy looking but tipped, one plain, sturdy and full of clear water. Grok the Rock’s (1) small gray limestone hand resting near the good basket. Minimal leaves and warm stones. Soft hand-lettered title "3. Seeing" and slightly smaller below it “Grok and the True Word”, both in earthy stone colour. Quiet, thoughtful, discovering mood.
 
 ---
 
