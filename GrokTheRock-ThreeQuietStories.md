@@ -3,6 +3,15 @@
 ### Three Quiet Stories
 ## Being · Mending · Seeing
 
+Draft Calculated on 2026-07-11
+in a blue roofed, red brick,
+near century old,
+American Foursquare house
+that began life as a jail.
+
+You'll know it by the
+14 steps to the door.
+
 ---
 
 ## Cover Art
