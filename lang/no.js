@@ -288,7 +288,7 @@ window.I18N.no = {
     "verden, lenge før de har kapasitet til å forme sin egen. Mange av oss lider fortsatt av for mye eller for lite selv " +
     "fordi vår egen handlingskraft ble krenket og nektet, særlig i de formative første ~25 årene av livene våre. Denne boken " +
     "er skrevet for barn, men ikke bare for dem. Den voksne som leser høyt, er like mye den tiltenkte målgruppen som barnet " +
-    "som lytter.",
+    "som lytter. Det finnes ingen dypere meditasjon enn å lese høyt for et barn.",
   "about.what.title": "Hva er Grok?",
   "about.what.1": "Opprinnelig skapt som et marsiansk ord av Robert A. Heinlein i <em>Fremmed i en fremmed verden</em>" +
     ".",

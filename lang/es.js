@@ -292,7 +292,7 @@ window.I18N.es = {
     "lleva al mundo, mucho antes de que tenga la capacidad de moldear los suyos. Muchos de nosotros aún sufrimos de demasiado " +
     "o muy poco yo porque nuestra propia agencia fue violada y negada, especialmente en esos primeros ~25 años formativos de " +
     "nuestras vidas. Este libro está escrito para niños, pero no solo para ellos. El adulto que lee en voz alta es tanto la " +
-    "audiencia prevista como el niño que escucha.",
+    "audiencia prevista como el niño que escucha. No hay meditación más profunda que leer en voz alta a un niño.",
   "about.what.title": "¿Qué es Grok?",
   "about.what.1": "Acuñada originalmente como una palabra marciana por Robert A. Heinlein en <em>Ciudadano de una Tierra Extraña</em>" +
     ".",

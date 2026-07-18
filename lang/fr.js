@@ -313,7 +313,7 @@ window.I18N.fr = {
     "initiaux qu'un enfant emporte dans le monde, bien avant qu'il ait la capacité de modeler les siens. Beaucoup d'entre " +
     "nous souffrent encore de trop ou trop peu de moi parce que notre propre agentivité a été violée et niée, surtout durant " +
     "ces premières ~25 années formatrices de nos vies. Ce livre est écrit pour les enfants, mais pas seulement pour eux. " +
-    "L'adulte qui lit à haute voix est autant le public prévu que l'enfant qui écoute.",
+    "L'adulte qui lit à haute voix est autant le public prévu que l'enfant qui écoute. Il n'y a pas de méditation plus profonde que de lire à haute voix à un enfant.",
   "about.what.title": "Qu'est-ce que Grok ?",
   "about.what.1": "Originalement forgeé comme un mot martien par Robert A. Heinlein dans <em>Stranger in a Strange Land</em>" +
     ".",

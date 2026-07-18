@@ -302,7 +302,7 @@ window.I18N.it = {
     "porta nel mondo, molto prima che abbia la capacità di plasmare i propri. Molti di noi soffrono ancora di troppo o troppo " +
     "poco sé perché la nostra stessa agency è stata violata e negata, specialmente in quei primi ~25 anni formativi delle " +
     "nostre vite. Questo libro è scritto per i bambini, ma non solo per loro. L'adulto che legge ad alta voce è tanto il " +
-    "pubblico a cui è destinato quanto il bambino che ascolta.",
+    "pubblico a cui è destinato quanto il bambino che ascolta. Non c'è meditazione più profonda che leggere ad alta voce a un bambino.",
   "about.what.title": "Che cos'è Grok?",
   "about.what.1": "Coniato originariamente come parola marziana da Robert A. Heinlein in <em>Straniero in terra straniera</em>" +
     ".",

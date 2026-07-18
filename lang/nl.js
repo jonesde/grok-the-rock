@@ -308,7 +308,7 @@ window.I18N.nl = {
     "betekenis die een kind de wereld in draagt, lang voordat het de capaciteit heeft om zijn eigen te vormen. Velen van ons " +
     "lijden nog steeds aan te veel of te weinig zelf omdat onze eigen handelingsbekwaamheid werd geschonden en ontkend, " +
     "vooral in die vormende eerste ~25 jaar van ons leven. Dit boek is geschreven voor kinderen, maar niet alleen voor hen. " +
-    "De volwassene die hardop voorleest is net zozeer de bedoelde lezer als het kind dat luistert.",
+    "De volwassene die hardop voorleest is net zozeer de bedoelde lezer als het kind dat luistert. Er is geen diepere meditatie dan hardop voorlezen aan een kind.",
   "about.what.title": "Wat is Grok?",
   "about.what.1": "Oorspronkelijk bedacht als een Marswoord door Robert A. Heinlein in <em>Vreemdeling in een vreemd land</em>" +
     ".",

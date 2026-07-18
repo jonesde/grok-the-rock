@@ -312,7 +312,7 @@ window.I18N.de = {
     "Bedeutung, die ein Kind in die Welt trägt, lange bevor es die Fähigkeit hat, seine eigene zu formen. Viele von uns " +
     "leiden noch immer an zu viel oder zu wenig Selbst, weil unsere eigene Handlungsmacht verletzt und verweigert wurde, " +
     "besonders in jenen prägenden ersten ~25 Jahren unseres Lebens. Dieses Buch ist für Kinder geschrieben, aber nicht nur " +
-    "für sie. Der Erwachsene, der vorliest, ist ebenso das Zielpublikum wie das Kind, das zuhört.",
+    "für sie. Der Erwachsene, der vorliest, ist ebenso das Zielpublikum wie das Kind, das zuhört. Es gibt keine tiefere Meditation als einem Kind vorzulesen.",
   "about.what.title": "Was ist Grok?",
   "about.what.1": "Ursprünglich als marsianisches Wort von Robert A. Heinlein in <em>Fremder in einer fremden Welt</em>" +
     " geprägt.",

@@ -300,7 +300,7 @@ window.I18N.pt = {
     "criança carrega para o mundo, muito antes de ela ter capacidade de moldar os seus próprios. Muitos de nós ainda sofrem " +
     "de demasiado ou demasiado pouco eu porque nossa própria agência foi violada e negada, especialmente naqueles primeiros " +
     "~25 anos formativos das nossas vidas. Este livro é escrito para crianças, mas não só para elas. O adulto que lê em voz " +
-    "alta é tanto o público-alvo quanto a criança que ouve.",
+    "alta é tanto o público-alvo quanto a criança que ouve. Não há meditação mais profunda que ler em voz alta para uma criança.",
   "about.what.title": "O que é Grok?",
   "about.what.1": "Originalmente cunhada como uma palavra marciana por Robert A. Heinlein em <em>Um Estranho numa Terra Estranha</em>" +
     ".",
