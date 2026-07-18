@@ -1,16 +1,4 @@
-
-# Grok the Rock
-### Three Quiet Stories
-## Being · Mending · Seeing
-
 Draft Calculated on 2026-07-11
-in a blue roofed, red brick,
-near century old,
-American Foursquare house
-that began life as a jail.
-
-You'll know it by the
-14 steps to the door.
 
 ---
 
@@ -21,7 +9,6 @@ Children’s picture book cover, portrait orientation.
 Soft watercolor and colored pencil with gentle texture. Warm outback-inspired palette: gray limestone, soft ochre, dusty eucalyptus green, warm cream, muted sky blue.
 Central character: Grok the Rock — a small, endearing, rounded rock creature made of gray limestone, with a soft friendly face, curious dark eyes, tiny sturdy arms and legs, and a little living patch of soft green moss on top of his head. He sits contentedly on a larger smooth rock under his soft-leaved tall tree, looking out at the world with quiet wonder.
 Gentle Australian-outback-meets-timeless-landscape background with a glowing water-hole and soft hills.
-Title in warm hand-lettered stone-colored text: “Grok the Rock” large at top, “Three Quiet Stories” smaller below, and "Being · Mending · Seeing" medium sized below that.
 Clean, calm, wondrous mood. High-quality innocent children’s book cover.
 
 ---
@@ -61,9 +48,6 @@ and for every true word
 With thanks to Original Grokkers:
   Robert A. Heinlein "Stranger in a Strange Land"
   Ted Prior "Grug"
-
-Grok the Rock = Stranger in a Strange Land + Grug
-("Grug" cleans up "Stranger" for children *and* adults)
 ```
 
 **Image generation prompt:**
