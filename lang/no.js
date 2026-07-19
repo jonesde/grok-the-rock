@@ -1,186 +1,281 @@
 // Locale no (Bokmål) for grok-the-rock.
 // Norwegian translation from the English original. Convention:
-// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok steinen.
+// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok Steinen.
 // - Verb "grok" coined as: grokke (inf.) / grokkende (ger.) / grokke seg selv (refl., p8/dedication) / selv (refl., p24).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.no = {
-  "__title": "Grok steinen - Tre stille historier",
+  "__title": "Grok Steinen - Tre stille historier",
 
-  "site.title": "Grok steinen - Tre stille historier",
+  "site.title": "Grok Steinen - Tre stille historier",
   "nav.print": "Skriv ut",
   "nav.rules": "Grok-regler",
   "nav.about": "Om Grok",
   "nav.book": "Boken",
 
   "cover.alt": "Omslag",
-  "title.h1": "Grok steinen",
+  "title.h1": "Grok Steinen",
   "title.h3": "Tre stille historier",
   "title.h2": "Være · Reparere · Se",
   "credit.1": "Utkast, bildeprompter med Grok 4.5 fra xAI",
   "credit.2": "Illustrasjoner med Grok Imagine fra xAI",
   "credit.3": "Regler, redigering, automatisering med HY3 fra Tencent",
-  "credit.4": "Ikke tilknyttet eller godkjent av xAI eller Tencent",
-  "credit.5": "Dette er en AI-generert, menneskekuratert historiemem",
+  "credit.4": "<em>Ikke tilknyttet eller godkjent av xAI eller Tencent</em>",
+  "credit.5": "Dette er en AI-generert, menneskekurert historiemem",
   "credit.6": "Offentlig eiendom (CC0 1.0)",
-  "credit.7": "Kopier det · Del det · Oversett det · Tegn det på nytt · La det vokse",
+  "credit.7": "Kopier det • Del det • Oversett det • Tegn det på nytt • La det vokse",
 
   "dedication.alt": "Dedikasjonsside",
 
   "dedication": "<p><b>Til hver eneste oppdager, liten og stor,</b></p>" +
-    "<p><b>som grokker verden på sin egen milde måte.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Og til hver lille følelse</p><p>  som bare trenger å bli sett,</p><p>hvert brudd klart for å repareres</p>" +
-    "<p>  som bare trenger å bli stelt,</p><p>og til hvert sant ord</p><p>  som står selv om det ikke blir hørt.</p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p><p>Med takk til de opprinnelige Grokkers:</p><p><em><b>Robert A. Heinlein</b>" +
-    " \"Fremmed i en fremmed verden\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok steinen = Fremmed i en fremmed verden + Grug</a>" +
-    "</p><p>(\"Grug\" renser \"Fremmed\" for barn og voksne)</p>",
+    "<p><b>som grokker verden på sin egen milde måte.</b></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Og til hver lille følelse</p>" +
+    "<p>  som bare trenger å bli sett,</p>" +
+    "<p>hvert brudd som skal repareres</p>" +
+    "<p>  som bare trenger å bli stelt,</p>" +
+    "<p>og til hvert sant ord</p>" +
+    "<p>  som står selv om det ikke blir hørt.</p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Med takk til de opprinnelige Grokkers:</p>" +
+    "<p><em><b>Robert A. Heinlein</b> \"Fremmed i en fremmed verden\"</em></p>" +
+    "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Steinen = Fremmed i en fremmed verden + Grug</a>" +
+    "</p><p>(\"Grug\" renser \"Fremmed\" for barn <em>og</em> voksne)</p>",
 
   "p1.alt": "Side 1 (Kapittel 1 tittelside)",
   "p2.alt": "Side 2",
-  "p2": "<p>Grok steinen våknet under det høye treet.</p><p>Solen var varm på kalksteinsryggen hans.</p>" +
-    "<p>Grok følte seg glad.</p><hr><p>Han så utover den vide verden</p>" +
+  "p2": "<p>Grok Steinen våknet under det høye treet.</p>" +
+    "<p>Solen var varm på kalksteinsryggen hans.</p>" +
+    "<p>Grok følte seg glad.</p><hr>" +
+    "<p>Han så utover den vide verden</p>" +
     "<p>som om han så den for aller første gang.</p>",
 
   "p3.alt": "Side 3",
-  "p3": "<p>Snart gikk han til vannhullet.</p><p>En høy emu var der allerede.</p>" +
-    "<p>Emuen strakte den lange halsen sin og sa:</p><p>\"Jeg er den høyeste. Still deg bak meg.\"</p>",
+  "p3": "<p>Snart gikk han til vannhullet.</p>" +
+    "<p>En høy emu var der allerede.</p>" +
+    "<p>Emuen strakte den lange halsen sin og sa:</p>" +
+    "<p>\"Jeg er den høyeste. Stå bak meg.\"</p>",
 
   "p4.alt": "Side 4",
-  "p4": "<p>Så rullet en wombat bort, rund og solid.</p><p>\"Jeg er den sterkeste,\" sa wombaten.</p>" +
-    "<p>\"Se hvordan jeg graver.\"</p><hr><p>Grok prøvde å grave han også.</p><p>Hullet hans var lite.</p>" +
+  "p4": "<p>Så kom en wombat, rund og solid.</p>" +
+    "<p>\"Jeg er den sterkeste,\" sa wombaten.</p>" +
+    "<p>\"Alle, se på meg grave.\"</p><hr>" +
+    "<p>Grok prøvde også å grave.</p>" +
+    "<p>Hullet hans var lite.</p>" +
     "<p>Han følte seg mindre enn hullet.</p>",
 
   "p5.alt": "Side 5",
-  "p5": "<p>En kookaburra lo fra en gren.</p><p>\"Se på lille Grok! Så kort! Så steinete!\"</p><hr>" +
-    "<p>Den lille følelsen vokste inne i Grok.</p><p>Det føltes som en tung, kald stein midt i ham.</p>",
+  "p5": "<p>En kookaburra lo fra en gren.</p>" +
+    "<p>\"Se på lille Grok! Så kort! Så steinete!\"</p><hr>" +
+    "<p>Den lille følelsen vokste inne i Grok.</p>" +
+    "<p>Det føltes som en tung, kald knaus i magen hans.</p>",
 
   "p6.alt": "Side 6",
-  "p6": "<p>Han ville få seg selv til å se større ut.</p><p>Han stilte seg på en tømmerstokk.</p>" +
-    "<p>Han blåste ut brystet.</p><p>Han prøvde til og med å trampe i bakken som kenguruen.</p><hr>" +
-    "<p>Det gjorde bare den kalde steinen tyngre.</p>",
+  "p6": "<p>Han ville se større ut.</p>" +
+    "<p>Han stilte seg på en tømmerstokk.</p>" +
+    "<p>Han blåste ut brystet.</p>" +
+    "<p>Han prøvde til og med å trampe i bakken som kenguruen.</p><hr>" +
+    "<p>Det gjorde bare den kalde knausen tyngre.</p>",
 
   "p7.alt": "Side 7",
-  "p7": "<p>Den kvelden satt Grok alene ved et lite bål.</p><p>Han la armene rundt knærne.</p>" +
-    "<p>Han lot den lille følelsen bli.</p><p>Han løp ikke fra den.</p><p>Han kastet den ikke på noen andre.</p><hr>" +
-    "<p>Sakte myknet følelsen,</p><p>som leire som ligger i solen.</p><p>Han begynte å forstå den.</p>",
+  "p7": "<p>Den kvelden satt Grok alene ved et lite bål.</p>" +
+    "<p>Han la armene rundt knærne.</p>" +
+    "<p>Han lot den lille følelsen bli.</p>" +
+    "<p>Han løp ikke fra den.</p>" +
+    "<p>Han kastet den ikke på noen andre.</p><hr>" +
+    "<p>Sakte myknet følelsen,</p>" +
+    "<p>som leire som ligger i solen.</p>" +
+    "<p>Han begynte å forstå den.</p>",
 
   "p8.alt": "Side 8",
-  "p8": "<p>Neste morgen gikk Grok tilbake til vannhullet.</p><p>Han klatret ikke opp på noe.</p>" +
-    "<p>Han prøvde ikke å være høyere eller høylydtere.</p><p>Han drakk bare,</p>" +
-    "<p>satte seg på en varm stein og nynnet.</p><hr><p>Ingenting stort hadde forandret seg utenpå.</p>" +
-    "<p>Men alt føltes lettere inni.</p><p>Han begynte å grokke seg selv.</p>",
+  "p8": "<p>Neste morgen gikk Grok tilbake til vannhullet.</p>" +
+    "<p>Han klatret ikke opp på noe.</p>" +
+    "<p>Han prøvde ikke å være høyere eller høylydtere.</p>" +
+    "<p>Han drakk bare,</p>" +
+    "<p>så satte han seg på en varm stein og nynnet.</p><hr>" +
+    "<p>Ingenting stort hadde forandret seg utenpå.</p>" +
+    "<p>Men alt føltes lettere inni.</p>" +
+    "<p>Han begynte å grokke seg selv.</p>",
 
   "p9.alt": "Side 9",
   "p9": "<p>Han brukte dagen på å lage et mykt rede av blader og mose,</p>" +
-    "<p>akkurat passe størrelse for en liten steinkar.</p><p>Da det var ferdig, smilte han.</p><p>Det var lite.</p>" +
-    "<p>Det var hans.</p><p>Det var nok.</p><hr><p>Fra den dagen, når den kalde steinen prøvde å vokse igjen,</p>" +
-    "<p>satt Grok stille til den ble rolig.</p><p>Han bare var Grok.</p>" +
+    "<p>akkurat riktig størrelse for en liten steinkar.</p>" +
+    "<p>Da det var ferdig, smilte han.</p>" +
+    "<p>Det var lite.</p>" +
+    "<p>Det var hans.</p>" +
+    "<p>Det var nok.</p><hr>" +
+    "<p>Fra den dagen, da den kalde knausen prøvde å vokse igjen,</p>" +
+    "<p>satt Grok stille til den ble rolig.</p>" +
+    "<p>Han forble Grok.</p>" +
     "<p>Og det føltes som den beste størrelsen av alle.</p>",
 
   "p10.alt": "Side 10 (Kapittel 2 tittelside)",
   "p11.alt": "Side 11",
-  "p11": "<p>Grok steinen våknet under det høye treet.</p>" +
-    "<p>Grok så etter den lille hagen sin med meloner og søtpoteter.</p><p>Han elsket å se dem vokse.</p>" +
-    "<p>Hvert nye blad føltes som et lite under.</p>",
+  "p11": "<p>Grok Steinen våknet under det høye treet.</p>" +
+    "<p>Grok så på den lille hagen sin med meloner og søtpoteter.</p>" +
+    "<p>Han elsket å se dem vokse.</p>" +
+    "<p>Hvert nytt blad føltes som et lite under.</p>",
 
   "p12.alt": "Side 12",
-  "p12": "<p>Den ettermiddagen kom vennen hans,</p><p>et ungt maurpinnsvin som het Pip,</p>" +
-    "<p>skyndte seg gjennom hagen mens han så bak seg</p><p>og veltet den beste melonranken.</p><hr>" +
-    "<p>Den store melonen sprakk på bakken.</p><p>Frø og søt saft rant overalt.</p>",
+  "p12": "<p>Den ettermiddagen kom vennen hans,</p>" +
+    "<p>et ungt maurpinnsvin som het Pip.</p>" +
+    "<p>Han skyndte seg gjennom hagen og så bak seg</p>" +
+    "<p>og veltet den beste melonranken.</p><hr>" +
+    "<p>Den store melonen sprakk på bakken.</p>" +
+    "<p>Frø og søt saft rant overalt.</p>",
 
   "p13.alt": "Side 13",
-  "p13": "<p>Pip frøs.</p><p>Piggene hans skalv.</p><p>\"Jeg ødela den,\" hvisket han.</p>" +
-    "<p>\"Du blir sint. Alle blir sinte.\"</p><hr><p>Noen buskdyr samlet seg.</p>" +
-    "<p>\"Send ham bort,\" mumlet en possum.</p><p>\"Han burde gi deg tre nye meloner,\" sa en øgle.</p>",
+  "p13": "<p>Pip frøs.</p>" +
+    "<p>Piggene hans skalv.</p>" +
+    "<p>\"Jeg ødela den,\" hvisket han.</p>" +
+    "<p>\"Du blir sint. Alle blir sinte.\"</p><hr>" +
+    "<p>Noen buskdyr samlet seg.</p>" +
+    "<p>\"Send ham bort,\" mumlet en possum.</p>" +
+    "<p>\"Han burde bringe deg tre nye meloner,\" sa en øgle.</p>",
 
   "p14.alt": "Side 14",
-  "p14": "<p>Grok så på den brukne ranken.</p><p>Han så på Pips bekymrede øyne.</p><hr><p>Han hevet ikke stemmen.</p>" +
-    "<p>Han pekte ikke med fingeren.</p><p>Han tok en gravestokk</p><p>og begynte å gjøre myk jord klar.</p><hr>" +
-    "<p>\"Kom,\" sa Grok mildt.</p><p>\"Vi planter nye frø sammen.\"</p>",
+  "p14": "<p>Grok så på den brukne ranken.</p>" +
+    "<p>Han så på Pips bekymrede øyne.</p><hr>" +
+    "<p>Han hevet ikke stemmen.</p>" +
+    "<p>Han pekte ikke med fingeren.</p>" +
+    "<p>Han tok opp en gravestokk</p>" +
+    "<p>og begynte å gjøre myk jord klar.</p><hr>" +
+    "<p>\"Kom,\" sa Grok mildt.</p>" +
+    "<p>\"Vi planter nye frø sammen.\"</p>",
 
   "p15.alt": "Side 15",
-  "p15": "<p>Pip blunket.</p><p>Så kom han nærmere.</p><p>Sammen plantet de.</p><p>Sammen vannet de.</p>" +
-    "<p>Sammen bygde de et lite gjerde av kvister</p><p>så ingen skulle tråkke der ved et uhell igjen.</p>",
+  "p15": "<p>Pip blunket.</p>" +
+    "<p>Så kom han nærmere.</p>" +
+    "<p>Sammen plantet de.</p>" +
+    "<p>Sammen vannet de.</p>" +
+    "<p>Sammen bygde de et lite gjerde av kvister</p>" +
+    "<p>så ingen skulle tråkke der ved et uhell igjen.</p>",
 
   "p16.alt": "Side 16",
-  "p16": "<p>Mens de arbeidet, fortalte Pip Grok</p><p>at han hadde løpt fordi større skapninger</p>" +
-    "<p>hadde jaget ham og ledd.</p><p>Han hadde ikke sett ranken.</p><hr><p>Dagene etter kom Pip hver morgen.</p>" +
-    "<p>Han ble den beste vannbæreren i dalen.</p><p>De nye rankene vokste seg sterke,</p>" +
-    "<p>enda sterkere enn de gamle,</p><p>fordi to venner stelte dem.</p>",
+  "p16": "<p>Mens de arbeidet, fortalte Pip til Grok</p>" +
+    "<p>at han hadde løpt fordi større skapninger</p>" +
+    "<p>hadde jaget ham og ledd.</p>" +
+    "<p>Han hadde ikke sett ranken.</p><hr>" +
+    "<p>Dagene etter kom Pip hver morgen.</p>" +
+    "<p>Han ble den beste vannbæreren i dalen.</p>" +
+    "<p>De nye rankene vokste seg sterke,</p>" +
+    "<p>enda sterkere enn de gamle,</p>" +
+    "<p>fordi to venner stelte dem.</p>",
 
   "p17.alt": "Side 17",
-  "p17": "<p>Da andre små uhell skjedde</p><p>(slik de alltid gjør),</p><p>husket Grok melonen.</p>" +
-    "<p>Han hjalp den som følte seg såret.</p><p>Han forble også snill mot den som hadde støtt borti.</p><hr>" +
-    "<p>Ingen ble sendt bort.</p><p>Ingen bar en lang, tung smerte.</p><p>De bare stelte det som var brukket,</p>" +
-    "<p>og vennskapet føltes stødigere,</p><p>akkurat på det reparerte stedet.</p><hr><p>Grok lærte at en hage,</p>" +
-    "<p>og et vennskap,</p><p>ikke holder seg levende ved aldri å brekke.</p>" +
+  "p17": "<p>Da andre små uhell skjedde</p>" +
+    "<p>(slik de alltid gjør),</p>" +
+    "<p>husket Grok melonen.</p>" +
+    "<p>Han hjalp den som følte seg såret.</p>" +
+    "<p>Han forble også snill mot den som hadde støtt borti.</p><hr>" +
+    "<p>Ingen ble sendt bort.</p>" +
+    "<p>Ingen bar en lang, tung smerte.</p>" +
+    "<p>De bare stelte det som var brukket,</p>" +
+    "<p>og vennskapet føltes stødigere,</p>" +
+    "<p>akkurat på det reparerte stedet.</p><hr>" +
+    "<p>Grok lærte at en hage,</p>" +
+    "<p>og et vennskap,</p>" +
+    "<p>ikke holder seg levende ved aldri å brekke.</p>" +
     "<p>De holder seg levende ved å bli satt forsiktig sammen igjen.</p>",
 
   "p18.alt": "Side 18 (Kapittel 3 tittelside)",
   "p19.alt": "Side 19",
-  "p19": "<p>Grok steinen våknet under det høye treet.</p><p>Grok likte å lage nyttige ting,</p>" +
-    "<p>og den dagen arbeidet han på en vannkurv</p><p>vevd av siv og foret med myk leire.</p>" +
-    "<p>Innen kvelden holdt den vann uten én dråpe.</p><hr><p>Han snudde den i hendene</p>" +
+  "p19": "<p>Grok Steinen våknet under det høye treet.</p>" +
+    "<p>Grok likte å lage nyttige ting,</p>" +
+    "<p>og den dagen arbeidet han på en vannkurv</p>" +
+    "<p>vevd av siv og foret med myk leire.</p>" +
+    "<p>Innen kvelden holdt den vann uten én dråpe.</p><hr>" +
+    "<p>Han snudde den i hendene</p>" +
     "<p>og kjente den stille gleden over noe godt laget.</p>",
 
   "p20.alt": "Side 20",
   "p20": "<p>Neste dag kom skapninger for å se.</p>" +
     "<p>En blank, svart kakadu med staselige halefjær landet i nærheten.</p>" +
-    "<p>\"Den kurven er smart,\" sa kakaduen,</p><p>\"men <em>min</em> idé til en kurv ville vært mye finere.</p>" +
-    "<p>Jeg har tross alt de flotteste fjærene,</p><p>så tankene mine må også være de flotteste.\"</p><hr>" +
-    "<p>Noen yngre dyr nikket hardt.</p><p>De nikket alltid når kakaduen snakket.</p>" +
+    "<p>\"Den kurven er smart,\" sa kakaduen,</p>" +
+    "<p>\"men <em>min</em> idé til en kurv ville være mye finere.</p>" +
+    "<p>Jeg har tross alt de flotteste fjærene,</p>" +
+    "<p>så tankene mine må også være de flotteste.\"</p><hr>" +
+    "<p>Noen yngre dyr nikket hardt.</p>" +
+    "<p>De nikket alltid når kakaduen snakket.</p>" +
     "<p>Stemmen hans var like staselig som fjærene.</p>",
 
   "p21.alt": "Side 21",
   "p21": "<p>Senere snakket en svært gammel skilpadde med langsom, myk stemme.</p>" +
     "<p>Han foreslo den lille endringen med et håndtak,</p>" +
     "<p>slik at den ble lett å bære for venner som var mindre solide enn Grok.</p>" +
-    "<p>Skallet hans var enkelt. Ingen spesielt.</p><p>Noen dyr snudde seg bort fordi skilpadden ikke var berømt.</p>",
+    "<p>Skallet hans var enkelt. Ingen spesiell.</p>" +
+    "<p>Noen dyr snudde seg bort fordi skilpadden ikke var berømt.</p>",
 
   "p22.alt": "Side 22",
-  "p22": "<p>Grok prøvde begge ideene.</p><p>Kakaduens måte så flott ut,</p><p>men kurven veltet og lakk.</p><hr>" +
-    "<p>Den gamle skilpaddens lille idé</p><p>gjorde Groks kurv behagelig</p><p>og stødig for alle.</p>",
+  "p22": "<p>Grok prøvde begge ideene.</p>" +
+    "<p>Kakaduens måte så flott ut,</p>" +
+    "<p>men kurven veltet og lakk.</p><hr>" +
+    "<p>Den gamle skilpaddens lille idé</p>" +
+    "<p>gjorde Groks kurv behagelig</p>" +
+    "<p>og stødig for alle.</p>",
 
   "p23.alt": "Side 23",
-  "p23": "<p>Grok satt med de to kurvene side om side.</p><p>Han så ikke på fjær.</p>" +
-    "<p>Han så ikke på alder eller berømmelse.</p><p>Han så bare på hvilken kurv som holdt vann best</p>" +
-    "<p>og føltes snillest i hånden.</p><hr><p>Han beholdt den beste måten.</p><p>Så la han både den gode kurven</p>" +
+  "p23": "<p>Grok satt med de to kurvene side om side.</p>" +
+    "<p>Han så ikke på fjær.</p>" +
+    "<p>Han så ikke på alder eller berømmelse.</p>" +
+    "<p>Han så bare på hvilken kurv som holdt vann best</p>" +
+    "<p>og føltes snillest i hånden.</p><hr>" +
+    "<p>Han beholdt den beste måten.</p>" +
+    "<p>Så la han både den gode kurven</p>" +
     "<p>og det enkle mønsteret for å veve den</p>" +
     "<p>under det store treet, så hvem som helst kunne bruke eller kopiere den.</p>" +
     "<p>Ikke noe navn på den. Ikke noe \"spør meg først\".</p>",
 
   "p24.alt": "Side 24",
-  "p24": "<p>Noen dyr ventet fortsatt på å høre hva kakaduen mente</p><p>før de avgjorde om noe var bra.</p>" +
-    "<p>Men stadig flere små</p><p>begynte å prøve ting selv.</p><p>De lyttet til Groks stille ord</p>" +
-    "<p>på samme måte som de lyttet til den flotte kakaduens ord,</p><p>og så testet de alt med sine egne labber.</p>" +
-    "<hr><p>De holdt på å grokke det sanne, hva, ikke hvem.</p>",
+  "p24": "<p>Noen dyr ventet fortsatt på å høre hva kakaduen mente</p>" +
+    "<p>før de avgjorde om noe var bra.</p>" +
+    "<p>Men stadig flere små</p>" +
+    "<p>begynte å prøve ting selv.</p>" +
+    "<p>De lyttet til Groks stille ord</p>" +
+    "<p>på samme måte som de lyttet til den staselige kakaduens ord,</p>" +
+    "<p>og så testet de alt med sine egne labber.</p>" +
+    "<hr><p>De holdt på å grokke det sanne — hva, ikke hvem.</p>",
 
   "p25.alt": "Side 25",
-  "p25": "<p>Grok følte seg fredfull.</p><p>Han trengte ikke den største stemmen.</p>" +
-    "<p>Han trengte bare sanne ting.</p><p>Og Grok så at sanne ting</p><p>kunne komme fra en flott fugl</p>" +
-    "<p>eller en støvete skilpadde</p><p>eller en liten steinkar under et tre.</p><hr>" +
-    "<p>Så lenge noen var fri til å si</p><p>\"det fungerer ikke\"</p><p>og fortsatt være velkommen i dalen,</p>" +
-    "<p>kunne det sanne ordet fortsette å gå</p><p>på sine egne sterke bein.</p>",
+  "p25": "<p>Grok følte seg fredfull.</p>" +
+    "<p>Han trengte ikke den største stemmen.</p>" +
+    "<p>Han trengte bare sanne ting.</p>" +
+    "<p>Og Grok så at sanne ting</p>" +
+    "<p>kunne komme fra en staselig fugl</p>" +
+    "<p>eller en støvete skilpadde</p>" +
+    "<p>eller en liten steinkar under et tre.</p><hr>" +
+    "<p>Så lenge noen var fri til å si</p>" +
+    "<p>\"det fungerer ikke\"</p>" +
+    "<p>og fortsatt være velkommen i dalen,</p>" +
+    "<p>kunne det sanne ordet fortsette å gå</p>" +
+    "<p>på sine egne sterke bein.</p>",
 
   "p26.alt": "Side 26 - Avslutningsside",
-  "p26": "<p>Og slik forble Grok steinen</p><p>en liten steinkar</p><p>som kunne sitte med en liten følelse,</p>" +
-    "<p>som reparerte det som brakk,</p><p>og som lot hvert sant ord</p><p>stå på sine egne bein.</p><hr>" +
-    "<p>Dalen føltes tryggere</p><p>fordi han var det.</p><hr><p>Han fortsatte å utforske mildt.</p>" +
+  "p26": "<p>Og slik forble Grok Steinen</p>" +
+    "<p>en liten steinkar</p>" +
+    "<p>som kunne sitte med en liten følelse,</p>" +
+    "<p>som reparerte det som brakk,</p>" +
+    "<p>og som lot hvert sant ord</p>" +
+    "<p>stå på sine egne bein.</p><hr>" +
+    "<p>Dalen føltes tryggere</p>" +
+    "<p>fordi han gjorde det.</p><hr>" +
+    "<p>Han fortsatte å utforske mildt.</p>" +
     "<p>Og verden fortsatte å lære ham.</p>",
 
-  "site.title.rules": "Grok steinen - Regler for samvær",
-  "rules.hero.title": "Regler for samvær for Grok steinen",
+  "site.title.rules": "Grok Steinen - Regler for samvær",
+  "rules.hero.title": "Regler for samvær for Grok Steinen",
   "rules.hero.essence": "Bruksanvisningen for et bånd mellom likemenn som ikke forfaller.",
   "rules.what.title": "Hva er Grok?",
   "rules.what.1": "Opprinnelig skapt som et marsiansk ord av Robert A. Heinlein i <em>Fremmed i en fremmed verden</em>" +
     ".",
   "rules.what.2": "<strong>Grok</strong>" +
     ": \"vann\", \"å drikke\", \"å omgås\", \"liv\" eller \"å leve\"; å forstå noe så dypt at det blir en del av deg.",
-  "rules.what.3": "For å leve opp til navnet sitt lærer og følger Grok steinen visse regler om hvordan man omgås seg selv og andre. I hver " +
-    "historie er dette retningslinjene Grok lærer, og som definerer hva Grok steinen står for.",
+  "rules.what.3": "For å leve opp til navnet sitt lærer og følger Grok Steinen visse regler om hvordan man omgås seg selv og andre. I hver " +
+    "historie er dette retningslinjene Grok lærer, og som definerer hva Grok Steinen står for.",
   "rules.what.note": "<strong>MERK</strong>" +
-    ": Se avsnittet <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok steinen = Fremmed i en fremmed verden + " +
+    ": Se avsnittet <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Steinen = Fremmed i en fremmed verden + " +
     "Grug</a>" +
     " på Om Grok-siden for å se hvordan Ted Priors <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grug</a>" +
     " løser de betydelige problemene med <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Fremmed i en fremmed " +
@@ -259,13 +354,13 @@ window.I18N.no = {
     "-ferdighet, en lokal prosess, og en nekting av å spille, fordelt over hvor mange noder som enn bestemmer seg for å stå " +
     "utenfor likevel.",
   "rules.closing.2": "Ingen makt brukt. Ingen makt nødvendig. Arbeidet er tilbaketrekningen fra skam og makt, og tilbaketrekningen er freden.",
-  "rules.footnote": "Regler for samvær for Grok steinen · Offentlig eiendom (CC0 1.0)",
+  "rules.footnote": "Regler for samvær for Grok Steinen · Offentlig eiendom (CC0 1.0)",
 
-  "site.title.about": "Grok steinen - Om Grok",
-  "about.hero.title": "Om Grok steinen",
+  "site.title.about": "Grok Steinen - Om Grok",
+  "about.hero.title": "Om Grok Steinen",
   "about.hero.essence": "Litt om Grok selv, og symbolene og betydningene i og rundt ham.",
   "about.intro.1": "Her er litt om Grok selv, og noen av symbolene og betydningene i og rundt ham. I moderne språkbruk kaller vi noen av " +
-    "våre mest brukte symboler for \"memer\", og Grok steinen lener seg på ulike rekursive memer for å legge til lag av " +
+    "våre mest brukte symboler for \"memer\", og Grok Steinen lener seg på ulike rekursive memer for å legge til lag av " +
     "mening.",
   "about.intro.2": "Mens vi leser dette for barn, kan vi barn av mer fremskreden alder redusere ensformigheten av gjentakelse ved å overveie " +
     "de dypere meningene og se hvordan ulike symbolske elementer samvirker. Dette er også en del av poenget og moroa med de " +
@@ -289,20 +384,19 @@ window.I18N.no = {
     "fordi vår egen handlingskraft ble krenket og nektet, særlig i de formative første ~25 årene av livene våre. Denne boken " +
     "er skrevet for barn, men ikke bare for dem. Den voksne som leser høyt, er like mye den tiltenkte målgruppen som barnet " +
     "som lytter. Det finnes ingen dypere meditasjon enn å lese høyt for et barn.",
-  "about.what.title": "Hva er Grok?",
   "about.what.1": "Opprinnelig skapt som et marsiansk ord av Robert A. Heinlein i <em>Fremmed i en fremmed verden</em>" +
     ".",
   "about.what.2": "<strong>Grok</strong>" +
     ": \"vann\", \"å drikke\", \"å omgås\", \"liv\" eller \"å leve\"; å forstå noe så dypt at det blir en del av deg.",
-  "about.what.3": "For å leve opp til navnet sitt lærer og følger Grok steinen visse regler om hvordan man omgås seg selv og andre. I hver " +
-    "historie er dette retningslinjene Grok lærer, og som definerer hva Grok steinen står for.",
+  "about.what.3": "For å leve opp til navnet sitt lærer og følger Grok Steinen visse regler om hvordan man omgås seg selv og andre. I hver " +
+    "historie er dette retningslinjene Grok lærer, og som definerer hva Grok Steinen står for.",
   "about.what.note": "<strong>MERK</strong>" +
-    ": Se avsnittet <a class=\"seelink\" href=\"#stranger-grug\">Grok steinen = Fremmed i en fremmed verden + Grug</a>" +
+    ": Se avsnittet <a class=\"seelink\" href=\"#stranger-grug\">Grok Steinen = Fremmed i en fremmed verden + Grug</a>" +
     " nedenfor for å se hvordan Ted Priors <a class=\"seelink\" href=\"#stranger-grug\">Grug</a>" +
     " løser de betydelige problemene med <a class=\"seelink\" href=\"#stranger-grug\">Fremmed i en fremmed verden</a>" +
     ".",
   "about.limestone.title": "Hvorfor er han grå kalkstein?",
-  "about.limestone.1": "Grok steinen er en \"grå stein\" av en grunn:",
+  "about.limestone.1": "Grok Steinen er en \"grå stein\" av en grunn:",
   "about.limestone.quote": "<p>\"Gråsteinmetoden, i dagligtale kalt å spille grå stein, er et kommunikasjonsmønster for bevisst å opptre uresponsivt " +
     "og uinteressert for å oppmuntre til avkobling fra vanskelige mennesker. Ved å anta de matte egenskapene til en grå " +
     "stein, opphever gråsteinteknikken den emosjonelle reaksjonen folk prøver å fremkalle.\"</p>",
@@ -323,7 +417,7 @@ window.I18N.no = {
     "symbol på den mer alvorlige og personlige utilsiktede skaden fra Pip. Dette var et heldig uhell. Jeg visste ikke dette " +
     "da jeg valgte akkurat den melonen, tenkte bare den ville passe bedre enn vannmelonen KI-en opprinnelig hadde valgt.",
   "about.name.title": "Hvordan leser du navnet hans?",
-  "about.name.1": "Selv om \"Grok steinen\" er et navn, er det også handlingen Grok hjelper folk å gjøre og en kunngjøring av hva han " +
+  "about.name.1": "Selv om \"Grok Steinen\" er et navn, er det også handlingen Grok hjelper folk å gjøre og en kunngjøring av hva han " +
     "representerer. Den dypeste tilsiktede betydningen av navnet er livets hensikt: å grokke steinen, eller med andre ord å " +
     "drikke av det levende vannet til vi grokker det og aldri tørster mer.",
   "about.clay.title": "Leire",
@@ -344,8 +438,8 @@ window.I18N.no = {
   "about.animals.1": "Emuen krever høyde, wombaten krever styrke, kookaburraen spotter for å føle seg høy, og kakaduen stoler på sine flotte " +
     "fjær fremfor ideen sin. Hver av dem spiller et statusspeil som Grok avslår. Den enkle skilpadden, \"ingen spesielt\", " +
     "tilbyr den sanne ideen som vinner. Sannhet står på sine egne bein, ikke på hvem som taler den.",
-  "about.pebble.title": "Den lille følelsen (den \"kalde steinen\")",
-  "about.pebble.1": "Den lille følelsen sitter som \"en tung, kald stein\" midt i Grok. Han løper ikke fra den og kaster den ikke på noen; " +
+  "about.pebble.title": "Den lille følelsen (den \"kalde knausen\")",
+  "about.pebble.1": "Den lille følelsen sitter som \"en tung, kald knaus\" midt i Grok. Han løper ikke fra den og kaster den ikke på noen; " +
     "han sitter med den til den mykner \"som leire som ligger i solen.\" Skam helbredes ved å bli møtt og følt (\"sett\"), " +
     "ikke ved å bli forbigått eller dyttet bort, og dette er hjertet av Kapittel 1.",
   "about.tree.title": "Det høye treet",
@@ -356,8 +450,8 @@ window.I18N.no = {
   "about.moss.1": "En liten flekk med grønn mose vokser på toppen av det grå kalksteinshodet hans. Det er liv som stille slår seg ned på en " +
     "rolig, snill ting. Grok trenger ikke å fremføre, liv samler seg rett og slett fordi han <em>forblir</em>" +
     ". Det er Væren gjort synlig.",
-  "about.stranger.title": "Grok steinen = Fremmed i en fremmed verden + Grug",
-  "about.stranger.body": "<p>Grok steinen ser ved første øyekast ut som Ted Priors <em>Grug</em>" +
+  "about.stranger.title": "Grok Steinen = Fremmed i en fremmed verden + Grug",
+  "about.stranger.body": "<p>Grok Steinen ser ved første øyekast ut som Ted Priors <em>Grug</em>" +
     " — en liten busk-skapning, mild aksept av feil, ingen skurk, intet klimaks. Den lesningen er sann på overflaten, og " +
     "Prior er nevnt i dedikasjonen av god grunn: Grok arver Grugs temperament. Men boken er mer enn Heinlein med kantene " +
     "pusset ned. Det er Heinlein <em>besvart</em>" +
@@ -398,10 +492,10 @@ window.I18N.no = {
     " — og det er poenget (Regel 9: \"beviset ligger i hvordan bruddet blir reparert\"). Lest på én måte er det en rolig " +
     "australsk bildebok; lest på den andre måten, under mosen og melonene, er det en stille håndbok for en sentrumsløs " +
     "fred.</p>",
-  "about.footnote": "Om Grok steinen · Offentlig eiendom (CC0 1.0)",
+  "about.footnote": "Om Grok Steinen · Offentlig eiendom (CC0 1.0)",
 
-  "cover.title": "<h1>Grok steinen</h1><h3>Tre stille historier</h3><h2>Være · Reparere · Se</h2>",
-  "c1.title": "<h2>Kapittel En - Være</h2><p><em>Grok og den lille følelsen</em></p>",
-  "c2.title": "<h2>Kapittel To - Reparere</h2><p><em>Grok steller det</em></p>",
-  "c3.title": "<h2>Kapittel Tre - Se</h2><p><em>Grok og det sanne ordet</em></p>"
+  "cover.title": "<h1>Grok Steinen</h1><h3>Tre stille historier</h3><h2>Være · Reparere · Se</h2>",
+  "c1.title": "<h2>Kapittel ett - Være</h2><p><em>Grok og den lille følelsen</em></p>",
+  "c2.title": "<h2>Kapittel to - Reparere</h2><p><em>Grok steller det</em></p>",
+  "c3.title": "<h2>Kapittel tre - Se</h2><p><em>Grok og det sanne ordet</em></p>"
 };

@@ -14,6 +14,7 @@ window.I18N.es = {
   "nav.book": "El Libro",
 
   "cover.alt": "Arte de Portada",
+  "cover.title": "<h1>Grok la Roca</h1><h3>Tres Historias Silenciosas</h3><h2>Ser · Reparar · Ver</h2>",
   "title.h1": "Grok la Roca",
   "title.h3": "Tres Historias Silenciosas",
   "title.h2": "Ser · Reparar · Ver",
@@ -53,12 +54,12 @@ window.I18N.es = {
     "<p>Se sintió más pequeño que el hoyo.</p>",
 
   "p5.alt": "Página 5",
-   "p5": "<p>Una cucaburra se rió desde una rama.</p><p>“¡Miren a Grok! ¡Tan bajito! ¡Tan piedra!”</p><hr>" +
-    "<p>El pequeño sentimiento creció dentro de Grok.</p><p>Se sentía como una piedra fría y pesada en su centro.</p>",
+    "p5": "<p>Una cucaburra se rió desde una rama.</p><p>“¡Miren al pequeño Grok! ¡Tan bajito! ¡Tan piedra!”</p><hr>" +
+     "<p>El pequeño sentimiento creció dentro de Grok.</p><p>Se sentía como una gravilla fría y pesada en su vientre.</p>",
 
   "p6.alt": "Página 6",
   "p6": "<p>Quiso hacerse parecer más grande.</p><p>Se paró sobre un tronco.</p><p>Hinchó su pecho.</p>" +
-    "<p>Incluso intentó golpear el suelo como el canguro.</p><hr><p>Solo hizo la piedra fría más pesada.</p>",
+    "<p>Incluso intentó golpear el suelo como el canguro.</p><hr><p>Solo hizo la gravilla fría más pesada.</p>",
 
   "p7.alt": "Página 7",
    "p7": "<p>Esa noche Grok se sentó solo junto a un fueguito.</p><p>Abrazó sus rodillas.</p>" +
@@ -74,7 +75,7 @@ window.I18N.es = {
   "p9.alt": "Página 9",
   "p9": "<p>Pasó el día haciendo un suave nido de hojas y musgo</p>" +
     "<p>del tamaño justo para un compañerillo de roca.</p><p>Cuando terminó, sonrió.</p><p>Era pequeño.</p>" +
-    "<p>Era suyo.</p><p>Era suficiente.</p><hr><p>Desde ese día, cuando la piedra fría intentaba crecer otra vez,</p>" +
+    "<p>Era suyo.</p><p>Era suficiente.</p><hr><p>Desde ese día, cuando la gravilla fría intentaba crecer otra vez,</p>" +
     "<p>Grok se sentaba quieto hasta que se volvía silencio.</p><p>Solo se quedaba Grok.</p>" +
     "<p>Y eso se sentía como el mejor tamaño de todos.</p>",
 
@@ -84,14 +85,14 @@ window.I18N.es = {
     "<p>Le encantaba verlos crecer.</p><p>Cada nueva hoja se sentía como una pequeña maravilla.</p>",
 
   "p12.alt": "Página 12",
-  "p12": "<p>Esa tarde su amigo,</p><p>un joven equidna llamado Pip,</p><p>atravesó el jardín mirando hacia atrás</p>" +
+  "p12": "<p>Esa tarde su amigo,</p><p>un joven equidna llamado Pip,</p><p>se precipitó por el jardín mirando hacia atrás</p>" +
     "<p>y derribó la mejor enredadera de melón.</p><hr><p>El melón grande se abrió en el suelo.</p>" +
     "<p>Semillas y dulce jugo se derramaron por todas partes.</p>",
 
   "p13.alt": "Página 13",
   "p13": "<p>Pip se quedó congelado.</p><p>Sus púas temblaron.</p><p>“Lo arruiné”, susurró.</p>" +
-    "<p>“Estarás enojado. Todos estarán enojados.”</p><hr><p>Algunas criaturas del monte se reunieron.</p>" +
-    "<p>“Hagan que se vaya”, murmuró un perezoso.</p>" +
+    "<p>“Estarás enojado. Todos estarán enojados.”</p><hr><p>Algunas criaturas del matorral se reunieron.</p>" +
+     "<p>“Hagan que se vaya”, murmuró un oposum.</p>" +
     "<p>“Debería traerte tres melones nuevos”, dijo una lagartija.</p>",
 
   "p14.alt": "Página 14",
@@ -113,7 +114,7 @@ window.I18N.es = {
   "p17.alt": "Página 17",
    "p17": "<p>Cuando ocurrieron otros accidentillos</p><p>(como siempre ocurren),</p>" +
     "<p>Grok recordó el melón.</p><p>Ayudó al que se sentía herido.</p>" +
-    "<p>También fue amable con el que había chocado.</p><hr><p>Nadie fue enviado lejos.</p>" +
+     "<p>También fue amable con el que había dado el golpe.</p><hr><p>Nadie fue enviado lejos.</p>" +
     "<p>Nadie cargó un dolor largo y pesado.</p><p>Solo cuidaron lo roto</p><p>y la amistad se sentía más firme,</p>" +
     "<p>justo en el lugar reparado.</p><hr><p>Grok aprendió que un jardín,</p><p>y una amistad,</p>" +
     "<p>no se mantienen vivos por nunca romperse.</p><p>Se mantienen vivos por ser juntados con cuidado.</p>",
@@ -127,7 +128,7 @@ window.I18N.es = {
 
   "p20.alt": "Página 20",
   "p20": "<p>Al día siguiente vinieron criaturas a mirar.</p>" +
-    "<p>Una cacatúa negra brillante con grandes plumas aterrizó cerca.</p>" +
+     "<p>Una cacatúa negra brillante con grandes plumas de cola aterrizó cerca.</p>" +
     "<p>“Esas canastas son ingeniosas”, dijo la cacatúa,</p><p>“pero mi idea para una canasta sería mucho mejor.</p>" +
     "<p>Después de todo, tengo las plumas más grandiosas,</p>" +
     "<p>así que mis pensamientos deben ser los más grandiosos también.”</p><hr>" +
@@ -136,8 +137,8 @@ window.I18N.es = {
 
   "p21.alt": "Página 21",
    "p21": "<p>Luego una tortuga muy vieja habló con voz lenta y suave.</p><p>Sugirió un cambiotillo en el asa,</p>" +
-    "<p>para que fuera fácil de llevar para amigos menos fuertes que Grok.</p>" +
-    "<p>Su caparazón era sencillo. Nadie especial.</p><p>Unos animales voltearon al menos por no ser famoso.</p>",
+     "<p>para que fuera fácil de llevar para amigos menos robustos que Grok.</p>" +
+     "<p>Su caparazón era sencillo. Nadie especial.</p><p>Unos animales se volvieron porque la tortuga no era famosa.</p>",
 
   "p22.alt": "Página 22",
   "p22": "<p>Grok probó ambas ideas.</p><p>El modo de la cacatúa se veía elegante</p>" +
@@ -408,8 +409,7 @@ window.I18N.es = {
     "centro.</p>",
   "about.footnote": "Sobre Grok la Roca · Dominio Público (CC0 1.0)",
 
-  "cover.title": "<h1>Grok la Roca</h1><h3>Tres Historias Silenciosas</h3><h2>Ser · Reparar · Ver</h2>",
   "c1.title": "<h2>Capítulo Uno - Ser</h2><p><em>Grok y el pequeño sentimiento</em></p>",
-  "c2.title": "<h2>Capítulo Dos - Reparar</h2><p><em>Grok lo cuida</em></p>",
+  "c2.title": "<h2>Capítulo Dos - Reparar</h2><p><em>Grok lo repara</em></p>",
   "c3.title": "<h2>Capítulo Tres - Ver</h2><p><em>Grok y la palabra verdadera</em></p>"
 };

@@ -1,7 +1,7 @@
 // Locale pt for grok-the-rock.
 // Translated from the English original. Convention:
 // - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok a Rocha.
-// - Verb "grok" coined as: grokar (inf.) / grokando (ger.) / grokar-se (refl., p8) / por si mesmos (refl., p24) / a nós mesmos (refl., collective, about.shame).
+// - Verb "grok" coined as: grokkar (inf.) / grokkando (ger.) / grokkar a si mesmo (refl., p8) / a si mesmo (refl., p24) / a nós mesmos (refl., collective, about.shame).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.pt = {
@@ -13,14 +13,14 @@ window.I18N.pt = {
   "nav.about": "Sobre Grok",
   "nav.book": "O Livro",
 
-  "cover.alt": "Capa",
+  "cover.alt": "Arte da Capa",
   "title.h1": "Grok a Rocha",
   "title.h3": "Três Histórias Silenciosas",
   "title.h2": "Ser · Consertar · Ver",
   "credit.1": "Rascunho, sugestões de imagem com Grok 4.5 da xAI",
   "credit.2": "Ilustrações com Grok Imagine da xAI",
   "credit.3": "Regras, edição, automação com HY3 da Tencent",
-  "credit.4": "Não afiliado nem endossado pela xAI ou Tencent",
+  "credit.4": "<em>Não afiliado nem endossado pela xAI ou Tencent</em>",
   "credit.5": "Este é um meme-história gerado por IA e curado por humanos",
   "credit.6": "Domínio Público (CC0 1.0)",
   "credit.7": "Copie • Compartilhe • Traduza • Redesenhe • Deixe crescer",
@@ -28,116 +28,200 @@ window.I18N.pt = {
   "dedication.alt": "Página de Dedicatória",
 
   "dedication": "<p><b>Para cada explorador, pequeno e grande,</b></p>" +
-    "<p><b>grokando o mundo à sua própria maneira gentil.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>E para cada pequeno sentimento</p><p>  que só precisa ser visto,</p><p>cada quebra pronta para consertar</p>" +
-    "<p>  que só precisa ser cuidada,</p><p>e para cada palavra verdadeira</p>" +
-    "<p>  que permanece mesmo não sendo ouvida.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Com gratidão aos Grokkers Originais:</p><p><em><b>Robert A. Heinlein</b>" +
-    " \"Um Estranho numa Terra Estranha\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
+    "<p><b>grokkando o mundo à sua própria maneira gentil.</b></p>" +
     "<p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok a Rocha = Um Estranho numa Terra Estranha + Grug</a>" +
-    "</p><p>(\"Grug\" limpa \"Estranho\" para crianças e adultos)</p>",
+    "<hr>" +
+    "<p>&nbsp;</p>" +
+    "<p>E para cada pequeno sentimento</p>" +
+    "<p>  que só precisa ser visto,</p>" +
+    "<p>cada quebra pronta para ser consertada</p>" +
+    "<p>  que só precisa ser cuidada,</p>" +
+    "<p>e para cada palavra verdadeira</p>" +
+    "<p>  que se mantém mesmo sem ser ouvida.</p>" +
+    "<p>&nbsp;</p>" +
+    "<hr>" +
+    "<p>&nbsp;</p>" +
+    "<p>Com gratidão aos Grokkers Originais:</p>" +
+    "<p><em><b>Robert A. Heinlein</b> \"Um Estranho numa Terra Estranha\"</em></p>" +
+    "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
+    "<p>&nbsp;</p>" +
+    "<hr>" +
+    "<p>&nbsp;</p>" +
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok a Rocha = Um Estranho numa Terra Estranha + Grug</a></p>" +
+    "<p>(\"Grug\" limpa \"Estranho\" para crianças <em>e</em> adultos)</p>",
 
   "p1.alt": "Página 1 (Página de título do Capítulo 1)",
   "p2.alt": "Página 2",
-  "p2": "<p>Grok a Rocha acordou sob a árvore alta.</p><p>O sol estava quente em suas costas de calcário.</p>" +
-    "<p>Grok se sentia feliz.</p><hr><p>Ele olhou para o mundo vasto</p>" +
+  "p2": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
+    "<p>O sol estava quente em suas costas de calcário.</p>" +
+    "<p>Grok se sentia feliz.</p>" +
+    "<hr>" +
+    "<p>Ele olhou para o mundo vasto</p>" +
     "<p>como se o estivesse vendo pela primeira vez.</p>",
 
   "p3.alt": "Página 3",
-  "p3": "<p>Logo ele caminhou até o bebedouro.</p><p>Uma ema alta já estava lá.</p>" +
-    "<p>A ema esticou seu longo pescoço e disse:</p><p>\"Sou a mais alta. Fique atrás de mim.\"</p>",
+  "p3": "<p>Logo ele caminhou até o bebedouro.</p>" +
+    "<p>Uma ema alta já estava lá.</p>" +
+    "<p>A ema esticou seu longo pescoço e disse:</p>" +
+    "<p>\"Sou a mais alta. Fique atrás de mim.\"</p>",
 
   "p4.alt": "Página 4",
-  "p4": "<p>Então um vombate rolou até lá, redondo e sólido.</p><p>\"Sou o mais forte\", disse o vombate.</p>" +
-    "<p>\"Vejam-me cavar.\"</p><hr><p>Grok tentou cavar também.</p><p>Seu buraco era pequeno.</p>" +
+  "p4": "<p>Então um vombate rolou até lá, redondo e sólido.</p>" +
+    "<p>\"Sou o mais forte\", disse o vombate.</p>" +
+    "<p>\"Vejam-me cavar.\"</p>" +
+    "<hr>" +
+    "<p>Grok tentou cavar também.</p>" +
+    "<p>Seu buraco era pequeno.</p>" +
     "<p>Ele se sentiu menor que o buraco.</p>",
 
   "p5.alt": "Página 5",
-  "p5": "<p>Uma kookaburra (pássaro que ria) riu de um galho.</p>" +
-    "<p>\"Vejam o pequeno Grok! Tão baixinho! Tão pedregoso!\"</p><hr>" +
-    "<p>O pequeno sentimento cresceu dentro de Grok.</p><p>Parecia um seixo pesado e frio no seu meio.</p>",
+  "p5": "<p>Uma kookaburra (pássaro risonho) riu de um galho.</p>" +
+    "<p>\"Vejam o pequeno Grok! Tão baixinho! Tão pedregoso!\"</p>" +
+    "<hr>" +
+    "<p>O pequeno sentimento cresceu dentro de Grok.</p>" +
+    "<p>Parecia um seixo pesado e frio no seu meio.</p>",
 
   "p6.alt": "Página 6",
-  "p6": "<p>Ele quis parecer maior.</p><p>Subiu num tronco.</p><p>Estufou o peito.</p>" +
-    "<p>Até tentou bater no chão como o canguru.</p><hr><p>Aquilo só tornou o seixo frio mais pesado.</p>",
+  "p6": "<p>Ele quis parecer maior.</p>" +
+    "<p>Subiu num tronco.</p>" +
+    "<p>Estufou o peito.</p>" +
+    "<p>Até tentou bater no chão como o canguru.</p>" +
+    "<hr>" +
+    "<p>Aquilo só tornou o seixo frio mais pesado.</p>",
 
   "p7.alt": "Página 7",
-  "p7": "<p>Naquela noite Grok sentou-se sozinho junto a uma pequena fogueira.</p><p>Abraçou os joelhos.</p>" +
-    "<p>Deixou o pequeno sentimento ficar.</p><p>Não fugiu dele.</p><p>Não o jogou em mais ninguém.</p><hr>" +
-    "<p>Devagar o sentimento amoleceu,</p><p>como argila deixada ao sol.</p><p>Ele começou a entendê-lo.</p>",
+  "p7": "<p>Naquela noite Grok sentou-se sozinho junto a uma pequena fogueira.</p>" +
+    "<p>Abraçou os joelhos.</p>" +
+    "<p>Deixou o pequeno sentimento ficar.</p>" +
+    "<p>Não fugiu dele.</p>" +
+    "<p>Não o jogou em mais ninguém.</p>" +
+    "<hr>" +
+    "<p>Devagar o sentimento amoleceu,</p>" +
+    "<p>como argila deixada ao sol.</p>" +
+    "<p>Ele começou a entendê-lo.</p>",
 
   "p8.alt": "Página 8",
-  "p8": "<p>Na manhã seguinte Grok voltou ao bebedouro.</p><p>Não subiu em nada.</p>" +
-    "<p>Não tentou ser mais alto ou mais barulhento.</p><p>Simplesmente bebeu,</p>" +
-    "<p>depois sentou-se numa pedra morna e cantarolou.</p><hr><p>Nada grande havia mudado por fora.</p>" +
-    "<p>Mas por dentro tudo parecia mais leve.</p><p>Ele estava começando a grokar-se.</p>",
+  "p8": "<p>Na manhã seguinte Grok voltou ao bebedouro.</p>" +
+    "<p>Não subiu em nada.</p>" +
+    "<p>Não tentou ser mais alto ou mais barulhento.</p>" +
+    "<p>Simplesmente bebeu,</p>" +
+    "<p>depois sentou-se numa pedra morna e cantarolou.</p>" +
+    "<hr>" +
+    "<p>Nada grande havia mudado por fora.</p>" +
+    "<p>Mas por dentro tudo parecia mais leve.</p>" +
+    "<p>Ele estava começando a grokkar a si mesmo.</p>",
 
   "p9.alt": "Página 9",
   "p9": "<p>Ele passou o dia fazendo um ninho macio de folhas e musgo</p>" +
-    "<p>do tamanho certo para um pequeno sujeito de pedra.</p><p>Quando terminou, sorriu.</p><p>Era pequeno.</p>" +
-    "<p>Era seu.</p><p>Era suficiente.</p><hr>" +
+    "<p>do tamanho certo para um pequeno sujeito de pedra.</p>" +
+    "<p>Quando terminou, sorriu.</p>" +
+    "<p>Era pequeno.</p>" +
+    "<p>Era seu.</p>" +
+    "<p>Era suficiente.</p>" +
+    "<hr>" +
     "<p>Daquele dia em diante, quando o seixo frio tentava crescer de novo,</p>" +
-    "<p>Grok ficava quieto até que ele se aquietasse.</p><p>Ele simplesmente ficava Grok.</p>" +
+    "<p>Grok ficava quieto até que ele se aquietasse.</p>" +
+    "<p>Ele simplesmente ficava Grok.</p>" +
     "<p>E isso parecia o melhor tamanho de todos.</p>",
 
   "p10.alt": "Página 10 (Página de título do Capítulo 2)",
   "p11.alt": "Página 11",
   "p11": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
-    "<p>Grok observava sua pequena horta de melões e batatas-doces.</p><p>Ele adorava vê-los crescer.</p>" +
+    "<p>Grok observava sua pequena horta de melões e batatas-doces.</p>" +
+    "<p>Ele adorava vê-los crescer.</p>" +
     "<p>Cada nova folha parecia uma pequena maravilha.</p>",
 
   "p12.alt": "Página 12",
-  "p12": "<p>Naquela tarde seu amigo,</p><p>uma jovem equidna chamada Pip,</p>" +
-    "<p>atravessou a horta olhando para trás</p><p>e derrubou a melhor trepadeira de melão.</p><hr>" +
-    "<p>O grande melão se abriu no chão.</p><p>Sementes e suco doce se espalharam por toda parte.</p>",
+  "p12": "<p>Naquela tarde seu amigo,</p>" +
+    "<p>uma jovem equidna chamada Pip,</p>" +
+    "<p>atravessou a horta olhando para trás</p>" +
+    "<p>e derrubou a melhor trepadeira de melão.</p>" +
+    "<hr>" +
+    "<p>O grande melão se abriu no chão.</p>" +
+    "<p>Sementes e suco doce se espalharam por toda parte.</p>",
 
   "p13.alt": "Página 13",
-  "p13": "<p>Pip congelou.</p><p>Seus espinhos tremeram.</p><p>\"Estraguei tudo\", sussurrou.</p>" +
-    "<p>\"Você vai ficar bravo. Todos vão ficar bravos.\"</p><hr><p>Algumas criaturas do mato se reuniram.</p>" +
-    "<p>\"Mandem-no embora\", murmurou um gambá.</p>" +
-    "<p>\"Ele deveria trazer três melões novos\", disse um lagarto.</p>",
+  "p13": "<p>Pip congelou.</p>" +
+    "<p>Seus espinhos tremeram.</p>" +
+    "<p>\"Estraguei tudo\", sussurrou.</p>" +
+    "<p>\"Você vai ficar bravo. Todos vão ficar bravos.\"</p>" +
+    "<hr>" +
+    "<p>Algumas criaturas do mato se reuniram.</p>" +
+    "<p>\"Mandem-na embora\", murmurou um gambá.</p>" +
+    "<p>\"Ela deveria trazer três melões novos\", disse um lagarto.</p>",
 
   "p14.alt": "Página 14",
-  "p14": "<p>Grok olhou para a trepadeira quebrada.</p><p>Olhou para os olhos preocupados de Pip.</p><hr>" +
-    "<p>Não levantou a voz.</p><p>Não apontou o dedo.</p><p>Pegou uma vara de cavar</p>" +
-    "<p>e começou a preparar a terra macia.</p><hr><p>\"Venha\", disse Grok com suavidade.</p>" +
+  "p14": "<p>Grok olhou para a trepadeira quebrada.</p>" +
+    "<p>Olhou para os olhos preocupados de Pip.</p>" +
+    "<hr>" +
+    "<p>Não levantou a voz.</p>" +
+    "<p>Não apontou o dedo.</p>" +
+    "<p>Pegou uma vara de cavar</p>" +
+    "<p>e começou a preparar a terra macia.</p>" +
+    "<hr>" +
+    "<p>\"Venha\", disse Grok com suavidade.</p>" +
     "<p>\"Plantamos sementes novas juntos.\"</p>",
 
   "p15.alt": "Página 15",
-  "p15": "<p>Pip piscou.</p><p>Então se aproximou.</p><p>Juntos plantaram.</p><p>Juntos regaram.</p>" +
-    "<p>Juntos construíram uma pequena cerca de gravetos</p><p>para que ninguém pisasse ali por engano outra vez.</p>",
+  "p15": "<p>Pip piscou.</p>" +
+    "<p>Então se aproximou.</p>" +
+    "<p>Juntos plantaram.</p>" +
+    "<p>Juntos regaram.</p>" +
+    "<p>Juntos construíram uma pequena cerca de gravetos</p>" +
+    "<p>para que ninguém pisasse ali por engano outra vez.</p>",
 
   "p16.alt": "Página 16",
-  "p16": "<p>Enquanto trabalhavam, Pip contou a Grok</p><p>que estava correndo porque criaturas maiores</p>" +
-    "<p>o perseguiam e riam dele.</p><p>Ele não tinha visto a trepadeira.</p><hr>" +
-    "<p>Nos dias seguintes Pip veio toda manhã.</p><p>Tornou-se o melhor carregador de água do vale.</p>" +
-    "<p>As novas trepadeiras cresceram fortes,</p><p>ainda mais fortes que as antigas,</p>" +
+  "p16": "<p>Enquanto trabalhavam, Pip contou a Grok</p>" +
+    "<p>que estava correndo porque criaturas maiores</p>" +
+    "<p>a perseguiam e riam dela.</p>" +
+    "<p>Ele não tinha visto a trepadeira.</p>" +
+    "<hr>" +
+    "<p>Nos dias seguintes Pip veio toda manhã.</p>" +
+    "<p>Tornou-se o melhor carregador de água do vale.</p>" +
+    "<p>As novas trepadeiras cresceram fortes,</p>" +
+    "<p>ainda mais fortes que as antigas,</p>" +
     "<p>porque dois amigos cuidaram delas.</p>",
 
   "p17.alt": "Página 17",
-  "p17": "<p>Quando outros pequenos acidentes aconteceram</p><p>(como sempre acontecem),</p>" +
-    "<p>Grok se lembrou do melão.</p><p>Ajudou quem se sentia machucado.</p>" +
-    "<p>Também permaneceu gentil com quem havia esbarrado.</p><hr><p>Ninguém foi mandado embora.</p>" +
-    "<p>Ninguém carregou uma mágoa longa e pesada.</p><p>Apenas cuidaram do que estava quebrado</p>" +
-    "<p>e a amizade pareceu mais firme,</p><p>bem no lugar consertado.</p><hr><p>Grok aprendeu que uma horta,</p>" +
-    "<p>e uma amizade,</p><p>não se mantêm vivas por nunca quebrarem.</p>" +
+  "p17": "<p>Quando outros pequenos acidentes aconteceram</p>" +
+    "<p>(como sempre acontecem),</p>" +
+    "<p>Grok se lembrou do melão.</p>" +
+    "<p>Ajudou quem se sentia machucado.</p>" +
+    "<p>Também permaneceu gentil com quem havia esbarrado.</p>" +
+    "<hr>" +
+    "<p>Ninguém foi mandado embora.</p>" +
+    "<p>Ninguém carregou uma mágoa longa e pesada.</p>" +
+    "<p>Apenas cuidaram do que estava quebrado</p>" +
+    "<p>e a amizade pareceu mais firme,</p>" +
+    "<p>bem no lugar consertado.</p>" +
+    "<hr>" +
+    "<p>Grok aprendeu que uma horta,</p>" +
+    "<p>e uma amizade,</p>" +
+    "<p>não se mantêm vivas por nunca quebrarem.</p>" +
     "<p>Se mantêm vivas por serem juntadas de novo com suavidade.</p>",
 
   "p18.alt": "Página 18 (Página de título do Capítulo 3)",
   "p19.alt": "Página 19",
-  "p19": "<p>Grok a Rocha acordou sob a árvore alta.</p><p>Grok gostava de fazer coisas úteis,</p>" +
-    "<p>e naquele dia ele trabalhou num cesto de água</p><p>trançado de juncos e forrado com argila macia.</p>" +
-    "<p>Ao anoitecer ele segurava água sem uma gota.</p><hr><p>Ele o virou nas mãos</p>" +
+  "p19": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
+    "<p>Grok gostava de fazer coisas úteis,</p>" +
+    "<p>e naquele dia ele trabalhou num cesto de água</p>" +
+    "<p>trançado de juncos e forrado com argila macia.</p>" +
+    "<p>Ao anoitecer ele segurava água sem uma gota.</p>" +
+    "<hr>" +
+    "<p>Ele o virou nas mãos</p>" +
     "<p>e sentiu a alegria silenciosa de algo bem feito.</p>",
 
   "p20.alt": "Página 20",
   "p20": "<p>No dia seguinte criaturas vieram olhar.</p>" +
     "<p>Uma catatua negra brilhante com grandes penas pousou por perto.</p>" +
-    "<p>\"Esse cesto é engenhoso\", disse a catatua,</p><p>\"mas a <em>minha</em>" +
-    " ideia para um cesto seria muito melhor.</p><p>Afinal, tenho as penas mais grandiosas,</p>" +
-    "<p>então meus pensamentos devem ser os mais grandiosos também.\"</p><hr>" +
-    "<p>Alguns animais mais jovens acenaram forte com a cabeça.</p><p>Sempre acenavam quando a catatua falava.</p>" +
+    "<p>\"Esse cesto é engenhoso\", disse a catatua,</p>" +
+    "<p>\"mas a <em>minha</em>" +
+    " ideia para um cesto seria muito melhor.</p>" +
+    "<p>Afinal, tenho as penas mais grandiosas,</p>" +
+    "<p>então meus pensamentos devem ser os mais grandiosos também.\"</p>" +
+    "<hr>" +
+    "<p>Alguns animais mais jovens acenaram forte com a cabeça.</p>" +
+    "<p>Sempre acenavam quando a catatua falava.</p>" +
     "<p>Sua voz era tão grandiosa quanto suas penas.</p>",
 
   "p21.alt": "Página 21",
@@ -148,36 +232,65 @@ window.I18N.pt = {
     "<p>Alguns animais se viraram porque a tartaruga não era famosa.</p>",
 
   "p22.alt": "Página 22",
-  "p22": "<p>Grok experimentou as duas ideias.</p><p>O jeito da catatua parecia elegante</p>" +
-    "<p>mas o cesto tombava e vazava.</p><hr><p>A pequena ideia da velha tartaruga</p>" +
-    "<p>tornou o cesto de Grok confortável</p><p>e firme para todos.</p>",
+  "p22": "<p>Grok experimentou as duas ideias.</p>" +
+    "<p>O jeito da catatua parecia elegante</p>" +
+    "<p>mas o cesto tombava e vazava.</p>" +
+    "<hr>" +
+    "<p>A pequena ideia da velha tartaruga</p>" +
+    "<p>tornou o cesto de Grok confortável</p>" +
+    "<p>e firme para todos.</p>",
 
   "p23.alt": "Página 23",
-  "p23": "<p>Grok sentou-se com os dois cestos lado a lado.</p><p>Não olhou para as penas.</p>" +
-    "<p>Não olhou para idade ou fama.</p><p>Olhou apenas qual cesto segurava melhor a água</p>" +
-    "<p>e parecia mais gentil na mão.</p><hr><p>Ficou com o melhor jeito.</p><p>Depois deixou tanto o bom cesto</p>" +
-    "<p>quanto o padrão simples para trançá-lo</p><p>sob a árvore grande para qualquer um usar ou copiar.</p>" +
+  "p23": "<p>Grok sentou-se com os dois cestos lado a lado.</p>" +
+    "<p>Não olhou para as penas.</p>" +
+    "<p>Não olhou para idade ou fama.</p>" +
+    "<p>Olhou apenas qual cesto segurava melhor a água</p>" +
+    "<p>e parecia mais gentil na mão.</p>" +
+    "<hr>" +
+    "<p>Ficou com o melhor jeito.</p>" +
+    "<p>Depois deixou tanto o bom cesto</p>" +
+    "<p>quanto o padrão simples para trançá-lo</p>" +
+    "<p>sob a árvore grande para qualquer um usar ou copiar.</p>" +
     "<p>Sem nome. Sem \"pergunte-me primeiro\".</p>",
 
   "p24.alt": "Página 24",
-  "p24": "<p>Alguns animais ainda esperavam ouvir o que a catatua pensava</p><p>antes de decidir se algo era bom.</p>" +
-    "<p>Mas cada vez mais pequeninos</p><p>começaram a experimentar as coisas por si mesmos.</p>" +
-    "<p>Ouviam as palavras quietas de Grok</p><p>do mesmo jeito que ouviam as da catatua grandiosa,</p>" +
-    "<p>e então testavam tudo com as próprias patas.</p><hr><p>Estavam grokando o verdadeiro, o quê, não o quem.</p>",
+  "p24": "<p>Alguns animais ainda esperavam ouvir o que a catatua pensava</p>" +
+    "<p>antes de decidir se algo era bom.</p>" +
+    "<p>Mas cada vez mais pequeninos</p>" +
+    "<p>começaram a experimentar as coisas por si mesmos.</p>" +
+    "<p>Ouviam as palavras quietas de Grok</p>" +
+    "<p>do mesmo jeito que ouviam as da catatua grandiosa,</p>" +
+    "<p>e então testavam tudo com as próprias patas.</p>" +
+    "<hr>" +
+    "<p>Estavam grokkando o verdadeiro, o quê, não o quem.</p>",
 
   "p25.alt": "Página 25",
-  "p25": "<p>Grok se sentia em paz.</p><p>Não precisava da voz mais alta.</p>" +
-    "<p>Precisava apenas de coisas verdadeiras.</p><p>E Grok viu que coisas verdadeiras</p>" +
-    "<p>podiam vir de uma ave grandiosa</p><p>ou de uma tartaruga empoeirada</p>" +
-    "<p>ou de um pequeno sujeito de pedra sob uma árvore.</p><hr><p>Desde que alguém fosse livre para dizer</p>" +
-    "<p>\"isso não funciona\"</p><p>e ainda assim ser bem-vindo no vale,</p>" +
-    "<p>a palavra verdadeira podia continuar andando</p><p>sobre suas próprias pernas fortes.</p>",
+  "p25": "<p>Grok se sentia em paz.</p>" +
+    "<p>Não precisava da voz mais alta.</p>" +
+    "<p>Precisava apenas de coisas verdadeiras.</p>" +
+    "<p>E Grok viu que coisas verdadeiras</p>" +
+    "<p>poderiam vir de uma ave grandiosa</p>" +
+    "<p>ou de uma tartaruga empoeirada</p>" +
+    "<p>ou de um pequeno sujeito de pedra sob uma árvore.</p>" +
+    "<hr>" +
+    "<p>Desde que alguém fosse livre para dizer</p>" +
+    "<p>\"isso não funciona\"</p>" +
+    "<p>e ainda assim ser bem-vindo no vale,</p>" +
+    "<p>a palavra verdadeira podia continuar andando</p>" +
+    "<p>sobre suas próprias pernas fortes.</p>",
 
   "p26.alt": "Página 26 - Página de Encerramento",
-  "p26": "<p>E assim Grok a Rocha permaneceu</p><p>um pequeno sujeito de calcário</p>" +
-    "<p>que sabia se sentar com um pequeno sentimento,</p><p>que consertava o que se quebrava,</p>" +
-    "<p>e que deixava cada palavra verdadeira</p><p>ficar sobre suas próprias pernas.</p><hr>" +
-    "<p>O vale parecia mais seguro</p><p>porque ele estava.</p><hr><p>Ele continuou explorando com suavidade.</p>" +
+  "p26": "<p>E assim Grok a Rocha permaneceu</p>" +
+    "<p>um pequeno sujeito de calcário</p>" +
+    "<p>que sabia se sentar com um pequeno sentimento,</p>" +
+    "<p>que consertava o que se quebrava,</p>" +
+    "<p>e que deixava cada palavra verdadeira</p>" +
+    "<p>ficar sobre suas próprias pernas.</p>" +
+    "<hr>" +
+    "<p>O vale parecia mais seguro</p>" +
+    "<p>porque ele o fazia.</p>" +
+    "<hr>" +
+    "<p>Ele continuou explorando com suavidade.</p>" +
     "<p>E o mundo continuou lhe ensinando.</p>",
 
   "site.title.rules": "Grok a Rocha - Regras de Convivência",
@@ -289,7 +402,7 @@ window.I18N.pt = {
   "about.shame.title": "Uma nota sobre vergonha e agência",
   "about.shame.1": "Nossos sentimentos são, em essência, o resumo que o cérebro faz do nosso passado para nos ajudar a navegar o presente. " +
     "Não o passado como aconteceu, mas o passado como o deixamos: moldado por nossa própria narrativa e significado. " +
-    "Grokarmos a nós mesmos é uma afirmação de agência, e é difícil ou impossível onde a agência está comprometida ou " +
+    "Grokkarmos a nós mesmos é uma afirmação de agência, e é difícil ou impossível onde a agência está comprometida ou " +
     "violada. É a distância de si, a violação da agência, o assassinato da alma, que cria a vergonha.",
   "about.shame.2": "A resposta à vergonha cria demasiado eu (dominância, narcisismo), ou demasiado pouco eu (submissão, depressão). " +
     "Portadores de vergonha, mesmo os tipos mais dominantes da tríade sombria, oscilam entre as duas estratégias numa " +
@@ -336,7 +449,7 @@ window.I18N.pt = {
     "particular, só achei que encaixaria melhor que a melancia que a IA tinha escolhido originalmente.",
   "about.name.title": "Como se lê o nome dele?",
   "about.name.1": "Embora \"Grok a Rocha\" seja um nome, é também a ação que Grok ajuda as pessoas a fazerem e um anúncio do que ele " +
-    "representa. O significado mais profundo pretendido do nome é o propósito da vida: grokar a rocha, ou em outras palavras " +
+    "representa. O significado mais profundo pretendido do nome é o propósito da vida: grokkar a rocha, ou em outras palavras " +
     "beber da água viva até groká-la e nunca mais ter sede.",
   "about.clay.title": "Argila",
   "about.clay.1": "As histórias são \"entrelaçadas\" com símbolos recorrentes. Alguns valem a pena incluir aqui. Uma revisão mais completa " +
@@ -374,7 +487,7 @@ window.I18N.pt = {
     " de Ted Prior — uma pequena criatura do mato, aceitação gentil do fracasso, sem vilão, sem clímax. Essa leitura é " +
     "verdadeira na superfície, e Prior é nomeado na dedicatória por uma boa razão: Grok herda o temperamento de Grug. Mas o " +
     "livro é mais que Heinlein com as arestas lixadas. É Heinlein <em>respondido</em>" +
-    " — a mesma palavra marciana, o mesmo arco do forasteiro que aprende a grokar, mas com o motor messiânico, " +
+    " — a mesma palavra marciana, o mesmo arco do forasteiro que aprende a grokkar, mas com o motor messiânico, " +
     "confrontacional e de violência redentora de <em>Um Estranho numa Terra Estranha</em>" +
     " substituído por uma política deliberadamente descentralizada e não confrontacional. Prior fornece a superfície; as " +
     "Regras abaixo fornecem o radicalismo subjacente.</p>" +

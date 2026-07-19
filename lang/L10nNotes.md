@@ -38,7 +38,7 @@
 | **ig** | Igbo | groku | na-egroku | groku onwe ya | — |
 | **id** | Indonesian | menggrok | sedang menggrok | menggrok diri | — |
 | **it** | Italian | grokkare | grokkando | grokkarsi | da sé (about.shame: "distanza da sé") |
-| **ja** | Japanese | グロクする (guroku suru) | グロクして (guroku shite) | 自分をグロクする (jibun o guroku suru) | 自身を (jishin o, about.shame) / 自分自身を (jibunjishin o, "ourselves") |
+| **ja** | Japanese | グロックする (gurokku suru) | グロックして (gurokku shite) | 自分をグロックする (jibun o gurokku suru) | 自身を (jishin o, about.shame) / 自分自身を (jibunjishin o, "ourselves") |
 | **kn** | Kannada | ಗ್ರಾಕ್ ಮಾಡು (grāk māḍu) | ಗ್ರಾಕ್ ಮಾಡುತ್ತ (grāk māḍutta) | ತನ್ನನ್ನು ತಾನೇ ಗ್ರಾಕ್ ಮಾಡಿಕೊ (tannannu tānē grāk māḍiko) | — |
 | **ko** | Korean | 그록하다 (geurok-hada) | 그록하며 (geurok-hamyeo) | 자기 자신을 그록하기 (jacjajineul geurok-hagi) | 스스로 (seuseuro, p24: "themselves") |
 | **mr** | Marathi | ग्रॉक करणे (grok karṇe) | ग्रॉक करताना (grok kartānā) | स्वतःला ग्रॉक करणे (svataḥlā grok karṇe) | — |
@@ -49,7 +49,7 @@
 | **no** | Norwegian | grokke | grokkende | grokke seg selv | seg selv (dedication, p6, p8) / selv (p24) |
 | **pa** | Punjabi | ਗ੍ਰੋਕ ਕਰਨਾ (grok karnā) | ਗ੍ਰੋਕ ਕਰਦਿਆਂ (grok kardeā̃) | ਆਪਣੇ ਆਪ ਨੂੰ ਗ੍ਰੋਕ ਕਰਨਾ (apṇe āp nū̃ grok karnā) | — |
 | **pl** | Polish | grokować | grokując | grokować się | — |
-| **pt** | Portuguese | grokar | grokando | grokar-se | por si mesmos (p24) / a nós mesmos (about.shame) |
+| **pt** | Portuguese | grokkar | grokkando | grokkar-se | por si mesmos (p24) / a nós mesmos (about.shame) |
 | **ro** | Romanian | a groca | grocând | a se groca | — |
 | **ru** | Russian | грокать (grokat') | грокая (grokaya) | грокать самого себя (grokat' samovo sebya) | самих себя (about.shame: "Грокать самих себя") / сами (p24) |
 | **sv** | Swedish | grokka | grokkande | grokka sig | — |

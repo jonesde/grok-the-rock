@@ -17,11 +17,11 @@ window.I18N.fr = {
   "title.h1": "Grok le Rocher",
   "title.h3": "Trois Histoires Silencieuses",
   "title.h2": "Être · Réparer · Voir",
-  "credit.1": "Histoire ébauche, instructions d'image avec Grok 4.5 de xAI",
+  "credit.1": "Ébauche d'histoire, instructions pour les images avec Grok 4.5 de xAI",
   "credit.2": "Illustrations avec Grok Imagine de xAI",
   "credit.3": "Règles, édition, automatisation avec HY3 de Tencent",
-  "credit.4": "Non affilié ni parrainé par xAI ou Tencent",
-  "credit.5": "Ceci est un mème-histoire généré par IA et curé par des humains",
+  "credit.4": "<em>Ceci n'est affilié ni approuvé par xAI ou Tencent</em>",
+  "credit.5": "Ceci est un mème narratif généré par IA et curé par des humains",
   "credit.6": "Domaine public (CC0 1.0)",
   "credit.7": "Copiez-le • Partagez-le • Traduisez-le • Redessinez-le • Laissez-le grandir",
 
@@ -35,12 +35,12 @@ window.I18N.fr = {
     "<p>&nbsp;</p><p>Avec gratitude envers les Grokkers Originaux :</p><p><em><b>Robert A. Heinlein</b>" +
     " « Stranger in a Strange Land »</em></p><p><em><b>Ted Prior</b> « Grug »</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok le Rocher = Stranger in a Strange Land + Grug</a>" +
-    "</p><p>(« Grug » nettoie « Stranger » pour les enfants et les adultes)</p>",
+    "</p><p>(« Grug » nettoie « Stranger » pour les enfants <em>et</em> les adultes)</p>",
 
   "p1.alt": "Page 1 (Page de titre du Chapitre 1)",
   "p2.alt": "Page 2",
   "p2": "<p>Grok le Rocher s'éveilla sous le grand arbre.</p>" +
-    "<p>Le soleil était chaud sur son dos de pierre à chaux.</p><p>Grok se sentait heureux.</p><hr>" +
+    "<p>Le soleil était chaud sur son dos en pierre à chaux.</p><p>Grok se sentait heureux.</p><hr>" +
     "<p>Il regarda le vaste monde</p><p>comme s'il le voyait pour la première fois.</p>",
 
   "p3.alt": "Page 3",
@@ -55,15 +55,15 @@ window.I18N.fr = {
   "p5.alt": "Page 5",
   "p5": "<p>Un kookaburra rit depuis une branche.</p><p>« Regardez Grok ! Trop petit ! Trop rocheux ! »</p><hr>" +
     "<p>Le petit sentiment grandit en Grok.</p>" +
-    "<p>Il se sentit comme une pierre froide et lourde au centre de lui-même.</p>",
+    "<p>Il se sentit comme un galet froid et lourd au centre de lui-même.</p>",
 
   "p6.alt": "Page 6",
   "p6": "<p>Il voulut se faire paraître plus grand.</p><p>Il monta sur une bûche.</p><p>Il gonfla sa poitrine.</p>" +
     "<p>Il essaya même de frapper le sol comme le kangourou.</p><hr>" +
-    "<p>Cela ne fit que rendre la pierre froide plus lourde.</p>",
+    "<p>Cela ne fit que rendre le galet froid plus lourd.</p>",
 
   "p7.alt": "Page 7",
-  "p7": "<p>Ce soir-là Grok s'assit seul près d'un petit feu.</p><p>Il serra ses genoux.</p>" +
+  "p7": "<p>Ce soir-là Grok s'assit seul près d'un petit feu.</p><p>Il mit ses bras autour de ses genoux.</p>" +
     "<p>Il laissa le petit sentiment demeurer.</p><p>Il n'en fuit pas.</p><p>Il ne le jeta à personne d'autre.</p>" +
     "<hr><p>Lentement le sentiment s'adoucit,</p><p>comme l'argile laissée au soleil.</p>" +
     "<p>Il commença à le comprendre.</p>",
@@ -77,8 +77,8 @@ window.I18N.fr = {
   "p9.alt": "Page 9",
   "p9": "<p>Il passa la journée à faire un doux nid de feuilles et de mousse</p>" +
     "<p>à la taille juste pour un petit compagnon de roche.</p><p>Quand il eut fini, il sourit.</p>" +
-    "<p>Il était petit.</p><p>Il était à lui.</p><p>Il suffisait.</p><hr>" +
-    "<p>Depuis ce jour, quand la pierre froide recommençait à grandir,</p>" +
+    "<p>Il était petit.</p><p>C'était à lui.</p><p>C'était assez.</p><hr>" +
+    "<p>Depuis ce jour, quand le galet froid recommençait à grandir,</p>" +
     "<p>Grok restait immobile jusqu'à ce que tout redevienne silence.</p><p>Il ne restait que Grok.</p>" +
     "<p>Et cela se sentait comme la meilleure taille de toutes.</p>",
 
@@ -90,15 +90,14 @@ window.I18N.fr = {
 
   "p12.alt": "Page 12",
   "p12": "<p>Cet après-midi son ami,</p><p>un jeune échidné nommé Pip,</p>" +
-    "<p>traversa le jardin en regardant derrière lui</p><p>et renversa la meilleure vignée à melons.</p><hr>" +
-    "<p>Le grand melon éclata sur le sol.</p><p>Des graines et un doux jus se répandirent partout.</p>",
+    "<p>traversa le jardin en regardant derrière lui</p><p>et renversa la plus belle vigne de melons.</p><hr>" +
+    "<p>Le grand melon s'écrasa sur le sol.</p><p>Des graines et un doux jus se répandirent partout.</p>",
 
   "p13.alt": "Page 13",
   "p13": "<p>Pip se figea.</p><p>Ses piquants tremblèrent.</p><p>« Je l'ai ruiné », chuchota-t-il.</p>" +
     "<p>« Tu seras en colère. Tous seront en colère. »</p><hr>" +
     "<p>Quelques petites créatures des broussailles s'attroupèrent.</p>" +
-    "<p>« Faites-le partir », murmura une belette.</p>" +
-    "<p>« Tu devrais m'apporter trois nouveaux melons », dit un lézard.</p>",
+    "<p>« Faites-le partir », murmura une opossum.</p><p>« Tu devrais m'apporter trois nouveaux melons », dit un lézard.</p>",
 
   "p14.alt": "Page 14",
   "p14": "<p>Grok regarda la vigne brisée.</p><p>Il regarda les yeux inquiets de Pip.</p><hr>" +
@@ -121,7 +120,7 @@ window.I18N.fr = {
   "p17.alt": "Page 17",
   "p17": "<p>Quand d'autres petits accidents arrivèrent</p><p>(comme ils arrivent toujours),</p>" +
     "<p>Grok se souvint du melon.</p><p>Il aida celui qui se sentait blessé.</p>" +
-    "<p>Il fut aussi doux avec celui qui avait heurté.</p><hr><p>Personne ne fut chassé au loin.</p>" +
+    "<p>Il fut aussi doux avec celui qui avait fait le bêtise.</p><hr><p>Personne ne fut chassé au loin.</p>" +
     "<p>Personne ne porta une longue et lourde peine.</p><p>Ils soignèrent seulement ce qui était brisé</p>" +
     "<p>et l'amitié se sentit plus ferme,</p><p>juste à l'endroit réparé.</p><hr><p>Grok apprit qu'un jardin,</p>" +
     "<p>et une amitié,</p><p>ne restent pas vivants en ne se brisant jamais.</p>" +
@@ -130,13 +129,14 @@ window.I18N.fr = {
   "p18.alt": "Page 18 (Page de titre du Chapitre 3)",
   "p19.alt": "Page 19",
   "p19": "<p>Grok le Rocher s'éveilla sous le grand arbre.</p><p>Grok aimait faire des choses utiles,</p>" +
-    "<p>et ce jour-là il travailla à un panier à eau</p><p>tissé de joncs et doublé d'argile douce.</p>" +
+    "<p>et ce jour-là il travailla à un panier à eau</p>" +
+    "<p>tissé de joncs et doublé d'argile douce.</p>" +
     "<p>Au crépuscule il retenait l'eau sans une goutte.</p><hr><p>Il le fit tourner dans ses mains</p>" +
     "<p>et sentit la joie silencieuse de quelque chose de bien fait.</p>",
 
   "p20.alt": "Page 20",
   "p20": "<p>Le lendemain vint des créatures pour regarder.</p>" +
-    "<p>Une cacatoès noir brillant aux grandes plumes atterrit près de là.</p>" +
+    "<p>Une cacatoès noire brillante aux grandes plumes de la queue atterrit près de là.</p>" +
     "<p>« Ces paniers sont ingénieux », dit la cacatoès,</p><p>« mais mon idée de panier serait bien meilleure.</p>" +
     "<p>Après tout, j'ai les plumes les plus grandioses,</p>" +
     "<p>donc mes pensées doivent être les plus grandioses aussi. »</p><hr>" +
@@ -151,14 +151,14 @@ window.I18N.fr = {
     "<p>Quelques animaux se retournèrent, rien que pour ne pas être célèbre.</p>",
 
   "p22.alt": "Page 22",
-  "p22": "<p>Grok essaya les deux idées.</p><p>Le mode de la cacatoès paraissait élégant</p>" +
-    "<p>mais le panier se renversait et gouttait.</p><hr><p>La petite idée de la vieille tortue</p>" +
+  "p22": "<p>Grok essaya les deux idées.</p><p>La manière de la cacatoès paraissait élégante</p>" +
+    "<p>mais le panier se renversait et perdait de l'eau.</p><hr><p>La petite idée de la vieille tortue</p>" +
     "<p>rendit le panier de Grok confortable</p><p>et ferme pour tous.</p>",
 
   "p23.alt": "Page 23",
   "p23": "<p>Grok s'assit avec les deux paniers côte à côte.</p><p>Il ne regarda pas les plumes.</p>" +
     "<p>Il ne regarda pas l'âge ni la renommée.</p><p>Il regarda seulement quel panier retenait mieux l'eau</p>" +
-    "<p>et se sentait plus doux dans la main.</p><hr><p>Il garda le meilleur mode.</p>" +
+    "<p>et se sentait plus doux dans la main.</p><hr><p>Il garda la meilleure manière.</p>" +
     "<p>Puis il laissa autant le bon panier</p><p>que le simple motif pour le tisser</p>" +
     "<p>sous le grand arbre pour que chacun l'use ou le copie.</p><p>Sans nom. Sans « demande-moi d'abord ».</p>",
 
@@ -166,7 +166,7 @@ window.I18N.fr = {
   "p24": "<p>Certains animaux attendaient encore d'entendre ce que la cacatoès pensait</p>" +
     "<p>avant de décider si quelque chose était bon.</p><p>Mais de plus en plus de petits</p>" +
     "<p>commencèrent à essayer les choses par eux-mêmes.</p><p>Ils écoutaient les paroles silencieuses de Grok</p>" +
-    "<p>comme ils écoutaient celles de la grandiose cacatoès,</p>" +
+    "<p>comme ils écoutaient celles de la grandieuse cacatoès,</p>" +
     "<p>puis ils essayaient tout avec leurs propres pattes.</p><hr>" +
     "<p>Ils étaient en train de groker le vrai, le quoi et non le qui.</p>",
 
@@ -367,7 +367,7 @@ window.I18N.fr = {
   "about.basket.title": "Le panier doublé d'argile",
   "about.basket.1": "Grok tisse un panier de joncs et le double d'argile douce pour qu'il retienne l'eau sans une goutte, puis il laisse " +
     "autant le panier que le simple motif de tissage sous l'arbre pour que chacun le copie. Le panier élégant de la cacatoès " +
-    "goutte. L'idée de la tortue améliore le dessin de Grok en accommodant les autres. Le récipient qui fonctionne vainc le " +
+    "perd de l'eau. L'idée de la tortue améliore le dessin de Grok en accommodant les autres. Le récipient qui fonctionne vainc le " +
     "récipient qui impressionne. C'est le don ouvert sans maître, Règles 1, 6 et 7 dans un seul objet.",
   "about.animals.title": "Les animaux comme types de statut",
   "about.animals.1": "L'émeu revendique la hauteur, le wombat revendique la force, le kookaburra se moque pour se sentir haut, et la cacatoès " +
