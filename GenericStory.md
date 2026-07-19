@@ -29,7 +29,7 @@ Fill in the four parameters, then paste the assembled block (below) to the model
 
 ### Worked example: David + Grok (the original book)
 
-This is the exact parameterization that produced *Grok the Rock: Three Quiet Stories*,
+These are the approximate parameters that produced *Grok the Rock: Three Quiet Stories*,
 shown so you can see the shape of each slot.
 
 ```markdown
