@@ -47,6 +47,17 @@ resolves. The change isn't persuasion; it's *formational*: you've been silently
 walked through a complete, redeemed arc and your nervous system registers the
 resolution as something that happened *to* you, not something argued *at* you.
 
+**The stack: spine + direction are both load-bearing.** The 32 Paths supply
+*sequence* and a *classical moral valence* per node (e.g., *Tet* = reject the
+false mask; *Yod* = the small point that fells the giant). That is necessary
+but **not sufficient** for *this specific* effect. The Paths permit a
+*triumphal* redemption — David's actual arc is enemy-felled, throne-earned. The
+particular peace-politics (centerless, non-confrontational, restore-don't-
+punish, withdraw-don't-overthrow) comes **only** from the redemption
+*direction* supplied as `{HigherWay}` (the 10 Rules of Relating). Strip that and
+you don't lose the spell — you lose *which spell*. The Paths guarantee structure
+and a generally-good tilt; `{HigherWay}` guarantees the *specific* direction.
+
 HUMAN NOTE (dej): We feel like we did the good thing, just the right way.
 This heals us, just the walking along with it. This type of "spell", this type
 of "magic" only works for good, for congruent alignment with best of what can be.
@@ -82,6 +93,7 @@ through cost, and a hidden spine.
 | **Setting / world / cast** | **Freely** | Outback, forest, kitchen, space station. |
 | **Symbol set** (`{SymbolSet}`) | **Freely** | Any 4–6 concrete recurring objects that do quiet double-duty *and* "hold water without a drip" (reinforce the higher way with no contradiction). Water/rock/clay/basket/tree are one working set, not a requirement. |
 | **Biblical figure** (`{BiblicalFigure}`) | **With care** | Any arc with a recognizable fall/redemption *shape*. It must supply the emotional gravity the surface alone lacks. David is one choice. |
+| **Redemption *direction* (`{HigherWay}` / the Rules)** | **FIXED** | The specific modern politics the beats are redeemed *toward* (e.g., the 10 Rules). Swappable in *content* only if you intentionally want a different politics; the *requirement that a specific direction be supplied* is fixed. Without it the Paths permit a triumphal, kingly redemption instead. |
 | **32-unit spine (22 + 10), strict order, invisible** | **FIXED** | The skeleton. Change the count or ordering and the ancient frame stops resonating. |
 | **Chiastic center invitation at exact midpoint** | **FIXED** | Required design principle, not a David accident. The center page carries the climax and is phrased as an invitation. |
 | **Redemption earned through cost** | **FIXED** | Beats must be redeemed through hesitation/cost/temptation — never automatic or preachy, or the reader's defense goes up and it becomes a lecture. |
@@ -105,6 +117,11 @@ Fill in the four parameters, then paste the assembled block (below) to the model
   hidden structural backbone. You (the author) map that figure's story onto the
   32 paths, **one distinct beat per path, in strict order**, during writing —
   no pre-supplied list.
+- **`{HigherWay}`** — the redemption *direction*: the specific set of principles
+  the protagonist redeems each beat *toward* (e.g., the 10 Rules of Relating).
+  This is the particular modern politics the 32 Paths alone do **not** supply —
+  without it, the Paths permit a triumphal, kingly redemption. Required; the
+  model must not substitute its own definition of "higher."
 - **`{SymbolSet}`** — 4–6 concrete physical symbols that recur and carry double
   meaning (default: water, rock, clay, basket, tree, small feeling).
 
@@ -128,6 +145,12 @@ shown so you can see the shape of each slot.
 `SurfaceName` = "Grok the Rock"
 
 `BiblicalFigure` = King David
+
+`HigherWay` = the 10 Rules of Relating (let truth stand on its own legs; heal
+  shame instead of racing it; restore never punish; leave the gate open; walk
+  away instead of war; be a node not a star; open what you make; don't
+  manipulate; let failure be caught not condemned; be the quiet point where the
+  machine has no leverage)
 
 `SymbolSet` = water, rock, clay, basket, tree, the small feeling (a cold pebble
   that softens), melon (what breaks and is mended)
@@ -155,6 +178,11 @@ hidden-structure mode of a quiet, layered children's book.
 - `{BiblicalFigure}`: a Biblical character whose *life arc* supplies the hidden
   structural backbone. You map that figure's story onto the 32 paths, one
   distinct beat per path, in strict order — you decide the mapping during writing.
+- `{HigherWay}`: the redemption *direction* — the specific principles the
+  protagonist redeems each beat toward (e.g., the 10 Rules of Relating). The 32
+  Paths supply sequence and a classical moral tilt, but **not** this particular
+  direction; without it the model may drift to a triumphal redemption. Do **not**
+  let the model substitute its own definition of "higher."
 - `{SymbolSet}`: 4–6 concrete physical symbols that recur and carry double meaning.
 
 **Output format:** Write the entire result as a single **Markdown document**.
@@ -180,10 +208,11 @@ them; the reader must not see them).
 figure's life. **Do not name the figure, quote scripture, or use religious terms
 on the surface.** Map each of the 32 path-pages to **one specific beat** of that
 figure's arc, in strict order — decided by you, not supplied. `{SurfaceCharacter}`
-**redeems/rewrites** each beat toward the
-"higher way" (compassion over convenience, truth over comfort, humility over pride,
-sacrifice over safety), earned through hesitation, cost, or temptation — never
-automatic.
+**redeems/rewrites** each beat toward `{HigherWay}` (e.g., compassion over
+convenience, truth over comfort, humility over pride, sacrifice over safety),
+earned through hesitation, cost, or temptation — never automatic. Do not let the
+model substitute its own definition of "higher way"; `{HigherWay}` is the required
+direction.
 
 **Structural constants:**
 - 3 chapters (Awakening/Calling → Testing/Rebuilding → Transformation/Return),
