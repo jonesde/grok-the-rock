@@ -71,6 +71,13 @@ hidden-structure mode of a quiet, layered children's book.
   distinct beat per path, in strict order — you decide the mapping during writing.
 - `{SymbolSet}`: 4–6 concrete physical symbols that recur and carry double meaning.
 
+**Output format:** Write the entire result as a single **Markdown document**.
+Use `##` headings for the cover, title, dedication, each chapter title page, each
+story page, and the closing page; use `###` for individual pages within a chapter.
+For every page (cover, title, dedication, chapter titles, story pages, closing),
+include a fenced **image generation prompt** block describing a matching children's
+book illustration in the established style.
+
 **Surface story:** `{SurfaceCharacter}` lives in a calm world with
 animals/companions. Prose: 1–3 short, concrete, rhythmic, near-poetic paragraphs
 per page; simple vocabulary; read-aloud cadence; no surface abstraction or mysticism.
@@ -106,6 +113,17 @@ automatic.
 - `{SymbolSet}` does quiet double-duty for both layers. The story must be "a vessel
   that holds water without a single drip": every beat reinforces the higher way with
   no contradiction or filler.
+
+**Appendix (after the 26-page story):** Append a **numbered list of all 32 Paths in
+exact order** (1–22 Letters, then 23–32 Sephirot). For each path, give a **short,
+accessible summary (2–4 sentences)** explaining the meaning of that path and how the
+protagonist chose the "higher way" in that section. Do **not** reveal the hidden
+structural framework, gematria mappings, name-markers, or the underlying
+Kabbalistic/Biblical mechanics — keep the appendix story-focused and
+child-appropriate. Then append a short **"cheat sheet"** section that identifies the
+recurring structural marker used and gives a brief summary of the structure by layer
+(surface story, then the two hidden layers), so a reader can decode the puzzle in the
+story.
 ```
 
 ---
