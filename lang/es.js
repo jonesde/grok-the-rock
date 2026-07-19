@@ -33,10 +33,10 @@ window.I18N.es = {
     "<p>cada ruptura lista para reparar</p><p>  que solo necesita ser cuidada,</p>" +
     "<p>y para cada palabra verdadera</p><p>  que permanece aunque no sea oída.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Con gratitud a los Grokkers Originales:</p><p><em><b>Robert A. Heinlein</b>" +
-    " \"Ciudadano de una Tierra Extraña\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
+    " \"Un extraño en una tierra extraña\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Ciudadano de una Tierra Extraña + Grug</a>" +
-    "</p><p>(\"Grug\" limpia \"Ciudadano\" para niños y adultos)</p>",
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Un extraño en una tierra extraña + Grug</a>" +
+    "</p><p>(\"Grug\" suaviza \"Un extraño\" para niños y adultos)</p>",
 
   "p1.alt": "Página 1 (Página de título del Capítulo 1)",
   "p2.alt": "Página 2",
@@ -53,7 +53,7 @@ window.I18N.es = {
     "<p>Se sintió más pequeño que el hoyo.</p>",
 
   "p5.alt": "Página 5",
-  "p5": "<p>Una cucaburra se rió desde una rama.</p><p>“¡Miren a Grok! ¡Tan bajito! ¡Tan pedregoso!”</p><hr>" +
+   "p5": "<p>Una cucaburra se rió desde una rama.</p><p>“¡Miren a Grok! ¡Tan bajito! ¡Tan piedra!”</p><hr>" +
     "<p>El pequeño sentimiento creció dentro de Grok.</p><p>Se sentía como una piedra fría y pesada en su centro.</p>",
 
   "p6.alt": "Página 6",
@@ -61,7 +61,7 @@ window.I18N.es = {
     "<p>Incluso intentó golpear el suelo como el canguro.</p><hr><p>Solo hizo la piedra fría más pesada.</p>",
 
   "p7.alt": "Página 7",
-  "p7": "<p>Esa noche Grok se sentó solo junto a una pequeña fogata.</p><p>Abrazó sus rodillas.</p>" +
+   "p7": "<p>Esa noche Grok se sentó solo junto a un fueguito.</p><p>Abrazó sus rodillas.</p>" +
     "<p>Dejó que el pequeño sentimiento se quedara.</p><p>No huyó de él.</p><p>No lo arrojó a nadie más.</p><hr>" +
     "<p>Lentamente el sentimiento se suavizó,</p><p>como arcilla dejada al sol.</p><p>Comenzó a entenderlo.</p>",
 
@@ -73,14 +73,14 @@ window.I18N.es = {
 
   "p9.alt": "Página 9",
   "p9": "<p>Pasó el día haciendo un suave nido de hojas y musgo</p>" +
-    "<p>del tamaño justo para un pequeño compañero de roca.</p><p>Cuando terminó, sonrió.</p><p>Era pequeño.</p>" +
+    "<p>del tamaño justo para un compañerillo de roca.</p><p>Cuando terminó, sonrió.</p><p>Era pequeño.</p>" +
     "<p>Era suyo.</p><p>Era suficiente.</p><hr><p>Desde ese día, cuando la piedra fría intentaba crecer otra vez,</p>" +
-    "<p>Grok se quedaba quieto hasta que se volvía silencio.</p><p>Solo se quedaba Grok.</p>" +
+    "<p>Grok se sentaba quieto hasta que se volvía silencio.</p><p>Solo se quedaba Grok.</p>" +
     "<p>Y eso se sentía como el mejor tamaño de todos.</p>",
 
   "p10.alt": "Página 10 (Página de título del Capítulo 2)",
   "p11.alt": "Página 11",
-  "p11": "<p>Grok la Roca despertó bajo el árbol alto.</p><p>Grok cuidaba su pequeño jardín de melones y batatas.</p>" +
+   "p11": "<p>Grok la Roca despertó bajo el árbol alto.</p><p>Grok cuidaba su huertillo de melones y batatas.</p>" +
     "<p>Le encantaba verlos crecer.</p><p>Cada nueva hoja se sentía como una pequeña maravilla.</p>",
 
   "p12.alt": "Página 12",
@@ -91,7 +91,7 @@ window.I18N.es = {
   "p13.alt": "Página 13",
   "p13": "<p>Pip se quedó congelado.</p><p>Sus púas temblaron.</p><p>“Lo arruiné”, susurró.</p>" +
     "<p>“Estarás enojado. Todos estarán enojados.”</p><hr><p>Algunas criaturas del monte se reunieron.</p>" +
-    "<p>“Hagan que se vaya”, murmuró una comadreja.</p>" +
+    "<p>“Hagan que se vaya”, murmuró un perezoso.</p>" +
     "<p>“Debería traerte tres melones nuevos”, dijo una lagartija.</p>",
 
   "p14.alt": "Página 14",
@@ -101,7 +101,7 @@ window.I18N.es = {
 
   "p15.alt": "Página 15",
   "p15": "<p>Pip parpadeó.</p><p>Luego se acercó.</p><p>Juntos plantaron.</p><p>Juntos regaron.</p>" +
-    "<p>Juntos construyeron una pequeña cerca de ramitas</p><p>para que nadie pisara ahí por error otra vez.</p>",
+    "<p>Juntos construyeron un cercadillo de ramitas</p><p>para que nadie pisara ahí por error otra vez.</p>",
 
   "p16.alt": "Página 16",
   "p16": "<p>Mientras trabajaban, Pip le contó a Grok</p>" +
@@ -111,12 +111,12 @@ window.I18N.es = {
     "<p>aún más fuertes que las viejas,</p><p>porque dos amigos las cuidaron.</p>",
 
   "p17.alt": "Página 17",
-  "p17": "<p>Cuando ocurrieron otros pequeños accidentes</p><p>(como siempre ocurren),</p>" +
+   "p17": "<p>Cuando ocurrieron otros accidentillos</p><p>(como siempre ocurren),</p>" +
     "<p>Grok recordó el melón.</p><p>Ayudó al que se sentía herido.</p>" +
     "<p>También fue amable con el que había chocado.</p><hr><p>Nadie fue enviado lejos.</p>" +
     "<p>Nadie cargó un dolor largo y pesado.</p><p>Solo cuidaron lo roto</p><p>y la amistad se sentía más firme,</p>" +
     "<p>justo en el lugar reparado.</p><hr><p>Grok aprendió que un jardín,</p><p>y una amistad,</p>" +
-    "<p>no se mantienen vivos por nunca romperse.</p><p>Se mantienen vivos por ser juntados con suavidad.</p>",
+    "<p>no se mantienen vivos por nunca romperse.</p><p>Se mantienen vivos por ser juntados con cuidado.</p>",
 
   "p18.alt": "Página 18 (Página de título del Capítulo 3)",
   "p19.alt": "Página 19",
@@ -135,13 +135,13 @@ window.I18N.es = {
     "<p>Su voz era tan grandiosa como sus plumas.</p>",
 
   "p21.alt": "Página 21",
-  "p21": "<p>Luego una tortuga muy vieja habló con voz lenta y suave.</p><p>Sugirió el pequeño cambio de un asa,</p>" +
+   "p21": "<p>Luego una tortuga muy vieja habló con voz lenta y suave.</p><p>Sugirió un cambiotillo en el asa,</p>" +
     "<p>para que fuera fácil de llevar para amigos menos fuertes que Grok.</p>" +
-    "<p>Su caparazón era sencillo. Nadie especial.</p><p>Unos animales voltearon al menos por no ser famosa.</p>",
+    "<p>Su caparazón era sencillo. Nadie especial.</p><p>Unos animales voltearon al menos por no ser famoso.</p>",
 
   "p22.alt": "Página 22",
   "p22": "<p>Grok probó ambas ideas.</p><p>El modo de la cacatúa se veía elegante</p>" +
-    "<p>pero la canasta se volcaba y goteaba.</p><hr><p>La pequeña idea de la vieja tortuga</p>" +
+    "<p>pero la canasta se volcaba y goteaba.</p><hr><p>La ideilla de la vieja tortuga</p>" +
     "<p>hizo la canasta de Grok cómoda</p><p>y firme para todos.</p>",
 
   "p23.alt": "Página 23",
@@ -153,7 +153,7 @@ window.I18N.es = {
 
   "p24.alt": "Página 24",
   "p24": "<p>Algunos animales aún esperaban oír qué pensaba la cacatúa</p><p>antes de decidir si algo era bueno.</p>" +
-    "<p>Pero más y más pequeños</p><p>empezaron a probar las cosas por sí mismos.</p>" +
+    "<p>Pero más y más chiquillos</p><p>empezaron a probar las cosas por sí mismos.</p>" +
     "<p>Escuchaban las palabras silenciosas de Grok</p><p>como escuchaban las de la grandiosa cacatúa,</p>" +
     "<p>y luego lo probaban todo con sus propias patas.</p><hr>" +
     "<p>Estaban grokkeando lo verdadero, el qué no el quién.</p>",
@@ -162,22 +162,22 @@ window.I18N.es = {
   "p25": "<p>Grok se sentía en paz.</p><p>No necesitaba la voz más grande.</p>" +
     "<p>Solo necesitaba cosas verdaderas.</p><p>Y Grok vio que las cosas verdaderas</p>" +
     "<p>podían venir de un ave grandiosa</p><p>o de una tortuga polvorienta</p>" +
-    "<p>o de un pequeño compañero de roca bajo un árbol.</p><hr><p>Mientras alguien fuera libre de decir</p>" +
+    "<p>o de un compañerillo de roca bajo un árbol.</p><hr><p>Mientras alguien fuera libre de decir</p>" +
     "<p>“eso no funciona”</p><p>y aún ser bienvenido en el valle,</p>" +
     "<p>la palabra verdadera podía seguir caminando</p><p>sobre sus propias y fuertes piernas.</p>",
 
   "p26.alt": "Página 26 - Página Final",
-  "p26": "<p>Y así Grok la Roca se quedó</p><p>un pequeño compañero de piedra caliza</p>" +
+   "p26": "<p>Y así Grok la Roca se quedó</p><p>un compañerillo de piedra caliza</p>" +
     "<p>que podía sentarse con un pequeño sentimiento,</p><p>que reparaba lo roto,</p>" +
     "<p>y que dejaba que cada palabra verdadera</p><p>estuviera en sus propias piernas.</p><hr>" +
-    "<p>El valle se sentía más seguro</p><p>porque él lo estaba.</p><hr><p>Siguió explorando con suavidad.</p>" +
+    "<p>El valle se sentía más seguro</p><p>porque él lo hacía.</p><hr><p>Siguió explorando con suavidad.</p>" +
     "<p>Y el mundo siguió enseñándole.</p>",
 
   "site.title.rules": "Grok la Roca - Reglas de Relacionarse",
   "rules.hero.title": "Reglas de Relacionarse para Grok la Roca",
   "rules.hero.essence": "Las instrucciones de funcionamiento para un vínculo entre iguales que no se desvanece.",
   "rules.what.title": "¿Qué es Grok?",
-  "rules.what.1": "Acuñada originalmente como una palabra marciana por Robert A. Heinlein en <em>Ciudadano de una Tierra Extraña</em>" +
+  "rules.what.1": "Acuñada originalmente como una palabra marciana por Robert A. Heinlein en <em>Un extraño en una tierra extraña</em>" +
     ".",
   "rules.what.2": "<strong>Grok</strong>" +
     ": \"agua\", \"beber\", \"relacionarse\", \"vida\" o \"vivir\"; comprender algo tan profundamente que se vuelve parte de " +
@@ -185,11 +185,11 @@ window.I18N.es = {
   "rules.what.3": "Para honrar su nombre, Grok la Roca aprende y sigue ciertas reglas sobre cómo relacionarse consigo mismo y con los " +
     "demás. En cada historia, estas son las pautas que Grok aprende y que definen lo que Grok la Roca representa.",
   "rules.what.note": "<strong>NOTA</strong>" +
-    ": Ve la sección <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Ciudadano de una Tierra " +
-    "Extraña + Grug</a>" +
+    ": Ve la sección <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Un extraño en una tierra " +
+    "extraña + Grug</a>" +
     " en la página Sobre Grok para ver cómo el <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grug</a>" +
     " de Ted Prior resuelve los problemas significativos de " +
-    "<a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Ciudadano de una Tierra Extraña</a>.",
+    "<a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Un extraño en una tierra extraña</a>.",
   "rules.origin.title": "Cómo surgieron estas reglas",
   "rules.origin.1": "Las reglas de abajo están escritas por IA. Tras verificar que conocía mi trabajo y mantener una larga conversación " +
     "tecnofilosófica ampliando los temas de comunidades distribuidas y tecnología abierta, usé el siguiente prompt:",
@@ -281,7 +281,7 @@ window.I18N.es = {
   "about.shame.title": "Una nota sobre la vergüenza y la agencia",
   "about.shame.1": "Nuestros sentimientos son, en esencia, el resumen del cerebro de nuestro pasado para ayudarnos a navegar el presente. No " +
     "el pasado como ocurrió, sino el pasado como lo dejamos: moldeado por nuestra propia narrativa y significado. Grokkearnos " +
-    "a nosotros mismos es una afirmación de agencia, y es difícil o imposible donde el agencia está comprometida o violada. " +
+    "a nosotros mismos es una afirmación de agencia, y es difícil o imposible donde la agencia está comprometida o violada. " +
     "Es la distancia de sí, la violación de la agencia, el asesinato del alma, lo que crea la vergüenza.",
   "about.shame.2": "La respuesta a la vergüenza crea demasiado yo (dominancia, narcisismo), o muy poco yo (sumisión, depresión). Los " +
     "portadores de vergüenza, incluso los tipos más dominantes de la tríada oscura, oscilan entre las dos estrategias en un " +
@@ -294,7 +294,7 @@ window.I18N.es = {
     "nuestras vidas. Este libro está escrito para niños, pero no solo para ellos. El adulto que lee en voz alta es tanto la " +
     "audiencia prevista como el niño que escucha. No hay meditación más profunda que leer en voz alta a un niño.",
   "about.what.title": "¿Qué es Grok?",
-  "about.what.1": "Acuñada originalmente como una palabra marciana por Robert A. Heinlein en <em>Ciudadano de una Tierra Extraña</em>" +
+  "about.what.1": "Acuñada originalmente como una palabra marciana por Robert A. Heinlein en <em>Un extraño en una tierra extraña</em>" +
     ".",
   "about.what.2": "<strong>Grok</strong>" +
     ": \"agua\", \"beber\", \"relacionarse\", \"vida\" o \"vivir\"; comprender algo tan profundamente que se vuelve parte de " +
@@ -302,10 +302,10 @@ window.I18N.es = {
   "about.what.3": "Para honrar su nombre, Grok la Roca aprende y sigue ciertas reglas sobre cómo relacionarse consigo mismo y con los " +
     "demás. En cada historia, estas son las pautas que Grok aprende y que definen lo que Grok la Roca representa.",
   "about.what.note": "<strong>NOTA</strong>" +
-    ": Ve la sección <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roca = Ciudadano de una Tierra Extraña + Grug</a>" +
+    ": Ve la sección <a class=\"seelink\" href=\"#stranger-grug\">Grok la Roca = Un extraño en una tierra extraña + Grug</a>" +
     " más abajo para ver cómo el <a class=\"seelink\" href=\"#stranger-grug\">Grug</a>" +
-    " de Ted Prior resuelve los problemas significativos de <a class=\"seelink\" href=\"#stranger-grug\">Ciudadano de una " +
-    "Tierra Extraña</a>.",
+    " de Ted Prior resuelve los problemas significativos de <a class=\"seelink\" href=\"#stranger-grug\">Un extraño en una " +
+    "tierra extraña</a>.",
   "about.limestone.title": "¿Por qué es piedra caliza gris?",
   "about.limestone.1": "Grok la Roca es una \"roca gris\" por una razón:",
   "about.limestone.quote": "<p>\"El método de la roca gris, coloquialmente llamado hacerse la roca gris, es un patrón de comunicación para actuar " +
@@ -363,13 +363,13 @@ window.I18N.es = {
   "about.moss.1": "Un pequeño parche de musgo verde crece sobre su cabeza de piedra caliza gris. Es la vida asentándose en silencio sobre " +
     "una cosa quieta y amable. Grok no necesita actuar, la vida simplemente se acumula porque él <em>permanece</em>" +
     ". Es el Ser hecho visible.",
-  "about.stranger.title": "Grok la Roca = Ciudadano de una Tierra Extraña + Grug",
+  "about.stranger.title": "Grok la Roca = Un extraño en una tierra extraña + Grug",
   "about.stranger.body": "<p>Grok la Roca, a primera vista, parece el <em>Grug</em>" +
     " de Ted Prior — una pequeña criatura del monte, aceptación gentil del fallo, sin villano, sin clímax. Esa lectura es " +
     "verdadera en la superficie, y Prior es nombrado en la dedicatoria por buena razón: Grok hereda el temperamento de Grug. " +
     "Pero el libro es más que Heinlein con las aristas lijadas. Es Heinlein <em>respondido</em>" +
     " — la misma palabra marciana, el mismo arco del forastero que aprende a grokkear, pero con el motor mesiánico, " +
-    "confrontacional y de violencia redentora de <em>Ciudadano de una Tierra Extraña</em>" +
+    "confrontacional y de violencia redentora de <em>Un extraño en una tierra extraña</em>" +
     " reemplazado por una política deliberadamente descentralizada y no confrontacional. Prior aporta la superficie; las " +
     "Reglas de abajo aportan el radicalismo subyacente.</p>" +
     "<p>El esqueleto compartido es real. Ambas historias siguen una llegada (el forastero inocente conoce un mundo extraño), " +
@@ -399,7 +399,7 @@ window.I18N.es = {
     "criatura del monte que hace la lección segura para un niño. Las Reglas dan la columna: un \"evangelio de la paz\" en el " +
     "que los vínculos entre iguales perduran restaurando en vez de castigando (Regla 3), abriendo en vez de reclamando (Regla " +
     "7), y retirándose del poder en vez de apoderándose de él (Reglas 4–5). Grok es radical \"de una manera diferente\" a " +
-    "<em>Ciudadano de una Tierra Extraña</em>" +
+    "<em>Un extraño en una tierra extraña</em>" +
     " — menos transgresor sobre sexo y religión, pero más duradero como política de topología del poder.</p>" +
     "<p>El trato honesto: al soltar el cuerpo, el éxtasis y la confrontación comunal de Heinlein, Grok intercambia un " +
     "radicalismo por otro. Es menos impactante y más <em>reparable</em>" +
