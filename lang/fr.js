@@ -35,7 +35,7 @@ window.I18N.fr = {
     "<p>&nbsp;</p><p>Avec gratitude envers les Grokkers Originaux :</p><p><em><b>Robert A. Heinlein</b>" +
     " « Stranger in a Strange Land »</em></p><p><em><b>Ted Prior</b> « Grug »</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok le Rocher = Stranger in a Strange Land + Grug</a>" +
-    "</p><p>(« Grug » nettoie « Citizen » pour les enfants et les adultes)</p>",
+    "</p><p>(« Grug » nettoie « Stranger » pour les enfants et les adultes)</p>",
 
   "p1.alt": "Page 1 (Page de titre du Chapitre 1)",
   "p2.alt": "Page 2",

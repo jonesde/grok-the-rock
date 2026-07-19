@@ -176,22 +176,6 @@
 | `about.stranger.body` | html | Large two-column body |
 | `about.footnote` | html | Footer |
 
-## Implementation phases
-
-| Phase | Languages | Status |
-|-------|-----------|--------|
-| — | en | Source (inline HTML) |
-| — | es, fr | Done |
-| 1 | de, it, pt, nl, ru, zh, ja, ko, ar | Stubs — fill remaining ~140 keys |
-| 2 | no, sv, da | Scandinavian |
-| 3 | pl, cs, ro, hu, uk | Eastern/Central European |
-| 4 | el, tr, he, ca | Mediterranean / Middle Eastern |
-| 5 | hi, bn, th, vi, id | South / Southeast Asian |
-| 6 | fi, sw, eu, tl | Outliers |
-| 7 | ur, pa, gu, mr, kn, te, ta, ne | South Asian (Indic) |
-| 8 | fa, ha, am, yo, ig | Middle Eastern / African |
-| 9 | ms, my | Southeast Asian additions |
-
 ## File structure
 
 Each `lang/XX.js` follows the same pattern:

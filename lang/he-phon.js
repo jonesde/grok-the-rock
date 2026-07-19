@@ -37,8 +37,8 @@ window.I18N["he-phon"] = {
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גרוק הצור = אזרח בגלקסיה זרה + גראג</a></p>" +
     "<p class=\"phon\">GROK ha-TZUR = ez-RAKH ba-galak-SYAH za-RAH + GRUG</p>" +
-    "<p>(\"גראג\" מנקה את \"אזרח\" למען ילדים ומבוגרים)</p>" +
-    "<p class=\"phon\">(\"GRUG\" me-na-KEH et \"ez-RAKH\" le-MA-an ye-la-DIM u-me-vu-ga-RIM)</p>",
+    "<p>("גראג" מנקה את "זר" למען ילדים ומבוגרים)</p>" +
+    "<p class=\"phon\">("GRUG" me-na-KEH et "za-RAH" le-MA-an ye-la-DIM u-me-vu-ga-RIM)</p>",
 
   "p1.alt": "עמוד 1 (עמוד השער של פרק 1)",
   "p2.alt": "עמוד 2",
