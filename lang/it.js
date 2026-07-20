@@ -9,7 +9,7 @@ window.I18N.it = {
 
   "site.title": "Grok la Roccia - Tre storie silenziose",
   "nav.print": "Stampa",
-  "nav.rules": "Regole di Grok",
+  "nav.rules": "Regole Grok",
   "nav.about": "Su Grok",
   "nav.book": "Il libro",
 
@@ -20,7 +20,7 @@ window.I18N.it = {
   "credit.1": "Storia in bozza, prompt per le immagini con Grok 4.5 di xAI",
   "credit.2": "Illustrazioni con Grok Imagine di xAI",
   "credit.3": "Regole, redazione, automazione con HY3 di Tencent",
-  "credit.4": "Non affiliato né appoggiato da xAI o Tencent",
+  "credit.4": "<em>Non affiliato né appoggiato da xAI o Tencent</em>",
   "credit.5": "Questa è una storia-meme generata dall'IA e curata da esseri umani",
   "credit.6": "Pubblico dominio (CC0 1.0)",
   "credit.7": "Copialo • Condividilo • Traducilo • Ridisegnalo • Lascialo crescere",
@@ -28,33 +28,33 @@ window.I18N.it = {
   "dedication.alt": "Pagina di dedica",
 
   "dedication": "<p><b>Per ogni esploratore, piccolo e grande,</b></p>" +
-    "<p><b>che grokka il mondo a modo suo, con dolcezza.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p><b>grokkando il mondo a modo suo, con dolcezza.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>E per ogni piccolo sentimento</p><p>che ha solo bisogno di essere visto,</p>" +
     "<p>ogni rottura pronta per essere riparata</p><p>che ha solo bisogno di cura,</p><p>e per ogni parola vera</p>" +
     "<p>che resta in piedi anche se inascoltata.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Con gratitudine ai Grokker originali:</p><p><em><b>Robert A. Heinlein</b>" +
+    "<p>Con gratitudine ai Grokkers originali:</p><p><em><b>Robert A. Heinlein</b>" +
     " \"Straniero in terra straniera\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roccia = Straniero in terra straniera + Grug</a>" +
-    "</p><p>(\"Grug\" rende \"Straniero\" adatto per bambini e adulti)</p>",
+    "</p><p>(\"Grug\" rende \"Straniero\" adatto per bambini <em>e</em> adulti)</p>",
 
   "p1.alt": "Pagina 1 (Frontespizio Capitolo 1)",
   "p2.alt": "Pagina 2",
   "p2": "<p>Grok la Roccia si svegliò sotto l'albero alto.</p><p>Il sole era caldo sulla sua schiena di calcare.</p>" +
-    "<p>Grok si sentiva felice.</p><hr><p>Guardò il mondo vasto</p><p>come se lo vedesse per la prima volta.</p>",
+    "<p>Grok si sentiva felice.</p><hr><p>Guardò il mondo vasto</p><p>come se lo vedesse per la primissima volta.</p>",
 
   "p3.alt": "Pagina 3",
-  "p3": "<p>Poco dopo andò all'abbeveratoio.</p><p>Un emù alto era già lì.</p>" +
+  "p3": "<p>Poco dopo andò alla pozza d'acqua.</p><p>Un emù alto era già lì.</p>" +
     "<p>L'emù allungò il lungo collo e disse:</p><p>\"Sono il più alto. Mettiti dietro di me.\"</p>",
 
   "p4.alt": "Pagina 4",
   "p4": "<p>Poi arrivò un vombato, rotondo e solido.</p><p>\"Sono il più forte\", disse il vombato.</p>" +
-    "<p>\"Guardatemi scavare.\"</p><hr><p>Anche Grok provò a scavare.</p><p>La sua buca era piccola.</p>" +
+    "<p>\"Tutti guardatemi scavare.\"</p><hr><p>Anche Grok provò a scavare.</p><p>La sua buca era piccola.</p>" +
     "<p>Si sentì più piccolo della buca.</p>",
 
   "p5.alt": "Pagina 5",
   "p5": "<p>Un kookaburra rise da un ramo.</p><p>\"Guardate il piccolo Grok! Così basso! Così roccioso!\"</p><hr>" +
-    "<p>Il piccolo sentimento crebbe dentro Grok.</p><p>Era come un ciottolo freddo e pesante nel mezzo.</p>",
+    "<p>Il piccolo sentimento crebbe dentro Grok.</p><p>Era come un ciottolo freddo e pesante nel suo mezzo.</p>",
 
   "p6.alt": "Pagina 6",
   "p6": "<p>Voleva sembrare più grande.</p><p>Salì su un tronco.</p><p>Gonfiò il petto.</p>" +
@@ -62,12 +62,12 @@ window.I18N.it = {
     "<p>Questo rendeva il ciottolo freddo ancora più pesante.</p>",
 
   "p7.alt": "Pagina 7",
-  "p7": "<p>Quella sera Grok si sedette da solo accanto a un piccolo fuoco.</p><p>Si abbracciò le ginocchia.</p>" +
+  "p7": "<p>Quella notte Grok si sedette da solo accanto a un piccolo fuoco.</p><p>Si abbracciò le ginocchia.</p>" +
     "<p>Lasciò che il piccolo sentimento restasse.</p><p>Non scappò da lui.</p><p>Non lo gettò su nessun altro.</p>" +
     "<hr><p>Lentamente il sentimento si ammorbidì,</p><p>come argilla lasciata al sole.</p><p>Cominciò a capirlo.</p>",
 
   "p8.alt": "Pagina 8",
-  "p8": "<p>Il mattino dopo Grok tornò all'abbeveratoio.</p><p>Non salì su niente.</p>" +
+  "p8": "<p>Il mattino dopo Grok tornò alla pozza d'acqua.</p><p>Non salì su niente.</p>" +
     "<p>Non provò a essere più alto o più rumoroso.</p><p>Bevve semplicemente,</p>" +
     "<p>poi si sedette su una roccia calda e canticchiò.</p><hr><p>Fuori non era cambiato niente di grande.</p>" +
     "<p>Ma dentro tutto sembrava più leggero.</p><p>Stava cominciando a grokkarsi.</p>",
@@ -93,7 +93,7 @@ window.I18N.it = {
   "p13.alt": "Pagina 13",
   "p13": "<p>Pip si bloccò.</p><p>I suoi aculei tremarono.</p><p>\"L'ho rovinato\", sussurrò.</p>" +
     "<p>\"Sarai arrabbiato. Tutti saranno arrabbiati.\"</p><hr><p>Alcune creature del bosco si radunarono.</p>" +
-    "<p>\"Mandatelo via\", mormorò un opossum.</p><p>\"Dovrebbe portarti tre meloni nuovi\", disse una lucertola.</p>",
+    "<p>\"Mandatelo via\", mormorò un possum.</p><p>\"Dovrebbe portarti tre meloni nuovi\", disse una lucertola.</p>",
 
   "p14.alt": "Pagina 14",
   "p14": "<p>Grok guardò la pianta spezzata.</p><p>Guardò gli occhi preoccupati di Pip.</p><hr>" +
@@ -153,7 +153,7 @@ window.I18N.it = {
   "p23.alt": "Pagina 23",
   "p23": "<p>Grok si sedette con i due cesti uno accanto all'altro.</p><p>Non guardò le piume.</p>" +
     "<p>Non guardò l'età o la fama.</p><p>Guardò solo quale cesto teneva meglio l'acqua</p>" +
-    "<p>e era più gradevole in mano.</p><hr><p>Tenne il modo migliore.</p><p>Poi lasciò sia il buon cesto</p>" +
+    "<p>e risultava più gentile in mano.</p><hr><p>Tenne il modo migliore.</p><p>Poi lasciò sia il buon cesto</p>" +
     "<p>sia il semplice schema per intrecciarlo</p>" +
     "<p>sotto il grande albero perché chiunque potesse usarlo o copiarlo.</p>" +
     "<p>Nessun nome. Nessun \"chiedimi prima\".</p>",
@@ -163,7 +163,7 @@ window.I18N.it = {
     "<p>prima di decidere se una cosa era buona.</p><p>Ma sempre più piccoli animali</p>" +
     "<p>cominciarono a provare le cose da soli.</p><p>Ascoltavano le parole silenziose di Grok</p>" +
     "<p>come ascoltavano quelle del cacatua grandioso,</p><p>e poi provavano tutto con le proprie zampe.</p><hr>" +
-    "<p>Stavano grokkando il vero, il cosa, non il chi.</p>",
+    "<p>Stavano grokkando il vero, il che, non il chi.</p>",
 
   "p25.alt": "Pagina 25",
   "p25": "<p>Grok si sentiva in pace.</p><p>Non aveva bisogno della voce più grande.</p>" +
@@ -283,23 +283,23 @@ window.I18N.it = {
   "about.intro.2": "Mentre leggiamo questo ai bambini, noi bambini di età più avanzata possiamo ridurre la monotonia della ripetizione " +
     "considerando i significati più profondi e osservando come interagiscono i diversi elementi simbolici. Anche questo fa " +
     "parte del punto e del divertimento dei doppi e tripli sensi nel testo.",
-  "about.intro.3": "Perfino il titolo del documento Regole di Grok è un doppio senso: \"Regole dello stare insieme\". Questo vale sia per " +
+  "about.intro.3": "Perfino il titolo del documento Regole Grok è un doppio senso: \"Regole dello stare insieme\". Questo vale sia per " +
     "come Grok sta insieme agli altri, sia per come noi raccontiamo (relate, in inglese) la storia di Grok.",
-  "about.intro.4": "A peggiorare le cose, \"Regole di Grok\" è almeno un quadruplo senso. Una delle connotazioni potrebbe essere fraintesa, " +
+  "about.intro.4": "A peggiorare le cose, \"Regole Grok\" è almeno un quadruplo senso. Una delle connotazioni potrebbe essere fraintesa, " +
     "quella di Grok come una specie di re, quindi ho disposto l'ordine dei pulsanti dell'intestazione per compensare: " +
-    "\"Regole di Grok\", poi \"Su Grok\".",
-  "about.shame.title": "Una nota sulla vergogna e l'agency",
+    "\"Regole Grok\", poi \"Su Grok\".",
+  "about.shame.title": "Una nota sulla vergogna e l'agentività",
   "about.shame.1": "I nostri sentimenti sono, in sostanza, il riassunto del cervello del nostro passato per aiutarci a navigare il presente. " +
     "Non il passato com'è accaduto, ma il passato come l'abbiamo lasciato: plasmato dalla nostra narrazione e dal nostro " +
-    "significato. Grokkarci è un'affermazione di agency, una scelta della nostra narrativa e significato, ed è difficile o impossibile dove l'agency è compromessa o violata. " +
-    "È la distanza da sé, la violazione dell'agency, l'omicidio dell'anima, che crea la vergogna.",
+    "significato. Grokkarci è un'affermazione di agentività, una scelta della nostra narrativa e significato, ed è difficile o impossibile dove l'agentività è compromessa o violata. " +
+    "È la distanza da sé, la violazione dell'agentività, l'omicidio dell'anima, che crea la vergogna.",
   "about.shame.2": "La risposta alla vergogna crea troppo sé (dominanza, narcisismo), o troppo poco sé (sottomissione, depressione). I " +
     "portatori di vergogna, anche i tipi più dominanti della triade oscura, oscillano tra le due strategie in un disperato " +
     "tentativo di trovare un terreno sicuro in diversi contesti sociali. Quando persone con la quantità sbagliata di sé si incontrano, la nostra reazione tende a seguire la via più bassa e peggiora il problema rispetto all'urto originale. La vergogna è il carburante, e tutti conosciamo il fuoco anche se \"non abbiamo " +
     "appiccato il fuoco\".",
   "about.shame.3": "Le storie che raccontiamo ai bambini contano. Da adulti, forniamo la narrazione e il significato iniziali che un bambino " +
     "porta nel mondo, molto prima che abbia la capacità di plasmare i propri. Molti di noi soffrono ancora di troppo o troppo " +
-    "poco sé perché la nostra stessa agency è stata violata e negata, specialmente in quei primi ~25 anni formativi delle " +
+    "poco sé perché la nostra stessa agentività è stata violata e negata, specialmente in quei primi ~25 anni formativi delle " +
     "nostre vite. Questo libro è scritto per i bambini, ma non solo per loro. L'adulto che legge ad alta voce è tanto il " +
     "pubblico a cui è destinato quanto il bambino che ascolta. Non c'è meditazione più profonda che leggere ad alta voce a un bambino.",
   "about.what.title": "Che cos'è Grok?",
@@ -359,12 +359,12 @@ window.I18N.it = {
     "sue piume grandiose più che della sua idea. Ognuno sta giocando un gioco di status che Grok rifiuta. La semplice " +
     "tartaruga, \"nessuno di speciale\", offre l'idea vera che vince. La verità sta sulle sue gambe, non su chi la dice.",
   "about.pebble.title": "Il piccolo sentimento (il \"ciottolo freddo\")",
-  "about.pebble.1": "Il piccolo sentimento sta come \"un ciottolo pesante e freddo\" nel mezzo di Grok. Non gli scappa via e non lo getta su " +
+  "about.pebble.1": "Il piccolo sentimento sta come \"un ciottolo pesante e freddo\" nel mezzo di Grok. Non scappa da esso e non lo getta su " +
     "nessuno; ci sta seduto insieme finché si ammorbidisce \"come argilla lasciata al sole\". La vergogna si guarisce venendo " +
     "incontrata e sentita (\"vista\"), non venendo rincorsa o allontanata, e questo è il cuore del Capitolo 1.",
   "about.tree.title": "L'albero alto",
-  "about.tree.1": "Grok si sveglia sotto lo stesso albero alto in ogni capitolo. È dove appartiene, non qualcosa che mette in scena. Ripara " +
-    "l'orto che viene riparato e sta come il bene comune aperto sotto il quale il cesto e lo schema vengono lasciati per " +
+  "about.tree.1": "Grok si sveglia sotto lo stesso albero alto in ogni capitolo. È dove appartiene, non qualcosa che mette in scena. Dà " +
+    "riparo all'orto che viene riparato e sta come il bene comune aperto sotto il quale il cesto e lo schema vengono lasciati per " +
     "tutti. Luogo e appartenenza sopra lo status.",
   "about.moss.title": "Il muschio sulla testa di Grok",
   "about.moss.1": "Un piccolo ciuffo di muschio verde cresce sulla sua testa di calcare grigio. È la vita che si posa silenziosamente su " +
