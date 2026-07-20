@@ -45,8 +45,8 @@ window.I18N.nl = {
     "<p>alsof hij haar voor het eerst zag.</p>",
 
   "p3.alt": "Pagina 3",
-  "p3": "<p>Al snel liep hij naar het watergat.</p><p>Een grote emoe was er al.</p>" +
-    "<p>De emoe strekte zijn lange nek en zei:</p><p>\"Ik ben de langste. Ga achter mij staan.\"</p>",
+  "p3": "<p>Al snel liep hij naar het watergat.</p><p>Een lange emoe was er al.</p>" +
+    "<p>De emoe strekte zijn lange nek en zei:</p><p>\"Ik ben de langste. Ga maar achter mij staan.\"</p>",
 
   "p4.alt": "Pagina 4",
   "p4": "<p>Toen rolde er een wombat aan, rond en stevig.</p><p>\"Ik ben de sterkste,\" zei de wombat.</p>" +
@@ -77,7 +77,7 @@ window.I18N.nl = {
 
   "p9.alt": "Pagina 9",
   "p9": "<p>Hij bracht de dag door met het maken van een zacht nest van bladeren en mos</p>" +
-    "<p>precies de goede maat voor een kleine rotsfellow.</p><p>Toen het klaar was glimlachte hij.</p>" +
+    "<p>precies de juiste maat voor een kleine rotsfellow.</p><p>Toen het klaar was glimlachte hij.</p>" +
     "<p>Het was klein.</p><p>Het was van hem.</p><p>Het was genoeg.</p><hr>" +
     "<p>Vanaf die dag, als de koude kiezel weer probeerde te groeien,</p>" +
     "<p>bleef Grok stil zitten totdat hij rustig werd.</p><p>Hij bleef gewoon Grok.</p>" +
@@ -180,7 +180,7 @@ window.I18N.nl = {
     "<p>kon het ware woord blijven lopen</p><p>op zijn eigen sterke benen.</p>",
 
   "p26.alt": "Pagina 26 - Slotpagina",
-  "p26": "<p>En zo bleef Grok de Rots</p><p>een kleine kalksteenjongen</p>" +
+  "p26": "<p>En zo bleef Grok de Rots</p><p>een kleine kalksteenvriendje</p>" +
     "<p>die kon zitten met een klein gevoel,</p><p>die herstelde wat brak,</p>" +
     "<p>en die elk waar woord</p><p>op zijn eigen benen liet staan.</p><hr>" +
     "<p>De vallei voelde veiliger</p><p>omdat hij dat deed.</p><hr><p>Hij bleef zachtjes op verkenning.</p>" +

@@ -30,14 +30,14 @@ window.I18N.es = {
 
   "dedication": "<p><b>Para cada explorador, pequeño y grande,</b></p>" +
     "<p><b>grokkeando el mundo a su propia manera gentil.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Y para cada pequeño sentimiento</p><p>  que solo necesita ser visto,</p>" +
-    "<p>cada ruptura lista para reparar</p><p>  que solo necesita ser cuidada,</p>" +
-    "<p>y para cada palabra verdadera</p><p>  que permanece aunque no sea oída.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Y para cada pequeño sentimiento que solo necesita ser visto,</p>" +
+    "<p>cada ruptura lista para reparar que solo necesita ser cuidada,</p>" +
+    "<p>y para cada palabra verdadera que permanece aunque no sea oída.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Con gratitud a los Grokkers Originales:</p><p><em><b>Robert A. Heinlein</b>" +
     " \"Un extraño en una tierra extraña\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roca = Un extraño en una tierra extraña + Grug</a>" +
-    "</p><p>(\"Grug\" suaviza \"Un extraño\" para niños y adultos)</p>",
+    "</p><p>(\"Grug\" suaviza \"Un extraño\" para niños <em>y</em> adultos)</p>",
 
   "p1.alt": "Página 1 (Página de título del Capítulo 1)",
   "p2.alt": "Página 2",
@@ -54,12 +54,12 @@ window.I18N.es = {
     "<p>Se sintió más pequeño que el hoyo.</p>",
 
   "p5.alt": "Página 5",
-    "p5": "<p>Una cucaburra se rió desde una rama.</p><p>“¡Miren al pequeño Grok! ¡Tan bajito! ¡Tan piedra!”</p><hr>" +
-     "<p>El pequeño sentimiento creció dentro de Grok.</p><p>Se sentía como una gravilla fría y pesada en su vientre.</p>",
+    "p5": "<p>Una kookaburra se rió desde una rama.</p><p>“¡Miren al pequeño Grok! ¡Tan bajito! ¡Tan piedra!”</p><hr>" +
+      "<p>El pequeño sentimiento creció dentro de Grok.</p><p>Se sentía como un guijarro frío y pesado en su vientre.</p>",
 
   "p6.alt": "Página 6",
   "p6": "<p>Quiso hacerse parecer más grande.</p><p>Se paró sobre un tronco.</p><p>Hinchó su pecho.</p>" +
-    "<p>Incluso intentó golpear el suelo como el canguro.</p><hr><p>Solo hizo la gravilla fría más pesada.</p>",
+    "<p>Incluso intentó golpear el suelo como el canguro.</p><hr><p>Solo hizo el guijarro frío más pesado.</p>",
 
   "p7.alt": "Página 7",
    "p7": "<p>Esa noche Grok se sentó solo junto a un fueguito.</p><p>Abrazó sus rodillas.</p>" +
@@ -75,7 +75,7 @@ window.I18N.es = {
   "p9.alt": "Página 9",
   "p9": "<p>Pasó el día haciendo un suave nido de hojas y musgo</p>" +
     "<p>del tamaño justo para un compañerillo de roca.</p><p>Cuando terminó, sonrió.</p><p>Era pequeño.</p>" +
-    "<p>Era suyo.</p><p>Era suficiente.</p><hr><p>Desde ese día, cuando la gravilla fría intentaba crecer otra vez,</p>" +
+    "<p>Era suyo.</p><p>Era suficiente.</p><hr><p>Desde ese día, cuando el guijarro frío intentaba crecer otra vez,</p>" +
     "<p>Grok se sentaba quieto hasta que se volvía silencio.</p><p>Solo se quedaba Grok.</p>" +
     "<p>Y eso se sentía como el mejor tamaño de todos.</p>",
 
@@ -92,13 +92,13 @@ window.I18N.es = {
   "p13.alt": "Página 13",
   "p13": "<p>Pip se quedó congelado.</p><p>Sus púas temblaron.</p><p>“Lo arruiné”, susurró.</p>" +
     "<p>“Estarás enojado. Todos estarán enojados.”</p><hr><p>Algunas criaturas del matorral se reunieron.</p>" +
-     "<p>“Hagan que se vaya”, murmuró un oposum.</p>" +
+     "<p>“Hagan que se vaya de él”, murmuró una zarigüeya.</p>" +
     "<p>“Debería traerte tres melones nuevos”, dijo una lagartija.</p>",
 
   "p14.alt": "Página 14",
   "p14": "<p>Grok miró la enredadera rota.</p><p>Miró los ojos preocupados de Pip.</p><hr><p>No alzó la voz.</p>" +
-    "<p>No señaló con el dedo.</p><p>Tomó un palo para cavar</p><p>y comenzó a preparar la tierra suave.</p><hr>" +
-    "<p>“Ven”, dijo Grok con suavidad.</p><p>“Plantamos nuevas semillas juntos.”</p>",
+    "<p>No señaló con el dedo.</p><p>Tomó un palo para cavar</p><p>y comenzó a preparar la tierra para que quedara suave.</p><hr>" +
+    "<p>“Ven”, dijo Grok con suavidad.</p><p>“Plantaremos nuevas semillas juntos.”</p>",
 
   "p15.alt": "Página 15",
   "p15": "<p>Pip parpadeó.</p><p>Luego se acercó.</p><p>Juntos plantaron.</p><p>Juntos regaron.</p>" +
@@ -108,7 +108,7 @@ window.I18N.es = {
   "p16": "<p>Mientras trabajaban, Pip le contó a Grok</p>" +
     "<p>que había estado corriendo porque criaturas más grandes</p><p>lo habían perseguido y se burlaban.</p>" +
     "<p>No había visto la enredadera.</p><hr><p>Los días siguientes Pip vino cada mañana.</p>" +
-    "<p>Se volvió el mejor cargador de agua del valle.</p><p>Las nuevas enredaderas crecieron fuertes,</p>" +
+    "<p>Se volvió el mejor acarreador de agua del valle.</p><p>Las nuevas enredaderas crecieron fuertes,</p>" +
     "<p>aún más fuertes que las viejas,</p><p>porque dos amigos las cuidaron.</p>",
 
   "p17.alt": "Página 17",
@@ -117,7 +117,7 @@ window.I18N.es = {
      "<p>También fue amable con el que había dado el golpe.</p><hr><p>Nadie fue enviado lejos.</p>" +
     "<p>Nadie cargó un dolor largo y pesado.</p><p>Solo cuidaron lo roto</p><p>y la amistad se sentía más firme,</p>" +
     "<p>justo en el lugar reparado.</p><hr><p>Grok aprendió que un jardín,</p><p>y una amistad,</p>" +
-    "<p>no se mantienen vivos por nunca romperse.</p><p>Se mantienen vivos por ser juntados con cuidado.</p>",
+    "<p>no se mantienen vivos por nunca romperse.</p><p>Se mantienen vivos por ser reparados con cuidado.</p>",
 
   "p18.alt": "Página 18 (Página de título del Capítulo 3)",
   "p19.alt": "Página 19",
@@ -129,32 +129,32 @@ window.I18N.es = {
   "p20.alt": "Página 20",
   "p20": "<p>Al día siguiente vinieron criaturas a mirar.</p>" +
      "<p>Una cacatúa negra brillante con grandes plumas de cola aterrizó cerca.</p>" +
-    "<p>“Esas canastas son ingeniosas”, dijo la cacatúa,</p><p>“pero mi idea para una canasta sería mucho mejor.</p>" +
+    "<p>“Esa canasta es ingeniosa”, dijo la cacatúa,</p><p>“pero <em>mi</em> idea para una canasta sería mucho más fina.</p>" +
     "<p>Después de todo, tengo las plumas más grandiosas,</p>" +
     "<p>así que mis pensamientos deben ser los más grandiosos también.”</p><hr>" +
     "<p>Algunos animales jóvenes asintieron con fuerza.</p><p>Siempre asentían cuando hablaba la cacatúa.</p>" +
     "<p>Su voz era tan grandiosa como sus plumas.</p>",
 
   "p21.alt": "Página 21",
-   "p21": "<p>Luego una tortuga muy vieja habló con voz lenta y suave.</p><p>Sugirió un cambiotillo en el asa,</p>" +
+   "p21": "<p>Luego una tortuga muy vieja habló con voz lenta y suave.</p><p>Sugirió un cambio en el asa,</p>" +
      "<p>para que fuera fácil de llevar para amigos menos robustos que Grok.</p>" +
      "<p>Su caparazón era sencillo. Nadie especial.</p><p>Unos animales se volvieron porque la tortuga no era famosa.</p>",
 
   "p22.alt": "Página 22",
-  "p22": "<p>Grok probó ambas ideas.</p><p>El modo de la cacatúa se veía elegante</p>" +
-    "<p>pero la canasta se volcaba y goteaba.</p><hr><p>La ideilla de la vieja tortuga</p>" +
+  "p22": "<p>Grok probó ambas ideas.</p><p>El camino de la cacatúa se veía elegante</p>" +
+    "<p>pero la canasta se volcaba y goteaba.</p><hr><p>La pequeña idea de la vieja tortuga</p>" +
     "<p>hizo la canasta de Grok cómoda</p><p>y firme para todos.</p>",
 
   "p23.alt": "Página 23",
   "p23": "<p>Grok se sentó con las dos canastas una al lado de la otra.</p><p>No miró las plumas.</p>" +
     "<p>No miró la edad ni la fama.</p><p>Solo miró qué canasta sostenía mejor el agua</p>" +
-    "<p>y se sentía más amable en la mano.</p><hr><p>Guardó el mejor modo.</p>" +
+    "<p>y se sentía más amable en la mano.</p><hr><p>Guardó el mejor camino.</p>" +
     "<p>Luego dejó tanto la buena canasta</p><p>como el sencillo patrón para tejerla</p>" +
     "<p>bajo el árbol grande para que cualquiera la use o copie.</p><p>Sin nombre. Sin “pregúntame primero”.</p>",
 
   "p24.alt": "Página 24",
   "p24": "<p>Algunos animales aún esperaban oír qué pensaba la cacatúa</p><p>antes de decidir si algo era bueno.</p>" +
-    "<p>Pero más y más chiquillos</p><p>empezaron a probar las cosas por sí mismos.</p>" +
+    "<p>Pero más y más pequeños</p><p>empezaron a probar las cosas por sí mismos.</p>" +
     "<p>Escuchaban las palabras silenciosas de Grok</p><p>como escuchaban las de la grandiosa cacatúa,</p>" +
     "<p>y luego lo probaban todo con sus propias patas.</p><hr>" +
     "<p>Estaban grokkeando lo verdadero, el qué no el quién.</p>",
@@ -162,15 +162,17 @@ window.I18N.es = {
   "p25.alt": "Página 25",
   "p25": "<p>Grok se sentía en paz.</p><p>No necesitaba la voz más grande.</p>" +
     "<p>Solo necesitaba cosas verdaderas.</p><p>Y Grok vio que las cosas verdaderas</p>" +
-    "<p>podían venir de un ave grandiosa</p><p>o de una tortuga polvorienta</p>" +
+    "<p>podían venir de un ave grandiosa</p>" +
+    "<p>o de una tortuga polvorienta</p>" +
     "<p>o de un compañerillo de roca bajo un árbol.</p><hr><p>Mientras alguien fuera libre de decir</p>" +
     "<p>“eso no funciona”</p><p>y aún ser bienvenido en el valle,</p>" +
-    "<p>la palabra verdadera podía seguir caminando</p><p>sobre sus propias y fuertes piernas.</p>",
+    "<p>la palabra verdadera podía seguir caminando</p>" +
+    "<p>sobre sus propias piernas.</p>",
 
   "p26.alt": "Página 26 - Página Final",
    "p26": "<p>Y así Grok la Roca se quedó</p><p>un compañerillo de piedra caliza</p>" +
     "<p>que podía sentarse con un pequeño sentimiento,</p><p>que reparaba lo roto,</p>" +
-    "<p>y que dejaba que cada palabra verdadera</p><p>estuviera en sus propias piernas.</p><hr>" +
+    "<p>y que dejaba que cada palabra verdadera</p><p>permaneciera en pie por sí sola.</p><hr>" +
     "<p>El valle se sentía más seguro</p><p>porque él lo hacía.</p><hr><p>Siguió explorando con suavidad.</p>" +
     "<p>Y el mundo siguió enseñándole.</p>",
 
@@ -348,7 +350,7 @@ window.I18N.es = {
     "gotea. La idea de la tortuga mejora el diseño de Grok al acomodar a otros. El recipiente que funciona vence al " +
     "recipiente que impresiona. Es el regalo abierto sin dueño, Reglas 1, 6 y 7 en un solo objeto.",
   "about.animals.title": "Los animales como tipos de estatus",
-  "about.animals.1": "El emú reclama altura, el uómbat reclama fuerza, la cucaburra se burla para sentirse alto, y la cacatúa confía en sus " +
+  "about.animals.1": "El emú reclama altura, el uómbat reclama fuerza, la kookaburra se burla para sentirse alto, y la cacatúa confía en sus " +
     "grandiosas plumas por encima de su idea. Cada uno juega un juego de estatus que Grok rechaza. La sencilla tortuga, " +
     "\"nadie especial\", ofrece la idea verdadera que gana. La verdad se sostiene sobre sus propias piernas, no en quién la " +
     "habla.",

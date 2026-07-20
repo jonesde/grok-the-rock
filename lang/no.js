@@ -30,12 +30,7 @@ window.I18N.no = {
   "dedication": "<p><b>Til hver eneste oppdager, liten og stor,</b></p>" +
     "<p><b>som grokker verden på sin egen milde måte.</b></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Og til hver lille følelse</p>" +
-    "<p>  som bare trenger å bli sett,</p>" +
-    "<p>hvert brudd som skal repareres</p>" +
-    "<p>  som bare trenger å bli stelt,</p>" +
-    "<p>og til hvert sant ord</p>" +
-    "<p>  som står selv om det ikke blir hørt.</p>" +
+    "<p>Og til hver lille følelse<br>  som bare trenger å bli sett,<br>hvert brudd som skal repareres<br>  som bare trenger å bli stelt,<br>og til hvert sant ord<br>  som står selv om det ikke blir hørt.</p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Med takk til de opprinnelige Grokkers:</p>" +
     "<p><em><b>Robert A. Heinlein</b> \"Fremmed i en fremmed verden\"</em></p>" +
@@ -70,14 +65,14 @@ window.I18N.no = {
   "p5": "<p>En kookaburra lo fra en gren.</p>" +
     "<p>\"Se på lille Grok! Så kort! Så steinete!\"</p><hr>" +
     "<p>Den lille følelsen vokste inne i Grok.</p>" +
-    "<p>Det føltes som en tung, kald knaus i magen hans.</p>",
+    "<p>Det føltes som en tung, kald liten stein i magen hans.</p>",
 
   "p6.alt": "Side 6",
   "p6": "<p>Han ville se større ut.</p>" +
     "<p>Han stilte seg på en tømmerstokk.</p>" +
     "<p>Han blåste ut brystet.</p>" +
     "<p>Han prøvde til og med å trampe i bakken som kenguruen.</p><hr>" +
-    "<p>Det gjorde bare den kalde knausen tyngre.</p>",
+    "<p>Det gjorde bare den kalde lille steinen tyngre.</p>",
 
   "p7.alt": "Side 7",
   "p7": "<p>Den kvelden satt Grok alene ved et lite bål.</p>" +
@@ -101,12 +96,12 @@ window.I18N.no = {
 
   "p9.alt": "Side 9",
   "p9": "<p>Han brukte dagen på å lage et mykt rede av blader og mose,</p>" +
-    "<p>akkurat riktig størrelse for en liten steinkar.</p>" +
+    "<p>akkurat riktig størrelse for en liten steinvenn.</p>" +
     "<p>Da det var ferdig, smilte han.</p>" +
     "<p>Det var lite.</p>" +
     "<p>Det var hans.</p>" +
     "<p>Det var nok.</p><hr>" +
-    "<p>Fra den dagen, da den kalde knausen prøvde å vokse igjen,</p>" +
+    "<p>Fra den dagen, da den kalde lille steinen prøvde å vokse igjen,</p>" +
     "<p>satt Grok stille til den ble rolig.</p>" +
     "<p>Han forble Grok.</p>" +
     "<p>Og det føltes som den beste størrelsen av alle.</p>",
@@ -120,7 +115,7 @@ window.I18N.no = {
 
   "p12.alt": "Side 12",
   "p12": "<p>Den ettermiddagen kom vennen hans,</p>" +
-    "<p>et ungt maurpinnsvin som het Pip.</p>" +
+    "<p>et ungt piggryssvin som het Pip.</p>" +
     "<p>Han skyndte seg gjennom hagen og så bak seg</p>" +
     "<p>og veltet den beste melonranken.</p><hr>" +
     "<p>Den store melonen sprakk på bakken.</p>" +
@@ -245,7 +240,7 @@ window.I18N.no = {
     "<p>Og Grok så at sanne ting</p>" +
     "<p>kunne komme fra en staselig fugl</p>" +
     "<p>eller en støvete skilpadde</p>" +
-    "<p>eller en liten steinkar under et tre.</p><hr>" +
+    "<p>eller en liten steinvenn under et tre.</p><hr>" +
     "<p>Så lenge noen var fri til å si</p>" +
     "<p>\"det fungerer ikke\"</p>" +
     "<p>og fortsatt være velkommen i dalen,</p>" +
@@ -254,7 +249,7 @@ window.I18N.no = {
 
   "p26.alt": "Side 26 - Avslutningsside",
   "p26": "<p>Og slik forble Grok Steinen</p>" +
-    "<p>en liten steinkar</p>" +
+    "<p>en liten steinvenn</p>" +
     "<p>som kunne sitte med en liten følelse,</p>" +
     "<p>som reparerte det som brakk,</p>" +
     "<p>og som lot hvert sant ord</p>" +
@@ -438,8 +433,8 @@ window.I18N.no = {
   "about.animals.1": "Emuen krever høyde, wombaten krever styrke, kookaburraen spotter for å føle seg høy, og kakaduen stoler på sine flotte " +
     "fjær fremfor ideen sin. Hver av dem spiller et statusspeil som Grok avslår. Den enkle skilpadden, \"ingen spesielt\", " +
     "tilbyr den sanne ideen som vinner. Sannhet står på sine egne bein, ikke på hvem som taler den.",
-  "about.pebble.title": "Den lille følelsen (den \"kalde knausen\")",
-  "about.pebble.1": "Den lille følelsen sitter som \"en tung, kald knaus\" midt i Grok. Han løper ikke fra den og kaster den ikke på noen; " +
+  "about.pebble.title": "Den lille følelsen (den \"kalde lille steinen\")",
+  "about.pebble.1": "Den lille følelsen sitter som \"en tung, kald liten stein\" midt i Grok. Han løper ikke fra den og kaster den ikke på noen; " +
     "han sitter med den til den mykner \"som leire som ligger i solen.\" Skam helbredes ved å bli møtt og følt (\"sett\"), " +
     "ikke ved å bli forbigått eller dyttet bort, og dette er hjertet av Kapittel 1.",
   "about.tree.title": "Det høye treet",

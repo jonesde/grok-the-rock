@@ -29,9 +29,9 @@ window.I18N.it = {
 
   "dedication": "<p><b>Per ogni esploratore, piccolo e grande,</b></p>" +
     "<p><b>che grokka il mondo a modo suo, con dolcezza.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>E per ogni piccolo sentimento</p><p>  che ha solo bisogno di essere visto,</p>" +
-    "<p>ogni rottura pronta per essere riparata</p><p>  che ha solo bisogno di cura,</p><p>e per ogni parola vera</p>" +
-    "<p>  che resta in piedi anche se inascoltata.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>E per ogni piccolo sentimento</p><p>che ha solo bisogno di essere visto,</p>" +
+    "<p>ogni rottura pronta per essere riparata</p><p>che ha solo bisogno di cura,</p><p>e per ogni parola vera</p>" +
+    "<p>che resta in piedi anche se inascoltata.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Con gratitudine ai Grokker originali:</p><p><em><b>Robert A. Heinlein</b>" +
     " \"Straniero in terra straniera\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +

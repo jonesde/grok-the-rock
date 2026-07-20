@@ -213,15 +213,15 @@ window.I18N.pt = {
 
   "p20.alt": "Página 20",
   "p20": "<p>No dia seguinte criaturas vieram olhar.</p>" +
-    "<p>Uma catatua negra brilhante com grandes penas pousou por perto.</p>" +
-    "<p>\"Esse cesto é engenhoso\", disse a catatua,</p>" +
+    "<p>Uma cacatua negra brilhante com grandes penas da cauda pousou por perto.</p>" +
+    "<p>\"Esse cesto é engenhoso\", disse a cacatua,</p>" +
     "<p>\"mas a <em>minha</em>" +
     " ideia para um cesto seria muito melhor.</p>" +
     "<p>Afinal, tenho as penas mais grandiosas,</p>" +
     "<p>então meus pensamentos devem ser os mais grandiosos também.\"</p>" +
     "<hr>" +
     "<p>Alguns animais mais jovens acenaram forte com a cabeça.</p>" +
-    "<p>Sempre acenavam quando a catatua falava.</p>" +
+    "<p>Sempre acenavam quando a cacatua falava.</p>" +
     "<p>Sua voz era tão grandiosa quanto suas penas.</p>",
 
   "p21.alt": "Página 21",
@@ -233,7 +233,7 @@ window.I18N.pt = {
 
   "p22.alt": "Página 22",
   "p22": "<p>Grok experimentou as duas ideias.</p>" +
-    "<p>O jeito da catatua parecia elegante</p>" +
+    "<p>O jeito da cacatua parecia elegante</p>" +
     "<p>mas o cesto tombava e vazava.</p>" +
     "<hr>" +
     "<p>A pequena ideia da velha tartaruga</p>" +
@@ -254,12 +254,12 @@ window.I18N.pt = {
     "<p>Sem nome. Sem \"pergunte-me primeiro\".</p>",
 
   "p24.alt": "Página 24",
-  "p24": "<p>Alguns animais ainda esperavam ouvir o que a catatua pensava</p>" +
+  "p24": "<p>Alguns animais ainda esperavam ouvir o que a cacatua pensava</p>" +
     "<p>antes de decidir se algo era bom.</p>" +
     "<p>Mas cada vez mais pequeninos</p>" +
     "<p>começaram a experimentar as coisas por si mesmos.</p>" +
     "<p>Ouviam as palavras quietas de Grok</p>" +
-    "<p>do mesmo jeito que ouviam as da catatua grandiosa,</p>" +
+    "<p>do mesmo jeito que ouviam as da cacatua grandiosa,</p>" +
     "<p>e então testavam tudo com as próprias patas.</p>" +
     "<hr>" +
     "<p>Estavam grokkando o verdadeiro, o quê, não o quem.</p>",
@@ -462,11 +462,11 @@ window.I18N.pt = {
     "por nome ou imagem, em todos os três capítulos.",
   "about.basket.title": "O cesto forrado de argila",
   "about.basket.1": "Grok trança um cesto de juncos e o forra com argila macia para que segure água sem uma gota, depois deixa tanto o cesto " +
-    "quanto o simples padrão de trançado sob a árvore para qualquer um copiar. O cesto elegante da catatua vaza. A ideia da " +
+    "quanto o simples padrão de trançado sob a árvore para qualquer um copiar. O cesto elegante da cacatua vaza. A ideia da " +
     "tartaruga melhora o projeto de Grok acomodando os outros. O recipiente que funciona vence o recipiente que impressiona. " +
     "É o presente aberto sem dono, Regras 1, 6 e 7 num só objeto.",
   "about.animals.title": "Os animais como tipos de status",
-  "about.animals.1": "A ema reivindica altura, o vombate reivindica força, a kookaburra zomba para se sentir alta, e a catatua confia em suas " +
+  "about.animals.1": "A ema reivindica altura, o vombate reivindica força, a kookaburra zomba para se sentir alta, e a cacatua confia em suas " +
     "penas grandiosas mais do que em sua ideia. Cada um está jogando um jogo de status que Grok recusa. A simples tartaruga, " +
     "\"ninguém especial\", oferece a ideia verdadeira que vence. A verdade fica sobre suas próprias pernas, não sobre quem a " +
     "fala.",
@@ -506,7 +506,7 @@ window.I18N.pt = {
     "<p>O temperamento que torna essa recusa <em>legível como livro infantil</em>" +
     " é o de Grug. Grok acorda \"como se visse o mundo pela primeira vez\" (Três Histórias Silenciosas, p.2) do mesmo jeito " +
     "desorientado, à la Grug, que Grug encontra cada nova surpresa do mato; ele fracassa em parecer grande (p.6) como Grug " +
-    "fracassa em pescar um peixe e \"come feliz feijões\" em vez disso. Nenhum vilão é derrotado. O jogo de status da catatua " +
+    "fracassa em pescar um peixe e \"come feliz feijões\" em vez disso. Nenhum vilão é derrotado. O jogo de status da cacatua " +
     "é neutralizado testando-com-as-patas, não derrubando-a. Esse é o grão de Prior — e é o que deixa a política mais dura " +
     "escondida à vista de todos.</p><p>Mas a quietude é <em>carregada</em>" +
     ", e as Regras dão nome a isso. Grok é uma \"rocha cinzenta\" (Regras, p.30) de propósito: fazer-se de rocha cinzenta é a " +

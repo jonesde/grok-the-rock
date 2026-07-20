@@ -29,10 +29,8 @@ window.I18N.de = {
 
   "dedication": "<p><b>Für jeden Entdecker, klein und groß,</b></p>" +
     "<p><b>die Welt auf ihre eigene sanfte Weise grokkend.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Und für jedes kleine Gefühl</p><p>  das nur gesehen werden muss,</p><p>jeden Bruch, der Heilung braucht</p>" +
-    "<p>  der nur Pflege braucht,</p><p>und für jedes wahre Wort</p><p>  das steht, auch wenn es ungehört bleibt.</p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p><p>Mit Dank an die ursprünglichen Grokker:</p><p><em><b>Robert A. Heinlein</b>" +
-    "</em> „Fremder in einer fremden Welt“</p><p><em><b>Ted Prior</b> „Grug“</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Und für jedes kleine Gefühl, das nur gesehen werden muss,</p><p>jeden Bruch, der Heilung braucht, der nur Pflege braucht,</p><p>und für jedes wahre Wort, das steht, auch wenn es ungehört bleibt.</p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p><p>Mit Dank an Original Grokkers:</p><p><em><b>Robert A. Heinlein</b> „Fremder in einer fremden Welt“</em></p><p><em><b>Ted Prior</b> „Grug“</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok der Fels = Fremder in einer fremden Welt + Grug</a>" +
     "</p><p>(„Grug“ macht „Fremder“ sauber für Kinder <em>und</em> Erwachsene)</p>",
 
@@ -52,7 +50,7 @@ window.I18N.de = {
     "<p>Er fühlte sich kleiner als das Loch.</p>",
 
   "p5.alt": "Seite 5",
-  "p5": "<p>Ein Kookaburra lachte von einem Ast.</p><p>„Seht euch den kleinen Grok an! So kurz! So steinig!“</p><hr>" +
+  "p5": "<p>Ein Kuckabarra lachte von einem Ast.</p><p>„Seht euch den kleinen Grok an! So kurz! So steinig!“</p><hr>" +
     "<p>Das kleine Gefühl wuchs in Grok.</p><p>Es fühlte sich an wie ein schwerer kalter Kiesel in seiner Mitte.</p>",
 
   "p6.alt": "Seite 6",
@@ -94,7 +92,7 @@ window.I18N.de = {
   "p13.alt": "Seite 13",
   "p13": "<p>Pip erstarrte.</p><p>Seine Stacheln zitterten.</p><p>„Ich habe es kaputt gemacht“, flüsterte er.</p>" +
     "<p>„Du wirst wütend sein. Alle werden wütend sein.“</p><hr><p>Einige Buschtiere versammelten sich.</p>" +
-    "<p>„Schickt ihn weg“, murmelte ein Opossum.</p><p>„Er soll dir drei neue Melonen bringen“, sagte eine Echse.</p>",
+    "<p>„Schickt ihn weg“, murmelte eine Beutelratte.</p><p>„Er soll dir drei neue Melonen bringen“, sagte eine Echse.</p>",
 
   "p14.alt": "Seite 14",
   "p14": "<p>Grok betrachtete die gebrochene Ranke.</p><p>Er betrachtete Pips sorgenvolle Augen.</p><hr>" +
@@ -369,7 +367,7 @@ window.I18N.de = {
     "funktioniert, schlägt das Gefäß, das beeindruckt. Es ist das offene Geschenk ohne Besitzer, die Regeln 1, 6 und 7 in " +
     "einem Gegenstand.",
   "about.animals.title": "Die Tiere als Statustypen",
-  "about.animals.1": "Der Emu beansprucht Höhe, der Wombat beansprucht Stärke, der Kookaburra spottet, um sich groß zu fühlen, und der Kakadu " +
+  "about.animals.1": "Der Emu beansprucht Höhe, der Wombat beansprucht Stärke, der Kuckabarra spottet, um sich groß zu fühlen, und der Kakadu " +
     "vertraut seinen prächtigen Federn mehr als seiner Idee. Jeder spielt ein Statusspiel, das Grok ablehnt. Die schlichte " +
     "Schildkröte, „niemand Besonderes“, bietet die wahre Idee, die gewinnt. Die Wahrheit steht auf ihren eigenen Beinen, " +
     "nicht darauf, wer sie spricht.",

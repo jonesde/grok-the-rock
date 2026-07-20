@@ -13,14 +13,14 @@ window.I18N.fr = {
   "nav.about": "À propos de Grok",
   "nav.book": "Le Livre",
 
-  "cover.alt": "Art de couverture",
+  "cover.alt": "Couverture",
   "title.h1": "Grok le Rocher",
   "title.h3": "Trois Histoires Silencieuses",
-  "title.h2": "Être · Réparer · Voir",
+  "title.h2": "Être · Réparation · Voir",
   "credit.1": "Ébauche d'histoire, instructions pour les images avec Grok 4.5 de xAI",
   "credit.2": "Illustrations avec Grok Imagine de xAI",
   "credit.3": "Règles, édition, automatisation avec HY3 de Tencent",
-  "credit.4": "<em>Ceci n'est affilié ni approuvé par xAI ou Tencent</em>",
+  "credit.4": "<em>Non affilié à et n'approuvé par xAI ni par Tencent</em>",
   "credit.5": "Ceci est un mème narratif généré par IA et curé par des humains",
   "credit.6": "Domaine public (CC0 1.0)",
   "credit.7": "Copiez-le • Partagez-le • Traduisez-le • Redessinez-le • Laissez-le grandir",
@@ -44,7 +44,7 @@ window.I18N.fr = {
     "<p>Il regarda le vaste monde</p><p>comme s'il le voyait pour la première fois.</p>",
 
   "p3.alt": "Page 3",
-  "p3": "<p>Bientôt il marcha jusqu'au point d'eau.</p><p>Une haute émeu s'y trouvait déjà.</p>" +
+  "p3": "<p>Bientôt il marcha jusqu'au point d'eau.</p><p>Un grand émeu s'y trouvait déjà.</p>" +
     "<p>L'émeu étira son long cou et dit :</p><p>« Je suis la plus haute. Mets-toi derrière moi. »</p>",
 
   "p4.alt": "Page 4",
@@ -79,7 +79,7 @@ window.I18N.fr = {
     "<p>à la taille juste pour un petit compagnon de roche.</p><p>Quand il eut fini, il sourit.</p>" +
     "<p>Il était petit.</p><p>C'était à lui.</p><p>C'était assez.</p><hr>" +
     "<p>Depuis ce jour, quand le galet froid recommençait à grandir,</p>" +
-    "<p>Grok restait immobile jusqu'à ce que tout redevienne silence.</p><p>Il ne restait que Grok.</p>" +
+    "<p>Grok restait immobile jusqu'à ce que tout redevienne silence.</p><p>Il restait simplement Grok.</p>" +
     "<p>Et cela se sentait comme la meilleure taille de toutes.</p>",
 
   "p10.alt": "Page 10 (Page de titre du Chapitre 2)",
@@ -120,7 +120,7 @@ window.I18N.fr = {
   "p17.alt": "Page 17",
   "p17": "<p>Quand d'autres petits accidents arrivèrent</p><p>(comme ils arrivent toujours),</p>" +
     "<p>Grok se souvint du melon.</p><p>Il aida celui qui se sentait blessé.</p>" +
-    "<p>Il fut aussi doux avec celui qui avait fait le bêtise.</p><hr><p>Personne ne fut chassé au loin.</p>" +
+    "<p>Il fut aussi doux avec celui qui avait fait la bêtise.</p><hr><p>Personne ne fut chassé au loin.</p>" +
     "<p>Personne ne porta une longue et lourde peine.</p><p>Ils soignèrent seulement ce qui était brisé</p>" +
     "<p>et l'amitié se sentit plus ferme,</p><p>juste à l'endroit réparé.</p><hr><p>Grok apprit qu'un jardin,</p>" +
     "<p>et une amitié,</p><p>ne restent pas vivants en ne se brisant jamais.</p>" +
@@ -138,8 +138,8 @@ window.I18N.fr = {
   "p20": "<p>Le lendemain vint des créatures pour regarder.</p>" +
     "<p>Une cacatoès noire brillante aux grandes plumes de la queue atterrit près de là.</p>" +
     "<p>« Ces paniers sont ingénieux », dit la cacatoès,</p><p>« mais mon idée de panier serait bien meilleure.</p>" +
-    "<p>Après tout, j'ai les plumes les plus grandioses,</p>" +
-    "<p>donc mes pensées doivent être les plus grandioses aussi. »</p><hr>" +
+    "<p>Après tout, j'ai les plus grandes plumes,</p>" +
+    "<p>donc mes pensées doivent être les plus grandes aussi. »</p><hr>" +
     "<p>Quelques jeunes animaux hochèrent fort la tête.</p><p>Ils hochaient toujours quand la cacatoès parlait.</p>" +
     "<p>Sa voix était aussi grandiose que ses plumes.</p>",
 
@@ -148,7 +148,7 @@ window.I18N.fr = {
     "<p>Elle suggéra le petit changement d'une anse,</p>" +
     "<p>pour que ce soit facile à porter pour des amis moins forts que Grok.</p>" +
     "<p>Sa carapace était simple. Personne de spécial.</p>" +
-    "<p>Quelques animaux se retournèrent, rien que pour ne pas être célèbre.</p>",
+    "<p>Quelques animaux se détournèrent parce que la tortue n'était pas connue.</p>",
 
   "p22.alt": "Page 22",
   "p22": "<p>Grok essaya les deux idées.</p><p>La manière de la cacatoès paraissait élégante</p>" +
@@ -158,7 +158,7 @@ window.I18N.fr = {
   "p23.alt": "Page 23",
   "p23": "<p>Grok s'assit avec les deux paniers côte à côte.</p><p>Il ne regarda pas les plumes.</p>" +
     "<p>Il ne regarda pas l'âge ni la renommée.</p><p>Il regarda seulement quel panier retenait mieux l'eau</p>" +
-    "<p>et se sentait plus doux dans la main.</p><hr><p>Il garda la meilleure manière.</p>" +
+    "<p>et se sentait plus agréable dans la main.</p><hr><p>Il garda la meilleure manière.</p>" +
     "<p>Puis il laissa autant le bon panier</p><p>que le simple motif pour le tisser</p>" +
     "<p>sous le grand arbre pour que chacun l'use ou le copie.</p><p>Sans nom. Sans « demande-moi d'abord ».</p>",
 
@@ -166,7 +166,7 @@ window.I18N.fr = {
   "p24": "<p>Certains animaux attendaient encore d'entendre ce que la cacatoès pensait</p>" +
     "<p>avant de décider si quelque chose était bon.</p><p>Mais de plus en plus de petits</p>" +
     "<p>commencèrent à essayer les choses par eux-mêmes.</p><p>Ils écoutaient les paroles silencieuses de Grok</p>" +
-    "<p>comme ils écoutaient celles de la grandieuse cacatoès,</p>" +
+    "<p>comme ils écoutaient celles du grand cacatoès,</p>" +
     "<p>puis ils essayaient tout avec leurs propres pattes.</p><hr>" +
     "<p>Ils étaient en train de groker le vrai, le quoi et non le qui.</p>",
 
@@ -182,7 +182,7 @@ window.I18N.fr = {
   "p26": "<p>Et ainsi Grok le Rocher demeura</p><p>un petit compagnon de pierre à chaux</p>" +
     "<p>qui pouvait s'asseoir avec un petit sentiment,</p><p>qui réparait ce qui était brisé,</p>" +
     "<p>et qui laissait chaque parole vraie</p><p>être sur ses propres jambes.</p><hr>" +
-    "<p>La vallée se sentait plus sûre</p><p>parce qu'il l'était.</p><hr><p>Il continua d'explorer doucement.</p>" +
+    "<p>La vallée se sentait plus sûre</p><p>parce qu'il était là.</p><hr><p>Il continua d'explorer doucement.</p>" +
     "<p>Et le monde continua de lui enseigner.</p>",
 
   "site.title.rules": "Grok le Rocher - Règles de S'en Sortir Ensemble",
