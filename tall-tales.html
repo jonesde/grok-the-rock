@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="images/ico/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="images/ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/ico/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/ico/apple-touch-icon.png">
+<title>Hai Ikthiss - Three Tall Tales</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #efe7d8; }
+  body { font-family: "Nunito", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; }
+  h1, h2, h3 { font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif; font-optical-sizing: auto; font-weight: 600; letter-spacing: 0.01em; }
+  .book {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6vw;
+    padding: 0.6vw;
+  }
+  .page {
+    position: relative;
+    line-height: 0;
+    background: #efe7d8;
+    overflow: hidden;
+  }
+  .page .page-num {
+      position: absolute;
+      left: 0; right: 0; top: 0;
+      z-index: 2;
+      padding: 4% 7% 6%;
+      text-align: center;
+      line-height: 1.25;
+      font-size: clamp(0.7rem, 1.4vw, 1.3rem);
+      color: #1b1108;
+      text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4);
+  }
+  .page img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .page img.ph {
+    aspect-ratio: 1650 / 2550;
+    object-fit: cover;
+    background: linear-gradient(180deg, #e8e0d0 0%, #d9d0bc 45%, #efe7d8 100%);
+    min-height: 40vh;
+  }
+  .page p {
+    padding: 0;
+    margin: 0;
+  }
+  .book-single {
+      display: block;
+      padding: 0.6vw;
+  }
+  .book-single .page img {
+      width: 96vw;
+      margin: 0 auto;
+      aspect-ratio: initial;
+  }
+  .book-single .page img.ph {
+      aspect-ratio: 1650 / 2550;
+      max-width: 96vw;
+      max-height: 96vh;
+      width: auto;
+  }
+  .book-single .page video {
+      display: block;
+      max-height: 96vh;
+      max-width: 96vw;
+      width: auto;
+      margin: 0 auto;
+  }
+  /* Cover: show static image on screen (no video yet) */
+  .book-single.cover .cover-img { display: block; }
+  .book-single.cover .page {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  .book-single.cover .cardtext { position: absolute; left: 0; right: 0; top: 0; bottom: 30%; z-index: 3; display: flex; flex-direction: column; justify-content: center; padding: 4% 10%; line-height: 0.75; color: #1b1108; text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4); }
+  .chapter-title {
+      position: absolute;
+      left: 0; right: 0; top: 6%;
+      z-index: 2;
+      text-align: center;
+      padding: 4% 8% 0;
+      pointer-events: none;
+      line-height: 1.3;
+      color: #1b1108;
+      text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4);
+  }
+  .chapter-title.bottom {
+      top: auto;
+      bottom: 6%;
+      padding: 0 8% 4%;
+  }
+  .chapter-title h2 { font-size: clamp(1.1rem, 2.4vw, 2.2rem); margin: 0 0 0.3em; }
+  .chapter-title p { font-size: clamp(0.8rem, 1.6vw, 1.4rem); margin: 0; }
+  .caption {
+    position: absolute;
+    left: 0; right: 0;
+    bottom: 5%;
+    z-index: 1;
+    padding: 4% 7% 6%;
+    text-align: center;
+    line-height: 1.25;
+    font-size: clamp(0.7rem, 1.4vw, 1.3rem);
+    color: #1b1108;
+    text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4);
+  }
+  .caption hr {
+      width: 40px;
+      border: none; color: transparent;
+      border-top: 3px dotted rgba(150,140,120,0.8);
+  }
+  .textpage {
+    background: #fbf4e6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  .cardtext {
+    line-height: 1.5;
+    text-align: center;
+    padding: 8% 10%;
+    font-size: clamp(0.7rem, 1.4vw, 1.3rem);
+    color: #3a2f22;
+  }
+  .cardtext hr {
+      width: 40px;
+      border: none; color: transparent;
+      border-top: 3px dotted rgba(150,140,120,0.8);
+  }
+  .cardtext strong { font-size: 1.15em; }
+  @media (max-width: 1024px) {
+    .book { grid-template-columns: 1fr; }
+    .textpage { min-height: 30vh; }
+  }
+  .site-header {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.45rem clamp(0.8rem, 3vw, 2rem);
+    background: rgba(239,231,216,0.85);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid rgba(150,140,120,0.45);
+    font-family: "Fraunces", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  }
+  .site-title { font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif; font-size: 1.05rem; font-weight: 600; color: #1b1108; letter-spacing: 0.01em; }
+  .site-nav { display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: flex-end; }
+  .site-link {
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: #6b6256;
+    background: rgba(107,98,86,0.10);
+    border: 1px solid rgba(150,140,120,0.45);
+    border-radius: 999px;
+    padding: 0.35rem 0.9rem;
+    transition: background .15s ease, border-color .15s ease, color .15s ease;
+  }
+  .site-link:hover { background: rgba(107,98,86,0.22); border-color: #6b6256; color: #1b1108; }
+  .site-link.active {
+    cursor: default;
+    color: #1b1108;
+    background: rgba(107,98,86,0.30);
+    border-color: #6b6256;
+    font-weight: 700;
+  }
+  .site-link.active:hover { background: rgba(107,98,86,0.30); border-color: #6b6256; color: #1b1108; }
+  #lang-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding-right: 1.4rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%236b6256' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.6rem center;
+  }
+
+  .seelink {
+    color: #4a3a26;
+    text-decoration: underline;
+    text-decoration-color: rgba(107,98,86,0.55);
+    text-underline-offset: 0.18em;
+    transition: color .15s ease, text-decoration-color .15s ease;
+  }
+  .seelink:hover {
+    color: #1b1108;
+    text-decoration-color: #6b6256;
+  }
+
+  body { padding-top: 2.6rem; }
+  @media print {
+    @page { size: Letter landscape; margin: 0; }
+    html, body { background: #efe7d8; }
+    body { padding-top: 0; }
+    body, .page, .textpage, .card {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .site-header { display: none !important; }
+    .book { grid-template-columns: 1fr 1fr; gap: 0; padding: 0; }
+    .book > .page {
+      overflow: hidden;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .book > .page:nth-child(even) {
+      break-after: page;
+      page-break-after: page;
+    }
+    .page img { width: 100%; height: auto; display: block; }
+    .book-single {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 11in;
+      height: 8.5in;
+      padding: 0;
+      break-after: page;
+      page-break-after: always;
+    }
+    .book-single .page {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .book-single .page img {
+      max-width: 100%;
+      max-height: 100%;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+    }
+    .book-single .page video { display: none; }
+    .cover-img { display: block !important; }
+    .textpage { min-height: 0; }
+  }
+  .caption .phon {
+      font-size: 0.75em;
+      font-style: italic;
+      opacity: 0.7;
+  }
+  /* Keep cover/chapter overlays visible until baked title art lands */
+</style>
+</head>
+<body>
+  <header class="site-header">
+    <span class="site-title" data-i18n="site.title.tall">Hai Ikthiss - Three Tall Tales</span>
+    <span class="site-nav">
+      <button class="site-link" id="print-btn" type="button" data-i18n="nav.print">Print</button>
+      <select id="lang-select" class="site-link" aria-label="Language"></select>
+      <!-- IMPORTANT: keep link order so it reads as "Grok Rules About Grok" -->
+      <a class="site-link" href="grok-rules.html" data-i18n="nav.rules">Grok Rules</a>
+      <a class="site-link" href="about-grok.html" data-i18n="nav.about">About Grok</a>
+      <a class="site-link" href="index.html" data-i18n="nav.book">Quiet Stories</a>
+      <span class="site-link active" aria-current="page" data-i18n="nav.tall">Tall Tales</span>
+    </span>
+  </header>
+  <div class="book-single cover">
+    <div class="page">
+          <img class="cover-img" src="images/hai/cover-grok-bffd8ee1-7934-4ec3-94dc-205a63ee3959.jpg" alt="Cover Art" data-i18n-alt="cover.alt">
+          <div class="cardtext" data-i18n-html="cover.title">
+            <h1>Hai Ikthiss</h1>
+            <h3>Three Tall Tales</h3>
+            <h2>Being · Mending · Seeing</h2>
+          </div>
+    </div>
+  </div>
+  <div class="book-single">
+    <div class="page textpage">
+      <div class="cardtext">
+        <h1 data-i18n="title.h1">Hai Ikthiss</h1>
+        <h3 data-i18n="title.h3">Three Tall Tales</h3>
+        <h2 data-i18n="title.h2">Being · Mending · Seeing</h2>
+        <hr>
+        <p>&nbsp;</p>
+        <p data-i18n="credit.1">Draft Story, Image Prompts with Grok 4.5 from xAI</p>
+        <p data-i18n="credit.2">Illustrations with Grok Imagine from xAI</p>
+        <p data-i18n="credit.3">Rules, Editing, Automation with HY3 from Tencent</p>
+        <p data-i18n="credit.4"><em>Not affiliated with or endorsed by xAI or Tencent</em></p>
+        <p>&nbsp;</p>
+        <hr>
+        <p>&nbsp;</p>
+        <p data-i18n="credit.5">This is an AI-generated human-curated story-meme</p>
+        <p data-i18n="credit.6">Public Domain (CC0 1.0)</p>
+        <p data-i18n="credit.7">Copy it • Share it • Translate it • Redraw it • Let it grow</p>
+        <p>&nbsp;</p>
+        <p data-i18n-html="credit.companion"><em>Companion to <a class="seelink" href="index.html">Grok the Rock: Three Quiet Stories</a></em></p>
+      </div>
+    </div>
+  </div>
+  <div class="book">
+    <div class="page">
+      <img class="ph" src="images/hai/dedication.jpg" alt="Dedication Page" data-i18n-alt="dedication.alt">
+      <div class="caption" style="bottom:35%;" data-i18n-html="dedication">
+        <p><b>For every life that grows toward the light,</b></p>
+        <p><b>and every hand that reaches down to lift.</b></p>
+        <p>&nbsp;</p>
+        <hr>
+        <p>&nbsp;</p>
+        <p>And for every empty cheer</p>
+        <p>  that still needs true seeing,</p>
+        <p>every high place</p>
+        <p>  that still needs mending below,</p>
+        <p>and for every living water</p>
+        <p>  that finds the lowest root.</p>
+        <p>&nbsp;</p>
+        <hr>
+        <p>&nbsp;</p>
+        <p>With thanks to Original Tall Tellers:</p>
+        <p><em><b>J.R.R. Tolkien</b> "The Lord of the Rings"</em></p>
+        <p><em><b>Ted Prior</b> "Grug"</em></p>
+        <p><em>and every quiet seed that learned to walk</em></p>
+        <p>&nbsp;</p>
+        <hr>
+        <p>&nbsp;</p>
+        <p><a class="seelink" href="index.html">Companion: Grok the Rock — Three Quiet Stories</a></p>
+      </div>
+    </div>
+    <div class="page" style="background:#f9f8f4;">
+      <img class="ph" src="images/hai/page-1.jpg" alt="Page 1 (Chapter title page)" data-i18n-alt="p1.alt">
+      <div class="chapter-title" data-i18n-html="c1.title">
+        <h2>Chapter One - Being</h2>
+        <p><em>Hai and the Empty Praise</em></p>
+      </div>
+    </div>
+    <div class="page" style="background:#f0e8da;">
+      <div class="page-num">2</div>
+      <img class="ph" src="images/hai/page-2.jpg" alt="Page 2" data-i18n-alt="p2.alt">
+      <div class="caption" style="bottom:8%;" data-i18n-html="p2">
+        <p>Hai Ikthiss ruled the forest from atop the tall tree.</p>
+        <p>He was the first tree in the valley.</p>
+        <p>When the valley was empty, he stood alone.</p>
+        <p>Rain found him first.</p>
+        <p>Then grass.</p>
+        <p>Then birds.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#ebe3d4;">
+      <div class="page-num">3</div>
+      <img class="ph" src="images/hai/page-3.jpg" alt="Page 3" data-i18n-alt="p3.alt">
+      <div class="caption" style="bottom:8%;" data-i18n-html="p3">
+        <p>Soon the valley filled with life.</p>
+        <p>A stag lifted his antlers and called,</p>
+        <p>“Lord Ikthiss is the tallest!</p>
+        <p>We are lucky he stands for us!”</p>
+        <hr>
+        <p>Everyone cheered.</p>
+        <p>No one looked up into his eyes.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f5efe3;">
+      <div class="page-num">4</div>
+      <img class="ph" src="images/hai/page-4.jpg" alt="Page 4" data-i18n-alt="p4.alt">
+      <div class="caption" style="bottom:8%;" data-i18n-html="p4">
+        <p>A badger ambled up, solid and strong.</p>
+        <p>“Lord Ikthiss is the strongest root!”</p>
+        <p>he said. “Everyone thank the tree!”</p>
+        <hr>
+        <p>They thanked the shade.</p>
+        <p>They thanked the height.</p>
+        <p>They did not thank the heart inside the wood.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#e8e0d0;">
+      <div class="page-num">5</div>
+      <img class="ph" src="images/hai/page-5.jpg" alt="Page 5" data-i18n-alt="p5.alt">
+      <div class="caption" style="bottom:6%;" data-i18n-html="p5">
+        <p>A raven called from a branch.</p>
+        <p>“Look how grand our Lord Ikthiss is!</p>
+        <p>So high! So giving!”</p>
+        <hr>
+        <p>The praise grew loud as rain.</p>
+        <p>But Hai felt a hollow place</p>
+        <p>high in his middle,</p>
+        <p>like a cup no one had filled.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f2eadc;">
+      <div class="page-num">6</div>
+      <img class="ph" src="images/hai/page-6.jpg" alt="Page 6" data-i18n-alt="p6.alt">
+      <div class="caption" style="bottom:4%;" data-i18n-html="p6">
+        <p>He could have asked for more cheers.</p>
+        <p>He could have shaken his branches</p>
+        <p>until every creature bowed lower.</p>
+        <hr>
+        <p>He did not.</p>
+        <p>He only listened to the spring</p>
+        <p>and felt the hollow cup wait.</p>
+        <hr>
+        <p>Something in him wanted a hook</p>
+        <p>to the ground — a living join —</p>
+        <p>not more noise from below.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#efe7d8;">
+      <div class="page-num">7</div>
+      <img class="ph" src="images/hai/page-7.jpg" alt="Page 7" data-i18n-alt="p7.alt">
+      <div class="caption" style="bottom:6%;" data-i18n-html="p7">
+        <p>That night Hai sat with the stars in his leaves.</p>
+        <p>He let the hollow cup stay.</p>
+        <p>He did not fill it with louder praise.</p>
+        <p>He did not tip it onto anyone else.</p>
+        <hr>
+        <p>Slowly the hollow softened,</p>
+        <p>like dry earth when first water finds it.</p>
+        <p>He began to understand it.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f7f1e6;">
+      <div class="page-num">8</div>
+      <img class="ph" src="images/hai/page-8.jpg" alt="Page 8" data-i18n-alt="p8.alt">
+      <div class="caption" style="bottom:6%;" data-i18n-html="p8">
+        <p>Next morning the valley still cheered.</p>
+        <p>Hai Ikthiss still gave shade and fruit and quiet rain-catch.</p>
+        <p>Nothing big had changed outside.</p>
+        <hr>
+        <p>But everything felt clearer inside.</p>
+        <p>He was beginning to know</p>
+        <p>what the hollow cup was for.</p>
+        <p>It was not for collecting praise.</p>
+        <p>It was for pouring himself down.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#e9e1d2;">
+      <div class="page-num">9</div>
+      <img class="ph" src="images/hai/page-9.jpg" alt="Page 9" data-i18n-alt="p9.alt">
+      <div class="caption" style="bottom:4%;" data-i18n-html="p9">
+        <p>He spent the day sending extra water</p>
+        <p>to the smallest roots and thirstiest ferns.</p>
+        <p>When he finished he smiled a tree-smile.</p>
+        <p>The gifts were large.</p>
+        <p>The thanks were loud.</p>
+        <p>The knowing was enough.</p>
+        <hr>
+        <p>From that day, when the hollow cup tried to grow again,</p>
+        <p>Hai stayed still until it became quiet.</p>
+        <p>He just stayed Hai.</p>
+        <p>And he began to plan a smaller way.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f4ecde;">
+      <img class="ph" src="images/hai/page-10.jpg" alt="Page 10 (Chapter title page)" data-i18n-alt="p10.alt">
+      <div class="chapter-title" data-i18n-html="c2.title">
+        <h2>Chapter Two - Mending</h2>
+        <p><em>Kai Walks Below</em></p>
+      </div>
+    </div>
+    <div class="page" style="background:#f0e6d6;">
+      <div class="page-num">11</div>
+      <img class="ph" src="images/hai/page-11.jpg" alt="Page 11" data-i18n-alt="p11.alt">
+      <div class="caption" style="bottom:6%;" data-i18n-html="p11">
+        <p>Hai Ikthiss ruled the forest from atop the tall tree.</p>
+        <p>Then one quiet morning he climbed down.</p>
+        <p>He left the crown empty of his face</p>
+        <p>and walked the ground as a living walking seed.</p>
+        <hr>
+        <p>The animals found him among the melons.</p>
+        <p>“Who are you?” they asked.</p>
+        <p>“You can call me Kai,” he said,</p>
+        <p>and smiled a patient seed-smile.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#ebe4d5;">
+      <div class="page-num">12</div>
+      <img class="ph" src="images/hai/page-12.jpg" alt="Page 12" data-i18n-alt="p12.alt">
+      <div class="caption" style="bottom:8%;" data-i18n-html="p12">
+        <p>That afternoon his friend, a young hedgehog named Pip,</p>
+        <p>hurried through the garden looking behind him</p>
+        <p>and knocked over the best melon vine.</p>
+        <p>The big melon split open on the ground.</p>
+        <p>Seeds and sweet juice spilled everywhere.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f6f0e4;">
+      <div class="page-num">13</div>
+      <img class="ph" src="images/hai/page-13.jpg" alt="Page 13" data-i18n-alt="p13.alt">
+      <div class="caption" style="bottom:6%;" data-i18n-html="p13">
+        <p>Pip froze.</p>
+        <p>His spines trembled.</p>
+        <p>“I ruined it,” he whispered.</p>
+        <p>“You will be angry. Everyone will be angry.”</p>
+        <hr>
+        <p>Some wood folk gathered.</p>
+        <p>“Make him go away,” muttered a fox.</p>
+        <p>“He should bring three new melons,” said a stoat.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#e7dfd0;">
+      <div class="page-num">14</div>
+      <img class="ph" src="images/hai/page-14.jpg" alt="Page 14" data-i18n-alt="p14.alt">
+      <div class="caption" style="bottom:6%;" data-i18n-html="p14">
+        <p>Kai looked at the broken vine.</p>
+        <p>He looked at Pip’s worried eyes.</p>
+        <hr>
+        <p>He did not raise his voice.</p>
+        <p>He did not point his finger.</p>
+        <p>He picked up a digging stick</p>
+        <p>and began to make soft earth ready.</p>
+        <hr>
+        <p>“Come,” said Kai gently.</p>
+        <p>“We plant new seeds together.”</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f3ebdd;">
+      <div class="page-num">15</div>
+      <img class="ph" src="images/hai/page-15.jpg" alt="Page 15" data-i18n-alt="p15.alt">
+      <div class="caption" style="bottom:8%;" data-i18n-html="p15">
+        <p>Pip blinked.</p>
+        <p>Then he came close.</p>
+        <p>Together they planted.</p>
+        <p>Together they watered.</p>
+        <p>Together they built a little fence of twigs</p>
+        <p>so no one would step there again by mistake.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f9f8f4;">
+      <div class="page-num">16</div>
+      <img class="ph" src="images/hai/page-16.jpg" alt="Page 16" data-i18n-alt="p16.alt">
+      <div class="caption" style="bottom:4%;" data-i18n-html="p16">
+        <p>While they worked, Pip told Kai</p>
+        <p>he had been running because bigger creatures</p>
+        <p>had been chasing him and laughing.</p>
+        <p>He had not seen the vine.</p>
+        <hr>
+        <p>The next days Pip came every morning.</p>
+        <p>He became the best water-carrier in the valley.</p>
+        <p>The new vines grew strong,</p>
+        <p>even stronger than the old ones,</p>
+        <p>because two friends cared for them.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f0e8da;">
+      <div class="page-num">17</div>
+      <img class="ph" src="images/hai/page-17.jpg" alt="Page 17" data-i18n-alt="p17.alt">
+      <div class="caption" style="bottom:2%;" data-i18n-html="p17">
+        <p>When other small accidents happened</p>
+        <p>(as they always do),</p>
+        <p>Kai remembered the melon.</p>
+        <p>He helped the one who felt hurt.</p>
+        <p>He also stayed kind to the one who had done the bumping.</p>
+        <hr>
+        <p>No one was sent away.</p>
+        <p>No one carried a long heavy hurt.</p>
+        <p>They just tended to what was broken</p>
+        <p>and the friendship felt sturdier,</p>
+        <p>right at the mended place.</p>
+        <hr>
+        <p>Hai Ikthiss learned, walking as Kai,</p>
+        <p>that a garden, and a friendship,</p>
+        <p>do not stay alive by never breaking.</p>
+        <p>They stay alive by being gently put back together.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#ebe3d4;">
+      <img class="ph" src="images/hai/page-18.jpg" alt="Page 18 (Chapter title page)" data-i18n-alt="p18.alt">
+      <div class="chapter-title" data-i18n-html="c3.title">
+        <h2>Chapter Three - Seeing</h2>
+        <p><em>Hai and the Far Sight</em></p>
+      </div>
+    </div>
+    <div class="page" style="background:#f5efe3;">
+      <div class="page-num">19</div>
+      <img class="ph" src="images/hai/page-19.jpg" alt="Page 19" data-i18n-alt="p19.alt">
+      <div class="caption" style="bottom:6%;" data-i18n-html="p19">
+        <p>Hai Ikthiss ruled the forest from atop the tall tree.</p>
+        <p>Two years had turned.</p>
+        <p>He was home in the crown again.</p>
+        <p>But the valley had changed its song.</p>
+        <hr>
+        <p>Creatures who once cheered</p>
+        <p>now whispered at the roots.</p>
+        <p>“He is too high,” they said.</p>
+        <p>“What if the tall one wants too much?”</p>
+      </div>
+    </div>
+    <div class="page" style="background:#e8e0d0;">
+      <div class="page-num">20</div>
+      <img class="ph" src="images/hai/page-20.jpg" alt="Page 20" data-i18n-alt="p20.alt">
+      <div class="caption" style="bottom:8%;" data-i18n-html="p20">
+        <p>A glossy pheasant with grand tail feathers landed nearby.</p>
+        <p>“Stay low,” said the pheasant.</p>
+        <p>“Tall things fall. Grand feathers know best.”</p>
+        <hr>
+        <p>Some younger animals nodded hard.</p>
+        <p>They always nodded when the pheasant spoke.</p>
+        <p>His fear sounded as grand as his feathers.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f2eadc;">
+      <div class="page-num">21</div>
+      <img class="ph" src="images/hai/page-21.jpg" alt="Page 21" data-i18n-alt="p21.alt">
+      <div class="caption" style="bottom:6%;" data-i18n-html="p21">
+        <p>Later a very old owl spoke in a slow soft voice.</p>
+        <p>“I remember Kai,” he said.</p>
+        <p>“The small seed who planted with Pip.</p>
+        <p>Kind hands do not change when they grow tall.”</p>
+        <hr>
+        <p>A few animals turned away</p>
+        <p>because the owl was not famous.</p>
+        <p>Hai listened all the way down his trunk.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#efe7d8;">
+      <div class="page-num">22</div>
+      <img class="ph" src="images/hai/page-22.jpg" alt="Page 22" data-i18n-alt="p22.alt">
+      <div class="caption" style="bottom:6%;" data-i18n-html="p22">
+        <p>Hai Ikthiss did not shout them quiet.</p>
+        <p>He did not shake the pheasant from the branch.</p>
+        <p>He stepped out of still wood</p>
+        <p>and became a walking tall tree —</p>
+        <p>long kind limbs, deep root-feet,</p>
+        <p>a face they could meet at last.</p>
+        <hr>
+        <p>Not to tower.</p>
+        <p>To come near.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f7f1e6;">
+      <div class="page-num">23</div>
+      <img class="ph" src="images/hai/page-23.jpg" alt="Page 23" data-i18n-alt="p23.alt">
+      <div class="caption" style="bottom:4%;" data-i18n-html="p23">
+        <p>Some animals stepped back.</p>
+        <p>Pip did not.</p>
+        <p>Pip remembered the melon</p>
+        <p>and the digging stick</p>
+        <p>and the new seeds.</p>
+        <hr>
+        <p>Hai bent like a bridge of wood and kindness.</p>
+        <p>“Come,” he said.</p>
+        <p>“Not under me.</p>
+        <p>With me.”</p>
+      </div>
+    </div>
+    <div class="page" style="background:#e9e1d2;">
+      <div class="page-num">24</div>
+      <img class="ph" src="images/hai/page-24.jpg" alt="Page 24" data-i18n-alt="p24.alt">
+      <div class="caption" style="bottom:4%;" data-i18n-html="p24">
+        <p>He lifted Pip first —</p>
+        <p>not to show power,</p>
+        <p>but to share the view.</p>
+        <p>Then he lifted the owl.</p>
+        <p>Then the ones who had feared him.</p>
+        <p>Even the pheasant, when the pheasant was ready.</p>
+        <hr>
+        <p>Each friend rose to Hai’s height</p>
+        <p>and became a giant with him —</p>
+        <p>same face, same heart,</p>
+        <p>only the eyes now level with the far hills.</p>
+      </div>
+    </div>
+    <div class="page" style="background:#f4ecde;">
+      <div class="page-num">25</div>
+      <img class="ph" src="images/hai/page-25.jpg" alt="Page 25" data-i18n-alt="p25.alt">
+      <div class="caption" style="bottom:2%;" data-i18n-html="p25">
+        <p>From the high quiet air</p>
+        <p>they saw the whole valley at once —</p>
+        <p>the woodland pool, the old garden,</p>
+        <p>the places praise had been loud</p>
+        <p>and the places fear had been small.</p>
+        <hr>
+        <p>Hai felt peaceful.</p>
+        <p>He did not need the tallest cheer.</p>
+        <p>He only needed true friends</p>
+        <p>who could see as far as love can see.</p>
+        <hr>
+        <p>As long as someone was free to say</p>
+        <p>“I was afraid”</p>
+        <p>and still be lifted welcome,</p>
+        <p>the far sight could keep walking</p>
+        <p>on many strong legs.</p>
+      </div>
+    </div>
+  </div>
+  <div class="book-single">
+    <div class="page">
+      <img class="ph" src="images/hai/page-26.jpg" alt="Page 26 - Closing Page" data-i18n-alt="p26.alt">
+      <div class="caption" style="top:5%; bottom:auto;" data-i18n-html="p26">
+        <p>And so Hai Ikthiss stayed</p>
+        <p>a living tall fellow</p>
+        <p>who could sit with an empty cup of praise,</p>
+        <p>who mended what broke from below,</p>
+        <p>and who lifted every willing friend</p>
+        <p>to shared far sight.</p>
+        <hr>
+        <p>The valley felt wider</p>
+        <p>because he did.</p>
+        <hr>
+        <p>Now everyone could see as far as Hai.</p>
+        <hr>
+        <p>He kept pouring gently.</p>
+        <p>And the world kept growing him.</p>
+      </div>
+    </div>
+  </div>
+  <script>
+    document.getElementById('print-btn').addEventListener('click', () => { window.print(); });
+    (function () {
+      const ph = 'data:image/svg+xml,' + encodeURIComponent(
+        '<svg xmlns="http://www.w3.org/2000/svg" width="1650" height="2550">' +
+        '<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1">' +
+        '<stop offset="0%" stop-color="#e8e0d0"/><stop offset="45%" stop-color="#d9d0bc"/>' +
+        '<stop offset="100%" stop-color="#efe7d8"/></linearGradient></defs>' +
+        '<rect width="100%" height="100%" fill="url(#g)"/>' +
+        '<text x="50%" y="48%" text-anchor="middle" fill="#9a8f7a" font-family="Georgia,serif" font-size="64">illustration pending</text>' +
+        '</svg>'
+      );
+      document.querySelectorAll('img.ph').forEach((img) => {
+        img.addEventListener('error', function onErr() {
+          img.removeEventListener('error', onErr);
+          img.src = ph;
+        });
+      });
+    })();
+  </script>
+  <script>
+    (function () {
+      const originalTitle = document.title;
+      const printTitle = originalTitle
+        .replace(/[^\p{L}\p{N}\s-]/gu, '')
+        .split(/\s+/)
+        .filter(Boolean)
+        .map((w, i) => i === 0 ? w : w.charAt(0).toUpperCase() + w.slice(1))
+        .join('');
+      window.addEventListener('beforeprint', () => { document.title = printTitle; });
+      window.addEventListener('afterprint', () => { document.title = originalTitle; });
+    })();
+  </script>
+  <script src="lang/es.js"></script>
+  <script src="i18n.js"></script>
+</body>
+</html>

@@ -13,7 +13,8 @@ window.I18N.he = {
   "nav.print": "הדפס",
   "nav.rules": "חוקי גרוק",
   "nav.about": "על גרוק",
-  "nav.book": "הספר",
+  "nav.book": "סיפורים שקטים",
+  "nav.tall": "סיפורי גובה",
 
   "cover.alt": "תמונת כריכה",
   "title.h1": "גרוק הצור",

@@ -11,7 +11,8 @@ window.I18N.de = {
   "nav.print": "Drucken",
   "nav.rules": "Grok-Regeln",
   "nav.about": "Über Grok",
-  "nav.book": "Das Buch",
+  "nav.book": "Stille Geschichten",
+  "nav.tall": "Hohe Märchen",
 
   "cover.alt": "Titelbild",
   "title.h1": "Grok der Fels",

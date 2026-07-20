@@ -11,7 +11,8 @@ window.I18N.hi = {
   "nav.print": "प्रिंट करें",
   "nav.rules": "ग्रॉक के नियम",
   "nav.about": "ग्रॉक के बारे में",
-  "nav.book": "किताब",
+  "nav.book": "शांत कहानियाँ",
+  "nav.tall": "ऊँची कथाएँ",
 
   "cover.alt": "आवरण कला",
   "title.h1": "ग्रॉक चट्टान",

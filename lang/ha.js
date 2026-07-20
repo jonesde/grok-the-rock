@@ -11,7 +11,8 @@ window.I18N.ha = {
   "nav.print": "Buga",
   "nav.rules": "Dokokin Grok",
   "nav.about": "Game da Grok",
-  "nav.book": "Littafi",
+  "nav.book": "Labarun Shiru",
+  "nav.tall": "Tatsuniyoyi Masu Tsayi",
 
   "cover.alt": "Zanen Jigogi",
   "title.h1": "Grok Dutsen",

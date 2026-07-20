@@ -11,7 +11,8 @@ window.I18N.it = {
   "nav.print": "Stampa",
   "nav.rules": "Regole Grok",
   "nav.about": "Su Grok",
-  "nav.book": "Il libro",
+  "nav.book": "Storie Quiete",
+  "nav.tall": "Racconti Alti",
 
   "cover.alt": "Copertina",
   "title.h1": "Grok la Roccia",

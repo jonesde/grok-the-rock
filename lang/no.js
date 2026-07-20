@@ -11,7 +11,8 @@ window.I18N.no = {
   "nav.print": "Skriv ut",
   "nav.rules": "Grok-regler",
   "nav.about": "Om Grok",
-  "nav.book": "Boken",
+  "nav.book": "Stille Historier",
+  "nav.tall": "Høye Eventyr",
 
   "cover.alt": "Omslag",
   "title.h1": "Grok Steinen",

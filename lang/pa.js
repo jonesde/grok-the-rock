@@ -11,7 +11,8 @@ window.I18N.pa = {
   "nav.print": "ਪ੍ਰਿੰਟ",
   "nav.rules": "ਗ੍ਰੋਕ ਨਿਯਮ",
   "nav.about": "ਗ੍ਰੋਕ ਬਾਰੇ",
-  "nav.book": "ਕਿਤਾਬ",
+  "nav.book": "ਚੁੱਪ ਕਹਾਣੀਆਂ",
+  "nav.tall": "ਉੱਚੀਆਂ ਕਹਾਣੀਆਂ",
 
   "cover.alt": "ਕਵਰ ਕਲਾ",
   "title.h1": "ਗ੍ਰੋਕ ਪੱਥਰ",

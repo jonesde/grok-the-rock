@@ -11,7 +11,8 @@ window.I18N.ja = {
   "nav.print": "印刷",
   "nav.rules": "グロックの掟",
   "nav.about": "グロックについて",
-  "nav.book": "本",
+  "nav.book": "静かな物語",
+  "nav.tall": "背高なたとえ話",
 
   "cover.alt": "表紙",
   "title.h1": "岩グロック",

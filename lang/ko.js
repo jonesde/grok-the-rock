@@ -11,7 +11,8 @@ window.I18N.ko = {
   "nav.print": "인쇄",
   "nav.rules": "그록의 규칙",
   "nav.about": "그록에 대하여",
-  "nav.book": "책",
+  "nav.book": "고요한 이야기",
+  "nav.tall": "키 큰 이야기",
 
   "cover.alt": "표지",
   "title.h1": "바위 그록",

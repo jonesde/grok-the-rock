@@ -11,7 +11,8 @@ window.I18N.fa = {
   "nav.print": "چاپ",
   "nav.rules": "قواعد گروک",
   "nav.about": "دربارهٔ گروک",
-  "nav.book": "کتاب",
+  "nav.book": "داستان‌های آرام",
+  "nav.tall": "قصه‌های بلند",
 
   "cover.alt": "تصویر جلد",
   "title.h1": "گروکِ سنگ",

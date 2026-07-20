@@ -11,7 +11,8 @@ window.I18N.ur = {
   "nav.print": "پرنٹ",
   "nav.rules": "گروک کے اصول",
   "nav.about": "گروک کے بارے میں",
-  "nav.book": "کتاب",
+  "nav.book": "خاموش کہانیاں",
+  "nav.tall": "اونچی کہانیاں",
 
   "cover.alt": "سرورق کی تصویر",
   "title.h1": "گروک دی چٹان",

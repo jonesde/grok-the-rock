@@ -11,7 +11,8 @@ window.I18N.nl = {
   "nav.print": "Afdrukken",
   "nav.rules": "Grok-regels",
   "nav.about": "Over Grok",
-  "nav.book": "Het boek",
+  "nav.book": "Stille Verhalen",
+  "nav.tall": "Hoge Vertellingen",
 
   "cover.alt": "Omslag",
   "title.h1": "Grok de Rots",

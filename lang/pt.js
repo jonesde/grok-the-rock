@@ -11,7 +11,8 @@ window.I18N.pt = {
   "nav.print": "Imprimir",
   "nav.rules": "Regras Grok",
   "nav.about": "Sobre Grok",
-  "nav.book": "O Livro",
+  "nav.book": "Histórias Quietas",
+  "nav.tall": "Contos Altos",
 
   "cover.alt": "Arte da Capa",
   "title.h1": "Grok a Rocha",

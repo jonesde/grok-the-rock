@@ -141,7 +141,8 @@
 | Key | Type | Content |
 |-----|------|---------|
 | `site.title.about` | text | "Grok the Rock - About Grok" |
-| `nav.book` | text | "The Book" |
+| `nav.book` | text | "Quiet Stories" |
+| `nav.tall` | text | "Tall Tales" |
 | `about.hero.title` | html | "About Grok the Rock" |
 | `about.hero.essence` | html | Subtitle |
 | `about.intro.1`–`about.intro.4` | html | Intro paragraphs |

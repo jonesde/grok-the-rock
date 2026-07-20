@@ -11,7 +11,8 @@ window.I18N.zh = {
   "nav.print": "打印",
   "nav.rules": "格罗克法则",
   "nav.about": "关于格罗克",
-  "nav.book": "故事书",
+  "nav.book": "安静的故事",
+  "nav.tall": "高树故事",
 
   "cover.alt": "封面",
   "title.h1": "格罗克岩石",

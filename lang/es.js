@@ -11,7 +11,8 @@ window.I18N.es = {
   "nav.print": "Imprimir",
   "nav.rules": "Reglas Grok",
   "nav.about": "Sobre Grok",
-  "nav.book": "El Libro",
+  "nav.book": "Historias Quietas",
+  "nav.tall": "Cuentos Altos",
 
   "cover.alt": "Arte de Portada",
   "cover.title": "<h1>Grok la Roca</h1><h3>Tres Historias Silenciosas</h3><h2>Ser · Remendar · Ver</h2>",

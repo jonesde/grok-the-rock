@@ -11,7 +11,8 @@ window.I18N.ru = {
   "nav.print": "Печать",
   "nav.rules": "Правила Грока",
   "nav.about": "О Гроке",
-  "nav.book": "Книга",
+  "nav.book": "Тихие истории",
+  "nav.tall": "Высокие сказки",
 
   "cover.alt": "Обложка",
   "title.h1": "Грок-Камень",
