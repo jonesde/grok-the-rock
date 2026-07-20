@@ -14,7 +14,6 @@ window.I18N.pt = {
   "nav.book": "Histórias Quietas",
   "nav.tall": "Contos Altos",
 
-  "cover.alt": "Arte da Capa",
   "title.h1": "Grok a Rocha",
   "title.h3": "Três Histórias Silenciosas",
   "title.h2": "Ser · Remendar · Ver",
@@ -25,8 +24,6 @@ window.I18N.pt = {
   "credit.5": "Este é um meme-história gerado por IA e curado por humanos",
   "credit.6": "Domínio Público (CC0 1.0)",
   "credit.7": "Copie • Compartilhe • Traduza • Redesenhe • Deixe crescer",
-
-  "dedication.alt": "Página de Dedicatória",
 
   "dedication": "<p><b>Para cada explorador, pequeno e grande,</b></p>" +
     "<p><b>grokkando o mundo à sua própria maneira gentil.</b></p>" +
@@ -51,8 +48,6 @@ window.I18N.pt = {
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok a Rocha = Um Estranho numa Terra Estranha + Grug</a></p>" +
     "<p>(\"Grug\" limpa \"Estranho\" para crianças <em>e</em> adultos)</p>",
 
-  "p1.alt": "Página 1 (Página de título do Capítulo 1)",
-  "p2.alt": "Página 2",
   "p2": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
     "<p>O sol estava quente em suas costas de calcário.</p>" +
     "<p>Grok se sentia feliz.</p>" +
@@ -60,13 +55,11 @@ window.I18N.pt = {
     "<p>Ele olhou para o mundo vasto</p>" +
     "<p>como se o estivesse vendo pela primeira vez.</p>",
 
-  "p3.alt": "Página 3",
   "p3": "<p>Logo ele caminhou até a poça d'água.</p>" +
     "<p>Uma ema alta já estava lá.</p>" +
     "<p>A ema esticou seu longo pescoço e disse:</p>" +
     "<p>\"Sou a mais alta. Fique atrás de mim.\"</p>",
 
-  "p4.alt": "Página 4",
   "p4": "<p>Então um vombate rolou até lá, redondo e sólido.</p>" +
     "<p>\"Sou o mais forte\", disse o vombate.</p>" +
     "<p>\"Vejam-me cavar.\"</p>" +
@@ -75,14 +68,12 @@ window.I18N.pt = {
     "<p>Seu buraco era pequeno.</p>" +
     "<p>Ele se sentiu menor que o buraco.</p>",
 
-  "p5.alt": "Página 5",
   "p5": "<p>Uma cucaburra riu de um galho.</p>" +
     "<p>\"Vejam o pequeno Grok! Tão baixinho! Tão de pedra!\"</p>" +
     "<hr>" +
     "<p>O pequeno sentimento cresceu dentro de Grok.</p>" +
     "<p>Parecia um seixo pesado e frio na barriga.</p>",
 
-  "p6.alt": "Página 6",
   "p6": "<p>Ele quis parecer maior.</p>" +
     "<p>Subiu num tronco.</p>" +
     "<p>Estufou o peito.</p>" +
@@ -90,7 +81,6 @@ window.I18N.pt = {
     "<hr>" +
     "<p>Aquilo só tornou o seixo frio mais pesado.</p>",
 
-  "p7.alt": "Página 7",
   "p7": "<p>Naquela noite Grok sentou-se sozinho junto a uma pequena fogueira.</p>" +
     "<p>Abraçou os joelhos.</p>" +
     "<p>Deixou o pequeno sentimento ficar.</p>" +
@@ -101,7 +91,6 @@ window.I18N.pt = {
     "<p>como argila deixada ao sol.</p>" +
     "<p>Ele começou a entendê-lo.</p>",
 
-  "p8.alt": "Página 8",
   "p8": "<p>Na manhã seguinte Grok voltou à poça d'água.</p>" +
     "<p>Não subiu em nada.</p>" +
     "<p>Não tentou ser mais alto ou mais barulhento.</p>" +
@@ -112,7 +101,6 @@ window.I18N.pt = {
     "<p>Mas por dentro tudo parecia mais leve.</p>" +
     "<p>Ele estava começando a grokkar-se a si mesmo.</p>",
 
-  "p9.alt": "Página 9",
   "p9": "<p>Ele passou o dia fazendo um ninho macio de folhas e musgo</p>" +
     "<p>do tamanho certo para um pequeno sujeito de pedra.</p>" +
     "<p>Quando terminou, sorriu.</p>" +
@@ -125,14 +113,11 @@ window.I18N.pt = {
     "<p>Ele simplesmente continuava sendo Grok.</p>" +
     "<p>E isso parecia o melhor tamanho de todos.</p>",
 
-  "p10.alt": "Página 10 (Página de título do Capítulo 2)",
-  "p11.alt": "Página 11",
   "p11": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
     "<p>Grok observava sua pequena horta de melões e batatas-doces.</p>" +
     "<p>Ele adorava vê-los crescer.</p>" +
     "<p>Cada nova folha parecia uma pequena maravilha.</p>",
 
-  "p12.alt": "Página 12",
   "p12": "<p>Naquela tarde seu amigo,</p>" +
     "<p>um jovem equidna chamado Pip,</p>" +
     "<p>atravessou a horta olhando para trás</p>" +
@@ -141,7 +126,6 @@ window.I18N.pt = {
     "<p>O grande melão se partiu no chão.</p>" +
     "<p>Sementes e suco doce se espalharam por toda parte.</p>",
 
-  "p13.alt": "Página 13",
   "p13": "<p>Pip congelou.</p>" +
     "<p>Seus espinhos tremeram.</p>" +
     "<p>\"Estraguei tudo\", sussurrou.</p>" +
@@ -151,7 +135,6 @@ window.I18N.pt = {
     "<p>\"Mandem-no embora\", murmurou um gambá.</p>" +
     "<p>\"Ele deveria trazer três melões novos\", disse um lagarto.</p>",
 
-  "p14.alt": "Página 14",
   "p14": "<p>Grok olhou para a trepadeira quebrada.</p>" +
     "<p>Olhou para os olhos preocupados de Pip.</p>" +
     "<hr>" +
@@ -163,7 +146,6 @@ window.I18N.pt = {
     "<p>\"Venha\", disse Grok com suavidade.</p>" +
     "<p>\"Plantamos sementes novas juntos.\"</p>",
 
-  "p15.alt": "Página 15",
   "p15": "<p>Pip piscou.</p>" +
     "<p>Então se aproximou.</p>" +
     "<p>Juntos plantaram.</p>" +
@@ -171,7 +153,6 @@ window.I18N.pt = {
     "<p>Juntos construíram uma pequena cerca de gravetos</p>" +
     "<p>para que ninguém pisasse ali por engano outra vez.</p>",
 
-  "p16.alt": "Página 16",
   "p16": "<p>Enquanto trabalhavam, Pip contou a Grok</p>" +
     "<p>que estava correndo porque criaturas maiores</p>" +
     "<p>o perseguiam e riam dele.</p>" +
@@ -183,7 +164,6 @@ window.I18N.pt = {
     "<p>ainda mais fortes que as antigas,</p>" +
     "<p>porque dois amigos cuidaram delas.</p>",
 
-  "p17.alt": "Página 17",
   "p17": "<p>Quando outros pequenos acidentes aconteceram</p>" +
     "<p>(como sempre acontecem),</p>" +
     "<p>Grok se lembrou do melão.</p>" +
@@ -201,8 +181,6 @@ window.I18N.pt = {
     "<p>não se mantêm vivas por nunca quebrarem.</p>" +
     "<p>Mantêm-se vivas por serem remendadas com cuidado.</p>",
 
-  "p18.alt": "Página 18 (Página de título do Capítulo 3)",
-  "p19.alt": "Página 19",
   "p19": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
     "<p>Grok gostava de fazer coisas úteis,</p>" +
     "<p>e naquele dia ele trabalhou num cesto de água</p>" +
@@ -212,7 +190,6 @@ window.I18N.pt = {
     "<p>Ele o virou nas mãos</p>" +
     "<p>e sentiu a alegria silenciosa de algo bem feito.</p>",
 
-  "p20.alt": "Página 20",
   "p20": "<p>No dia seguinte criaturas vieram olhar.</p>" +
     "<p>Uma cacatua negra brilhante com grandes penas da cauda pousou por perto.</p>" +
     "<p>\"Esse cesto é engenhoso\", disse a cacatua,</p>" +
@@ -225,14 +202,12 @@ window.I18N.pt = {
     "<p>Sempre acenavam quando a cacatua falava.</p>" +
     "<p>Sua voz era tão grandiosa quanto suas penas.</p>",
 
-  "p21.alt": "Página 21",
   "p21": "<p>Mais tarde uma tartaruga muito velha falou com voz lenta e suave.</p>" +
     "<p>Sugeriu a pequena mudança de uma alça,</p>" +
     "<p>tornando-o fácil de carregar para amigos menos robustos que Grok.</p>" +
     "<p>Seu casco era simples. Ninguém especial.</p>" +
     "<p>Alguns animais se viraram porque a tartaruga não era famosa.</p>",
 
-  "p22.alt": "Página 22",
   "p22": "<p>Grok experimentou as duas ideias.</p>" +
     "<p>O jeito da cacatua parecia elegante</p>" +
     "<p>mas o cesto tombava e vazava.</p>" +
@@ -241,7 +216,6 @@ window.I18N.pt = {
     "<p>tornou o cesto de Grok confortável</p>" +
     "<p>e firme para todos.</p>",
 
-  "p23.alt": "Página 23",
   "p23": "<p>Grok sentou-se com os dois cestos lado a lado.</p>" +
     "<p>Não olhou para as penas.</p>" +
     "<p>Não olhou para idade ou fama.</p>" +
@@ -254,7 +228,6 @@ window.I18N.pt = {
     "<p>sob a árvore grande para qualquer um usar ou copiar.</p>" +
     "<p>Sem nome. Sem \"pergunte-me primeiro\".</p>",
 
-  "p24.alt": "Página 24",
   "p24": "<p>Alguns animais ainda esperavam ouvir o que a cacatua pensava</p>" +
     "<p>antes de decidir se algo era bom.</p>" +
     "<p>Mas cada vez mais pequeninos</p>" +
@@ -265,7 +238,6 @@ window.I18N.pt = {
     "<hr>" +
     "<p>Estavam grokkando o verdadeiro, o quê, não o quem.</p>",
 
-  "p25.alt": "Página 25",
   "p25": "<p>Grok se sentia em paz.</p>" +
     "<p>Não precisava da voz mais alta.</p>" +
     "<p>Precisava apenas de coisas verdadeiras.</p>" +
@@ -280,7 +252,6 @@ window.I18N.pt = {
     "<p>a palavra verdadeira podia continuar andando</p>" +
     "<p>sobre suas próprias pernas fortes.</p>",
 
-  "p26.alt": "Página 26 - Página de Encerramento",
   "p26": "<p>E assim Grok a Rocha permaneceu</p>" +
     "<p>um pequeno sujeito de calcário</p>" +
     "<p>que sabia se sentar com um pequeno sentimento,</p>" +

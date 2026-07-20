@@ -126,8 +126,10 @@
 
     const html = document.documentElement;
     if (html) {
+      const RTL = { ar: 1, fa: 1, he: 1, "he-phon": 1, ur: 1 };
       html.setAttribute("lang", lang);
       html.setAttribute("data-lang", lang);
+      html.setAttribute("dir", RTL[lang] ? "rtl" : "ltr");
     }
 
     if (lang === "en") {

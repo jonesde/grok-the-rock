@@ -13,7 +13,6 @@ window.I18N.fr = {
   "nav.about": "À propos de Grok",
   "nav.book": "Histoires Tranquilles",
   "nav.tall": "Contes Hauts",
-  "cover.alt": "Couverture",
   "title.h1": "Grok le Rocher",
   "title.h3": "Trois Histoires Silencieuses",
   "title.h2": "Être · Réparer · Voir",
@@ -25,7 +24,6 @@ window.I18N.fr = {
   "credit.6": "Domaine public (CC0 1.0)",
   "credit.7": "Copiez-le • Partagez-le • Traduisez-le • Redessinez-le • Laissez-le grandir",
 
-  "dedication.alt": "Page de dédicace",
   "dedication": "<p><b>Pour chaque explorateur, petit et grand,</b></p><p><b>grokant le monde à sa propre manière " +
     "douce.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Et pour chaque petit sentiment</p><p>  qui a seulement " +
     "besoin d'être vu,</p><p>chaque rupture prête à réparer</p><p>  qui a seulement besoin d'être soignée,</p>" +
@@ -36,72 +34,55 @@ window.I18N.fr = {
     "in a Strange Land + Grug</a></p><p>(« Grug » nettoie « Stranger » pour les enfants <em>et</em> " +
     "les adultes)</p>",
 
-  "p1.alt": "Page 1 (Page de titre du Chapitre 1)",
-  "p2.alt": "Page 2",
   "p2": "<p>Grok le Rocher s'éveilla sous le grand arbre.</p><p>Le soleil était chaud sur son dos de calcaire.</p>" +
     "<p>Grok se sentait heureux.</p><hr><p>Il regarda le vaste monde</p><p>comme s'il le voyait pour " +
     "la première fois.</p>",
-  "p3.alt": "Page 3",
   "p3": "<p>Bientôt il marcha jusqu'au point d'eau.</p><p>Un grand émeu s'y trouvait déjà.</p><p>L'émeu " +
     "étira son long cou et dit :</p><p>« Je suis la plus haute. Mets-toi derrière moi. »</p>",
-  "p4.alt": "Page 4",
   "p4": "<p>Puis un wombat roula jusqu'à lui, rond et solide.</p><p>« Je suis le plus fort », dit le wombat.</p>" +
     "<p>« Regardez comme je creuse. »</p><hr><p>Grok essaya aussi de creuser.</p><p>Son trou était petit.</p>" +
     "<p>Il se sentit plus petit que le trou.</p>",
-  "p5.alt": "Page 5",
   "p5": "<p>Un kookaburra rit depuis une branche.</p><p>« Regardez le petit Grok ! Si petit ! Si pierreux " +
     "! »</p><hr><p>Le petit sentiment grandit en Grok.</p><p>C'était comme un galet froid et lourd en " +
     "son milieu.</p>",
-  "p6.alt": "Page 6",
   "p6": "<p>Il voulut se faire paraître plus grand.</p><p>Il monta sur une bûche.</p><p>Il gonfla sa poitrine.</p>" +
     "<p>Il essaya même de frapper le sol comme le kangourou.</p><hr><p>Cela ne fit que rendre le galet " +
     "froid plus lourd.</p>",
-  "p7.alt": "Page 7",
   "p7": "<p>Ce soir-là Grok s'assit seul près d'un petit feu.</p><p>Il mit ses bras autour de ses genoux.</p>" +
     "<p>Il laissa le petit sentiment demeurer.</p><p>Il n'en fuit pas.</p><p>Il ne le jeta à personne " +
     "d'autre.</p><hr><p>Lentement le sentiment s'adoucit,</p><p>comme l'argile laissée au soleil.</p>" +
     "<p>Il commença à le comprendre.</p>",
-  "p8.alt": "Page 8",
   "p8": "<p>Le lendemain matin Grok retourna au point d'eau.</p><p>Il ne monta sur rien.</p><p>Il n'essaya " +
     "pas d'être plus haut ni plus bruyant.</p><p>Il but simplement,</p><p>puis s'assit sur une roche " +
     "chaude et fredonna.</p><hr><p>Rien de grand n'avait changé à l'extérieur.</p><p>Mais tout semblait " +
     "plus léger à l'intérieur.</p><p>Il commençait à se groker lui-même.</p>",
-  "p9.alt": "Page 9",
   "p9": "<p>Il passa la journée à faire un doux nid de feuilles et de mousse</p><p>à la taille juste pour " +
     "un petit compagnon de roche.</p><p>Quand il eut fini, il sourit.</p><p>Il était petit.</p><p>C'était " +
     "à lui.</p><p>C'était assez.</p><hr><p>Depuis ce jour, quand le galet froid recommençait à grandir,</p>" +
     "<p>Grok restait immobile jusqu'à ce que tout redevienne silence.</p><p>Il restait simplement Grok.</p>" +
     "<p>Et cela se sentait comme la meilleure taille de toutes.</p>",
-  "p10.alt": "Page 10 (Page de titre du Chapitre 2)",
-  "p11.alt": "Page 11",
   "p11": "<p>Grok le Rocher s'éveilla sous le grand arbre.</p><p>Grok regardait son petit jardin de melons " +
     "et de patates douces.</p><p>Il aimait les voir grandir.</p><p>Chaque nouvelle feuille semblait " +
     "une petite merveille.</p>",
-  "p12.alt": "Page 12",
   "p12": "<p>Cet après-midi son ami,</p><p>un jeune échidné nommé Pip,</p><p>traversa le jardin en regardant " +
     "derrière lui</p><p>et renversa la plus belle vigne de melons.</p><hr><p>Le grand melon s'écrasa " +
     "sur le sol.</p><p>Des graines et un doux jus se répandirent partout.</p>",
-  "p13.alt": "Page 13",
   "p13": "<p>Pip se figea.</p><p>Ses piquants tremblèrent.</p><p>« Je l'ai ruiné », chuchota-t-il.</p><p>" +
     "« Tu seras en colère. Tous seront en colère. »</p><hr><p>Quelques petites créatures des broussailles " +
     "s'attroupèrent.</p><p>« Faites-le partir », murmura une opossum.</p><p>« Il devrait t'apporter " +
     "trois nouveaux melons », dit un lézard.</p>",
-  "p14.alt": "Page 14",
   "p14": "<p>Grok regarda la vigne brisée.</p><p>Il regarda les yeux inquiets de Pip.</p><hr><p>Il ne leva " +
     "pas la voix.</p><p>Il ne pointa pas du doigt.</p><p>Il prit un bâton pour creuser</p><p>et commença " +
     "à préparer la terre douce.</p><hr><p>« Viens », dit Grok doucement.</p><p>« Nous plantons de nouvelles " +
     "graines ensemble. »</p>",
-  "p15.alt": "Page 15",
   "p15": "<p>Pip cligna des yeux.</p><p>Puis il s'approcha.</p><p>Ensemble ils plantèrent.</p><p>Ensemble " +
     "ils arrosèrent.</p><p>Ensemble ils bâtirent une petite clôture de brindilles</p><p>pour que personne " +
     "ne marche là par erreur une autre fois.</p>",
-  "p16.alt": "Page 16",
   "p16": "<p>Tandis qu'ils travaillaient, Pip raconta à Grok</p><p>qu'il avait couru parce que des créatures " +
     "plus grandes</p><p>l'avaient poursuivi et se moquaient de lui.</p><p>Il n'avait pas vu la vigne.</p>" +
     "<hr><p>Les jours suivants Pip revint chaque matin.</p><p>Il devint le meilleur porteur d'eau de " +
     "la vallée.</p><p>Les nouvelles vignes crûrent fortes,</p><p>encore plus fortes que les anciennes,</p>" +
     "<p>parce que deux amis les soignèrent.</p>",
-  "p17.alt": "Page 17",
   "p17": "<p>Quand d'autres petits accidents arrivèrent</p><p>(comme ils arrivent toujours),</p><p>Grok se " +
     "souvint du melon.</p><p>Il aida celui qui se sentait blessé.</p><p>Il fut aussi doux avec celui " +
     "qui avait fait la bêtise.</p><hr><p>Personne ne fut chassé au loin.</p><p>Personne ne porta une " +
@@ -109,48 +90,39 @@ window.I18N.fr = {
     "sentit plus ferme,</p><p>juste à l'endroit réparé.</p><hr><p>Grok apprit qu'un jardin,</p><p>et " +
     "une amitié,</p><p>ne restent pas vivants en ne se brisant jamais.</p><p>Ils restent vivants en " +
     "étant recollés doucement.</p>",
-  "p18.alt": "Page 18 (Page de titre du Chapitre 3)",
-  "p19.alt": "Page 19",
   "p19": "<p>Grok le Rocher s'éveilla sous le grand arbre.</p><p>Grok aimait faire des choses utiles,</p>" +
     "<p>et ce jour-là il travailla à un panier à eau</p><p>tissé de joncs et doublé d'argile douce.</p>" +
     "<p>Au crépuscule il retenait l'eau sans une goutte.</p><hr><p>Il le fit tourner dans ses mains</p>" +
     "<p>et sentit la joie silencieuse de quelque chose de bien fait.</p>",
-  "p20.alt": "Page 20",
   "p20": "<p>Le lendemain des créatures vinrent regarder.</p><p>Un cacatoès noir brillant aux grandes plumes " +
     "de la queue atterrit près de là.</p><p>« Ce panier est ingénieux », dit le cacatoès,</p><p>« mais " +
     "<em>mon</em> idée de panier serait bien meilleure.</p><p>Après tout, j'ai les plus grandes plumes,</p>" +
     "<p>donc mes pensées doivent être les plus grandes aussi. »</p><hr><p>Quelques jeunes animaux hochèrent " +
     "fort la tête.</p><p>Ils hochaient toujours quand le cacatoès parlait.</p><p>Sa voix était aussi " +
     "grandiose que ses plumes.</p>",
-  "p21.alt": "Page 21",
   "p21": "<p>Plus tard une très vieille tortue parla d'une voix lente et douce.</p><p>Elle suggéra le petit " +
     "changement d'une anse,</p><p>pour que ce soit facile à porter pour des amis moins forts que Grok.</p>" +
     "<p>Sa carapace était simple. Rien de spécial.</p><p>Quelques animaux se détournèrent parce que " +
     "la tortue n'était pas connue.</p>",
-  "p22.alt": "Page 22",
   "p22": "<p>Grok essaya les deux idées.</p><p>La manière du cacatoès paraissait élégante</p><p>mais le panier " +
     "se renversait et perdait de l'eau.</p><hr><p>La petite idée de la vieille tortue</p><p>rendit le " +
     "panier de Grok confortable</p><p>et ferme pour tous.</p>",
-  "p23.alt": "Page 23",
   "p23": "<p>Grok s'assit avec les deux paniers côte à côte.</p><p>Il ne regarda pas les plumes.</p><p>Il " +
     "ne regarda pas l'âge ni la renommée.</p><p>Il regarda seulement quel panier retenait mieux l'eau</p>" +
     "<p>et se sentait plus agréable dans la main.</p><hr><p>Il garda la meilleure manière.</p><p>Puis " +
     "il laissa à la fois le bon panier</p><p>et le simple motif pour le tisser</p><p>sous le grand arbre " +
     "pour que chacun l'use ou le copie.</p><p>Sans nom. Sans « demande-moi d'abord ».</p>",
-  "p24.alt": "Page 24",
   "p24": "<p>Certains animaux attendaient encore d'entendre ce que le cacatoès pensait</p><p>avant de décider " +
     "si quelque chose était bon.</p><p>Mais de plus en plus de petits</p><p>commencèrent à essayer les " +
     "choses par eux-mêmes.</p><p>Ils écoutaient les paroles silencieuses de Grok</p><p>comme ils écoutaient " +
     "celles du grand cacatoès,</p><p>puis ils essayaient tout avec leurs propres pattes.</p><hr><p>Ils " +
     "étaient en train de groker le vrai, le quoi et non le qui.</p>",
-  "p25.alt": "Page 25",
   "p25": "<p>Grok se sentait en paix.</p><p>Il n'avait pas besoin de la plus grande voix.</p><p>Il avait " +
     "seulement besoin de choses vraies.</p><p>Et Grok vit que les choses vraies</p><p>pouvaient venir " +
     "d'un oiseau grandiose</p><p>ou d'une tortue poussiéreuse</p><p>ou d'un petit compagnon de roche " +
     "sous un arbre.</p><hr><p>Tant que quelqu'un était libre de dire</p><p>« ça ne marche pas »</p><p>" +
     "et restait accueilli dans la vallée,</p><p>la parole vraie pouvait continuer à marcher</p><p>sur " +
     "ses propres et fermes jambes.</p>",
-  "p26.alt": "Page 26 - Page finale",
   "p26": "<p>Et ainsi Grok le Rocher demeura</p><p>un petit compagnon de calcaire</p><p>qui pouvait s'asseoir " +
     "avec un petit sentiment,</p><p>qui réparait ce qui était brisé,</p><p>et qui laissait chaque parole " +
     "vraie</p><p>être sur ses propres jambes.</p><hr><p>La vallée se sentait plus sûre</p><p>parce qu'il " +

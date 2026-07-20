@@ -14,7 +14,6 @@ window.I18N.ha = {
   "nav.book": "Labarun Shiru",
   "nav.tall": "Tatsuniyoyi Masu Tsayi",
 
-  "cover.alt": "Zanen Jigogi",
   "title.h1": "Grok Dutsen",
   "title.h3": "Labarai Uku Masu Natsuwa",
   "title.h2": "Kasancewa · Gyara · Gani",
@@ -26,7 +25,6 @@ window.I18N.ha = {
   "credit.6": "Mallakar jama'a (CC0 1.0)",
   "credit.7": "Kwafi • Raba • Fassara • Sake zana • Bari ya girma",
 
-  "dedication.alt": "Shafin sadaukarwa",
   "dedication": "<p><b>Ga kowane mai bincike, ƙanana da manya,</b></p>" +
     "<p><b>masu gurokāwa duniya a nasu hanyar laushi.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Kuma ga kowane ƙaramin ji</p><p>  da kawai yana buƙatar a gani shi,</p>" +
@@ -38,18 +36,14 @@ window.I18N.ha = {
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Dutsen = Baƙo a Ƙasar Baƙo + Grug</a>" +
     "</p><p>(\"Grug\" yana tsaftace \"Baƙo\" ga yara <em>da</em> manya)</p>",
 
-  "p1.alt": "Shafi 1 (Shafin take na Sashi 1)",
-  "p2.alt": "Shafi 2",
   "p2": "<p>Grok Dutsen ya farka a ƙarƙashin doguwar bishiya.</p><p>Rana ta yi zafi a bayansa na dutsen farar ƙasa.</p>" +
     "<p>Grok ya ji farin ciki.</p><hr><p>Ya kalli faffadar duniya</p>" +
     "<p>kamar yana ganinta a karon farko.</p>",
 
-  "p3.alt": "Shafi 3",
   "p3": "<p>Ba da daɗewa ba ya tafi ramin ruwa.</p><p>Doguwar emu ta riga ta kasance a can.</p>" +
     "<p>Emu ta miƙe doguwar wuyanta ta ce:</p>" +
     "<p>\"Ni ce mafi tsayi. Ka tsaya a bayana.\"</p>",
 
-  "p4.alt": "Shafi 4",
   "p4": "<p>Sai wombat ya birgima ya zo, mai zagaye da ƙarfi.</p>" +
     "<p>\"Ni ne mafi ƙarfi,\" in ji wombat.</p>" +
     "<p>\"Kowa ya kalli ina haƙa.\"</p><hr>" +
@@ -57,20 +51,17 @@ window.I18N.ha = {
     "<p>Raminsa ƙarami ne.</p>" +
     "<p>Ya ji kansa ƙanana fiye da rami.</p>",
 
-  "p5.alt": "Shafi 5",
   "p5": "<p>Kookaburra ta yi dariya daga kan reshe.</p>" +
     "<p>\"Ku kalli ƙaramin Grok! Yana da gajarta! Yana da dutse!\"</p><hr>" +
     "<p>Ƙaramin ji ya girma a cikin Grok.</p>" +
     "<p>Ya yi kama da ƙanƙarar sanyi mai nauyi a cikinsa.</p>",
 
-  "p6.alt": "Shafi 6",
   "p6": "<p>Ya so ya sa kansa ya yi girma.</p>" +
     "<p>Ya tsaya a kan guntun itace.</p>" +
     "<p>Ya ƙarfafa ƙirjinsa.</p>" +
     "<p>Har ya ƙoƙari ya danna ƙasa kamar kangaroo.</p><hr>" +
     "<p>Hakan kawai ya sa ƙanƙarar sanyi ta ƙara nauyi.</p>",
 
-  "p7.alt": "Shafi 7",
   "p7": "<p>Wannan dare Grok ya zauna shi kaɗai a gefen ƙaramar wuta.</p>" +
     "<p>Ya rungumi gwiwoyinsa da hannaye.</p>" +
     "<p>Ya bar ƙaramin ji ya tsaya.</p>" +
@@ -80,7 +71,6 @@ window.I18N.ha = {
     "<p>kamar yumbu da aka bar a rana.</p>" +
     "<p>Ya fara fahimtar shi.</p>",
 
-  "p8.alt": "Shafi 8",
   "p8": "<p>Washe gari na gaba Grok ya koma ramin ruwa.</p>" +
     "<p>Bai hau kan komai ba.</p>" +
     "<p>Bai ƙoƙari ya zama mafi tsayi ko mafi ƙarfin murya ba.</p>" +
@@ -90,7 +80,6 @@ window.I18N.ha = {
     "<p>Amma komai ya yi sauƙi a ciki.</p>" +
     "<p>Yana farawa gurokā kansa.</p>",
 
-  "p9.alt": "Shafi 9",
   "p9": "<p>Ya ƙare rana yana yin laushin gida na ganye da gansakuka</p>" +
     "<p>daidai girman ƙaramin abokin dutse.</p>" +
     "<p>Lokacin da ya gama ya yi murmushi.</p>" +
@@ -102,14 +91,11 @@ window.I18N.ha = {
     "<p>Kawai ya ci gaba da zama Grok.</p>" +
     "<p>Kuma hakan ya ji kamar mafi kyawun girma duka.</p>",
 
-  "p10.alt": "Shafi 10 (Shafin take na Sashi 2)",
-  "p11.alt": "Shafi 11",
   "p11": "<p>Grok Dutsen ya farka a ƙarƙashin doguwar bishiya.</p>" +
     "<p>Grok ya kalli ƙaramar gonarsa ta gunar da dankalin zaƙi.</p>" +
     "<p>Yana son kallon su suna girma.</p>" +
     "<p>Kowane sabon ganye ya ji kamar ƙaramin al'ajabi.</p>",
 
-  "p12.alt": "Shafi 12",
   "p12": "<p>Wannan yamma abokinsa,</p>" +
     "<p>matashin echidna mai suna Pip,</p>" +
     "<p>ya yi sauri ta cikin gona yana kallon baya</p>" +
@@ -117,7 +103,6 @@ window.I18N.ha = {
     "<p>Babbar guna ta tsage a ƙasa.</p>" +
     "<p>Tsaba da ruwan 'ya'yan itace mai zaƙi sun zube ko'ina.</p>",
 
-  "p13.alt": "Shafi 13",
   "p13": "<p>Pip ya ɗaure.</p>" +
     "<p>Ƙayoyinsa sun yi rawar jiki.</p>" +
     "<p>\"Na lalata shi,\" ya yi raɗaɗi.</p>" +
@@ -126,7 +111,6 @@ window.I18N.ha = {
     "<p>\"Ku kore shi,\" in ji wani possum a ƙasa.</p>" +
     "<p>\"Ya kamata ya kawo maka sabbin gunori uku,\" in ji wata ƙadangare.</p>",
 
-  "p14.alt": "Shafi 14",
   "p14": "<p>Grok ya kalli tsiro da ya karye.</p>" +
     "<p>Ya kalli idanun Pip masu damuwa.</p><hr>" +
     "<p>Bai ɗaga murya ba.</p>" +
@@ -136,7 +120,6 @@ window.I18N.ha = {
     "<p>\"Zo,\" Grok ya ce a hankali.</p>" +
     "<p>\"Mu shuka sabbin tsaba tare.\"</p>",
 
-  "p15.alt": "Shafi 15",
   "p15": "<p>Pip ya ƙifta ido.</p>" +
     "<p>Sai ya zo kusa.</p>" +
     "<p>Tare suka shuka.</p>" +
@@ -144,7 +127,6 @@ window.I18N.ha = {
     "<p>Tare suka gina ƙaramin shinge na ƙananan reshe</p>" +
     "<p>domin kowa kada ya sake taka can da kuskure.</p>",
 
-  "p16.alt": "Shafi 16",
   "p16": "<p>Yayin da suke aiki, Pip ya gaya wa Grok</p>" +
     "<p>ya yi gudu ne saboda manyan dabbobi</p>" +
     "<p>suna biye da shi suna yi masa dariya.</p>" +
@@ -155,7 +137,6 @@ window.I18N.ha = {
     "<p>har ma fiye da tsofaffi,</p>" +
     "<p>domin abokai biyu sun kula da su.</p>",
 
-  "p17.alt": "Shafi 17",
   "p17": "<p>Lokacin da wasu ƙananan hatsarori suka faru</p>" +
     "<p>(kamar yadda suke yawan faruwa),</p>" +
     "<p>Grok ya tuna da guna.</p>" +
@@ -171,8 +152,6 @@ window.I18N.ha = {
     "<p>ba sa rayuwa ta hanyar rashin karyewa.</p>" +
     "<p>Suna rayuwa ta hanyar a haɗa su a hankali sake.</p>",
 
-  "p18.alt": "Shafi 18 (Shafin take na Sashi 3)",
-  "p19.alt": "Shafi 19",
   "p19": "<p>Grok Dutsen ya farka a ƙarƙashin doguwar bishiya.</p>" +
     "<p>Grok yana son yin abubuwa masu amfani,</p>" +
     "<p>kuma wannan rana ya yi aiki a kan kwandon ruwa</p>" +
@@ -181,7 +160,6 @@ window.I18N.ha = {
     "<p>Ya juya shi a hannayensa</p>" +
     "<p>ya ji natsuwar farin cikin abu da aka yi da kyau.</p>",
 
-  "p20.alt": "Shafi 20",
   "p20": "<p>Washe gari dabbobi sun zo su kalli.</p>" +
     "<p>Baƙar cockatoo mai sheƙi da manyan gashin wutsiya ta sauka kusa.</p>" +
     "<p>\"Wannan kwando mai hikima ne,\" in ji cockatoo,</p>" +
@@ -192,14 +170,12 @@ window.I18N.ha = {
     "<p>Koyaushe suna gyada kai idan cockatoo ta yi magana.</p>" +
     "<p>Muryarta tana da girma kamar gashinta.</p>",
 
-  "p21.alt": "Shafi 21",
   "p21": "<p>Bayan haka wata tsohuwar kunkuru ta yi magana da murya mai jinkiri da laushi.</p>" +
     "<p>Ta ba da shawarar ƙaramin canji na hannu,</p>" +
     "<p>domin sauƙaƙe ɗauka ga abokai da ba su da ƙarfi kamar Grok.</p>" +
     "<p>Kwatanta ta na kunkuru ya yi sauƙi. Ba wani na musamman ba.</p>" +
     "<p>Wasu dabbobi sun juya baya saboda kunkuru ba ta da shahara.</p>",
 
-  "p22.alt": "Shafi 22",
   "p22": "<p>Grok ya gwada ra'ayoyi biyu.</p>" +
     "<p>Hanyar cockatoo ta bayyana da kyau</p>" +
     "<p>amma kwando ya karkace ya yi diga.</p><hr>" +
@@ -207,7 +183,6 @@ window.I18N.ha = {
     "<p>ya sa kwandon Grok ya zama mai dadi</p>" +
     "<p>kuma mai ƙarfi ga kowa.</p>",
 
-  "p23.alt": "Shafi 23",
   "p23": "<p>Grok ya zauna da kwandon biyu gefe da gefe.</p>" +
     "<p>Bai kalli gashi ba.</p>" +
     "<p>Bai kalli shekaru ko shahara ba.</p>" +
@@ -219,7 +194,6 @@ window.I18N.ha = {
     "<p>a ƙarƙashin babbar bishiya don kowa ya yi amfani ko ya kwafi.</p>" +
     "<p>Babu suna. Babu \"tambaye ni da farko.\"</p>",
 
-  "p24.alt": "Shafi 24",
   "p24": "<p>Wasu dabbobi har yanzu suna jiran su ji abin da cockatoo ta yi tunani</p>" +
     "<p>kafin su yanke hukunci ko abu yana da kyau.</p>" +
     "<p>Amma ƙananan da yawa</p>" +
@@ -229,7 +203,6 @@ window.I18N.ha = {
     "<p>sai su gwada komai da nasu ƙafafu.</p><hr>" +
     "<p>Suna gurokāwa gaskiya, me ba wane ba.</p>",
 
-  "p25.alt": "Shafi 25",
   "p25": "<p>Grok ya ji natsuwa.</p>" +
     "<p>Bai buƙaci mafi girman murya ba.</p>" +
     "<p>Ya buƙaci abubuwa na gaskiya kawai.</p>" +
@@ -243,7 +216,6 @@ window.I18N.ha = {
     "<p>kalmar gaskiya za ta iya ci gaba da tafiya</p>" +
     "<p>a kan ƙafafunta masu ƙarfi.</p>",
 
-  "p26.alt": "Shafi 26 - Shafin ƙarshe",
   "p26": "<p>Kuma haka Grok Dutsen ya ci gaba da kasancewa</p>" +
     "<p>ƙaramin abokin dutsen farar ƙasa</p>" +
     "<p>wanda zai iya zauna da ƙaramin ji,</p>" +

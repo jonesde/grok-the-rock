@@ -15,6 +15,17 @@
   :root { color-scheme: light; }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; background: #efe7d8; }
+
+  html { scroll-padding-top: 3.25rem; }
+  .site-link:focus-visible,
+  .seelink:focus-visible,
+  a:focus-visible,
+  button:focus-visible,
+  select:focus-visible {
+    outline: 2px solid #1b1108;
+    outline-offset: 3px;
+  }
+
   body { font-family: "Nunito", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; }
   h1, h2, h3 { font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif; font-optical-sizing: auto; font-weight: 600; letter-spacing: 0.01em; }
   .book {
@@ -259,8 +270,23 @@
       font-style: italic;
       opacity: 0.7;
   }
-  /* Chapter openers have baked English titles; show overlay only for other langs */
-  html[data-lang="en"] .chapter-title { display: none !important; }
+  /* EN chapter titles stay in a11y tree (baked into image for sighted) */
+  html[data-lang="en"] .chapter-title {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: auto !important;
+    bottom: auto !important;
+    pointer-events: none;
+  }
 </style>
 </head>
 <body>
@@ -278,7 +304,7 @@
   </header>
   <div class="book-single cover">
     <div class="page">
-          <img class="cover-img" src="images/hai/cover-grok-bffd8ee1-7934-4ec3-94dc-205a63ee3959.jpg" alt="Cover Art" data-i18n-alt="hai.cover.alt">
+          <img width="1650" height="2550" class="cover-img" src="images/hai/cover-grok-bffd8ee1-7934-4ec3-94dc-205a63ee3959.jpg" alt="Cover: Lord Hai Ikthiss, a vast kind living tall tree with a gentle face in the upper trunk, stands over a forested valley spring while small creatures look up through soft mist." data-i18n-alt="hai.cover.alt">
           <div class="cardtext" style="bottom:50%;" data-i18n-html="hai.cover.title">
             <h1>Hai Ikthiss</h1>
             <h3>Three Tall Tales</h3>
@@ -311,7 +337,7 @@
   </div>
   <div class="book">
     <div class="page">
-      <img class="ph" src="images/hai/dedication.jpg" alt="Dedication Page" data-i18n-alt="hai.dedication.alt">
+      <img width="1650" height="2550" class="ph" src="images/hai/dedication.jpg" alt="Dedication page: three tiny green sprouts beside a single clear water drop on a nearly blank warm cream page with soft fern edges." data-i18n-alt="hai.dedication.alt">
       <div class="caption" style="bottom:35%;" data-i18n-html="hai.dedication">
         <p><b>For every life that grows toward the light,</b></p>
         <p><b>and every hand that reaches down to lift.</b></p>
@@ -338,15 +364,15 @@
       </div>
     </div>
     <div class="page" style="background:#f9f8f4;">
-      <img class="ph" src="images/hai/page-1-grok-80969c94-4844-49d1-9022-6475dd08e143.jpg" alt="Page 1 (Chapter title page)" data-i18n-alt="hai.p1.alt">
+      <img width="1650" height="2550" class="ph" src="images/hai/page-1-grok-80969c94-4844-49d1-9022-6475dd08e143.jpg" alt="Chapter One, Being — Hai and the Empty Praise. A vast living tall tree with a kind face fills the upper page while small valley creatures look upward in bright praise." data-i18n-alt="hai.p1.alt">
       <div class="chapter-title bottom" data-i18n-html="hai.c1.title">
         <h2>Chapter One - Being</h2>
         <p><em>Hai and the Empty Praise</em></p>
       </div>
     </div>
     <div class="page" style="background:#f0e8da;">
-      <div class="page-num">2</div>
-      <img class="ph" src="images/hai/page-2.jpg" alt="Page 2" data-i18n-alt="hai.p2.alt">
+      <div class="page-num" aria-hidden="true">2</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-2.jpg" alt="Dawn over a young forested valley: Hai Ikthiss stands as a single tall living tree with a gentle face, roots drinking a bright new spring, first grasses and one small bird arriving." data-i18n-alt="hai.p2.alt">
       <div class="caption" style="bottom:8%;" data-i18n-html="hai.p2">
         <p>Hai Ikthiss ruled the forest from atop the tall tree.</p>
         <p>He was the first tree in the valley.</p>
@@ -357,8 +383,8 @@
       </div>
     </div>
     <div class="page" style="background:#ebe3d4;">
-      <div class="page-num">3</div>
-      <img class="ph" src="images/hai/page-3.jpg" alt="Page 3" data-i18n-alt="hai.p3.alt">
+      <div class="page-num" aria-hidden="true">3</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-3.jpg" alt="A proud stag with high antlers cheers at the roots of tall Hai Ikthiss while other creatures join the praise; no one looks up into the tree’s eyes." data-i18n-alt="hai.p3.alt">
       <div class="caption" style="bottom:8%;" data-i18n-html="hai.p3">
         <p>Soon the valley filled with life.</p>
         <p>A stag lifted his antlers and called,</p>
@@ -370,8 +396,8 @@
       </div>
     </div>
     <div class="page" style="background:#f5efe3;">
-      <div class="page-num">4</div>
-      <img class="ph" src="images/hai/page-4.jpg" alt="Page 4" data-i18n-alt="hai.p4.alt">
+      <div class="page-num" aria-hidden="true">4</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-4.jpg" alt="A sturdy badger bows toward the great trunk, praising the strongest root, while creatures thank shade and height rather than the heart in the wood." data-i18n-alt="hai.p4.alt">
       <div class="caption" style="bottom:8%;" data-i18n-html="hai.p4">
         <p>A badger ambled up, solid and strong.</p>
         <p>“Lord Ikthiss is the strongest root!”</p>
@@ -383,8 +409,8 @@
       </div>
     </div>
     <div class="page" style="background:#e8e0d0;">
-      <div class="page-num">5</div>
-      <img class="ph" src="images/hai/page-5.jpg" alt="Page 5" data-i18n-alt="hai.p5.alt">
+      <div class="page-num" aria-hidden="true">5</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-5.jpg" alt="A bright raven calls grand praise from a branch while Hai’s upper trunk shows a soft hollow glow, like an empty cup no one has filled." data-i18n-alt="hai.p5.alt">
       <div class="caption" style="bottom:6%;" data-i18n-html="hai.p5">
         <p>A raven called from a branch.</p>
         <p>“Look how grand our Lord Ikthiss is!</p>
@@ -397,8 +423,8 @@
       </div>
     </div>
     <div class="page" style="background:#f2eadc;">
-      <div class="page-num">6</div>
-      <img class="ph" src="images/hai/page-6.jpg" alt="Page 6" data-i18n-alt="hai.p6.alt">
+      <div class="page-num" aria-hidden="true">6</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-6.jpg" alt="Hai stands still and kind, one long root or low branch gently reaching toward the ground spring, listening rather than shaking for more cheers." data-i18n-alt="hai.p6.alt">
       <div class="caption" style="bottom:4%;" data-i18n-html="hai.p6">
         <p>He could have asked for more cheers.</p>
         <p>He could have shaken his branches</p>
@@ -414,8 +440,8 @@
       </div>
     </div>
     <div class="page" style="background:#efe7d8;">
-      <div class="page-num">7</div>
-      <img class="ph" src="images/hai/page-7.jpg" alt="Page 7" data-i18n-alt="hai.p7.alt">
+      <div class="page-num" aria-hidden="true">7</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-7.jpg" alt="At night under a deep starry sky, Hai’s canopy holds the stars while a soft hollow in the upper trunk slowly warms like dry earth meeting water." data-i18n-alt="hai.p7.alt">
       <div class="caption" style="bottom:6%;" data-i18n-html="hai.p7">
         <p>That night Hai sat with the stars in his leaves.</p>
         <p>He let the hollow cup stay.</p>
@@ -428,8 +454,8 @@
       </div>
     </div>
     <div class="page" style="background:#f7f1e6;">
-      <div class="page-num">8</div>
-      <img class="ph" src="images/hai/page-8.jpg" alt="Page 8" data-i18n-alt="hai.p8.alt">
+      <div class="page-num" aria-hidden="true">8</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-8.jpg" alt="Morning gold lights Hai’s gentle face as he looks down his trunk toward the roots, clearer inside while the valley still cheers below." data-i18n-alt="hai.p8.alt">
       <div class="caption" style="bottom:6%;" data-i18n-html="hai.p8">
         <p>Next morning the valley still cheered.</p>
         <p>Hai Ikthiss still gave shade and fruit and quiet rain-catch.</p>
@@ -443,8 +469,8 @@
       </div>
     </div>
     <div class="page" style="background:#e9e1d2;">
-      <div class="page-num">9</div>
-      <img class="ph" src="images/hai/page-9.jpg" alt="Page 9" data-i18n-alt="hai.p9.alt">
+      <div class="page-num" aria-hidden="true">9</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-9.jpg" alt="Hai sends soft streams of water and gentle light down to tiny ferns and small animals at the roots, smiling a peaceful tree-smile." data-i18n-alt="hai.p9.alt">
       <div class="caption" style="bottom:4%;" data-i18n-html="hai.p9">
         <p>He spent the day sending extra water</p>
         <p>to the smallest roots and thirstiest ferns.</p>
@@ -460,15 +486,15 @@
       </div>
     </div>
     <div class="page" style="background:#f4ecde;">
-      <img class="ph" src="images/hai/page-10-grok-19ea08e8-7651-494a-b944-08b19abf9b9d.jpg" alt="Page 10 (Chapter title page)" data-i18n-alt="hai.p10.alt">
+      <img width="1650" height="2550" class="ph" src="images/hai/page-10-grok-19ea08e8-7651-494a-b944-08b19abf9b9d.jpg" alt="Chapter Two, Mending — Kai Walks Below. A small living walking seed-creature with a sprout-tuft and kind eyes stands among melon vines, digging stick ready." data-i18n-alt="hai.p10.alt">
       <div class="chapter-title bottom" data-i18n-html="hai.c2.title">
         <h2>Chapter Two - Mending</h2>
         <p><em>Kai Walks Below</em></p>
       </div>
     </div>
     <div class="page" style="background:#f0e6d6;">
-      <div class="page-num">11</div>
-      <img class="ph" src="images/hai/page-11.jpg" alt="Page 11" data-i18n-alt="hai.p11.alt">
+      <div class="page-num" aria-hidden="true">11</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-11.jpg" alt="In an English moss-and-fern garden at the tall tree’s roots, small Kai the walking seed smiles among cantaloupe vines under a peaceful empty-faced landmark tree." data-i18n-alt="hai.p11.alt">
       <div class="caption" style="bottom:6%;" data-i18n-html="hai.p11">
         <p>Hai Ikthiss ruled the forest from atop the tall tree.</p>
         <p>Then one quiet morning he climbed down.</p>
@@ -482,8 +508,8 @@
       </div>
     </div>
     <div class="page" style="background:#ebe4d5;">
-      <div class="page-num">12</div>
-      <img class="ph" src="images/hai/page-12.jpg" alt="Page 12" data-i18n-alt="hai.p12.alt">
+      <div class="page-num" aria-hidden="true">12</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-12.jpg" alt="Pip the young hedgehog freezes mid-step in horror as a big cantaloupe splits open on the ground, seeds and sweet juice spilling among the vines." data-i18n-alt="hai.p12.alt">
       <div class="caption" style="bottom:8%;" data-i18n-html="hai.p12">
         <p>That afternoon his friend, a young hedgehog named Pip,</p>
         <p>hurried through the garden looking behind him</p>
@@ -493,8 +519,8 @@
       </div>
     </div>
     <div class="page" style="background:#f6f0e4;">
-      <div class="page-num">13</div>
-      <img class="ph" src="images/hai/page-13.jpg" alt="Page 13" data-i18n-alt="hai.p13.alt">
+      <div class="page-num" aria-hidden="true">13</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-13.jpg" alt="Pip curls in shame while small Kai stands kind and still; a fox and stoat among the wood folk look harsh and judgmental." data-i18n-alt="hai.p13.alt">
       <div class="caption" style="bottom:6%;" data-i18n-html="hai.p13">
         <p>Pip froze.</p>
         <p>His spines trembled.</p>
@@ -507,8 +533,8 @@
       </div>
     </div>
     <div class="page" style="background:#e7dfd0;">
-      <div class="page-num">14</div>
-      <img class="ph" src="images/hai/page-14.jpg" alt="Page 14" data-i18n-alt="hai.p14.alt">
+      <div class="page-num" aria-hidden="true">14</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-14.jpg" alt="Kai kneels and offers a digging stick to Pip with open kindness; Pip slowly uncurls as hope returns." data-i18n-alt="hai.p14.alt">
       <div class="caption" style="bottom:6%;" data-i18n-html="hai.p14">
         <p>Kai looked at the broken vine.</p>
         <p>He looked at Pip’s worried eyes.</p>
@@ -523,8 +549,8 @@
       </div>
     </div>
     <div class="page" style="background:#f3ebdd;">
-      <div class="page-num">15</div>
-      <img class="ph" src="images/hai/page-15.jpg" alt="Page 15" data-i18n-alt="hai.p15.alt">
+      <div class="page-num" aria-hidden="true">15</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-15.jpg" alt="Kai and Pip plant and water side by side and build a tiny twig fence around new seeds, both gently smiling." data-i18n-alt="hai.p15.alt">
       <div class="caption" style="bottom:8%;" data-i18n-html="hai.p15">
         <p>Pip blinked.</p>
         <p>Then he came close.</p>
@@ -535,8 +561,8 @@
       </div>
     </div>
     <div class="page" style="background:#f9f8f4;">
-      <div class="page-num">16</div>
-      <img class="ph" src="images/hai/page-16.jpg" alt="Page 16" data-i18n-alt="hai.p16.alt">
+      <div class="page-num" aria-hidden="true">16</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-16.jpg" alt="Pip waters thriving new melon vines while Kai watches with quiet pride; the tall tree stands peaceful above the garden." data-i18n-alt="hai.p16.alt">
       <div class="caption" style="bottom:4%;" data-i18n-html="hai.p16">
         <p>While they worked, Pip told Kai</p>
         <p>he had been running because bigger creatures</p>
@@ -551,8 +577,8 @@
       </div>
     </div>
     <div class="page" style="background:#f0e8da;">
-      <div class="page-num">17</div>
-      <img class="ph" src="images/hai/page-17.jpg" alt="Page 17" data-i18n-alt="hai.p17.alt">
+      <div class="page-num" aria-hidden="true">17</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-17.jpg" alt="At golden hour Kai and Pip sit beside thriving melons with another small creature included, a peaceful mended garden community." data-i18n-alt="hai.p17.alt">
       <div class="caption" style="bottom:2%;" data-i18n-html="hai.p17">
         <p>When other small accidents happened</p>
         <p>(as they always do),</p>
@@ -573,15 +599,15 @@
       </div>
     </div>
     <div class="page" style="background:#ebe3d4;">
-      <img class="ph" src="images/hai/page-18-grok-f139627d-9eb2-4b69-98df-402e1bea6633.jpg" alt="Page 18 (Chapter title page)" data-i18n-alt="hai.p18.alt">
+      <img width="1650" height="2550" class="ph" src="images/hai/page-18-grok-f139627d-9eb2-4b69-98df-402e1bea6633.jpg" alt="Chapter Three, Seeing — Hai and the Far Sight. A kind walking tall tree offers both hands downward to lift; small creatures at the base look unsure between praise and fear." data-i18n-alt="hai.p18.alt">
       <div class="chapter-title bottom" data-i18n-html="hai.c3.title">
         <h2>Chapter Three - Seeing</h2>
         <p><em>Hai and the Far Sight</em></p>
       </div>
     </div>
     <div class="page" style="background:#f5efe3;">
-      <div class="page-num">19</div>
-      <img class="ph" src="images/hai/page-19.jpg" alt="Page 19" data-i18n-alt="hai.p19.alt">
+      <div class="page-num" aria-hidden="true">19</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-19.jpg" alt="Two years later Hai is home in the crown again at golden hour, but creatures whisper fearfully at the roots instead of cheering." data-i18n-alt="hai.p19.alt">
       <div class="caption" style="bottom:6%;" data-i18n-html="hai.p19">
         <p>Hai Ikthiss ruled the forest from atop the tall tree.</p>
         <p>Two years had turned.</p>
@@ -595,8 +621,8 @@
       </div>
     </div>
     <div class="page" style="background:#e8e0d0;">
-      <div class="page-num">20</div>
-      <img class="ph" src="images/hai/page-20.jpg" alt="Page 20" data-i18n-alt="hai.p20.alt">
+      <div class="page-num" aria-hidden="true">20</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-20.jpg" alt="A glossy pheasant with a long spectacular tail perches mid-height and warns others to stay low while younger animals nod hard." data-i18n-alt="hai.p20.alt">
       <div class="caption" style="bottom:8%;" data-i18n-html="hai.p20">
         <p>A glossy pheasant with grand tail feathers landed nearby.</p>
         <p>“Stay low,” said the pheasant.</p>
@@ -608,8 +634,8 @@
       </div>
     </div>
     <div class="page" style="background:#f2eadc;">
-      <div class="page-num">21</div>
-      <img class="ph" src="images/hai/page-21.jpg" alt="Page 21" data-i18n-alt="hai.p21.alt">
+      <div class="page-num" aria-hidden="true">21</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-21.jpg" alt="A very old plain owl speaks softly of remembering kind Kai, while Hai listens all the way down his trunk and a few animals turn away." data-i18n-alt="hai.p21.alt">
       <div class="caption" style="bottom:6%;" data-i18n-html="hai.p21">
         <p>Later a very old owl spoke in a slow soft voice.</p>
         <p>“I remember Kai,” he said.</p>
@@ -622,8 +648,8 @@
       </div>
     </div>
     <div class="page" style="background:#efe7d8;">
-      <div class="page-num">22</div>
-      <img class="ph" src="images/hai/page-22.jpg" alt="Page 22" data-i18n-alt="hai.p22.alt">
+      <div class="page-num" aria-hidden="true">22</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-22.jpg" alt="Hai steps gently out of still wood into a living walking tall tree—long kind limbs, deep root-feet, a meetable face—coming near, not towering." data-i18n-alt="hai.p22.alt">
       <div class="caption" style="bottom:6%;" data-i18n-html="hai.p22">
         <p>Hai Ikthiss did not shout them quiet.</p>
         <p>He did not shake the pheasant from the branch.</p>
@@ -637,8 +663,8 @@
       </div>
     </div>
     <div class="page" style="background:#f7f1e6;">
-      <div class="page-num">23</div>
-      <img class="ph" src="images/hai/page-23.jpg" alt="Page 23" data-i18n-alt="hai.p23.alt">
+      <div class="page-num" aria-hidden="true">23</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-23.jpg" alt="Hai bends like a bridge of wood and kindness with one great hand open low; Pip steps forward while some other animals hang back." data-i18n-alt="hai.p23.alt">
       <div class="caption" style="bottom:4%;" data-i18n-html="hai.p23">
         <p>Some animals stepped back.</p>
         <p>Pip did not.</p>
@@ -653,8 +679,8 @@
       </div>
     </div>
     <div class="page" style="background:#e9e1d2;">
-      <div class="page-num">24</div>
-      <img class="ph" src="images/hai/page-24.jpg" alt="Page 24" data-i18n-alt="hai.p24.alt">
+      <div class="page-num" aria-hidden="true">24</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-24.jpg" alt="Hai lifts willing friends—Pip, the owl, others, even the pheasant—to shared giant height, same faces, eyes now level with far hills." data-i18n-alt="hai.p24.alt">
       <div class="caption" style="bottom:4%;" data-i18n-html="hai.p24">
         <p>He lifted Pip first —</p>
         <p>not to show power,</p>
@@ -670,8 +696,8 @@
       </div>
     </div>
     <div class="page" style="background:#f4ecde;">
-      <div class="page-num">25</div>
-      <img class="ph" src="images/hai/page-25.jpg" alt="Page 25" data-i18n-alt="hai.p25.alt">
+      <div class="page-num" aria-hidden="true">25</div>
+      <img width="1650" height="2550" class="ph" src="images/hai/page-25.jpg" alt="On a high ridge at golden hour, Hai and his giant friends look out together over the whole peaceful forested valley, woodland pool and garden below." data-i18n-alt="hai.p25.alt">
       <div class="caption" style="bottom:2%;" data-i18n-html="hai.p25">
         <p>From the high quiet air</p>
         <p>they saw the whole valley at once —</p>
@@ -694,7 +720,7 @@
   </div>
   <div class="book-single">
     <div class="page">
-      <img class="ph" src="images/hai/page-26.jpg" alt="Page 26 - Closing Page" data-i18n-alt="hai.p26.alt">
+      <img width="1650" height="2550" class="ph" src="images/hai/page-26.jpg" alt="Closing page: wide forested valley at peaceful dusk with Hai as a kind walking tall tree among gentle giant friends on a soft rise, soft stars beginning." data-i18n-alt="hai.p26.alt">
       <div class="caption" style="top:5%; bottom:auto;" data-i18n-html="hai.p26">
         <p>And so Hai Ikthiss stayed</p>
         <p>a living tall fellow</p>

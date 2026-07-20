@@ -9,7 +9,6 @@ window.I18N["he-phon"] = {
   "nav.book": "סיפורים שקטים",
   "nav.tall": "סיפורי גובה",
 
-  "cover.alt": "תמונת כריכה",
   "title.h1": "גרוק הצור",
   "title.h3": "שלושה סיפורים שקטים",
   "title.h2": "שלום · תיקון · ראייה",
@@ -20,8 +19,6 @@ window.I18N["he-phon"] = {
   "credit.5": "זהו מם של סיפור שנוצר בבינה מלאכותית ואצור על ידי אדם",
   "credit.6": "נחלת הכלל (CC0 1.0)",
   "credit.7": "העתיקו · שתפו · תרגמו · ציירו מחדש · תנו לזה לצמוח",
-
-  "dedication.alt": "עמוד הקדשה",
 
   "dedication": "<p><b>לכל חוקר, קטן וגדול,</b></p><p class=\"phon\">le-KHOL kho-KER, ka-TAN ve-ga-DOL,</p>" +
     "<p><b>גּוֹרְקִים את העולם בדרכם העדינה.</b></p>" +
@@ -41,8 +38,6 @@ window.I18N["he-phon"] = {
     "<p>(&quot;גראג&quot; מנקה את &quot;זר&quot; למען ילדים <em>וגם</em> מבוגרים)</p>" +
     "<p class=\"phon\">(&quot;GRUG&quot; me-na-KEH et &quot;ZAR&quot; le-MA-an ye-la-DIM <em>ve-GAM</em> u-me-vu-ga-RIM)</p>",
 
-  "p1.alt": "עמוד 1 (עמוד השער של פרק 1)",
-  "p2.alt": "עמוד 2",
   "p2": "<p dir=\"rtl\">גְּרוֹק הַצּוּר הִתְעוֹרֵר מִתַּחַת לָעֵץ הַגָּבוֹהַּ.</p>" +
     "<p class=\"phon\">grok ha-TZUR hit-o-REYR mi-TA-chat la-ETZ ha-ga-VO-ah.</p>" +
     "<p dir=\"rtl\">הַשֶּׁמֶשׁ הָיְתָה חַמָּה עַל גַּבּוֹ שֶׁל אֶבֶן הַגִּיר.</p>" +
@@ -52,7 +47,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">כְּאִלּוּ רָאָה אוֹתוֹ בַּפַּעַם הָרִאשׁוֹנָה.</p>" +
     "<p class=\"phon\">k'-I-lu ra-AH o-TO ba-PA-am ha-ri-sho-NAH.</p>",
 
-  "p3.alt": "עמוד 3",
   "p3": "<p dir=\"rtl\">בְּמַהֵרָה הָלַךְ אֶל בּוֹר הַמַּיִם.</p>" +
     "<p class=\"phon\">b'-ma-he-RAH ha-LAKH el BOR ha-MA-yim.</p>" +
     "<p dir=\"rtl\">אֶמּוּ גָּבוֹהַּ כְּבָר הָיָה שָׁם.</p><p class=\"phon\">E-mu ga-VO-ah k'-VAR ha-YAH SHAM.</p>" +
@@ -61,7 +55,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">\"אֲנִי הֲכִי גָּבוֹהַּ. עֲמֹד מֵאָחוֹרַי.\"</p>" +
     "<p class=\"phon\">\"a-NI ha-KHI ga-VO-ah. a-MOD me-a-cho-RAY.\"</p>",
 
-  "p4.alt": "עמוד 4",
   "p4": "<p dir=\"rtl\">ווֹמְבָּט הִתְגַּלְגֵּל לְשָׁם, עָגֹל וּמוּצָק.</p>" +
     "<p class=\"phon\">VOM-bat hit-gal-GEL le-SHAM, a-GOL u-mu-TSAK.</p>" +
     "<p dir=\"rtl\">\"אֲנִי הֲכִי חָזָק\", אָמַר הַווֹמְבָּט.</p>" +
@@ -72,7 +65,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">הוּא הִרְגִּישׁ קָטָן יוֹתֵר מֵהַבּוֹר.</p>" +
     "<p class=\"phon\">hu hir-GISH ka-TAN yo-TER me-ha-BOR.</p>",
 
-  "p5.alt": "עמוד 5",
   "p5": "<p dir=\"rtl\">קוּקַבּוּרָה צָחֲקָה מֵעָנָף.</p><p class=\"phon\">ku-ka-BU-rah tsa-cha-KAH me-a-NAF.</p>" +
     "<p dir=\"rtl\">\"תִּרְאוּ אֶת גְּרוֹק! כָּזֶה נָמוּךְ! כָּזֶה אַבְנִי!\"</p>" +
     "<p class=\"phon\">\"tir-U et grok! ka-ZEH na-MUKH! ka-ZEH av-NI!\"</p><hr>" +
@@ -81,7 +73,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">הִיא הִרְגִּישָׁה כְּמוֹ אֶבֶן קָרָה וּכְבֵדָה בְּאֶמְצָעוֹ.</p>" +
     "<p class=\"phon\">hi hir-GI-shah KMO E-ven ka-RAH u-khve-DAH be-em-tsa-O.</p>",
 
-  "p6.alt": "עמוד 6",
   "p6": "<p dir=\"rtl\">הוּא רָצָה לְהֵרָאוֹת גָּדוֹל יוֹתֵר.</p>" +
     "<p class=\"phon\">hu ra-TSAH le-he-ra-OT ga-DOL yo-TER.</p><p dir=\"rtl\">הוּא עָמַד עַל בּוּל עֵץ.</p>" +
     "<p class=\"phon\">hu a-MAD al BUL ETZ.</p><p dir=\"rtl\">הוּא נִפֵּחַ אֶת הֶחָזֶה שֶׁלּוֹ.</p>" +
@@ -91,7 +82,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">זֶה רַק הִכְבִּיד אֶת הָאֶבֶן הַקָּרָה יוֹתֵר.</p>" +
     "<p class=\"phon\">ZEH RAK hikh-BID et ha-E-ven ha-ka-RAH yo-TER.</p>",
 
-  "p7.alt": "עמוד 7",
   "p7": "<p dir=\"rtl\">בַּלַּיְלָה הַהוּא יָשַׁב גְּרוֹק לְבַדּוֹ לְיַד מְדוּרָה קְטַנָּה.</p>" +
     "<p class=\"phon\">ba-LAY-lah ha-HU ya-SHAV grok l'-va-DO l'-YAD m'-du-RAH kta-NAH.</p>" +
     "<p dir=\"rtl\">הוּא חִבֵּק אֶת בִּרְכָּיו.</p><p class=\"phon\">hu khi-BEK et bir-KAV.</p>" +
@@ -105,7 +95,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">כְּמוֹ חֹמֶר שֶׁנּוֹתַר בַּשֶּׁמֶשׁ.</p><p class=\"phon\">KMO CHO-mer she-no-TAR ba-SHE-mesh.</p>" +
     "<p dir=\"rtl\">הוּא הֵחֵל לְהָבִין אוֹתָהּ.</p><p class=\"phon\">hu he-KHEL l'-ha-VIN o-TAH.</p>",
 
-  "p8.alt": "עמוד 8",
   "p8": "<p dir=\"rtl\">לְמָחֳרָת חָזַר גְּרוֹק אֶל בּוֹר הַמַּיִם.</p>" +
     "<p class=\"phon\">l'-mo-cho-RAT cha-ZAR grok el BOR ha-MA-yim.</p>" +
     "<p dir=\"rtl\">הוּא לֹא טִפֵּס עַל שׁוּם דָּבָר.</p><p class=\"phon\">hu LO ti-PES al SHUM da-VAR.</p>" +
@@ -119,7 +108,6 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">a-VAL ha-KOL hir-GISH KAL yo-TER mi-bif-NIM.</p>" +
     "<p dir=\"rtl\">הוּא הֵחֵל לִגְרוֹק אֶת עַצְמוֹ.</p><p class=\"phon\">hu he-KHEL lig-ROK et ats-MO.</p>",
 
-  "p9.alt": "עמוד 9",
   "p9": "<p dir=\"rtl\">הוּא בִּלָּה אֶת הַיּוֹם בַּעֲשִׂיַּת קֵן רַךְ מֵעָלִים וָטַחַב</p>" +
     "<p class=\"phon\">hu bi-LAH et ha-YOM ba-a-si-YAT KEN RAKH me-a-LIM va-TA-chav</p>" +
     "<p dir=\"rtl\">בַּגֹּדֶל הַמַּתְאִים בְּדִיּוּק לַחֲבֵר צוּר קָטָן.</p>" +
@@ -136,8 +124,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">וְזֶה הִרְגִּישׁ כַּגֹּדֶל הַטּוֹב בְּיוֹתֵר.</p>" +
     "<p class=\"phon\">v'-ZEH hir-GISH ka-GO-del ha-TOV b'-yo-TER.</p>",
 
-  "p10.alt": "עמוד 10 (עמוד השער של פרק 2)",
-  "p11.alt": "עמוד 11",
   "p11": "<p dir=\"rtl\">גְּרוֹק הַצּוּר הִתְעוֹרֵר מִתַּחַת לָעֵץ הַגָּבוֹהַּ.</p>" +
     "<p class=\"phon\">grok ha-TZUR hit-o-REYR mi-TA-chat la-ETZ ha-ga-VO-ah.</p>" +
     "<p dir=\"rtl\">גְּרוֹק טִפֵּל בַּגִּנָּה הַקְּטַנָּה שֶׁלּוֹ שֶׁל מֵלוֹנִים וּבַטָטוֹת.</p>" +
@@ -146,7 +132,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">כָּל עָלֶה חָדָשׁ הִרְגִּישׁ כְּמוֹ נֵס קָטָן.</p>" +
     "<p class=\"phon\">kol a-LEH cha-DASH hir-GISH KMO NES ka-TAN.</p>",
 
-  "p12.alt": "עמוד 12",
   "p12": "<p dir=\"rtl\">אַחַר הַצָּהֳרַיִם חֲבֵרוֹ,</p><p class=\"phon\">a-CHAR ha-tso-ho-RA-yim cha-ve-RO,</p>" +
     "<p dir=\"rtl\">קִפּוֹדָן צְעִיר בַּשֵּׁם פִּיפּ,</p><p class=\"phon\">ki-po-DAN tsa-IR ba-SHEM PIP,</p>" +
     "<p dir=\"rtl\">חָצָה אֶת הַגִּנָּה כְּשֶׁהוּא מַבִּיט לְאָחוֹר</p>" +
@@ -158,7 +143,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">זְרָעִים וּמִיץ מָתוֹק נִשְׁפְּכוּ לְכָל עֵבֶר.</p>" +
     "<p class=\"phon\">z'-ra-IM u-MITS ma-TOK nish-p'-KHU l'-KHOL E-ver.</p>",
 
-  "p13.alt": "עמוד 13",
   "p13": "<p dir=\"rtl\">פִּיפּ קָפָא עַל מְקוֹמוֹ.</p><p class=\"phon\">PIP ka-FA al m'-ko-MO.</p>" +
     "<p dir=\"rtl\">הַקּוֹצִים שֶׁלּוֹ רָעֲדוּ.</p><p class=\"phon\">ha-ko-TSIM she-LO ra-a-DU.</p>" +
     "<p dir=\"rtl\">\"הָרַסְתִּי אֶת זֶה\", הוּא לָחַשׁ.</p><p class=\"phon\">\"ha-RAS-ti et ZEH,\" hu la-CHASH.</p>" +
@@ -171,7 +155,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">\"הוּא צָרִיךְ לְהָבִיא לְךָ שְׁלוֹשָׁה מֵלוֹנִים חֲדָשִׁים\", אָמְרָה לְטָאָה.</p>" +
     "<p class=\"phon\">\"HU tsa-RIKH l'-ha-VI l'-KHA shlo-SHAH me-lo-NIM cha-da-SHIM,\" am-RAH l'-ta-AH.</p>",
 
-  "p14.alt": "עמוד 14",
   "p14": "<p dir=\"rtl\">גְּרוֹק הִבִּיט בַּגֶּפֶן הַשְּׁבוּרָה.</p>" +
     "<p class=\"phon\">grok hi-BIT ba-GE-fen ha-sh'-vu-RAH.</p>" +
     "<p dir=\"rtl\">הוּא הִבִּיט בְּעֵינָיו הַמֻּדְאָגוֹת שֶׁל פִּיפּ.</p>" +
@@ -184,7 +167,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">\"נִשְׁתֹּל זְרָעִים חֲדָשִׁים יַחַד.\"</p>" +
     "<p class=\"phon\">\"nish-TOL z'-ra-IM cha-da-SHIM YA-chad.\"</p>",
 
-  "p15.alt": "עמוד 15",
   "p15": "<p dir=\"rtl\">פִּיפּ מָצְמֵץ.</p><p class=\"phon\">PIP mits-METS.</p>" +
     "<p dir=\"rtl\">וְאָז הוּא נִגַּשׁ.</p><p class=\"phon\">v'-AZ HU ni-GASH.</p>" +
     "<p dir=\"rtl\">יַחַד הֵם שָׁתְלוּ.</p><p class=\"phon\">YA-chad HEM shat-LU.</p>" +
@@ -194,7 +176,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">כְּדֵי שֶׁאַף אֶחָד לֹא יִדְרֹךְ שָׁם בִּטְעוּת שׁוּב.</p>" +
     "<p class=\"phon\">k'-DEY she-AF e-CHAD LO yid-ROKH SHAM bit-UT SHUV.</p>",
 
-  "p16.alt": "עמוד 16",
   "p16": "<p dir=\"rtl\">בְּעוֹדָם עוֹבְדִים, פִּיפּ סִפֵּר לִגְרוֹק</p>" +
     "<p class=\"phon\">b'-o-DAM ov-DIM, PIP si-PER l'-grok</p>" +
     "<p dir=\"rtl\">שֶׁהוּא רָץ כִּי יְצוּרִים גְּדוֹלִים יוֹתֵר</p>" +
@@ -212,7 +193,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">מִשּׁוּם שֶׁשְּׁנֵי חֲבֵרִים טִפְּלוּ בָּהֶן.</p>" +
     "<p class=\"phon\">mi-SHUM she-sh'-NEY cha-ve-RIM tip-LU ba-HEN.</p>",
 
-  "p17.alt": "עמוד 17",
   "p17": "<p dir=\"rtl\">כְּשֶׁקָּרוּ תְּאוּנוֹת קְטַנּוֹת אֲחֵרוֹת</p>" +
     "<p class=\"phon\">k'-she-KA-ru t'-u-NOT kta-NOT a-che-ROT</p><p dir=\"rtl\">(כְּמוֹ שֶׁתָּמִיד קוֹרוֹת),</p>" +
     "<p class=\"phon\">(KMO she-ta-MID ko-ROT),</p><p dir=\"rtl\">גְּרוֹק זָכַר אֶת הַמֵּלוֹן.</p>" +
@@ -232,8 +212,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">הֵן נִשְׁאָרוֹת חַיּוֹת מִשּׁוּם שֶׁמַּחְזִירִים אוֹתָן בְּעַדְנוּת.</p>" +
     "<p class=\"phon\">HEN nish-a-ROT cha-YOT mi-SHUM she-makh-zi-RIM o-TAN b'-a-d'nu-T.</p>",
 
-  "p18.alt": "עמוד 18 (עמוד השער של פרק 3)",
-  "p19.alt": "עמוד 19",
   "p19": "<p dir=\"rtl\">גְּרוֹק הַצּוּר הִתְעוֹרֵר מִתַּחַת לָעֵץ הַגָּבוֹהַּ.</p>" +
     "<p class=\"phon\">grok ha-TZUR hit-o-REYR mi-TA-chat la-ETZ ha-ga-VO-ah.</p>" +
     "<p dir=\"rtl\">גְּרוֹק אָהַב לַעֲשׂוֹת דְּבָרִים מוֹעִילִים,</p>" +
@@ -247,7 +225,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">וְחָשׁ אֶת שִׂמְחַת הַדְּמָמָה שֶׁל דָּבָר עָשׂוּי כָּרָאוּי.</p>" +
     "<p class=\"phon\">v'-CHASH et sim-CHAT ha-d'-ma-MAH shel da-VAR a-SUY ka-ra-UY.</p>",
 
-  "p20.alt": "עמוד 20",
   "p20": "<p dir=\"rtl\">לְמָחֳרָת בָּאוּ יְצוּרִים לְהִתְבּוֹנֵן.</p>" +
     "<p class=\"phon\">l'-mo-cho-RAT BA-u y'-tsu-RIM l'-hit-bo-NEN.</p>" +
     "<p dir=\"rtl\">קָקָדוּ שָׁחוֹר מַבְרִיק בַּעַל נוֹצוֹת גְּדוֹלוֹת נָחַת בְּקִרְבָתָם.</p>" +
@@ -267,7 +244,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">קוֹלוֹ הָיָה מְפֹאָר בְּדִיּוּק כְּמוֹ נוֹצוֹתָיו.</p>" +
     "<p class=\"phon\">ko-LO ha-YAH m'-fo-AR bid-YUK KMO no-tso-TAV.</p>",
 
-  "p21.alt": "עמוד 21",
   "p21": "<p dir=\"rtl\">וְאָז דִּבֵּר צָב זָקֵן מְאוֹד בְּקוֹל אִטִּי וְרַךְ.</p>" +
     "<p class=\"phon\">v'-AZ di-BER TSAV za-KEN m'-OD b'-KOL i-TI v'-RAKH.</p>" +
     "<p dir=\"rtl\">הוּא הִצִּיעַ אֶת הַשִּׁנּוּי הַקָּטָן שֶׁל יָדִית,</p>" +
@@ -279,7 +255,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">כַּמָּה חַיּוֹת פָּנוּ לִשְׁמֹעַ אוֹתוֹ פָּחוֹת כִּי הוּא לֹא הָיָה מְפֻרְסָם.</p>" +
     "<p class=\"phon\">ka-MAH cha-YOT pa-NU lish-MO-a o-TO pa-CHOT KI HU LO ha-YAH m'-fur-SAM.</p>",
 
-  "p22.alt": "עמוד 22",
   "p22": "<p dir=\"rtl\">גְּרוֹק בָּדַק אֶת שְׁנֵי הָרַעֲיוֹנוֹת.</p>" +
     "<p class=\"phon\">grok ba-DAK et sh'-NEY ha-ra-a-yo-NOT.</p>" +
     "<p dir=\"rtl\">דֶּרֶךְ הַקָּקָדוּ נִרְאֲתָה אַמָּנוּתִית</p>" +
@@ -291,7 +266,6 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">ha-FAKH et ha-SAL shel grok l'-NO-akh</p><p dir=\"rtl\">וְיַצִּיב עֲבוּר כֻּלָּם.</p>" +
     "<p class=\"phon\">v'-ya-TSIV a-VUR ku-LAM.</p>",
 
-  "p23.alt": "עמוד 23",
   "p23": "<p dir=\"rtl\">גְּרוֹק יָשַׁב עִם שְׁנֵי הַסַּלִּים זֶה לְצַד זֶה.</p>" +
     "<p class=\"phon\">grok ya-SHAV IM sh'-NEY ha-sa-LIM ZEH l'-TSAD ZEH.</p>" +
     "<p dir=\"rtl\">הוּא לֹא הִבִּיט בַּנּוֹצוֹת.</p><p class=\"phon\">HU LO hi-BIT ba-no-TSOT.</p>" +
@@ -311,7 +285,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">אֵין שֵׁם. אֵין \"תִּשְׁאַל אוֹתִי קֹדֶם\".</p>" +
     "<p class=\"phon\">EYN SHEM. EYN \"tish-AL o-TI KO-dem\".</p>",
 
-  "p24.alt": "עמוד 24",
   "p24": "<p dir=\"rtl\">כַּמָּה חַיּוֹת עֲדַיִן חִכּוּ לִשְׁמֹעַ מָה חוֹשֵׁב הַקָּקָדוּ</p>" +
     "<p class=\"phon\">ka-MAH cha-YOT a-DA-yin chi-KU lish-MO-a MAH kho-SHEV ha-KA-ka-du</p>" +
     "<p dir=\"rtl\">לִפְנֵי שֶׁהֶחְלִיטוּ אִם מַשֶּׁהוּ טוֹב.</p>" +
@@ -327,7 +300,6 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">הֵם גָּרְקוּ אֶת הָאֱמֶת, אֶת הַמָּה לֹא אֶת הַמִּי.</p>" +
     "<p class=\"phon\">HEM gar-KU et ha-e-MET, et ha-MAH LO et ha-MI.</p>",
 
-  "p25.alt": "עמוד 25",
   "p25": "<p dir=\"rtl\">גְּרוֹק חָשׁ בְּשָׁלוֹם.</p><p class=\"phon\">grok CHASH b'-sha-LOM.</p>" +
     "<p dir=\"rtl\">הוּא לֹא הָיָה צָרִיךְ אֶת הַקּוֹל הַגָּדוֹל בְּיוֹתֵר.</p>" +
     "<p class=\"phon\">HU LO ha-YAH tsa-RIKH et ha-KOL ha-ga-DOL b'-yo-TER.</p>" +
@@ -347,7 +319,6 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">ha-mi-LAH ha-a-mi-TIT yakh-LAH l'-ham-SHIKH la-LE-khet</p>" +
     "<p dir=\"rtl\">עַל רַגְלֶיהָ הַחֲזָקוֹת שֶׁלָּהּ.</p><p class=\"phon\">al rag-LE-ha ha-cha-za-KOT she-LAH.</p>",
 
-  "p26.alt": "עמוד 26 - העמוד האחרון",
   "p26": "<p dir=\"rtl\">וְכָךְ גְּרוֹק הַצּוּר נִשְׁאַר</p><p class=\"phon\">v'-KHAKH GROK ha-TZUR nish-AR</p>" +
     "<p dir=\"rtl\">חֲבֵר קָטָן שֶׁל אֶבֶן גִּיר</p><p class=\"phon\">cha-VER ka-TAN shel E-ven GIR</p>" +
     "<p dir=\"rtl\">שֶׁיָּכֹל לָשֶׁבֶת עִם תְּחוּשָׁה קְטַנָּה,</p>" +

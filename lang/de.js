@@ -14,7 +14,6 @@ window.I18N.de = {
   "nav.book": "Stille Geschichten",
   "nav.tall": "Hohe Märchen",
 
-  "cover.alt": "Titelbild",
   "title.h1": "Grok der Fels",
   "title.h3": "Drei stille Geschichten",
   "title.h2": "Sein · Flicken · Sehen",
@@ -26,8 +25,6 @@ window.I18N.de = {
   "credit.6": "Gemeinfrei (CC0 1.0)",
   "credit.7": "Kopiere es • Teile es • Übersetze es • Zeichne es neu • Lass es wachsen",
 
-  "dedication.alt": "Widmungsseite",
-
   "dedication": "<p><b>Für alle Entdecker, klein und groß,</b></p>" +
     "<p><b>die die Welt auf ihre eigene sanfte Weise grokken.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Und für jedes kleine Gefühl, das nur gesehen werden will,</p>" +
@@ -37,43 +34,34 @@ window.I18N.de = {
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok der Fels = Fremder in einer fremden Welt + Grug</a>" +
     "</p><p>(„Grug“ macht „Fremder“ sauber für Kinder <em>und</em> Erwachsene)</p>",
 
-  "p1.alt": "Seite 1 (Titelseite Kapitel 1)",
-  "p2.alt": "Seite 2",
   "p2": "<p>Grok der Fels erwachte unter dem hohen Baum.</p><p>Die Sonne war warm auf seinem Kalksteinrücken.</p>" +
     "<p>Grok fühlte sich glücklich.</p><hr><p>Er betrachtete die weite Welt</p>" +
     "<p>als sähe er sie zum allerersten Mal.</p>",
 
-  "p3.alt": "Seite 3",
   "p3": "<p>Bald ging er zum Wasserloch.</p><p>Ein hoher Emu war schon da.</p>" +
     "<p>Der Emu reckte seinen langen Hals und sagte:</p><p>„Ich bin der Höchste. Stell dich hinter mich.“</p>",
 
-  "p4.alt": "Seite 4",
   "p4": "<p>Dann rollte ein Wombat heran, rund und fest.</p><p>„Ich bin der Stärkste“, sagte der Wombat.</p>" +
     "<p>„Seht mir beim Graben zu.“</p><hr><p>Grok versuchte auch zu graben.</p><p>Sein Loch war klein.</p>" +
     "<p>Er fühlte sich kleiner als das Loch.</p>",
 
-  "p5.alt": "Seite 5",
   "p5": "<p>Ein Kookaburra lachte von einem Ast.</p><p>„Seht euch den kleinen Grok an! So kurz! So steinig!“</p><hr>" +
     "<p>Das kleine Gefühl wuchs in Grok.</p><p>Es fühlte sich an wie ein schwerer kalter Kiesel in seiner Mitte.</p>",
 
-  "p6.alt": "Seite 6",
   "p6": "<p>Er wollte größer aussehen.</p><p>Er stellte sich auf einen Baumstamm.</p>" +
     "<p>Er blähte die Brust auf.</p><p>Er versuchte sogar, wie das Känguru auf den Boden zu stampfen.</p><hr>" +
     "<p>Es machte den kalten Kiesel nur schwerer.</p>",
 
-  "p7.alt": "Seite 7",
   "p7": "<p>An jenem Abend saß Grok allein an einem kleinen Feuer.</p><p>Er legte die Arme um seine Knie.</p>" +
     "<p>Er ließ das kleine Gefühl bleiben.</p><p>Er lief nicht davor davon.</p><p>Er warf es nicht auf andere.</p>" +
     "<hr><p>Langsam wurde das Gefühl weicher,</p><p>wie Lehm, der in der Sonne liegt.</p>" +
     "<p>Er begann es zu verstehen.</p>",
 
-  "p8.alt": "Seite 8",
   "p8": "<p>Am nächsten Morgen ging Grok zurück zum Wasserloch.</p><p>Er kletterte auf nichts.</p>" +
     "<p>Er versuchte nicht, höher oder lauter zu sein.</p><p>Er trank einfach,</p>" +
     "<p>setzte sich dann auf einen warmen Stein und summte.</p><hr><p>Außen hatte sich nichts Großes verändert.</p>" +
     "<p>Aber innen fühlte sich alles leichter an.</p><p>Er begann, sich selbst zu grokken.</p>",
 
-  "p9.alt": "Seite 9",
   "p9": "<p>Er verbrachte den Tag damit, ein weiches Nest aus Blättern und Moos zu bauen,</p>" +
     "<p>gerade die richtige Größe für einen kleinen Felskerl.</p><p>Als es fertig war, lächelte er.</p>" +
     "<p>Es war klein.</p><p>Es war seins.</p><p>Es war genug.</p><hr>" +
@@ -81,40 +69,32 @@ window.I18N.de = {
     "<p>saß Grok still, bis er ruhig wurde.</p><p>Er blieb einfach Grok.</p>" +
     "<p>Und das fühlte sich an wie die beste Größe von allen.</p>",
 
-  "p10.alt": "Seite 10 (Titelseite Kapitel 2)",
-  "p11.alt": "Seite 11",
   "p11": "<p>Grok der Fels erwachte unter dem hohen Baum.</p>" +
     "<p>Grok betrachtete seinen kleinen Garten mit Melonen und Süßkartoffeln.</p>" +
     "<p>Er liebte es, ihnen beim Wachsen zuzusehen.</p><p>Jedes neue Blatt fühlte sich an wie ein kleines Wunder.</p>",
 
-  "p12.alt": "Seite 12",
   "p12": "<p>An jenem Nachmittag rannte sein Freund,</p><p>ein junger Ameisenigel namens Pip,</p>" +
     "<p>durch den Garten, schaute hinter sich</p><p>und stieß die beste Melonenranke um.</p><hr>" +
     "<p>Die große Melone platzte auf dem Boden auf.</p><p>Samen und süßer Saft ergossen sich überall.</p>",
 
-  "p13.alt": "Seite 13",
   "p13": "<p>Pip erstarrte.</p><p>Seine Stacheln zitterten.</p><p>„Ich habe es ruiniert“, flüsterte er.</p>" +
     "<p>„Du wirst wütend sein. Alle werden wütend sein.“</p><hr><p>Einige Buschtiere versammelten sich.</p>" +
     "<p>„Schickt ihn weg“, murmelte ein Possum.</p><p>„Er soll dir drei neue Melonen bringen“, sagte eine Echse.</p>",
 
-  "p14.alt": "Seite 14",
   "p14": "<p>Grok betrachtete die gebrochene Ranke.</p><p>Er betrachtete Pips sorgenvolle Augen.</p><hr>" +
     "<p>Er erhob nicht die Stimme.</p><p>Er zeigte nicht mit dem Finger.</p><p>Er hob einen Grabstock auf</p>" +
     "<p>und begann, den weichen Boden vorzubereiten.</p><hr><p>„Komm“, sagte Grok sanft.</p>" +
     "<p>„Wir pflanzen zusammen neue Samen.“</p>",
 
-  "p15.alt": "Seite 15",
   "p15": "<p>Pip blinzelte.</p><p>Dann kam er näher.</p><p>Zusammen pflanzten sie.</p><p>Zusammen gossen sie.</p>" +
     "<p>Zusammen bauten sie einen kleinen Zaun aus Zweigen,</p><p>damit niemand dort wieder aus Versehen hintrat.</p>",
 
-  "p16.alt": "Seite 16",
   "p16": "<p>Während sie arbeiteten, erzählte Pip Grok,</p><p>dass er gerannt war, weil ihn größere Tiere</p>" +
     "<p>verfolgt und ausgelacht hatten.</p><p>Er hatte die Ranke nicht gesehen.</p><hr>" +
     "<p>Die nächsten Tage kam Pip jeden Morgen.</p><p>Er wurde der beste Wasserträger im Tal.</p>" +
     "<p>Die neuen Ranken wuchsen kräftig,</p><p>noch kräftiger als die alten,</p>" +
     "<p>weil zwei Freunde sich um sie kümmerten.</p>",
 
-  "p17.alt": "Seite 17",
   "p17": "<p>Als andere kleine Unfälle passierten</p><p>(wie es immer so ist),</p>" +
     "<p>erinnerte Grok sich an die Melone.</p><p>Er half dem, der sich verletzt fühlte.</p>" +
     "<p>Er blieb auch freundlich zu dem, der gestoßen hatte.</p><hr><p>Niemand wurde weggeschickt.</p>" +
@@ -124,15 +104,12 @@ window.I18N.de = {
     "<p>nicht dadurch am Leben bleiben, dass sie nie brechen.</p>" +
     "<p>Sie bleiben am Leben, indem sie sanft wieder zusammengefügt werden.</p>",
 
-  "p18.alt": "Seite 18 (Titelseite Kapitel 3)",
-  "p19.alt": "Seite 19",
   "p19": "<p>Grok der Fels erwachte unter dem hohen Baum.</p><p>Grok machte gern nützliche Dinge,</p>" +
     "<p>und an jenem Tag arbeitete er an einem Wasserkorb,</p>" +
     "<p>geflochten aus Schilf und ausgekleidet mit weichem Lehm.</p>" +
     "<p>Bis zum Abend hielt er Wasser ohne einen einzigen Tropfen.</p><hr><p>Er drehte ihn in seinen Händen</p>" +
     "<p>und fühlte die stille Freude über etwas gut Gemachtes.</p>",
 
-  "p20.alt": "Seite 20",
   "p20": "<p>Gleich am nächsten Tag kamen Tiere, um zu schauen.</p>" +
     "<p>Ein glänzender schwarzer Kakadu mit prächtigen Schwanzfedern landete in der Nähe.</p>" +
     "<p>„Dieser Korb ist gut gemacht“, sagte der Kakadu,</p><p>„aber <em>meine</em>" +
@@ -140,19 +117,16 @@ window.I18N.de = {
     "<p>also müssen meine Gedanken auch die prächtigsten sein.“</p><hr><p>Einige jüngere Tiere nickten heftig.</p>" +
     "<p>Sie nickten immer, wenn der Kakadu sprach.</p><p>Seine Stimme war so prächtig wie seine Federn.</p>",
 
-  "p21.alt": "Seite 21",
   "p21": "<p>Später sprach eine sehr alte Schildkröte in einer langsamen, sanften Stimme.</p>" +
     "<p>Sie schlug die kleine Änderung eines Henkels vor,</p>" +
     "<p>damit der Korb auch für weniger kräftige Freunde als Grok leicht zu tragen war.</p>" +
     "<p>Ihr Panzer war schlicht. Niemand Besonderes.</p>" +
     "<p>Einige Tiere wandten sich ab, weil die Schildkröte nicht berühmt war.</p>",
 
-  "p22.alt": "Seite 22",
   "p22": "<p>Grok probierte beide Ideen aus.</p><p>Die Art des Kakadus sah prunkvoll aus,</p>" +
     "<p>aber der Korb kippte und lief aus.</p><hr><p>Die kleine Idee der alten Schildkröte</p>" +
     "<p>machte Groks Korb bequem</p><p>und stabil für alle.</p>",
 
-  "p23.alt": "Seite 23",
   "p23": "<p>Grok saß mit den beiden Körben nebeneinander.</p><p>Er schaute nicht auf Federn.</p>" +
     "<p>Er schaute nicht auf Alter oder Ruhm.</p><p>Er schaute nur, welcher Korb das Wasser am besten hielt</p>" +
     "<p>und sich am angenehmsten in der Hand anfühlte.</p><hr><p>Er behielt die bessere Art.</p>" +
@@ -160,14 +134,12 @@ window.I18N.de = {
     "<p>unter dem großen Baum für jeden zum Benutzen oder Nachmachen.</p>" +
     "<p>Kein Name darauf. Kein „frag mich erst“.</p>",
 
-  "p24.alt": "Seite 24",
   "p24": "<p>Einige Tiere warteten immer noch darauf, zu hören, was der Kakadu dachte,</p>" +
     "<p>bevor sie entschieden, ob etwas gut war.</p><p>Aber immer mehr Kleine</p>" +
     "<p>begannen, Dinge selbst auszuprobieren.</p><p>Sie hörten Groks leisen Worten zu</p>" +
     "<p>genauso wie den Worten des prächtigen Kakadus,</p><p>und dann prüften sie alles mit ihren eigenen Pfoten.</p>" +
     "<hr><p>Sie waren dabei, das Wahre zu grokken, das Was, nicht das Wer.</p>",
 
-  "p25.alt": "Seite 25",
   "p25": "<p>Grok fühlte sich friedlich.</p><p>Er brauchte nicht die größte Stimme.</p>" +
     "<p>Er brauchte nur wahre Dinge.</p><p>Und Grok sah, dass wahre Dinge</p>" +
     "<p>von einem prächtigen Vogel kommen konnten</p><p>oder von einer staubigen Schildkröte</p>" +
@@ -175,7 +147,6 @@ window.I18N.de = {
     "<p>„das funktioniert nicht“</p><p>und trotzdem im Tal willkommen blieb,</p>" +
     "<p>konnte das wahre Wort weitergehen</p><p>auf seinen eigenen starken Beinen.</p>",
 
-  "p26.alt": "Seite 26 - Schlussseite",
   "p26": "<p>Und so blieb Grok der Fels</p><p>ein kleiner Kalksteinkerl</p>" +
     "<p>der mit einem kleinen Gefühl sitzen konnte,</p><p>der flickte, was gebrochen war,</p>" +
     "<p>und der jedes wahre Wort</p><p>auf seinen eigenen Beinen stehen ließ.</p><hr>" +

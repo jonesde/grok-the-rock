@@ -14,7 +14,6 @@ window.I18N.no = {
   "nav.book": "Stille Historier",
   "nav.tall": "Høye Eventyr",
 
-  "cover.alt": "Omslag",
   "title.h1": "Grok Steinen",
   "title.h3": "Tre stille historier",
   "title.h2": "Være · Lappe · Se",
@@ -25,8 +24,6 @@ window.I18N.no = {
   "credit.5": "Dette er en AI-generert, menneskekurert historiemem",
   "credit.6": "Offentlig eiendom (CC0 1.0)",
   "credit.7": "Kopier det • Del det • Oversett det • Tegn det på nytt • La det vokse",
-
-  "dedication.alt": "Dedikasjonsside",
 
   "dedication": "<p><b>Til hver eneste oppdager, liten og stor,</b></p>" +
     "<p><b>som grokker verden på sin egen milde måte.</b></p>" +
@@ -42,21 +39,17 @@ window.I18N.no = {
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Steinen = Fremmed i en fremmed verden + Grug</a>" +
     "</p><p>(\"Grug\" renser \"Fremmed\" for barn <em>og</em> voksne)</p>",
 
-  "p1.alt": "Side 1 (Kapittel 1 tittelside)",
-  "p2.alt": "Side 2",
   "p2": "<p>Grok Steinen våknet under det høye treet.</p>" +
     "<p>Solen var varm på kalksteinsryggen hans.</p>" +
     "<p>Grok følte seg glad.</p><hr>" +
     "<p>Han så utover den vide verden</p>" +
     "<p>som om han så den for aller første gang.</p>",
 
-  "p3.alt": "Side 3",
   "p3": "<p>Snart gikk han til vannhullet.</p>" +
     "<p>En høy emu var der allerede.</p>" +
     "<p>Emuen strakte den lange halsen sin og sa:</p>" +
     "<p>\"Jeg er den høyeste. Stå bak meg.\"</p>",
 
-  "p4.alt": "Side 4",
   "p4": "<p>Så kom en wombat, rund og solid.</p>" +
     "<p>\"Jeg er den sterkeste,\" sa wombaten.</p>" +
     "<p>\"Alle, se på meg grave.\"</p><hr>" +
@@ -64,20 +57,17 @@ window.I18N.no = {
     "<p>Hullet hans var lite.</p>" +
     "<p>Han følte seg mindre enn hullet.</p>",
 
-  "p5.alt": "Side 5",
   "p5": "<p>En kookaburra lo fra en gren.</p>" +
     "<p>\"Se på lille Grok! Så kort! Så steinete!\"</p><hr>" +
     "<p>Den lille følelsen vokste inne i Grok.</p>" +
     "<p>Det føltes som en tung, kald småstein i magen hans.</p>",
 
-  "p6.alt": "Side 6",
   "p6": "<p>Han ville se større ut.</p>" +
     "<p>Han stilte seg på en tømmerstokk.</p>" +
     "<p>Han blåste ut brystet.</p>" +
     "<p>Han prøvde til og med å trampe i bakken som kenguruen.</p><hr>" +
     "<p>Det gjorde bare den kalde småsteinen tyngre.</p>",
 
-  "p7.alt": "Side 7",
   "p7": "<p>Den kvelden satt Grok alene ved et lite bål.</p>" +
     "<p>Han la armene rundt knærne.</p>" +
     "<p>Han lot den lille følelsen bli.</p>" +
@@ -87,7 +77,6 @@ window.I18N.no = {
     "<p>som leire som ligger i solen.</p>" +
     "<p>Han begynte å forstå den.</p>",
 
-  "p8.alt": "Side 8",
   "p8": "<p>Neste morgen gikk Grok tilbake til vannhullet.</p>" +
     "<p>Han klatret ikke opp på noe.</p>" +
     "<p>Han prøvde ikke å være høyere eller høylydtere.</p>" +
@@ -97,7 +86,6 @@ window.I18N.no = {
     "<p>Men alt føltes lettere inni.</p>" +
     "<p>Han begynte å grokke seg selv.</p>",
 
-  "p9.alt": "Side 9",
   "p9": "<p>Han brukte dagen på å lage et mykt rede av blader og mose,</p>" +
     "<p>akkurat riktig størrelse for en liten steinvenn.</p>" +
     "<p>Da det var ferdig, smilte han.</p>" +
@@ -109,14 +97,11 @@ window.I18N.no = {
     "<p>Han ble bare værende Grok.</p>" +
     "<p>Og det føltes som den beste størrelsen av alle.</p>",
 
-  "p10.alt": "Side 10 (Kapittel 2 tittelside)",
-  "p11.alt": "Side 11",
   "p11": "<p>Grok Steinen våknet under det høye treet.</p>" +
     "<p>Grok så på den lille hagen sin med meloner og søtpoteter.</p>" +
     "<p>Han elsket å se dem vokse.</p>" +
     "<p>Hvert nytt blad føltes som et lite under.</p>",
 
-  "p12.alt": "Side 12",
   "p12": "<p>Den ettermiddagen kom vennen hans,</p>" +
     "<p>et ungt maurpinnsvin som het Pip,</p>" +
     "<p>skyndte seg gjennom hagen og så bak seg</p>" +
@@ -124,7 +109,6 @@ window.I18N.no = {
     "<p>Den store melonen sprakk på bakken.</p>" +
     "<p>Frø og søt saft rant overalt.</p>",
 
-  "p13.alt": "Side 13",
   "p13": "<p>Pip frøs.</p>" +
     "<p>Piggene hans skalv.</p>" +
     "<p>\"Jeg ødela den,\" hvisket han.</p>" +
@@ -133,7 +117,6 @@ window.I18N.no = {
     "<p>\"Send ham bort,\" mumlet en pungrotte.</p>" +
     "<p>\"Han burde bringe deg tre nye meloner,\" sa en øgle.</p>",
 
-  "p14.alt": "Side 14",
   "p14": "<p>Grok så på den brukne ranken.</p>" +
     "<p>Han så på Pips bekymrede øyne.</p><hr>" +
     "<p>Han hevet ikke stemmen.</p>" +
@@ -143,7 +126,6 @@ window.I18N.no = {
     "<p>\"Kom,\" sa Grok mildt.</p>" +
     "<p>\"Vi planter nye frø sammen.\"</p>",
 
-  "p15.alt": "Side 15",
   "p15": "<p>Pip blunket.</p>" +
     "<p>Så kom han nærmere.</p>" +
     "<p>Sammen plantet de.</p>" +
@@ -151,7 +133,6 @@ window.I18N.no = {
     "<p>Sammen bygde de et lite gjerde av kvister</p>" +
     "<p>så ingen skulle tråkke der ved et uhell igjen.</p>",
 
-  "p16.alt": "Side 16",
   "p16": "<p>Mens de arbeidet, fortalte Pip til Grok</p>" +
     "<p>at han hadde løpt fordi større skapninger</p>" +
     "<p>hadde jaget ham og ledd.</p>" +
@@ -162,7 +143,6 @@ window.I18N.no = {
     "<p>enda sterkere enn de gamle,</p>" +
     "<p>fordi to venner stelte dem.</p>",
 
-  "p17.alt": "Side 17",
   "p17": "<p>Da andre små uhell skjedde</p>" +
     "<p>(slik de alltid gjør),</p>" +
     "<p>husket Grok melonen.</p>" +
@@ -178,8 +158,6 @@ window.I18N.no = {
     "<p>ikke holder seg levende ved aldri å brekke.</p>" +
     "<p>De holder seg levende ved å bli satt forsiktig sammen igjen.</p>",
 
-  "p18.alt": "Side 18 (Kapittel 3 tittelside)",
-  "p19.alt": "Side 19",
   "p19": "<p>Grok Steinen våknet under det høye treet.</p>" +
     "<p>Grok likte å lage nyttige ting,</p>" +
     "<p>og den dagen arbeidet han på en vannkurv</p>" +
@@ -188,7 +166,6 @@ window.I18N.no = {
     "<p>Han snudde den i hendene</p>" +
     "<p>og kjente den stille gleden over noe godt laget.</p>",
 
-  "p20.alt": "Side 20",
   "p20": "<p>Neste dag kom skapninger for å se.</p>" +
     "<p>En blank, svart kakadu med staselige halefjær landet i nærheten.</p>" +
     "<p>\"Den kurven er smart,\" sa kakaduen,</p>" +
@@ -199,14 +176,12 @@ window.I18N.no = {
     "<p>De nikket alltid når kakaduen snakket.</p>" +
     "<p>Stemmen hans var like staselig som fjærene.</p>",
 
-  "p21.alt": "Side 21",
   "p21": "<p>Senere snakket en svært gammel skilpadde med langsom, myk stemme.</p>" +
     "<p>Han foreslo den lille endringen med et håndtak,</p>" +
     "<p>slik at den ble lett å bære for venner som var mindre solide enn Grok.</p>" +
     "<p>Skallet hans var enkelt. Ingen spesiell.</p>" +
     "<p>Noen dyr snudde seg bort fordi skilpadden ikke var berømt.</p>",
 
-  "p22.alt": "Side 22",
   "p22": "<p>Grok prøvde begge ideene.</p>" +
     "<p>Kakaduens måte så flott ut,</p>" +
     "<p>men kurven veltet og lakk.</p><hr>" +
@@ -214,7 +189,6 @@ window.I18N.no = {
     "<p>gjorde Groks kurv behagelig</p>" +
     "<p>og stødig for alle.</p>",
 
-  "p23.alt": "Side 23",
   "p23": "<p>Grok satt med de to kurvene side om side.</p>" +
     "<p>Han så ikke på fjær.</p>" +
     "<p>Han så ikke på alder eller berømmelse.</p>" +
@@ -226,7 +200,6 @@ window.I18N.no = {
     "<p>under det store treet, så hvem som helst kunne bruke eller kopiere den.</p>" +
     "<p>Ikke noe navn på den. Ikke noe \"spør meg først\".</p>",
 
-  "p24.alt": "Side 24",
   "p24": "<p>Noen dyr ventet fortsatt på å høre hva kakaduen mente</p>" +
     "<p>før de avgjorde om noe var bra.</p>" +
     "<p>Men stadig flere små</p>" +
@@ -236,7 +209,6 @@ window.I18N.no = {
     "<p>og så testet de alt med sine egne labber.</p>" +
     "<hr><p>De holdt på å grokke det sanne — hva, ikke hvem.</p>",
 
-  "p25.alt": "Side 25",
   "p25": "<p>Grok følte seg fredfull.</p>" +
     "<p>Han trengte ikke den største stemmen.</p>" +
     "<p>Han trengte bare sanne ting.</p>" +
@@ -250,7 +222,6 @@ window.I18N.no = {
     "<p>kunne det sanne ordet fortsette å gå</p>" +
     "<p>på sine egne sterke bein.</p>",
 
-  "p26.alt": "Side 26 - Avslutningsside",
   "p26": "<p>Og slik forble Grok Steinen</p>" +
     "<p>en liten kalksteinsvenn</p>" +
     "<p>som kunne sitte med en liten følelse,</p>" +

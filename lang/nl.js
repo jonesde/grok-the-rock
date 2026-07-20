@@ -14,7 +14,6 @@ window.I18N.nl = {
   "nav.book": "Stille Verhalen",
   "nav.tall": "Hoge Vertellingen",
 
-  "cover.alt": "Omslag",
   "title.h1": "Grok de Rots",
   "title.h3": "Drie stille verhalen",
   "title.h2": "Zijn · Herstellen · Zien",
@@ -25,8 +24,6 @@ window.I18N.nl = {
   "credit.5": "Dit is een door AI gegenereerde, door mensen samengestelde verhalenmeme",
   "credit.6": "Publiek domein (CC0 1.0)",
   "credit.7": "Kopieer het · Deel het · Vertaal het · Herteken het · Laat het groeien",
-
-  "dedication.alt": "Opdrachtpagina",
 
   "dedication": "<p><b>Voor elke ontdekker, klein en groot,</b></p>" +
     "<p><b>die de wereld op hun eigen zachte manier grokken.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
@@ -39,44 +36,35 @@ window.I18N.nl = {
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok de Rots = Vreemdeling in een vreemd land + Grug</a>" +
     "</p><p>(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)</p>",
 
-  "p1.alt": "Pagina 1 (Titelpagina hoofdstuk 1)",
-  "p2.alt": "Pagina 2",
   "p2": "<p>Grok de Rots werd wakker onder de hoge boom.</p><p>De zon was warm op zijn kalkstenen rug.</p>" +
     "<p>Grok voelde zich blij.</p><hr><p>Hij keek naar de wijde wereld</p>" +
     "<p>alsof hij haar voor het allereerst zag.</p>",
 
-  "p3.alt": "Pagina 3",
   "p3": "<p>Al snel liep hij naar de waterpoel.</p><p>Een lange emoe was er al.</p>" +
     "<p>De emoe strekte zijn lange nek en zei:</p><p>\"Ik ben de langste. Ga achter mij staan.\"</p>",
 
-  "p4.alt": "Pagina 4",
   "p4": "<p>Toen rolde er een wombat aan, rond en stevig.</p><p>\"Ik ben de sterkste,\" zei de wombat.</p>" +
     "<p>\"Kijk hoe ik graaf.\"</p><hr><p>Grok probeerde ook te graven.</p><p>Zijn gat was klein.</p>" +
     "<p>Hij voelde zich kleiner dan het gat.</p>",
 
-  "p5.alt": "Pagina 5",
   "p5": "<p>Een kookaburra lachte vanaf een tak.</p><p>\"Kijk eens naar kleine Grok! Zo kort! Zo stenig!\"</p><hr>" +
     "<p>Het kleine gevoel groeide binnen in Grok.</p><p>Het voelde als een zware koude kiezel in zijn buik.</p>",
 
-  "p6.alt": "Pagina 6",
   "p6": "<p>Hij wilde groter lijken.</p><p>Hij ging op een boomstam staan.</p>" +
     "<p>Hij zette zijn borst op.</p><p>Hij probeerde zelfs op de grond te stampen zoals de kangoeroe.</p><hr>" +
     "<p>Het maakte de koude kiezel alleen maar zwaarder.</p>",
 
-  "p7.alt": "Pagina 7",
   "p7": "<p>Die avond zat Grok alleen bij een klein vuurtje.</p><p>Hij sloeg zijn armen om zijn knieën.</p>" +
     "<p>Hij liet het kleine gevoel blijven.</p><p>Hij liep er niet voor weg.</p>" +
     "<p>Hij gooide het op niemand anders.</p><hr><p>Langzaam verzachtte het gevoel,</p>" +
     "<p>als klei die in de zon ligt.</p><p>Hij begon het te begrijpen.</p>",
 
-  "p8.alt": "Pagina 8",
   "p8": "<p>De volgende ochtend ging Grok terug naar de waterpoel.</p><p>Hij klom nergens op.</p>" +
     "<p>Hij probeerde niet langer of luider te zijn.</p><p>Hij dronk gewoon,</p>" +
     "<p>ging toen op een warme steen zitten en neuriëde.</p><hr>" +
     "<p>Aan de buitenkant was er niets groots veranderd.</p><p>Maar vanbinnen voelde alles lichter.</p>" +
     "<p>Hij begon zichzelf te grokken.</p>",
 
-  "p9.alt": "Pagina 9",
   "p9": "<p>Hij bracht de dag door met het maken van een zacht nest van bladeren en mos</p>" +
     "<p>precies de juiste maat voor een klein rotsvriendje.</p><p>Toen het klaar was glimlachte hij.</p>" +
     "<p>Het was klein.</p><p>Het was van hem.</p><p>Het was genoeg.</p><hr>" +
@@ -84,42 +72,34 @@ window.I18N.nl = {
     "<p>bleef Grok stil zitten totdat hij rustig werd.</p><p>Hij bleef gewoon Grok.</p>" +
     "<p>En dat voelde als de beste maat van allemaal.</p>",
 
-  "p10.alt": "Pagina 10 (Titelpagina hoofdstuk 2)",
-  "p11.alt": "Pagina 11",
   "p11": "<p>Grok de Rots werd wakker onder de hoge boom.</p>" +
     "<p>Grok keek naar zijn tuintje met meloenen en zoete aardappels.</p>" +
     "<p>Hij hield ervan om ze te zien groeien.</p><p>Elk nieuw blad voelde als een klein wonder.</p>",
 
-  "p12.alt": "Pagina 12",
   "p12": "<p>Die middag rende zijn vriend,</p><p>een jonge mierenegel die Pip heette,</p>" +
     "<p>door de tuin en keek achterom</p><p>en gooide de beste meloenrank omver.</p><hr>" +
     "<p>De grote meloen barstte open op de grond.</p><p>Zaden en zoet sap stroomden overal naartoe.</p>",
 
-  "p13.alt": "Pagina 13",
   "p13": "<p>Pip verstijfde.</p><p>Zijn stekels trilden.</p><p>\"Ik heb het stukgemaakt,\" fluisterde hij.</p>" +
     "<p>\"Je zult boos zijn. Iedereen zal boos zijn.\"</p><hr><p>Enkele bosdieren verzamelden zich.</p>" +
     "<p>\"Stuur hem weg,\" mompelde een buidelrat.</p>" +
     "<p>\"Hij zou je drie nieuwe meloenen moeten brengen,\" zei een hagedis.</p>",
 
-  "p14.alt": "Pagina 14",
   "p14": "<p>Grok keek naar de gebroken rank.</p><p>Hij keek naar Pips bezorgde ogen.</p><hr>" +
     "<p>Hij verhief zijn stem niet.</p><p>Hij wees niet met zijn vinger.</p><p>Hij pakte een graafstok</p>" +
     "<p>en begon zachte aarde voor te bereiden.</p><hr><p>\"Kom,\" zei Grok zachtjes.</p>" +
     "<p>\"We planten samen nieuwe zaden.\"</p>",
 
-  "p15.alt": "Pagina 15",
   "p15": "<p>Pip knipperde met zijn ogen.</p><p>Toen kwam hij dichterbij.</p><p>Samen plantten ze.</p>" +
     "<p>Samen gaven ze water.</p><p>Samen bouwden ze een klein hekje van takjes</p>" +
     "<p>zodat niemand daar nog eens per ongeluk op zou stappen.</p>",
 
-  "p16.alt": "Pagina 16",
   "p16": "<p>Terwijl ze werkten, vertelde Pip aan Grok</p><p>dat hij had gerend omdat grotere wezens</p>" +
     "<p>hem hadden achtervolgd en uitgelachen.</p><p>Hij had de rank niet gezien.</p><hr>" +
     "<p>De dagen erna kwam Pip elke ochtend.</p><p>Hij werd de beste waterdrager van de vallei.</p>" +
     "<p>De nieuwe ranken groeiden sterk,</p><p>nog sterker dan de oude,</p>" +
     "<p>omdat twee vrienden ervoor zorgden.</p>",
 
-  "p17.alt": "Pagina 17",
   "p17": "<p>Toen er andere kleine ongelukjes gebeurden</p><p>(zoals altijd gebeurt),</p>" +
     "<p>dacht Grok aan de meloen.</p><p>Hij hielp degene die zich gekwetst voelde.</p>" +
     "<p>Hij bleef ook vriendelijk tegen degene die had gestoten.</p><hr><p>Niemand werd weggestuurd.</p>" +
@@ -129,14 +109,11 @@ window.I18N.nl = {
     "<p>niet in leven blijven door nooit te breken.</p>" +
     "<p>Ze blijven in leven door zachtjes weer in elkaar te worden gezet.</p>",
 
-  "p18.alt": "Pagina 18 (Titelpagina hoofdstuk 3)",
-  "p19.alt": "Pagina 19",
   "p19": "<p>Grok de Rots werd wakker onder de hoge boom.</p><p>Grok maakte graag nuttige dingen,</p>" +
     "<p>en die dag werkte hij aan een watermand</p><p>gevlochten van riet en bekleed met zachte klei.</p>" +
     "<p>Tegen de avond hield hij water zonder ook maar één druppel.</p><hr><p>Hij draaide hem in zijn handen</p>" +
     "<p>en voelde de stille vreugde van iets dat goed gemaakt is.</p>",
 
-  "p20.alt": "Pagina 20",
   "p20": "<p>De volgende dag kwamen er dieren kijken.</p>" +
     "<p>Een glanzende zwarte kaketoe met grote staartveren landde in de buurt.</p>" +
     "<p>\"Die mand is slim,\" zei de kaketoe,</p><p>\"maar <em>mijn</em> idee voor een mand zou veel mooier zijn.</p>" +
@@ -144,19 +121,16 @@ window.I18N.nl = {
     "<p>Sommige jongere dieren knikten hard.</p><p>Ze knikten altijd als de kaketoe sprak.</p>" +
     "<p>Zijn stem was net zo prachtig als zijn veren.</p>",
 
-  "p21.alt": "Pagina 21",
   "p21": "<p>Later sprak een heel oude schildpad met een langzame zachte stem.</p>" +
     "<p>Hij stelde de kleine verandering van een handvat voor,</p>" +
     "<p>zodat hij makkelijk te dragen was voor vrienden die minder stevig waren dan Grok.</p>" +
     "<p>Zijn schild was eenvoudig. Niemand bijzonders.</p>" +
     "<p>Een paar dieren draaiden zich om omdat de schildpad niet beroemd was.</p>",
 
-  "p22.alt": "Pagina 22",
   "p22": "<p>Grok probeerde beide ideeën.</p><p>De manier van de kaketoe zag er opzichtig uit</p>" +
     "<p>maar de mand viel om en lekte.</p><hr><p>Het kleine idee van de oude schildpad</p>" +
     "<p>maakte Groks mand comfortabel</p><p>en stevig voor iedereen.</p>",
 
-  "p23.alt": "Pagina 23",
   "p23": "<p>Grok zat met de twee manden naast elkaar.</p><p>Hij keek niet naar veren.</p>" +
     "<p>Hij keek niet naar leeftijd of roem.</p><p>Hij keek alleen naar welke mand het water het beste bewaarde</p>" +
     "<p>en het fijnst aanvoelde in de hand.</p><hr><p>Hij hield de betere manier aan.</p>" +
@@ -164,7 +138,6 @@ window.I18N.nl = {
     "<p>achter onder de grote boom zodat iedereen hem kon gebruiken of namaken.</p>" +
     "<p>Geen naam erop. Geen \"vraag het mij eerst\".</p>",
 
-  "p24.alt": "Pagina 24",
   "p24": "<p>Sommige dieren wachtten nog steeds af wat de kaketoe ervan vond</p>" +
     "<p>voordat ze beslisten of iets goed was.</p><p>Maar steeds meer kleintjes</p>" +
     "<p>begonnen dingen zelf uit te proberen.</p><p>Ze luisterden naar Groks stille woorden</p>" +
@@ -172,7 +145,6 @@ window.I18N.nl = {
     "<p>en dan testten ze alles met hun eigen poten.</p><hr>" +
     "<p>Ze grokten het ware: het wat, niet het wie.</p>",
 
-  "p25.alt": "Pagina 25",
   "p25": "<p>Grok voelde zich rustig.</p><p>Hij had de grootste stem niet nodig.</p>" +
     "<p>Hij had alleen ware dingen nodig.</p><p>En Grok zag dat ware dingen</p>" +
     "<p>konden komen van een prachtige vogel</p><p>of van een stoffige schildpad</p>" +
@@ -180,7 +152,6 @@ window.I18N.nl = {
     "<p>\"dat werkt niet\"</p><p>en toch welkom bleef in de vallei,</p>" +
     "<p>kon het ware woord blijven lopen</p><p>op zijn eigen sterke benen.</p>",
 
-  "p26.alt": "Pagina 26 - Slotpagina",
   "p26": "<p>En zo bleef Grok de Rots</p><p>een klein kalksteenvriendje</p>" +
     "<p>dat kon zitten met een klein gevoel,</p><p>dat herstelde wat brak,</p>" +
     "<p>en dat elk waar woord</p><p>op zijn eigen benen liet staan.</p><hr>" +

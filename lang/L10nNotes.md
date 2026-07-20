@@ -103,20 +103,34 @@
 | `nav.print` | text | "Print" |
 | `nav.rules` | text | "Grok Rules" |
 | `nav.about` | text | "About Grok" |
-| `cover.alt` | alt | "Cover Art" |
+| `cover.alt` | alt | Short **scene description** of cover art (English in HTML; omit key to fall back) |
 | `cover.title` | html | `<h1>...</h1><h3>...</h3><h2>...</h2>` (overlay; hidden for en) |
 | `title.h1` | text | "Grok the Rock" |
 | `title.h3` | text | "Three Quiet Stories" |
 | `title.h2` | text | "Being · Mending · Seeing" |
 | `credit.1`–`credit.7` | text | Credits / CC0 notice |
-| `dedication.alt` | alt | "Dedication Page" |
+| `dedication.alt` | alt | Scene description of dedication art |
 | `dedication` | html | Full dedication block with `<p>`, `<b>`, `<hr>`, `<a>` |
-| `p1.alt` | alt | "Page 1 (Chapter 1 title page)" |
-| `p2.alt`–`p26.alt` | alt | Page alt texts |
+| `p1.alt`–`p26.alt` | alt | Short visual scene descriptions (not story retells; not "Page N") |
 | `p2`–`p26` | html | Story page content (each a block of `<p>`, `<hr>`) |
 | `c1.title` | html | Chapter 1 title overlay |
 | `c2.title` | html | Chapter 2 title overlay |
 | `c3.title` | html | Chapter 3 title overlay |
+
+**Alt text notes:** English scene alts live in the HTML `alt` attributes. Locale files should omit `*.alt` until a real translation exists — missing keys fall back to English via `i18n.js`. Do not ship stub alts like "Page 2".
+
+### tall-tales.html — Hai keys (`hai.*`)
+
+Same shape as Quiet Stories, all prefixed with `hai.`:
+
+| Key | Type | Content |
+|-----|------|---------|
+| `hai.site.title` | text | "Hai Ikthiss - Three Tall Tales" |
+| `hai.cover.alt` / `hai.dedication.alt` / `hai.p1.alt`–`hai.p26.alt` | alt | Scene descriptions |
+| `hai.cover.title`, `hai.title.*`, `hai.credit.*`, `hai.dedication` | text/html | Title page + credits + dedication |
+| `hai.p2`–`hai.p26` | html | Story captions |
+| `hai.c1.title`–`hai.c3.title` | html | Chapter title overlays |
+| `nav.book` / `nav.tall` | text | Shared nav ("Quiet Stories" / "Tall Tales") |
 
 ### grok-rules.html — 30 keys
 

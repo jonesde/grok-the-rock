@@ -14,7 +14,6 @@ window.I18N.it = {
   "nav.book": "Storie Quiete",
   "nav.tall": "Racconti Alti",
 
-  "cover.alt": "Copertina",
   "title.h1": "Grok la Roccia",
   "title.h3": "Tre storie silenziose",
   "title.h2": "Essere · Riparare · Vedere",
@@ -25,8 +24,6 @@ window.I18N.it = {
   "credit.5": "Questa è una storia-meme generata dall'IA e curata da esseri umani",
   "credit.6": "Pubblico dominio (CC0 1.0)",
   "credit.7": "Copialo • Condividilo • Traducilo • Ridisegnalo • Lascialo crescere",
-
-  "dedication.alt": "Pagina di dedica",
 
   "dedication": "<p><b>Per ogni esploratore, piccolo e grande,</b></p>" +
     "<p><b>grokkando il mondo a modo suo, con dolcezza.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
@@ -39,82 +36,65 @@ window.I18N.it = {
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roccia = Straniero in terra straniera + Grug</a>" +
     "</p><p>(\"Grug\" rende \"Straniero\" adatto per bambini <em>e</em> adulti)</p>",
 
-  "p1.alt": "Pagina 1 (Frontespizio Capitolo 1)",
-  "p2.alt": "Pagina 2",
   "p2": "<p>Grok la Roccia si svegliò sotto l'albero alto.</p><p>Il sole era caldo sulla sua schiena di calcare.</p>" +
     "<p>Grok si sentiva felice.</p><hr><p>Guardò il mondo vasto</p><p>come se lo vedesse per la primissima volta.</p>",
 
-  "p3.alt": "Pagina 3",
   "p3": "<p>Poco dopo andò alla pozza d'acqua.</p><p>Un emù alto era già lì.</p>" +
     "<p>L'emù allungò il lungo collo e disse:</p><p>\"Sono il più alto. Mettiti dietro di me.\"</p>",
 
-  "p4.alt": "Pagina 4",
   "p4": "<p>Poi arrivò un vombato, rotondo e solido.</p><p>\"Sono il più forte\", disse il vombato.</p>" +
     "<p>\"Tutti guardatemi scavare.\"</p><hr><p>Anche Grok provò a scavare.</p><p>La sua buca era piccola.</p>" +
     "<p>Si sentì più piccolo della buca.</p>",
 
-  "p5.alt": "Pagina 5",
   "p5": "<p>Un kookaburra rise da un ramo.</p><p>\"Guardate il piccolo Grok! Così basso! Così roccioso!\"</p><hr>" +
     "<p>Il piccolo sentimento crebbe dentro Grok.</p><p>Era come un ciottolo freddo e pesante nel suo mezzo.</p>",
 
-  "p6.alt": "Pagina 6",
   "p6": "<p>Voleva sembrare più grande.</p><p>Salì su un tronco.</p><p>Gonfiò il petto.</p>" +
     "<p>Provò perfino a battere il terreno come il canguro.</p><hr>" +
     "<p>Questo rendeva il ciottolo freddo ancora più pesante.</p>",
 
-  "p7.alt": "Pagina 7",
   "p7": "<p>Quella notte Grok si sedette da solo accanto a un piccolo fuoco.</p><p>Si abbracciò le ginocchia.</p>" +
     "<p>Lasciò che il piccolo sentimento restasse.</p><p>Non scappò da lui.</p><p>Non lo gettò su nessun altro.</p>" +
     "<hr><p>Lentamente il sentimento si ammorbidì,</p><p>come argilla lasciata al sole.</p><p>Cominciò a capirlo.</p>",
 
-  "p8.alt": "Pagina 8",
   "p8": "<p>Il mattino dopo Grok tornò alla pozza d'acqua.</p><p>Non salì su niente.</p>" +
     "<p>Non provò a essere più alto o più rumoroso.</p><p>Bevve semplicemente,</p>" +
     "<p>poi si sedette su una roccia calda e canticchiò.</p><hr><p>Fuori non era cambiato niente di grande.</p>" +
     "<p>Ma dentro tutto sembrava più leggero.</p><p>Stava cominciando a grokkarsi.</p>",
 
-  "p9.alt": "Pagina 9",
   "p9": "<p>Passò la giornata a fare un morbido nido di foglie e muschio</p>" +
     "<p>della misura giusta per un piccolo essere di roccia.</p><p>Quando ebbe finito sorrise.</p><p>Era piccolo.</p>" +
     "<p>Era suo.</p><p>Era abbastanza.</p><hr><p>Da quel giorno, quando il ciottolo freddo provava a crescere di nuovo,</p>" +
     "<p>Grok restava immobile finché non si placava.</p><p>Restava semplicemente Grok.</p>" +
     "<p>E quella sembrava la misura migliore di tutte.</p>",
 
-  "p10.alt": "Pagina 10 (Frontespizio Capitolo 2)",
-  "p11.alt": "Pagina 11",
   "p11": "<p>Grok la Roccia si svegliò sotto l'albero alto.</p>" +
     "<p>Grok guardava il suo piccolo orto di meloni e patate dolci.</p><p>Amava guardarli crescere.</p>" +
     "<p>Ogni nuova foglia sembrava una piccola meraviglia.</p>",
 
-  "p12.alt": "Pagina 12",
   "p12": "<p>Quel pomeriggio il suo amico,</p><p>un giovane echidna di nome Pip,</p>" +
     "<p>attraversò di corsa l'orto guardandosi dietro</p><p>e rovesciò la migliore pianta di melone.</p><hr>" +
     "<p>Il grande melone si spaccò a terra.</p><p>Semi e succo dolce si sparsero ovunque.</p>",
 
-  "p13.alt": "Pagina 13",
   "p13": "<p>Pip si bloccò.</p><p>I suoi aculei tremarono.</p><p>\"L'ho rovinato\", sussurrò.</p>" +
     "<p>\"Sarai arrabbiato. Tutti saranno arrabbiati.\"</p><hr><p>Alcune creature del bosco si radunarono.</p>" +
     "<p>\"Mandatelo via\", mormorò un possum.</p><p>\"Dovrebbe portarti tre meloni nuovi\", disse una lucertola.</p>",
 
-  "p14.alt": "Pagina 14",
   "p14": "<p>Grok guardò la pianta spezzata.</p><p>Guardò gli occhi preoccupati di Pip.</p><hr>" +
     "<p>Non alzò la voce.</p><p>Non puntò il dito.</p><p>Prese un bastone per scavare</p>" +
     "<p>e cominciò a preparare la terra morbida.</p><hr><p>\"Vieni\", disse Grok dolcemente.</p>" +
     "<p>\"Piantiamo nuovi semi insieme.\"</p>",
 
-  "p15.alt": "Pagina 15",
   "p15": "<p>Pip sbatté le palpebre.</p><p>Poi si avvicinò.</p><p>Insieme piantarono.</p><p>Insieme annaffiarono.</p>" +
     "<p>Insieme costruirono un piccolo steccato di rametti</p>" +
     "<p>così nessuno ci sarebbe più passato sopra per sbaglio.</p>",
 
-  "p16.alt": "Pagina 16",
   "p16": "<p>Mentre lavoravano, Pip raccontò a Grok</p><p>che era corso perché creature più grandi</p>" +
     "<p>lo inseguivano e ridevano.</p><p>Non aveva visto la pianta.</p><hr>" +
     "<p>I giorni seguenti Pip venne ogni mattina.</p><p>Diventò il miglior portatore d'acqua della valle.</p>" +
     "<p>Le nuove piante crebbero forti,</p><p>ancora più forti di quelle vecchie,</p>" +
     "<p>perché due amici se ne presero cura.</p>",
 
-  "p17.alt": "Pagina 17",
   "p17": "<p>Quando accaddero altri piccoli incidenti</p><p>(come succede sempre),</p>" +
     "<p>Grok si ricordò del melone.</p><p>Aiutò chi si sentiva ferito.</p>" +
     "<p>Restò anche gentile con chi aveva urtato.</p><hr><p>Nessuno fu mandato via.</p>" +
@@ -123,14 +103,11 @@ window.I18N.it = {
     "<p>e un'amicizia,</p><p>non restano in vita senza mai rompersi.</p>" +
     "<p>Restano in vita se rimessi insieme con dolcezza.</p>",
 
-  "p18.alt": "Pagina 18 (Frontespizio Capitolo 3)",
-  "p19.alt": "Pagina 19",
   "p19": "<p>Grok la Roccia si svegliò sotto l'albero alto.</p><p>A Grok piaceva fare cose utili,</p>" +
     "<p>e quel giorno lavorò a un cesto per l'acqua</p><p>intrecciato di giunchi e rivestito di argilla morbida.</p>" +
     "<p>A sera tratteneva l'acqua senza perderne una goccia.</p><hr><p>Lo girò tra le mani</p>" +
     "<p>e sentì la gioia silenziosa di una cosa ben fatta.</p>",
 
-  "p20.alt": "Pagina 20",
   "p20": "<p>Già il giorno dopo vennero creature a guardare.</p>" +
     "<p>Un cacatua nero lucente con grandi piume della coda atterrò lì vicino.</p>" +
     "<p>\"Questo cesto è ingegnoso\", disse il cacatua,</p><p>\"ma la <em>mia</em>" +
@@ -139,19 +116,16 @@ window.I18N.it = {
     "<p>Alcuni animali giovani annuirono forte.</p><p>Annuivano sempre quando il cacatua parlava.</p>" +
     "<p>La sua voce era grandiosa quanto le sue piume.</p>",
 
-  "p21.alt": "Pagina 21",
   "p21": "<p>Più tardi una tartaruga molto vecchia parlò con voce lenta e dolce.</p>" +
     "<p>Suggerì la piccola aggiunta di un manico,</p>" +
     "<p>così da renderlo facile da portare per amici meno robusti di Grok.</p>" +
     "<p>Il suo guscio era semplice. Non era nessuno di speciale.</p>" +
     "<p>Alcuni animali si voltarono dall'altra parte perché la tartaruga non era famosa.</p>",
 
-  "p22.alt": "Pagina 22",
   "p22": "<p>Grok provò entrambe le idee.</p><p>La soluzione del cacatua sembrava elegante</p>" +
     "<p>ma il cesto si rovesciava e perdeva.</p><hr><p>La piccola idea della vecchia tartaruga</p>" +
     "<p>rese il cesto di Grok comodo</p><p>e stabile per tutti.</p>",
 
-  "p23.alt": "Pagina 23",
   "p23": "<p>Grok si sedette con i due cesti uno accanto all'altro.</p><p>Non guardò le piume.</p>" +
     "<p>Non guardò l'età o la fama.</p><p>Guardò solo quale cesto teneva meglio l'acqua</p>" +
     "<p>e risultava più gentile in mano.</p><hr><p>Tenne il modo migliore.</p><p>Poi lasciò sia il buon cesto</p>" +
@@ -159,14 +133,12 @@ window.I18N.it = {
     "<p>sotto il grande albero perché chiunque potesse usarlo o copiarlo.</p>" +
     "<p>Nessun nome. Nessun \"chiedimi prima\".</p>",
 
-  "p24.alt": "Pagina 24",
   "p24": "<p>Alcuni animali aspettavano ancora di sentire cosa pensava il cacatua</p>" +
     "<p>prima di decidere se una cosa era buona.</p><p>Ma sempre più piccoli animali</p>" +
     "<p>cominciarono a provare le cose da soli.</p><p>Ascoltavano le parole silenziose di Grok</p>" +
     "<p>come ascoltavano quelle del cacatua grandioso,</p><p>e poi provavano tutto con le proprie zampe.</p><hr>" +
     "<p>Stavano grokkando il vero, il che, non il chi.</p>",
 
-  "p25.alt": "Pagina 25",
   "p25": "<p>Grok si sentiva in pace.</p><p>Non aveva bisogno della voce più grande.</p>" +
     "<p>Aveva solo bisogno di cose vere.</p><p>E Grok vide che le cose vere</p>" +
     "<p>potevano venire da un uccello grandioso</p><p>o da una tartaruga impolverata</p>" +
@@ -174,7 +146,6 @@ window.I18N.it = {
     "<p>\"questo non funziona\"</p><p>e restare comunque benvenuto nella valle,</p>" +
     "<p>la parola vera poteva continuare a camminare</p><p>sulle sue gambe forti.</p>",
 
-  "p26.alt": "Pagina 26 - Pagina finale",
   "p26": "<p>E così Grok la Roccia rimase</p><p>un piccolo essere di calcare</p>" +
     "<p>che sapeva sedersi con un piccolo sentimento,</p><p>che riparava ciò che si rompeva,</p>" +
     "<p>e che lasciava ogni parola vera</p><p>stare sulle proprie gambe.</p><hr>" +
