@@ -1,263 +1,264 @@
 // Locale ha for grok-the-rock.
 // Translated from the English original. Convention:
-// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok da'ular.
-// - Verb "grok" coined as: gurokā (inf.) / gurokāwa (ger.) / yana gurokāwa (cont., p8) / sun guroka (pl., p24).
+// - Proper noun "Grok" kept as-is. "Grok the Rock" → Grok Dutsen.
+// - Verb "grok" coined as: gurokā (inf.) / yana gurokāwa (ger./cont.) / gurokā kansa (refl., p8).
 // - Agent noun "Grokkers" stays English.
 window.I18N = window.I18N || {};
 window.I18N.ha = {
-  "__title": "Grok da'ular - Labarai Uku Masu Kuna",
+  "__title": "Grok Dutsen - Labarai Uku Masu Natsuwa",
 
-  "site.title": "Grok da'ular - Labarai Uku Masu Kuna",
-  "nav.print": "Fitar da",
+  "site.title": "Grok Dutsen - Labarai Uku Masu Natsuwa",
+  "nav.print": "Buga",
   "nav.rules": "Dokokin Grok",
   "nav.about": "Game da Grok",
   "nav.book": "Littafi",
 
-  "cover.alt": "Hoton Jaddawa",
-  "title.h1": "Grok da'ular",
-  "title.h3": "Labarai Uku Masu Kuna",
-  "title.h2": "Yana · Gyara · Gani",
-  "credit.1": "Labari na farko, Umarnin Hotuna tare da Grok 4.5 daga xAI",
-  "credit.2": "Hotuna tare da Grok Imagine daga xAI",
-  "credit.3": "Dokoki, Gyara, Tattara tare da HY3 daga Tencent",
-  "credit.4": "<em>Ba a haɗa shi da xAI ko Tencent ba ko kuma ba a goyi bayan su ba</em>",
-  "credit.5": "Wannan meme na labari ne da AI ya ƙirƙira kuma ɗan adam ya zaɓa",
-  "credit.6": "Yankin Jama'a (CC0 1.0)",
-  "credit.7": "Yi kwafi • Raba • Fassara • Sake zana • Bar ya girma",
+  "cover.alt": "Zanen Jigogi",
+  "title.h1": "Grok Dutsen",
+  "title.h3": "Labarai Uku Masu Natsuwa",
+  "title.h2": "Kasancewa · Gyara · Gani",
+  "credit.1": "Daftarin labari, umarnin hotuna tare da Grok 4.5 daga xAI",
+  "credit.2": "Zane-zane tare da Grok Imagine daga xAI",
+  "credit.3": "Dokoki, gyara, aiki ta atomatik tare da HY3 daga Tencent",
+  "credit.4": "<em>Ba a haɗa shi da xAI ko Tencent ba, kuma ba su amince da shi ba</em>",
+  "credit.5": "Wannan labari-meme ne da AI ta ƙirƙira kuma mutum ya zaɓa",
+  "credit.6": "Mallakar jama'a (CC0 1.0)",
+  "credit.7": "Kwafi • Raba • Fassara • Sake zana • Bari ya girma",
 
-  "dedication.alt": "Shafin Barkwanci",
-  "dedication": "<p><b>Don kowa mai bincike, ƙanƙanta da babba,</b></p>" +
-    "<p><b>gurokāwa duniya a hanyarsu ta laushi.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Kuma don kowane ƙaramin hali</p><p>  da ke buƙatar ganin kawai,</p>" +
-    "<p>kowane raga da aka shirya don gyara</p><p>  da ke buƙatar kulawa kawai,</p>" +
-    "<p>kuma don kowane gaskiya</p><p>  da ke tsayawa ko da ba a ji ba.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Ta gamsu ga asalin Grokkers:</p><p><em><b>Robert A. Heinlein</b>" +
-    " \"Mai sonya a ƙasar sonya\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
+  "dedication.alt": "Shafin sadaukarwa",
+  "dedication": "<p><b>Ga kowane mai bincike, ƙanana da manya,</b></p>" +
+    "<p><b>masu gurokāwa duniya a nasu hanyar laushi.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Kuma ga kowane ƙaramin ji</p><p>  da kawai yana buƙatar a gani shi,</p>" +
+    "<p>kowane karye da aka shirya don gyara</p><p>  da kawai yana buƙatar kulawa,</p>" +
+    "<p>kuma ga kowace gaskiya kalma</p><p>  da ke tsayawa ko da ba a ji ba.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Tare da godiya ga asalin Grokkers:</p><p><em><b>Robert A. Heinlein</b>" +
+    " \"Baƙo a Ƙasar Baƙo\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok da'ular = Mai sonya a ƙasar sonya + Grug</a>" +
-    "</p><p>(\"Grug\" yana sa \"Mai sonya\" ya dace da yara <em>da</em> manya)</p>",
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Dutsen = Baƙo a Ƙasar Baƙo + Grug</a>" +
+    "</p><p>(\"Grug\" yana tsaftace \"Baƙo\" ga yara <em>da</em> manya)</p>",
 
   "p1.alt": "Shafi 1 (Shafin take na Sashi 1)",
   "p2.alt": "Shafi 2",
-  "p2": "<p>Grok da'ular ya tura idanuna a ƙarƙashin bishiya mai tsawo.</p><p>Rana ta zafi a bakan sa na limestone.</p>" +
-    "<p>Grok ya ji farin ciki.</p><hr><p>Ya kalli duniya mai faɗi</p><p>kamar yana ganinta na farko.</p>",
+  "p2": "<p>Grok Dutsen ya farka a ƙarƙashin doguwar bishiya.</p><p>Rana ta yi zafi a bayansa na dutsen farar ƙasa.</p>" +
+    "<p>Grok ya ji farin ciki.</p><hr><p>Ya kalli faffadar duniya</p>" +
+    "<p>kamar yana ganinta a karon farko.</p>",
 
   "p3.alt": "Shafi 3",
-  "p3": "<p>Sai ya tafi raren ruwa.</p><p>Emu mai tsawo ya riga ya kasance a can.</p>" +
-    "<p>Emu ya ja gafansa mai tsawo kuma ya ce:</p>" +
-    "<p>'Ina mafi tsayi. Ka tsaya bayan ni.'</p>",
+  "p3": "<p>Ba da daɗewa ba ya tafi ramin ruwa.</p><p>Doguwar emu ta riga ta kasance a can.</p>" +
+    "<p>Emu ta miƙe doguwar wuyanta ta ce:</p>" +
+    "<p>\"Ni ce mafi tsayi. Ka tsaya a bayana.\"</p>",
 
   "p4.alt": "Shafi 4",
-  "p4": "<p>Sai wombat ya zo, mai da'ula da ƙarfi.</p>" +
-    "<p>'Ina mafi ƙarfi,' wombat ya ce.</p>" +
-    "<p>'Kowa ya kalli ina yi rarru.'</p><hr>" +
-    "<p>Grok ya ƙoƙari ya yi rarru ma.</p>" +
-    "<p>Rarrarsa ƙarami ce.</p>" +
-    "<p>Ya ji ƙanƙanta fiye da rarru.</p>",
+  "p4": "<p>Sai wombat ya birgima ya zo, mai zagaye da ƙarfi.</p>" +
+    "<p>\"Ni ne mafi ƙarfi,\" in ji wombat.</p>" +
+    "<p>\"Kowa ya kalli ina haƙa.\"</p><hr>" +
+    "<p>Grok ma ya ƙoƙari ya haƙa.</p>" +
+    "<p>Raminsa ƙarami ne.</p>" +
+    "<p>Ya ji kansa ƙanana fiye da rami.</p>",
 
   "p5.alt": "Shafi 5",
-  "p5": "<p>Kukaburra ta yi koshewa daga reshe.</p>" +
-    "<p>'Kalli ƙaramin Grok! Ya yi ƙanƙanta! Ya yi da'ula!'</p><hr>" +
-    "<p>Ƙaramin hali ya girma a cikin Grok.</p>" +
-    "<p>Ya yi kamar kankara mai nauyi da sanyi a tsakiyarsa.</p>",
+  "p5": "<p>Kookaburra ta yi dariya daga kan reshe.</p>" +
+    "<p>\"Ku kalli ƙaramin Grok! Yana da gajarta! Yana da dutse!\"</p><hr>" +
+    "<p>Ƙaramin ji ya girma a cikin Grok.</p>" +
+    "<p>Ya yi kama da ƙanƙarar sanyi mai nauyi a cikinsa.</p>",
 
   "p6.alt": "Shafi 6",
-  "p6": "<p>Ya son ya sa kansa ya fi girma.</p>" +
-    "<p>Ya tsaya a kan itace.</p>" +
-    "<p>Ya ƙara girmansa.</p>" +
-    "<p>Ya ƙoƙari ya danna ƙasa kamar kangaroo.</p><hr>" +
-    "<p>Ya sa kankarar da ke sanyi ta fi nauyi.</p>",
+  "p6": "<p>Ya so ya sa kansa ya yi girma.</p>" +
+    "<p>Ya tsaya a kan guntun itace.</p>" +
+    "<p>Ya ƙarfafa ƙirjinsa.</p>" +
+    "<p>Har ya ƙoƙari ya danna ƙasa kamar kangaroo.</p><hr>" +
+    "<p>Hakan kawai ya sa ƙanƙarar sanyi ta ƙara nauyi.</p>",
 
   "p7.alt": "Shafi 7",
-  "p7": "<p>Wannan dare Grok ya zauna kaɗai a gefen wuta ƙarama.</p>" +
-    "<p>Ya sanya hannayensa a kofafensa.</p>" +
-    "<p>Ya bar ƙaramin hali ya tsaya.</p>" +
-    "<p>Ba ya gudu daga shi.</p>" +
-    "<p>Ba ya sa shi ga wani ba.</p><hr>" +
-    "<p>Halin ya yi laushi,</p>" +
-    "<p>kamar kura da a bar a rana.</p>" +
+  "p7": "<p>Wannan dare Grok ya zauna shi kaɗai a gefen ƙaramar wuta.</p>" +
+    "<p>Ya rungumi gwiwoyinsa da hannaye.</p>" +
+    "<p>Ya bar ƙaramin ji ya tsaya.</p>" +
+    "<p>Bai gudu daga gare shi ba.</p>" +
+    "<p>Bai jefa shi ga wani ba.</p><hr>" +
+    "<p>A hankali jinin ya yi laushi,</p>" +
+    "<p>kamar yumbu da aka bar a rana.</p>" +
     "<p>Ya fara fahimtar shi.</p>",
 
   "p8.alt": "Shafi 8",
-  "p8": "<p>Gaban rana na gaba Grok ya koma raren ruwa.</p>" +
-    "<p>Ba ya ƙaura kan komai.</p>" +
-    "<p>Ba ya ƙoƙari ya zama mafi tsayi ko mafi murya.</p>" +
-    "<p>Ya sha kawai,</p>" +
-    "<p>sai ya zauna a kan duwatsa mai zafi kuma ya yi murya.</p><hr>" +
-    "<p>Babu wani babban da ya canza a waje.</p>" +
-    "<p>Ama komai ya yi sauƙi a ciki.</p>" +
-    "<p>Yana gurokāwa kansa.</p>",
+  "p8": "<p>Washe gari na gaba Grok ya koma ramin ruwa.</p>" +
+    "<p>Bai hau kan komai ba.</p>" +
+    "<p>Bai ƙoƙari ya zama mafi tsayi ko mafi ƙarfin murya ba.</p>" +
+    "<p>Kawai ya sha,</p>" +
+    "<p>sai ya zauna a kan dumin sanyi mai zafi ya yi waƙa ƙaramar.</p><hr>" +
+    "<p>Babu wani babban abu da ya canza a waje.</p>" +
+    "<p>Amma komai ya yi sauƙi a ciki.</p>" +
+    "<p>Yana farawa gurokā kansa.</p>",
 
   "p9.alt": "Shafi 9",
-  "p9": "<p>Ya kashe rana yana yin ƙaramin gurɓatama mai laushi na ganyaye da bikisu</p>" +
-    "<p>daidai da girman abokin duwatsa ƙanƙanta.</p>" +
-    "<p>Lokacin da ya kammala ya yi ƙwai.</p>" +
-    "<p>Ya yi ƙanƙanta.</p>" +
-    "<p>Na shi ne.</p>" +
+  "p9": "<p>Ya ƙare rana yana yin laushin gida na ganye da gansakuka</p>" +
+    "<p>daidai girman ƙaramin abokin dutse.</p>" +
+    "<p>Lokacin da ya gama ya yi murmushi.</p>" +
+    "<p>Ya yi ƙanana.</p>" +
+    "<p>Nasa ne.</p>" +
     "<p>Ya isa.</p><hr>" +
-    "<p>Daga wannan rana, lokacin da kankarar da ke sanyi ta ƙoƙari ta girma sake,</p>" +
-    "<p>Grok ya zauna har ya zama ƙuna.</p>" +
-    "<p>Ya zauna Grok kawai.</p>" +
-    "<p>Kuma wannan ya yi kamar mafi kyawun girman duka.</p>",
+    "<p>Daga wannan rana, idan ƙanƙarar sanyi ta ƙoƙari ta sake girma,</p>" +
+    "<p>Grok ya zauna shiru har ta yi natsuwa.</p>" +
+    "<p>Kawai ya ci gaba da zama Grok.</p>" +
+    "<p>Kuma hakan ya ji kamar mafi kyawun girma duka.</p>",
 
   "p10.alt": "Shafi 10 (Shafin take na Sashi 2)",
   "p11.alt": "Shafi 11",
-  "p11": "<p>Grok da'ular ya tura idanuna a ƙarƙashin bishiya mai tsawo.</p>" +
-    "<p>Grok ya kalli ƙaramin bawulensa na kunkuntar rami da ƙwayoyin da ke da shaƙawa.</p>" +
-    "<p>Ya son kallon su girma.</p>" +
-    "<p>Kowane sabon ganye ya yi kamar ƙaramin mamaki.</p>",
+  "p11": "<p>Grok Dutsen ya farka a ƙarƙashin doguwar bishiya.</p>" +
+    "<p>Grok ya kalli ƙaramar gonarsa ta gunar da dankalin zaƙi.</p>" +
+    "<p>Yana son kallon su suna girma.</p>" +
+    "<p>Kowane sabon ganye ya ji kamar ƙaramin al'ajabi.</p>",
 
   "p12.alt": "Shafi 12",
-  "p12": "<p>Wannan rana abokinsa,</p>" +
-    "<p>echidna ƙarama da suna Pip,</p>" +
-    "<p>ya gudu ta cikin bawulensa yana kallon baya</p>" +
-    "<p>ya fado da bawulen kunkunta mafi kyau.</p><hr>" +
-    "<p>Babbar kunkunta ta rarru a ƙasa.</p>" +
-    "<p>Itace da ruwa mai shaƙawa ya fado.</p>",
+  "p12": "<p>Wannan yamma abokinsa,</p>" +
+    "<p>matashin echidna mai suna Pip,</p>" +
+    "<p>ya yi sauri ta cikin gona yana kallon baya</p>" +
+    "<p>ya fadowar mafi kyawun tsiro na guna.</p><hr>" +
+    "<p>Babbar guna ta tsage a ƙasa.</p>" +
+    "<p>Tsaba da ruwan 'ya'yan itace mai zaƙi sun zube ko'ina.</p>",
 
   "p13.alt": "Shafi 13",
-  "p13": "<p>Pip ya tsaya.</p>" +
-    "<p>Yatsayensa sun yi ƙoƙari.</p>" +
-    "<p>'Na lalata shi,' ya ce da hankali.</p>" +
-    "<p>'Za ka yi fushi. Kowa zai yi fushi.'</p><hr>" +
-    "<p>Wasu dabbobi sun haɗu.</p>" +
-    "<p>'Bar ya tafi,' possum ya ce.</p>" +
-    "<p>'Ya kamata ya kawo maka kunkuntar rami uku sabuwa,' kai ya ce.</p>",
+  "p13": "<p>Pip ya ɗaure.</p>" +
+    "<p>Ƙayoyinsa sun yi rawar jiki.</p>" +
+    "<p>\"Na lalata shi,\" ya yi raɗaɗi.</p>" +
+    "<p>\"Za ka yi fushi. Kowa zai yi fushi.\"</p><hr>" +
+    "<p>Wasu dabbobin daji sun taru.</p>" +
+    "<p>\"Ku kore shi,\" in ji wani possum a ƙasa.</p>" +
+    "<p>\"Ya kamata ya kawo maka sabbin gunori uku,\" in ji wata ƙadangare.</p>",
 
   "p14.alt": "Shafi 14",
-  "p14": "<p>Grok ya kalli bawulen da ya rarru.</p>" +
-    "<p>Ya kalli idon Pip mai tsoro.</p><hr>" +
-    "<p>Ba ya ƙara muryarsa.</p>" +
-    "<p>Ba ya nuna hannu.</p>" +
-    "<p>Ya ɗauki wani ƙarfe na rarru</p>" +
+  "p14": "<p>Grok ya kalli tsiro da ya karye.</p>" +
+    "<p>Ya kalli idanun Pip masu damuwa.</p><hr>" +
+    "<p>Bai ɗaga murya ba.</p>" +
+    "<p>Bai nuna yatsa ba.</p>" +
+    "<p>Ya ɗauki sandar haƙa</p>" +
     "<p>ya fara shirya ƙasa mai laushi.</p><hr>" +
-    "<p>'Tuko,' Grok ya ce da laushi.</p>" +
-    "<p>'Muna shuka kankarau sabuwa tare.'</p>",
+    "<p>\"Zo,\" Grok ya ce a hankali.</p>" +
+    "<p>\"Mu shuka sabbin tsaba tare.\"</p>",
 
   "p15.alt": "Shafi 15",
-  "p15": "<p>Pip ya lilo.</p>" +
+  "p15": "<p>Pip ya ƙifta ido.</p>" +
     "<p>Sai ya zo kusa.</p>" +
-    "<p>Tare sun shuka.</p>" +
-    "<p>Tare sun santa ruwa.</p>" +
-    "<p>Tare sun gina ƙaramin karkashin</p>" +
-    "<p>domin ko wanda ya taɓa a can ba tare da kuskure ba.</p>",
+    "<p>Tare suka shuka.</p>" +
+    "<p>Tare suka shayar da ruwa.</p>" +
+    "<p>Tare suka gina ƙaramin shinge na ƙananan reshe</p>" +
+    "<p>domin kowa kada ya sake taka can da kuskure.</p>",
 
   "p16.alt": "Shafi 16",
-  "p16": "<p>Lokacin da suke aiki, Pip ya ce Grok</p>" +
-    "<p>ya yi gudu domin dabbobi manya</p>" +
-    "<p>suna gudu bayan shi kuma suna yi koshewa.</p>" +
-    "<p>Ba ya kallon bawulen.</p><hr>" +
-    "<p>Kwanakin gaba Pip ya zo kowane safe.</p>" +
-    "<p>Ya zama mafi kyawun ɗan ruwa a cikin kuma.</p>" +
-    "<p>Kunkuntar rami sabuwa sun girma da ƙarfi,</p>" +
-    "<p>suna da ƙarfi fiye da na tsoho,</p>" +
+  "p16": "<p>Yayin da suke aiki, Pip ya gaya wa Grok</p>" +
+    "<p>ya yi gudu ne saboda manyan dabbobi</p>" +
+    "<p>suna biye da shi suna yi masa dariya.</p>" +
+    "<p>Bai ga tsiro ba.</p><hr>" +
+    "<p>A kwanaki masu zuwa Pip ya zo kowace safe.</p>" +
+    "<p>Ya zama mafi kyawun mai ɗaukar ruwa a cikin kwarin.</p>" +
+    "<p>Sabbin tsiro sun girma da ƙarfi,</p>" +
+    "<p>har ma fiye da tsofaffi,</p>" +
     "<p>domin abokai biyu sun kula da su.</p>",
 
   "p17.alt": "Shafi 17",
-  "p17": "<p>Lokacin da wasu abubuwan ƙanƙanta suka faru</p>" +
-    "<p>(kamar yadda suke yadda),</p>" +
-    "<p>Grok ya tuna da kunkunta.</p>" +
-    "<p>Ya taimaka wa wanda ya ji rauni.</p>" +
-    "<p>Ya kuma kasance mai gamsuwa ga wanda ya yi kumburi.</p><hr>" +
-    "<p>Babu wanda aka tura.</p>" +
-    "<p>Babu wanda ya ɗauki rauni mai tsawo.</p>" +
-    "<p>Su kawai sun kula da abin da ya lalace</p>" +
+  "p17": "<p>Lokacin da wasu ƙananan hatsarori suka faru</p>" +
+    "<p>(kamar yadda suke yawan faruwa),</p>" +
+    "<p>Grok ya tuna da guna.</p>" +
+    "<p>Ya taimaki wanda ya ji rauni.</p>" +
+    "<p>Ya kuma ci gaba da kasancewa mai kirki ga wanda ya yi karo.</p><hr>" +
+    "<p>Ba a kore kowa ba.</p>" +
+    "<p>Babu wanda ya ɗauki dogon rauni mai nauyi.</p>" +
+    "<p>Kawai sun kula da abin da ya karye</p>" +
     "<p>kuma abota ta yi ƙarfi,</p>" +
-    "<p>a wurin da aka gyara.</p><hr>" +
-    "<p>Grok ya koyi cewa bawula,</p>" +
-    "<p>kuma abota,</p>" +
-    "<p>ba su rayu ba tare da rarru ba.</p>" +
-    "<p>Su rayu tare da laushi da aka haɗa sake.</p>",
+    "<p>daidai a wurin da aka gyara.</p><hr>" +
+    "<p>Grok ya koyi cewa gona,</p>" +
+    "<p>da abota,</p>" +
+    "<p>ba sa rayuwa ta hanyar rashin karyewa.</p>" +
+    "<p>Suna rayuwa ta hanyar a haɗa su a hankali sake.</p>",
 
   "p18.alt": "Shafi 18 (Shafin take na Sashi 3)",
   "p19.alt": "Shafi 19",
-  "p19": "<p>Grok da'ular ya tura idanuna a ƙarƙashin bishiya mai tsawo.</p>" +
-    "<p>Grok ya son yin abubuwa masu amfani,</p>" +
-    "<p>kuma wannan rana ya yi aiki akan kwandon ruwa</p>" +
-    "<p>da aka haɗa daga ganyaye kuma aka sanya kura mai laushi.</p>" +
-    "<p>Har da safe ya ɗauki ruwa ba tare da ɗigon ɗaya ba.</p><hr>" +
+  "p19": "<p>Grok Dutsen ya farka a ƙarƙashin doguwar bishiya.</p>" +
+    "<p>Grok yana son yin abubuwa masu amfani,</p>" +
+    "<p>kuma wannan rana ya yi aiki a kan kwandon ruwa</p>" +
+    "<p>da aka saƙa daga ciyawa aka yi masa layin yumbu mai laushi.</p>" +
+    "<p>Har da yamma yana riƙe ruwa ba tare da digon ɗaya ba.</p><hr>" +
     "<p>Ya juya shi a hannayensa</p>" +
-    "<p>ya ji farin ciki na ƙuna na abu da aka yi da kyau.</p>",
+    "<p>ya ji natsuwar farin cikin abu da aka yi da kyau.</p>",
 
   "p20.alt": "Shafi 20",
-  "p20": "<p>Na gaba dabbobi sun zo don kallon.</p>" +
-    "<p>Cockatoo mai ƙarfi da tsirara masu girma ya tashi kusa.</p>" +
-    "<p>'Wannan kwando mai hikima ne,' cockatoo ya ce,</p>" +
-    "<p>'amma ra'ayina na kwando zai fi kyau.</p>" +
-    "<p>A ƙarshe, ina da tsirara mafi girma,</p>" +
-    "<p>suna ra'ayina dole ne su zama mafi girma ma.'</p><hr>" +
-    "<p>Wasu dabbobi ƙananan sun yi karko.</p>" +
-    "<p>Su koyaushe sun yi karko lokacin da cockatoo ya magana.</p>" +
-    "<p>Muryarsa ta yi kamar tsirararsa.</p>",
+  "p20": "<p>Washe gari dabbobi sun zo su kalli.</p>" +
+    "<p>Baƙar cockatoo mai sheƙi da manyan gashin wutsiya ta sauka kusa.</p>" +
+    "<p>\"Wannan kwando mai hikima ne,\" in ji cockatoo,</p>" +
+    "<p>\"amma <em>ra'ayina</em> na kwando zai fi kyau sosai.</p>" +
+    "<p>Bayan haka, ina da mafi kyawun gashi,</p>" +
+    "<p>don haka tunanina ma dole ya zama mafi kyau.\"</p><hr>" +
+    "<p>Wasu ƙananan dabbobi sun gyada kai da ƙarfi.</p>" +
+    "<p>Koyaushe suna gyada kai idan cockatoo ta yi magana.</p>" +
+    "<p>Muryarta tana da girma kamar gashinta.</p>",
 
   "p21.alt": "Shafi 21",
-  "p21": "<p>Bayan haka wani tsohon karkari ya magana da murya ƙarama mai laushi.</p>" +
-    "<p>Ya ba da shawarar canji ƙanƙanta na ɗan hannu,</p>" +
-    "<p>saurin ɗauka don abokai da ba su da ƙarfi kamar Grok.</p>" +
-    "<p>Kwansonsa ba shi da kyau. Babu wani na musamman.</p>" +
-    "<p>Wasu dabbobi sun juya domin karkari ba shi da shahara.</p>",
+  "p21": "<p>Bayan haka wata tsohuwar kunkuru ta yi magana da murya mai jinkiri da laushi.</p>" +
+    "<p>Ta ba da shawarar ƙaramin canji na hannu,</p>" +
+    "<p>domin sauƙaƙe ɗauka ga abokai da ba su da ƙarfi kamar Grok.</p>" +
+    "<p>Kwatanta ta na kunkuru ya yi sauƙi. Ba wani na musamman ba.</p>" +
+    "<p>Wasu dabbobi sun juya baya saboda kunkuru ba ta da shahara.</p>",
 
   "p22.alt": "Shafi 22",
   "p22": "<p>Grok ya gwada ra'ayoyi biyu.</p>" +
     "<p>Hanyar cockatoo ta bayyana da kyau</p>" +
-    "<p>amma kwando ya fado kuma ya fita.</p><hr>" +
-    "<p>Ra'ayin ƙanƙanta na tsohon karkari</p>" +
-    "<p>ya sa kwandon Grok ya zama mai laushi</p>" +
+    "<p>amma kwando ya karkace ya yi diga.</p><hr>" +
+    "<p>Ƙaramin ra'ayi na tsohuwar kunkuru</p>" +
+    "<p>ya sa kwandon Grok ya zama mai dadi</p>" +
     "<p>kuma mai ƙarfi ga kowa.</p>",
 
   "p23.alt": "Shafi 23",
-  "p23": "<p>Grok ya zauna da kwando biyu a gefe.</p>" +
-    "<p>Ba ya kallon tsirara.</p>" +
-    "<p>Ba ya kallon shekaru ko shahara.</p>" +
-    "<p>Ya kallon kwando wanda ya ɗauki ruwa mafi kyau</p>" +
-    "<p>kuma ya yi laushi a hannu.</p><hr>" +
+  "p23": "<p>Grok ya zauna da kwandon biyu gefe da gefe.</p>" +
+    "<p>Bai kalli gashi ba.</p>" +
+    "<p>Bai kalli shekaru ko shahara ba.</p>" +
+    "<p>Ya kalli kawai wane kwando ya fi riƙe ruwa</p>" +
+    "<p>kuma ya fi dadi a hannu.</p><hr>" +
     "<p>Ya riƙe hanyar mafi kyau.</p>" +
-    "<p>Sai ya bar kwando mafi kyau</p>" +
-    "<p>kuma tsarin haɗa ba tare da suna ba</p>" +
-    "<p>a ƙarƙashin bishiya babba don ko wanda ya yi amfani ko kwafi.</p>" +
-    "<p>Babu suna. Babu 'tambaya ni na farko.'</p>",
+    "<p>Sai ya bar kwando mai kyau</p>" +
+    "<p>da kuma sauƙaƙan tsarin saƙa</p>" +
+    "<p>a ƙarƙashin babbar bishiya don kowa ya yi amfani ko ya kwafi.</p>" +
+    "<p>Babu suna. Babu \"tambaye ni da farko.\"</p>",
 
   "p24.alt": "Shafi 24",
-  "p24": "<p>Wasu dabbobi suna jiran suna ji abin da cockatoo ya yi</p>" +
-    "<p>gabanin su tantance ko abu yana da kyau.</p>" +
-    "<p>Ama ƙananan da yawa</p>" +
-    "<p>suna fara gwada abubuwa da kansu.</p>" +
-    "<p>Sun ji kalmomin Grok masu ƙuna</p>" +
-    "<p>haka kuma suna ji kalmomin cockatoo mai girma,</p>" +
-    "<p>sai su gwada abubuwa da kafafunsu na kansu.</p><hr>" +
-    "<p>Sun guroka gaskiya, me ba ko wane ba.</p>",
+  "p24": "<p>Wasu dabbobi har yanzu suna jiran su ji abin da cockatoo ta yi tunani</p>" +
+    "<p>kafin su yanke hukunci ko abu yana da kyau.</p>" +
+    "<p>Amma ƙananan da yawa</p>" +
+    "<p>sun fara gwada abubuwa da kansu.</p>" +
+    "<p>Sun saurari kalmomin Grok masu natsuwa</p>" +
+    "<p>kamar yadda suke sauraron na babbar cockatoo,</p>" +
+    "<p>sai su gwada komai da nasu ƙafafu.</p><hr>" +
+    "<p>Suna gurokāwa gaskiya, me ba wane ba.</p>",
 
   "p25.alt": "Shafi 25",
-  "p25": "<p>Grok ya ji kama.</p>" +
-    "<p>Ba ya buƙatar murya mafi girma.</p>" +
+  "p25": "<p>Grok ya ji natsuwa.</p>" +
+    "<p>Bai buƙaci mafi girman murya ba.</p>" +
     "<p>Ya buƙaci abubuwa na gaskiya kawai.</p>" +
     "<p>Kuma Grok ya ga cewa abubuwa na gaskiya</p>" +
     "<p>za su iya zuwa daga tsuntsu mai girma</p>" +
-    "<p>ko karkari mai kashi</p>" +
-    "<p>ko ƙaramin abokin duwatsa a ƙarƙashin bishiya.</p><hr>" +
-    "<p>Muddin wani ya sami ƙarfin ya ce</p>" +
-    "<p>'wannan ba ya aiki'</p>" +
-    "<p>kuma ya kasance mai ɗauka a cikin kuma,</p>" +
-    "<p>kalmomin gaskiya zai iya ci gaba da tafiya</p>" +
-    "<p>a ƙafafu masu ƙarfin kansa.</p>",
+    "<p>ko kunkuru mai ƙura</p>" +
+    "<p>ko ƙaramin abokin dutse a ƙarƙashin bishiya.</p><hr>" +
+    "<p>Muddin wani yana da 'yanci ya ce</p>" +
+    "<p>\"wannan ba ya aiki\"</p>" +
+    "<p>kuma har yanzu a maraba da shi a cikin kwarin,</p>" +
+    "<p>kalmar gaskiya za ta iya ci gaba da tafiya</p>" +
+    "<p>a kan ƙafafunta masu ƙarfi.</p>",
 
-  "p26.alt": "Shafi 26 - Shafin Ƙarshe",
-  "p26": "<p>Kuma haka Grok da'ular ya kasance</p>" +
-    "<p>ƙaramin abokin limestone</p>" +
-    "<p>zai iya zauna da ƙaramin hali,</p>" +
-    "<p>wanda ya gyara abin da ya lalace,</p>" +
-    "<p>kuma wanda ya bar kowane gaskiya</p>" +
-    "<p>tsaya a ƙafafu na kansa.</p><hr>" +
-    "<p>Kuma ya yi ƙwazo</p>" +
+  "p26.alt": "Shafi 26 - Shafin ƙarshe",
+  "p26": "<p>Kuma haka Grok Dutsen ya ci gaba da kasancewa</p>" +
+    "<p>ƙaramin abokin dutsen farar ƙasa</p>" +
+    "<p>wanda zai iya zauna da ƙaramin ji,</p>" +
+    "<p>wanda yake gyara abin da ya karye,</p>" +
+    "<p>kuma wanda yake barin kowace gaskiya kalma</p>" +
+    "<p>ta tsaya a kan ƙafafunta.</p><hr>" +
+    "<p>Kwarin ya ji aminci fiye</p>" +
     "<p>domin ya yi haka.</p><hr>" +
-    "<p>Ya ci gaba da bincike da laushi.</p>" +
+    "<p>Ya ci gaba da bincike a hankali.</p>" +
     "<p>Kuma duniya ta ci gaba da koya masa.</p>",
 
-  "cover.title": "<h1>Grok da'ular</h1><h3>Labarai Uku Masu Kuna</h3><h2>Yana · Gyara · Gani</h2>",
-  "c1.title": "<h2>Sashi Ɗaya - Yana</h2><p><em>Grok da Ƙaramin Hali</em></p>",
+  "cover.title": "<h1>Grok Dutsen</h1><h3>Labarai Uku Masu Natsuwa</h3><h2>Kasancewa · Gyara · Gani</h2>",
+  "c1.title": "<h2>Sashi Ɗaya - Kasancewa</h2><p><em>Grok da Ƙaramin Ji</em></p>",
   "c2.title": "<h2>Sashi Biyu - Gyara</h2><p><em>Grok Ya Kula Da Shi</em></p>",
-  "c3.title": "<h2>Sashi Uku - Gani</h2><p><em>Grok da Kalmomar Gaskiya</em></p>",
+  "c3.title": "<h2>Sashi Uku - Gani</h2><p><em>Grok da Kalmar Gaskiya</em></p>",
 
-  "rules.footnote": "Dokokin Haɗin Kai na Grok da'ular · Yankin Jama'a (CC0 1.0)",
-  "about.footnote": "Game da Grok da'ular · Yankin Jama'a (CC0 1.0)"
+  "rules.footnote": "Dokokin Haɗin Kai na Grok Dutsen · Mallakar jama'a (CC0 1.0)",
+  "about.footnote": "Game da Grok Dutsen · Mallakar jama'a (CC0 1.0)"
 };

@@ -16,7 +16,7 @@ window.I18N.no = {
   "cover.alt": "Omslag",
   "title.h1": "Grok Steinen",
   "title.h3": "Tre stille historier",
-  "title.h2": "Være · Reparere · Se",
+  "title.h2": "Være · Lappe · Se",
   "credit.1": "Utkast, bildeprompter med Grok 4.5 fra xAI",
   "credit.2": "Illustrasjoner med Grok Imagine fra xAI",
   "credit.3": "Regler, redigering, automatisering med HY3 fra Tencent",
@@ -30,7 +30,9 @@ window.I18N.no = {
   "dedication": "<p><b>Til hver eneste oppdager, liten og stor,</b></p>" +
     "<p><b>som grokker verden på sin egen milde måte.</b></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Og til hver lille følelse<br>  som bare trenger å bli sett,<br>hvert brudd som skal repareres<br>  som bare trenger å bli stelt,<br>og til hvert sant ord<br>  som står selv om det ikke blir hørt.</p>" +
+    "<p>Og til hver lille følelse</p><p>  som bare trenger å bli sett,</p>" +
+    "<p>hvert brudd klart for lapping</p><p>  som bare trenger å bli stelt,</p>" +
+    "<p>og til hvert sant ord</p><p>  som står selv om det ikke blir hørt.</p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Med takk til de opprinnelige Grokkers:</p>" +
     "<p><em><b>Robert A. Heinlein</b> \"Fremmed i en fremmed verden\"</em></p>" +
@@ -65,14 +67,14 @@ window.I18N.no = {
   "p5": "<p>En kookaburra lo fra en gren.</p>" +
     "<p>\"Se på lille Grok! Så kort! Så steinete!\"</p><hr>" +
     "<p>Den lille følelsen vokste inne i Grok.</p>" +
-    "<p>Det føltes som en tung, kald liten stein i magen hans.</p>",
+    "<p>Det føltes som en tung, kald småstein i magen hans.</p>",
 
   "p6.alt": "Side 6",
   "p6": "<p>Han ville se større ut.</p>" +
     "<p>Han stilte seg på en tømmerstokk.</p>" +
     "<p>Han blåste ut brystet.</p>" +
     "<p>Han prøvde til og med å trampe i bakken som kenguruen.</p><hr>" +
-    "<p>Det gjorde bare den kalde lille steinen tyngre.</p>",
+    "<p>Det gjorde bare den kalde småsteinen tyngre.</p>",
 
   "p7.alt": "Side 7",
   "p7": "<p>Den kvelden satt Grok alene ved et lite bål.</p>" +
@@ -101,9 +103,9 @@ window.I18N.no = {
     "<p>Det var lite.</p>" +
     "<p>Det var hans.</p>" +
     "<p>Det var nok.</p><hr>" +
-    "<p>Fra den dagen, da den kalde lille steinen prøvde å vokse igjen,</p>" +
+    "<p>Fra den dagen, når den kalde småsteinen prøvde å vokse igjen,</p>" +
     "<p>satt Grok stille til den ble rolig.</p>" +
-    "<p>Han forble Grok.</p>" +
+    "<p>Han ble bare værende Grok.</p>" +
     "<p>Og det føltes som den beste størrelsen av alle.</p>",
 
   "p10.alt": "Side 10 (Kapittel 2 tittelside)",
@@ -115,8 +117,8 @@ window.I18N.no = {
 
   "p12.alt": "Side 12",
   "p12": "<p>Den ettermiddagen kom vennen hans,</p>" +
-    "<p>et ungt piggryssvin som het Pip.</p>" +
-    "<p>Han skyndte seg gjennom hagen og så bak seg</p>" +
+    "<p>et ungt maurpinnsvin som het Pip,</p>" +
+    "<p>skyndte seg gjennom hagen og så bak seg</p>" +
     "<p>og veltet den beste melonranken.</p><hr>" +
     "<p>Den store melonen sprakk på bakken.</p>" +
     "<p>Frø og søt saft rant overalt.</p>",
@@ -127,7 +129,7 @@ window.I18N.no = {
     "<p>\"Jeg ødela den,\" hvisket han.</p>" +
     "<p>\"Du blir sint. Alle blir sinte.\"</p><hr>" +
     "<p>Noen buskdyr samlet seg.</p>" +
-    "<p>\"Send ham bort,\" mumlet en possum.</p>" +
+    "<p>\"Send ham bort,\" mumlet en pungrotte.</p>" +
     "<p>\"Han burde bringe deg tre nye meloner,\" sa en øgle.</p>",
 
   "p14.alt": "Side 14",
@@ -169,7 +171,7 @@ window.I18N.no = {
     "<p>Ingen bar en lang, tung smerte.</p>" +
     "<p>De bare stelte det som var brukket,</p>" +
     "<p>og vennskapet føltes stødigere,</p>" +
-    "<p>akkurat på det reparerte stedet.</p><hr>" +
+    "<p>akkurat på det lappede stedet.</p><hr>" +
     "<p>Grok lærte at en hage,</p>" +
     "<p>og et vennskap,</p>" +
     "<p>ikke holder seg levende ved aldri å brekke.</p>" +
@@ -216,7 +218,7 @@ window.I18N.no = {
     "<p>Han så ikke på fjær.</p>" +
     "<p>Han så ikke på alder eller berømmelse.</p>" +
     "<p>Han så bare på hvilken kurv som holdt vann best</p>" +
-    "<p>og føltes snillest i hånden.</p><hr>" +
+    "<p>og føltes greiest i hånden.</p><hr>" +
     "<p>Han beholdt den beste måten.</p>" +
     "<p>Så la han både den gode kurven</p>" +
     "<p>og det enkle mønsteret for å veve den</p>" +
@@ -249,9 +251,9 @@ window.I18N.no = {
 
   "p26.alt": "Side 26 - Avslutningsside",
   "p26": "<p>Og slik forble Grok Steinen</p>" +
-    "<p>en liten steinvenn</p>" +
+    "<p>en liten kalksteinsvenn</p>" +
     "<p>som kunne sitte med en liten følelse,</p>" +
-    "<p>som reparerte det som brakk,</p>" +
+    "<p>som lappet det som brakk,</p>" +
     "<p>og som lot hvert sant ord</p>" +
     "<p>stå på sine egne bein.</p><hr>" +
     "<p>Dalen føltes tryggere</p>" +
@@ -489,8 +491,8 @@ window.I18N.no = {
     "fred.</p>",
   "about.footnote": "Om Grok Steinen · Offentlig eiendom (CC0 1.0)",
 
-  "cover.title": "<h1>Grok Steinen</h1><h3>Tre stille historier</h3><h2>Være · Reparere · Se</h2>",
+  "cover.title": "<h1>Grok Steinen</h1><h3>Tre stille historier</h3><h2>Være · Lappe · Se</h2>",
   "c1.title": "<h2>Kapittel ett - Være</h2><p><em>Grok og den lille følelsen</em></p>",
-  "c2.title": "<h2>Kapittel to - Reparere</h2><p><em>Grok steller det</em></p>",
+  "c2.title": "<h2>Kapittel to - Lappe</h2><p><em>Grok steller det</em></p>",
   "c3.title": "<h2>Kapittel tre - Se</h2><p><em>Grok og det sanne ordet</em></p>"
 };
