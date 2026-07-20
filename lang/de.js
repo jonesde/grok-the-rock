@@ -13,6 +13,8 @@ window.I18N.de = {
   "nav.about": "Über Grok",
   "nav.book": "Stille Geschichten",
   "nav.tall": "Hohe Märchen",
+  "nav.menu": "Menü",
+  "nav.close": "Schließen",
 
   "title.h1": "Grok der Fels",
   "title.h3": "Drei stille Geschichten",

@@ -13,6 +13,8 @@ window.I18N.no = {
   "nav.about": "Om Grok",
   "nav.book": "Stille Historier",
   "nav.tall": "Høye Eventyr",
+  "nav.menu": "Meny",
+  "nav.close": "Lukk",
 
   "title.h1": "Grok Steinen",
   "title.h3": "Tre stille historier",

@@ -13,6 +13,8 @@ window.I18N.ha = {
   "nav.about": "Game da Grok",
   "nav.book": "Labarun Shiru",
   "nav.tall": "Tatsuniyoyi Masu Tsayi",
+  "nav.menu": "Menu",
+  "nav.close": "Rufe",
 
   "title.h1": "Grok Dutsen",
   "title.h3": "Labarai Uku Masu Natsuwa",

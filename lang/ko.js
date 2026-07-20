@@ -13,6 +13,8 @@ window.I18N.ko = {
   "nav.about": "그록에 대하여",
   "nav.book": "고요한 이야기",
   "nav.tall": "키 큰 이야기",
+  "nav.menu": "메뉴",
+  "nav.close": "닫기",
 
   "title.h1": "바위 그록",
   "title.h3": "세 편의 조용한 이야기",

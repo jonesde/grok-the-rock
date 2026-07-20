@@ -13,6 +13,8 @@ window.I18N.nl = {
   "nav.about": "Over Grok",
   "nav.book": "Stille Verhalen",
   "nav.tall": "Hoge Vertellingen",
+  "nav.menu": "Menu",
+  "nav.close": "Sluiten",
 
   "title.h1": "Grok de Rots",
   "title.h3": "Drie stille verhalen",

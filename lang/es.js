@@ -13,6 +13,8 @@ window.I18N.es = {
   "nav.about": "Sobre Grok",
   "nav.book": "Historias Quietas",
   "nav.tall": "Cuentos Altos",
+  "nav.menu": "Menú",
+  "nav.close": "Cerrar",
 
   "cover.title": "<h1>Grok la Roca</h1><h3>Tres Historias Silenciosas</h3><h2>Ser · Remendar · Ver</h2>",
   "title.h1": "Grok la Roca",

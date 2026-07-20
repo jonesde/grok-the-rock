@@ -157,6 +157,8 @@ Same shape as Quiet Stories, all prefixed with `hai.`:
 | `site.title.about` | text | "Grok the Rock - About Grok" |
 | `nav.book` | text | "Quiet Stories" |
 | `nav.tall` | text | "Tall Tales" |
+| `nav.menu` | text | "Menu" |
+| `nav.close` | text | "Close" |
 | `about.hero.title` | html | "About Grok the Rock" |
 | `about.hero.essence` | html | Subtitle |
 | `about.intro.1`–`about.intro.4` | html | Intro paragraphs |

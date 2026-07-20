@@ -13,6 +13,8 @@ window.I18N.fr = {
   "nav.about": "À propos de Grok",
   "nav.book": "Histoires Tranquilles",
   "nav.tall": "Contes Hauts",
+  "nav.menu": "Menu",
+  "nav.close": "Fermer",
   "title.h1": "Grok le Rocher",
   "title.h3": "Trois Histoires Silencieuses",
   "title.h2": "Être · Réparer · Voir",

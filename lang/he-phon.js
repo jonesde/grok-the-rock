@@ -8,6 +8,8 @@ window.I18N["he-phon"] = {
   "nav.about": "על גרוק",
   "nav.book": "סיפורים שקטים",
   "nav.tall": "סיפורי גובה",
+  "nav.menu": "תפריט",
+  "nav.close": "סגור",
 
   "title.h1": "גרוק הצור",
   "title.h3": "שלושה סיפורים שקטים",

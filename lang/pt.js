@@ -13,6 +13,8 @@ window.I18N.pt = {
   "nav.about": "Sobre Grok",
   "nav.book": "Histórias Quietas",
   "nav.tall": "Contos Altos",
+  "nav.menu": "Menu",
+  "nav.close": "Fechar",
 
   "title.h1": "Grok a Rocha",
   "title.h3": "Três Histórias Silenciosas",

@@ -13,6 +13,8 @@ window.I18N.zh = {
   "nav.about": "关于格罗克",
   "nav.book": "安静的故事",
   "nav.tall": "高树故事",
+  "nav.menu": "菜单",
+  "nav.close": "关闭",
 
   "title.h1": "格罗克岩石",
   "title.h3": "三个安静的故事",

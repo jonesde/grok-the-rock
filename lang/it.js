@@ -13,6 +13,8 @@ window.I18N.it = {
   "nav.about": "Su Grok",
   "nav.book": "Storie Quiete",
   "nav.tall": "Racconti Alti",
+  "nav.menu": "Menu",
+  "nav.close": "Chiudi",
 
   "title.h1": "Grok la Roccia",
   "title.h3": "Tre storie silenziose",

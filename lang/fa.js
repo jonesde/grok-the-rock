@@ -13,6 +13,8 @@ window.I18N.fa = {
   "nav.about": "دربارهٔ گروک",
   "nav.book": "داستان‌های آرام",
   "nav.tall": "قصه‌های بلند",
+  "nav.menu": "منو",
+  "nav.close": "بستن",
 
   "title.h1": "گروکِ سنگ",
   "title.h3": "سه داستان آرام",

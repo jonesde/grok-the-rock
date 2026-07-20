@@ -13,6 +13,8 @@ window.I18N.ja = {
   "nav.about": "グロックについて",
   "nav.book": "静かな物語",
   "nav.tall": "背高なたとえ話",
+  "nav.menu": "メニュー",
+  "nav.close": "閉じる",
 
   "title.h1": "岩グロック",
   "title.h3": "三つの静かな物語",
