@@ -29,13 +29,15 @@ window.I18N.he = {
   "credit.6": "נחלת הכלל (CC0 1.0)",
   "credit.7": "העתיקו · שתפו · תרגמו · ציירו מחדש · תנו לזה לצמוח",
 
+  "credit.companion": "<em>בן־לווה ל־<a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+
   "dedication": "<p><b>לכל חוקר, קטן וגדול,</b></p><p><b>גּוֹרְקִים את העולם בדרכם העדינה.</b></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p><p>ולכל תחושה קטנה</p><p>  שרק צריכה להיראות,</p><p>כל שבר שמוכן לתיקון</p><p>  שרק צריך טיפול,</p>" +
     "<p>ולכל מילת אמת</p><p>  שעומדת גם כשאיש אינו שומע.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>בתודה ל-Grokkers המקוריים:</p><p><em><b>רוברט א. היינליין</b> &quot;זר בארץ זרה&quot;</em></p>" +
     "<p><em><b>טד פריור</b> &quot;גראג&quot;</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גרוק הצור = זר בארץ זרה + גראג</a></p>" +
-    "<p>(&quot;גראג&quot; מנקה את &quot;זר&quot; למען ילדים <em>וגם</em> מבוגרים)</p>",
+    "<p>(&quot;גראג&quot; מנקה את &quot;זר&quot; למען ילדים <em>וגם</em> מבוגרים)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">בן־לווה: Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>גְּרוֹק הַצּוּר הִתְעוֹרֵר מִתַּחַת לָעֵץ הַגָּבוֹהַּ.</p>" +
     "<p>הַשֶּׁמֶשׁ הָיְתָה חַמָּה עַל גַּבּוֹ שֶׁל אֶבֶן הַגִּיר.</p><p>גְּרוֹק הִרְגִּישׁ מְאֻשָּׁר.</p><hr>" +

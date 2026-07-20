@@ -27,6 +27,8 @@ window.I18N.it = {
   "credit.6": "Pubblico dominio (CC0 1.0)",
   "credit.7": "Copialo • Condividilo • Traducilo • Ridisegnalo • Lascialo crescere",
 
+  "credit.companion": "<em>Compagno di <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+
   "dedication": "<p><b>Per ogni esploratore, piccolo e grande,</b></p>" +
     "<p><b>grokkando il mondo a modo suo, con dolcezza.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>E per ogni piccolo sentimento</p><p>che ha solo bisogno di essere visto,</p>" +
@@ -36,7 +38,7 @@ window.I18N.it = {
     " \"Straniero in terra straniera\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roccia = Straniero in terra straniera + Grug</a>" +
-    "</p><p>(\"Grug\" rende \"Straniero\" adatto per bambini <em>e</em> adulti)</p>",
+    "</p><p>(\"Grug\" rende \"Straniero\" adatto per bambini <em>e</em> adulti)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Compagno: Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>Grok la Roccia si svegliò sotto l'albero alto.</p><p>Il sole era caldo sulla sua schiena di calcare.</p>" +
     "<p>Grok si sentiva felice.</p><hr><p>Guardò il mondo vasto</p><p>come se lo vedesse per la primissima volta.</p>",

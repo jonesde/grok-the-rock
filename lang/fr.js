@@ -26,6 +26,8 @@ window.I18N.fr = {
   "credit.6": "Domaine public (CC0 1.0)",
   "credit.7": "Copiez-le • Partagez-le • Traduisez-le • Redessinez-le • Laissez-le grandir",
 
+  "credit.companion": "<em>Compagnon de <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+
   "dedication": "<p><b>Pour chaque explorateur, petit et grand,</b></p><p><b>grokant le monde à sa propre manière " +
     "douce.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Et pour chaque petit sentiment</p><p>  qui a seulement " +
     "besoin d'être vu,</p><p>chaque rupture prête à réparer</p><p>  qui a seulement besoin d'être soignée,</p>" +
@@ -34,7 +36,7 @@ window.I18N.fr = {
     " « Stranger in a Strange Land »</em></p><p><em><b>Ted Prior</b> « Grug »</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok le Rocher = Stranger " +
     "in a Strange Land + Grug</a></p><p>(« Grug » nettoie « Stranger » pour les enfants <em>et</em> " +
-    "les adultes)</p>",
+    "les adultes)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Compagnon : Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>Grok le Rocher s'éveilla sous le grand arbre.</p><p>Le soleil était chaud sur son dos de calcaire.</p>" +
     "<p>Grok se sentait heureux.</p><hr><p>Il regarda le vaste monde</p><p>comme s'il le voyait pour " +

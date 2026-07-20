@@ -22,6 +22,8 @@ window.I18N["he-phon"] = {
   "credit.6": "נחלת הכלל (CC0 1.0)",
   "credit.7": "העתיקו · שתפו · תרגמו · ציירו מחדש · תנו לזה לצמוח",
 
+  "credit.companion": "<em>בן־לווה ל־<a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+
   "dedication": "<p><b>לכל חוקר, קטן וגדול,</b></p><p class=\"phon\">le-KHOL kho-KER, ka-TAN ve-ga-DOL,</p>" +
     "<p><b>גּוֹרְקִים את העולם בדרכם העדינה.</b></p>" +
     "<p class=\"phon\">go-R'-KIM et ha-o-LAM be-dar-KAM ha-a-di-NAH.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
@@ -38,7 +40,7 @@ window.I18N["he-phon"] = {
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גרוק הצור = זר בארץ זרה + גראג</a></p>" +
     "<p class=\"phon\">GROK ha-TZUR = ZAR be-E-rets za-RAH + GRUG</p>" +
     "<p>(&quot;גראג&quot; מנקה את &quot;זר&quot; למען ילדים <em>וגם</em> מבוגרים)</p>" +
-    "<p class=\"phon\">(&quot;GRUG&quot; me-na-KEH et &quot;ZAR&quot; le-MA-an ye-la-DIM <em>ve-GAM</em> u-me-vu-ga-RIM)</p>",
+    "<p class=\"phon\">(&quot;GRUG&quot; me-na-KEH et &quot;ZAR&quot; le-MA-an ye-la-DIM <em>ve-GAM</em> u-me-vu-ga-RIM)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">בן־לווה: Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p dir=\"rtl\">גְּרוֹק הַצּוּר הִתְעוֹרֵר מִתַּחַת לָעֵץ הַגָּבוֹהַּ.</p>" +
     "<p class=\"phon\">grok ha-TZUR hit-o-REYR mi-TA-chat la-ETZ ha-ga-VO-ah.</p>" +

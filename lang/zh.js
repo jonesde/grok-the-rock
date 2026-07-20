@@ -27,12 +27,14 @@ window.I18N.zh = {
   "credit.6": "公有领域（CC0 1.0）",
   "credit.7": "复制它 · 分享它 · 翻译它 · 重绘它 · 让它生长",
 
+  "credit.companion": "<em><a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a> 的姐妹篇</em>",
+
   "dedication": "<p><b>献给每一位探索者，无论大小，</b></p><p><b>用各自温柔的方式格罗克化着这个世界。</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>献给每一个微小的感受</p><p>  它只需要被看见，</p><p>每一个等待缝补的破损</p><p>  它只需要被照料，</p><p>以及每一句真实的话语</p><p>  即使无人听见，依然站立。</p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p><p>感谢最初的 Grokkers：</p><p><em><b>罗伯特·A·海因莱因</b> 《异乡异客》</em></p>" +
     "<p><em><b>泰德·普赖尔</b> 《Grug》</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">格罗克岩石 = 《异乡异客》+ Grug</a></p>" +
-    "<p>（《Grug》为儿童<em>和</em>成人净化了《异乡异客》）</p>",
+    "<p>（《Grug》为儿童<em>和</em>成人净化了《异乡异客》）</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">姐妹篇：Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>格罗克岩石在高高的树下醒来。</p><p>阳光温暖地照在他石灰岩的背上。</p><p>格罗克感到快乐。</p><hr><p>他望着广阔的世界</p><p>仿佛是第一次看见它。</p>",
 

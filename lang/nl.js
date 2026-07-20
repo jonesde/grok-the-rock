@@ -27,6 +27,8 @@ window.I18N.nl = {
   "credit.6": "Publiek domein (CC0 1.0)",
   "credit.7": "Kopieer het · Deel het · Vertaal het · Herteken het · Laat het groeien",
 
+  "credit.companion": "<em>Metgezel van <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+
   "dedication": "<p><b>Voor elke ontdekker, klein en groot,</b></p>" +
     "<p><b>die de wereld op hun eigen zachte manier grokken.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>En voor elk klein gevoel</p><p>  dat alleen gezien hoeft te worden,</p>" +
@@ -36,7 +38,7 @@ window.I18N.nl = {
     " \"Vreemdeling in een vreemd land\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok de Rots = Vreemdeling in een vreemd land + Grug</a>" +
-    "</p><p>(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)</p>",
+    "</p><p>(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Metgezel: Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>Grok de Rots werd wakker onder de hoge boom.</p><p>De zon was warm op zijn kalkstenen rug.</p>" +
     "<p>Grok voelde zich blij.</p><hr><p>Hij keek naar de wijde wereld</p>" +

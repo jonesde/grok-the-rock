@@ -27,6 +27,8 @@ window.I18N.de = {
   "credit.6": "Gemeinfrei (CC0 1.0)",
   "credit.7": "Kopiere es • Teile es • Übersetze es • Zeichne es neu • Lass es wachsen",
 
+  "credit.companion": "<em>Begleiter zu <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+
   "dedication": "<p><b>Für alle Entdecker, klein und groß,</b></p>" +
     "<p><b>die die Welt auf ihre eigene sanfte Weise grokken.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Und für jedes kleine Gefühl, das nur gesehen werden will,</p>" +
@@ -34,7 +36,7 @@ window.I18N.de = {
     "<p>und für jedes wahre Wort, das steht, auch wenn es ungehört bleibt.</p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p><p>Mit Dank an die Original Grokkers:</p><p><em><b>Robert A. Heinlein</b> „Fremder in einer fremden Welt“</em></p><p><em><b>Ted Prior</b> „Grug“</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok der Fels = Fremder in einer fremden Welt + Grug</a>" +
-    "</p><p>(„Grug“ macht „Fremder“ sauber für Kinder <em>und</em> Erwachsene)</p>",
+    "</p><p>(„Grug“ macht „Fremder“ sauber für Kinder <em>und</em> Erwachsene)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Begleiter: Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>Grok der Fels erwachte unter dem hohen Baum.</p><p>Die Sonne war warm auf seinem Kalksteinrücken.</p>" +
     "<p>Grok fühlte sich glücklich.</p><hr><p>Er betrachtete die weite Welt</p>" +

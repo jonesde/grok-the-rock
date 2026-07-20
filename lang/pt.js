@@ -27,6 +27,8 @@ window.I18N.pt = {
   "credit.6": "Domínio Público (CC0 1.0)",
   "credit.7": "Copie • Compartilhe • Traduza • Redesenhe • Deixe crescer",
 
+  "credit.companion": "<em>Companheiro de <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+
   "dedication": "<p><b>Para cada explorador, pequeno e grande,</b></p>" +
     "<p><b>grokkando o mundo à sua própria maneira gentil.</b></p>" +
     "<p>&nbsp;</p>" +
@@ -48,7 +50,7 @@ window.I18N.pt = {
     "<hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok a Rocha = Um Estranho numa Terra Estranha + Grug</a></p>" +
-    "<p>(\"Grug\" limpa \"Estranho\" para crianças <em>e</em> adultos)</p>",
+    "<p>(\"Grug\" limpa \"Estranho\" para crianças <em>e</em> adultos)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Companheiro: Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
     "<p>O sol estava quente em suas costas de calcário.</p>" +

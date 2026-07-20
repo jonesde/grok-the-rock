@@ -27,6 +27,8 @@ window.I18N.ja = {
   "credit.6": "パブリックドメイン（CC0 1.0）",
   "credit.7": "写して · 分かち合って · 訳して · 描き直して · 育てて",
 
+  "credit.companion": "<em><a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a> の対になる物語</em>",
+
   "dedication": "<p><b>すべての探検家に、小さな人にも大きな人にも、</b></p>" +
     "<p><b>それぞれの優しいやり方で世界をグロックしている人たちに。</b></p>" +
     "<p>&nbsp;</p><hr>" +
@@ -45,7 +47,7 @@ window.I18N.ja = {
     "<p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">岩グロック = 『異星の客』+ Grug</a></p>" +
-    "<p>（『Grug』が『異星の客』を子どもにも大人にもきれいにします）</p>",
+    "<p>（『Grug』が『異星の客』を子どもにも大人にもきれいにします）</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">対になる物語：Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>岩グロックは高い木の下で目を覚ましました。</p>" +
     "<p>お日さまが石灰岩の背中をあたためていました。</p>" +

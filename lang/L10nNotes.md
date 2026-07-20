@@ -109,6 +109,7 @@
 | `title.h3` | text | "Three Quiet Stories" |
 | `title.h2` | text | "Being · Mending · Seeing" |
 | `credit.1`–`credit.7` | text | Credits / CC0 notice |
+| `credit.companion` | html | Reverse companion link to Tall Tales |
 | `dedication.alt` | alt | Scene description of dedication art |
 | `dedication` | html | Full dedication block with `<p>`, `<b>`, `<hr>`, `<a>` |
 | `p1.alt`–`p26.alt` | alt | Short visual scene descriptions (not story retells; not "Page N") |

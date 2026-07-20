@@ -27,6 +27,8 @@ window.I18N.ko = {
   "credit.6": "퍼블릭 도메인 (CC0 1.0)",
   "credit.7": "복사하세요 · 공유하세요 · 번역하세요 · 다시 그리세요 · 자라게 두세요",
 
+  "credit.companion": "<em><a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a>의 짝 이야기</em>",
+
   "dedication": "<p><b>크고 작은 모든 탐험가에게,</b></p>" +
     "<p><b>저마다의 부드러운 방식으로 세상을 그록하며 사는 이들에게.</b></p>" +
     "<p>&nbsp;</p>" +
@@ -48,7 +50,7 @@ window.I18N.ko = {
     "<hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">바위 그록 = 『낯선 땅의 이방인』 + Grug</a></p>" +
-    "<p>（『Grug』가 『이방인』을 아이들과 어른들에게 깨끗이 해줍니다）</p>",
+    "<p>（『Grug』가 『이방인』을 아이들과 어른들에게 깨끗이 해줍니다）</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">짝 이야기: Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>바위 그록은 키 큰 나무 아래에서 깨어났습니다.</p>" +
     "<p>석회암 등에 햇살이 따뜻했습니다.</p>" +

@@ -27,6 +27,8 @@ window.I18N.ha = {
   "credit.6": "Mallakar jama'a (CC0 1.0)",
   "credit.7": "Kwafi • Raba • Fassara • Sake zana • Bari ya girma",
 
+  "credit.companion": "<em>Aboki ga <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+
   "dedication": "<p><b>Ga kowane mai bincike, ƙanana da manya,</b></p>" +
     "<p><b>masu gurokāwa duniya a nasu hanyar laushi.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Kuma ga kowane ƙaramin ji</p><p>  da kawai yana buƙatar a gani shi,</p>" +
@@ -36,7 +38,7 @@ window.I18N.ha = {
     " \"Baƙo a Ƙasar Baƙo\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Dutsen = Baƙo a Ƙasar Baƙo + Grug</a>" +
-    "</p><p>(\"Grug\" yana tsaftace \"Baƙo\" ga yara <em>da</em> manya)</p>",
+    "</p><p>(\"Grug\" yana tsaftace \"Baƙo\" ga yara <em>da</em> manya)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Aboki: Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>Grok Dutsen ya farka a ƙarƙashin doguwar bishiya.</p><p>Rana ta yi zafi a bayansa na dutsen farar ƙasa.</p>" +
     "<p>Grok ya ji farin ciki.</p><hr><p>Ya kalli faffadar duniya</p>" +

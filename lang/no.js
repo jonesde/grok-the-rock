@@ -27,6 +27,8 @@ window.I18N.no = {
   "credit.6": "Offentlig eiendom (CC0 1.0)",
   "credit.7": "Kopier det • Del det • Oversett det • Tegn det på nytt • La det vokse",
 
+  "credit.companion": "<em>Følgeverk til <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+
   "dedication": "<p><b>Til hver eneste oppdager, liten og stor,</b></p>" +
     "<p><b>som grokker verden på sin egen milde måte.</b></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
@@ -39,7 +41,7 @@ window.I18N.no = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Steinen = Fremmed i en fremmed verden + Grug</a>" +
-    "</p><p>(\"Grug\" renser \"Fremmed\" for barn <em>og</em> voksne)</p>",
+    "</p><p>(\"Grug\" renser \"Fremmed\" for barn <em>og</em> voksne)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Følgeverk: Hai Ikthiss — Three Tall Tales</a></p>",
 
   "p2": "<p>Grok Steinen våknet under det høye treet.</p>" +
     "<p>Solen var varm på kalksteinsryggen hans.</p>" +
