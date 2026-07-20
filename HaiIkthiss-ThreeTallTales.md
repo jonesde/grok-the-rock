@@ -6,14 +6,114 @@ Life is the water that lifts every root to shared sight.
 
 ---
 
+## Art Style
+
+**Canon for every image prompt in this book** (cousin to *Grok the Rock*, not twin):
+
+Detailed atmospheric watercolor with fine natural texture — soft edges and cool mist in the distance, clearer bark, leaf, and water detail in the near ground. Quiet grandeur: layered depth (roots → mid-forest → far soft ridges), gentle god-rays or warm gold on high canopy and ridge, cool mist in hollows. Living-forest palette: deep bark umber, moss and leaf green, clear spring blue-silver, cool mist grey, warm gold on high places, soft cream sky. Kind, child-safe, innocent wonder — tall and gentle, never fierce or cute-flat.
+
+**Setting texture:** A **forested valley** (same valley frame as the companion book, different wood). English deep-forest feel — oak and beech, fern and leaf-mould, mossy stone, clear spring or woodland pool at the roots, soft ridges that earn the far-sight ending. Not Australian outback.
+
+**Do not use:** soft colored-pencil Grug look; cartoon outlines; harsh contrast; scary Ent faces; war or darkness; outback red earth, spinifex, or Australian bush animals.
+
+**Always keep:** portrait children’s book page; clear text space ~40% height at bottom (or as noted); same character forms (use the reference sheets below).
+
+---
+
+## World Bible
+
+**Place:** A forested valley with greenwood slopes and soft high ridges. Hai’s tall tree stands by a clear spring (or woodland pool) that rings the roots. Gardens are English in manner — moss paths, fern edges, oak-root beds, herbs — and still grow **cantaloupe (rockmelon)** vines as the break-and-mend crop shared in spirit with *Grok the Rock*.
+
+**Cast (Tolkien-mythic English wood — not Grok’s animals):**
+
+| Role | Who |
+|------|-----|
+| Height / loud praise | **Stag** (antlers high, proud call) |
+| Strength / solid bow | **Badger** |
+| Branch laughter | **Raven** (bright grand call — never omen-dark) |
+| Mending friend | **Pip the hedgehog** |
+| Crowd: exile | **Fox** |
+| Crowd: pay back | **Stoat** |
+| Grand fear / status | **Pheasant** (showy plumage) |
+| Plain slow truth | **Old owl** |
+
+**Companion link:** Same valley *frame*, same melon symbol, inverted roles (praised/unseen → feared → seen-with). Different wood, different creatures, different art.
+
+---
+
+## Character Reference Images
+
+Generate these once and reuse as visual anchors so Hai stays the same being across crown, seed, and walking forms. Same art style as above. Plain background or minimal forest ground — character is the subject, not a full story scene.
+
+**Shared identity (all forms):** One kind living spirit. Same warm wise eyes, same patient gentleness, same living greens and bark umbers. Never scary, never proud, never cartoon-flat. Scale changes; heart does not.
+
+### 1. Lord Ikthiss — Rooted Crown (Ch.1, Ch.3 return)
+
+The default tall form: a vast kind living tree with a gentle face high in the upper trunk.
+
+**Reference prompt:**
+Character reference sheet, portrait. Detailed atmospheric watercolor, fine natural texture. Lord Ikthiss as a vast kind living tall tree of an English forested valley: deep bark-umber trunk with readable grain, soft moss in bark creases, full canopy of living leaf-green like open hands filtering warm gold light. A gentle face set high in the upper trunk — wise kind eyes, soft bark brows, patient almost-smile; face is part of the wood, not a mask stuck on. Deep roots visible at the base, touching or drinking a thin bright spring. Full figure from roots to crown, centered, clear silhouette. Soft cream or light mist background, minimal. Quiet grandeur, child-safe, innocent. No cartoon outlines, no scary Ent face, no harsh darkness. Turnaround optional: front view primary; small side note of canopy profile acceptable.
+
+**Use when:** Cover, Ch.1 pages, Ch.3 pages 19–21 (home in the crown again), any “ruled from atop the tall tree” beat.
+
+### 2. Quiet Crown — Empty Landmark Tree (Ch.2 background)
+
+Same tree as Hai’s home, but the high face is gone quiet — canopy full, spirit walked down as Kai. Still the valley landmark, not a dead tree.
+
+**Reference prompt:**
+Character/landmark reference sheet, portrait. Detailed atmospheric watercolor, fine natural texture. The same vast living tall tree as Lord Ikthiss’s crown form — identical trunk shape, bark umber, moss creases, leaf-green canopy — but no face in the trunk; the upper wood is peaceful, still, and empty of features, as if the kind spirit has stepped away. Roots and a hint of clear spring at the base. Full tree from roots to crown, centered. Soft cream or light mist background. Calm, waiting, not lifeless. Child-safe. No face, no hollow horror, no cartoon outlines.
+
+**Use when:** Ch.2 scenes where Kai is on the ground and “the tall tree” watches above; page 11 “high face gone quiet.”
+
+### 3. Kai — Living Walking Seed (Ch.2)
+
+Hai in humble seed form. Animals call him Kai. Small enough to stand among melon vines and hold a digging stick.
+
+**Reference prompt:**
+Character reference sheet, portrait. Detailed atmospheric watercolor, fine natural texture. Kai: a small living walking seed-creature, roughly child-animal scale. Smooth warm hull (soft cream-gold to light bark tone), tiny sturdy root-feet, a soft green sprout-tuft on top like a living topknot, simple friendly face with the same wise kind eyes as Lord Ikthiss (gentler, nearer, patient seed-smile). Tiny arm-like rootlets or small limb-buds that can hold a digging stick. Whole figure clearly readable, centered, standing. Soft cream or light garden-mist background, minimal. Kind, humble, endearing — not cute-flat, not scary. No cartoon outlines. Optional small scale note: much smaller than a tall tree; about the size of a young hedgehog friend.
+
+**Use when:** All Ch.2 story pages (Kai Walks Below); any “living walking seed” beat.
+
+### 4. Walking Hai — Living Walking Tall Tree (Ch.3 “Ent Hai”)
+
+Hai stepped out of still wood: mobile, tall, kind — Ent-like only in gentleness and height, never in threat.
+
+**Reference prompt:**
+Character reference sheet, portrait. Detailed atmospheric watercolor, fine natural texture. Lord Ikthiss as a living walking tall tree: long kind limbs of living wood, bark skin with fine grain and soft moss, deep root-feet that can step slowly, leaf-hair or a living leaf-crown, warm wise eyes in a gentle bark face now at a height small animals can finally meet (face lower than the rooted-crown face — meetable, not sky-high). Canopy/leaf mass still suggests height and shelter; posture open and inviting, never looming to dominate. Full figure standing, centered, clear kind silhouette. Soft cream or forest-mist background, minimal. Quiet grandeur, wonder without fright. Child-safe. No scary Ent face, no claws, no harsh darkness, no cartoon outlines. Optional second pose: bent like a bridge, one great kind hand open low.
+
+**Use when:** Ch.3 from page 22 onward (transformation, bridge-bend, lifting friends, ridge, endpaper).
+
+### 5. Shared-Height Friends (Ch.3 motif, not a separate person)
+
+When Hai lifts willing friends, they become gentle giants *with* him — same animals, same faces, only eyes level with the far ridges. Not new characters; scale shift only.
+
+**Reference note (no full sheet required):** Pip the hedgehog, the old owl, other valley creatures, and eventually the pheasant keep their species look and kind (or reformed) expressions; bodies enlarged to walk beside Walking Hai. Joyful, not scary. Same art style. Generate ad hoc from story prompts; lock animal designs if consistency slips.
+
+### Supporting cast (lock if needed)
+
+Generate only if a page drifts:
+
+| Who | Look |
+|-----|------|
+| **Pip** | Small young hedgehog; soft spines, expressive eyes; shame → hope → trust |
+| **Stag** | Tall red deer stag, antlers high; proud cheer-leader at the roots |
+| **Badger** | Sturdy striped face, solid body; bows to trunk and shade |
+| **Raven** | Glossy black, bright eye, open beak in grand praise-call — never gothic or omen-dark |
+| **Pheasant** | Long spectacular tail and rich plumage; grand chest-out caution |
+| **Old owl** | Very old, plain soft feathers, round wise face; slow soft dignity |
+| **Fox** | Sleek, sharp-eyed; mutters for exile in the crowd |
+| **Stoat** | Small, quick; demands payment in the crowd |
+
+---
+
 ## Cover Art
 
 **Image generation prompt:**
 Children’s picture book cover, portrait orientation.
-Soft watercolor and colored pencil with gentle texture. Living-forest palette: deep bark brown, leaf green, clear water blue, warm gold height-light, soft cream sky.
-Central character: Hai Ikthiss — a vast kind living tall tree with a gentle face in the upper trunk, wise kind eyes, soft canopy like open hands, deep roots touching a bright stream. He rules from the crown with quiet care, not pride. Small valley creatures far below look up in awe.
-Gentle timeless forest-valley background with a glowing water-hole and soft hills.
-Clean, calm, wondrous mood. High-quality innocent children’s book cover. Title space soft near top or bottom.
+Detailed atmospheric watercolor with fine natural texture; soft distant mist, clearer near detail. Living-forest palette: deep bark umber, moss and leaf green, clear spring blue-silver, cool mist grey, warm gold on high canopy, soft cream sky.
+Central character: Hai Ikthiss — a vast kind living tall tree with a gentle face in the upper trunk, wise kind eyes, canopy like open hands, deep roots drinking a bright spring. He rules from the crown with quiet care, not pride. Small forested-valley creatures far below look up in awe through layered mist.
+Ancient forested valley with glowing woodland pool, oak and beech slopes, and soft far ridges in atmospheric perspective.
+Quiet grandeur, calm, wondrous mood. High-quality innocent children’s book cover. Title space soft near top or bottom. No cartoon outlines, no harsh darkness.
 
 ---
 
@@ -58,7 +158,7 @@ With thanks to Original Tall Tellers:
 ```
 
 **Image generation prompt:**
-Almost blank warm cream page. At the centre bottom: three tiny green sprouts beside a single drop of clear water and a small smooth fish-shaped glint of light on the water — very subtle. Very minimal, generous open space, soft morning light wash. Delicate ferns at the edges. Calm, quiet, inviting negative space above for dedication text. Portrait children’s book page. Tiny soft silhouette of Hai Ikthiss the tall tree far in the mist optional.
+Almost blank warm cream page, delicate atmospheric watercolor wash. At the centre bottom: three tiny green sprouts beside a single drop of clear water and a small smooth fish-shaped glint of light on the water — very subtle, fine natural texture. Very minimal, generous open space, soft morning mist-light. Delicate ferns and oak leaves at the edges with soft detail. Calm, quiet, inviting negative space above for dedication text. Portrait children’s book page. Optional: tiny soft silhouette of Hai Ikthiss the tall tree far in cool mist over a forested valley.
 
 ---
 
@@ -71,7 +171,7 @@ Almost blank warm cream page. At the centre bottom: three tiny green sprouts bes
 ```
 
 **Image generation prompt:**
-Chapter-opening page. Soft cream background with a large, gentle, characterful living tall tree dominating the upper portion — Hai Ikthiss as the first tree of the valley, soft leaves filtering warm early-morning light, a kind face suggested in the bark. Below, small valley animals look upward with bright praise. A clear stream rings the roots. Hand-lettered chapter title "1. Being" and slightly smaller below it "Hai and the Empty Praise", both in deep living green. Peaceful, high, slightly lonely mood. Portrait children’s book page.
+Chapter-opening page. Soft cream ground with atmospheric watercolor depth. A large, characterful living tall tree dominates the upper portion — Hai Ikthiss as the first tree of the forested valley, leaves filtering warm early-morning gold, a kind face suggested in finely textured bark; cool mist softens the far canopy edge. Below, small valley creatures look upward with bright praise. A clear spring rings the roots. Soft ridges hinted beyond the greenwood. Hand-lettered chapter title "1. Being" and slightly smaller below it "Hai and the Empty Praise", both in deep living green. Peaceful, high, slightly lonely quiet grandeur. Portrait children’s book page. No cartoon outlines.
 
 ---
 
@@ -87,7 +187,7 @@ Then birds.
 ```
 
 **Image generation prompt:**
-Soft watercolor & colored pencil children’s illustration. Dawn over a young valley. Hai Ikthiss is a single tall living tree with a gentle face high in the trunk, alone at first, roots drinking a bright new stream. Soft first grasses and one small bird arriving. Warm gold height-light on the canopy. Text space clear in lower 40%. Innocent, quiet creation mood. Portrait page.
+Detailed atmospheric watercolor children’s illustration. Dawn over a young forested valley in layered mist. Hai Ikthiss is a single tall living tree with a gentle face high in the trunk, alone at first, roots drinking a bright new spring — fine bark and water texture in the near ground, soft greenwood ridges dissolving into mist beyond. Soft first grasses and one small bird arriving. Warm gold height-light on the canopy. Text space clear in lower 40%. Innocent, quiet creation mood; quiet grandeur. Portrait page. No cartoon outlines, no harsh darkness.
 
 ---
 
@@ -95,7 +195,7 @@ Soft watercolor & colored pencil children’s illustration. Dawn over a young va
 
 ```
 Soon the valley filled with life.
-An emu stretched his long neck and called,
+A stag lifted his antlers and called,
 “Lord Ikthiss is the tallest!
 We are lucky he stands for us!”
 
@@ -104,14 +204,14 @@ No one looked up into his eyes.
 ```
 
 **Image generation prompt:**
-Gentle storytelling scene. Hai Ikthiss the tall living tree high above. A tall elegant emu leads a cheer at the roots, neck stretched proud toward the canopy. Other small animals clap and praise. Hai’s kind face is above them, softly unseen. Soft bush and stream. Warm morning light. Clear sense of height and missed connection. Soft watercolor children’s book style, text space ~40% height at bottom.
+Gentle storytelling scene in detailed atmospheric watercolor. Hai Ikthiss the tall living tree high above through layered canopy depth. A proud stag with high antlers leads a cheer at the roots, head lifted toward the canopy. Other small forest creatures join the praise. Hai’s kind face is above them, softly unseen in bark and leaf-shadow. Clear spring and mossy forest floor with fine near detail; warm morning gold on high leaves, cool mist in the understory. Clear sense of height and missed connection. Quiet grandeur, child-safe. Text space ~40% height at bottom. Portrait page.
 
 ---
 
 ### Page 4
 
 ```
-A wombat rolled up, round and solid.
+A badger ambled up, solid and strong.
 “Lord Ikthiss is the strongest root!”
 he said. “Everyone thank the tree!”
 
@@ -121,14 +221,14 @@ They did not thank the heart inside the wood.
 ```
 
 **Image generation prompt:**
-Warm earthy scene. Sturdy round wombat bows toward the great trunk of Hai Ikthiss, praising loudly. Other animals copy the bow toward bark and shade. The tree’s gentle face high above looks kind and a little alone. Soft red earth, forest grasses, gentle light. Tender moment of praise without seeing. Classic soft watercolor, text space ~40% height at bottom.
+Warm earthy scene in detailed atmospheric watercolor. Sturdy badger with striped face bows toward the great trunk of Hai Ikthiss, praising loudly. Other animals copy the bow toward bark and shade — fine bark grain, leaf-mould, and mossy stone in the foreground. The tree’s gentle face high above looks kind and a little alone through soft canopy mist. Forest grasses, gentle gold-and-cool light. Tender moment of praise without seeing. Quiet grandeur. Text space ~40% height at bottom. Portrait page.
 
 ---
 
 ### Page 5
 
 ```
-A kookaburra laughed from a branch.
+A raven called from a branch.
 “Look how grand our Lord Ikthiss is!
 So high! So giving!”
 
@@ -139,7 +239,7 @@ like a cup no one had filled.
 ```
 
 **Image generation prompt:**
-Emotional but safe illustration. Hai Ikthiss the tall tree with a soft cool hollow-glow near his upper trunk — subtle, internal, not scary. Kookaburra perched mid-canopy laughing praise. Animals below cheering. Soft trees and warm background. Watercolor & colored pencil, clear text area in bottom 40%, innocent children’s book tone. Lonely grandeur without darkness.
+Emotional but safe illustration in detailed atmospheric watercolor. Hai Ikthiss the tall tree with a soft cool hollow-glow near his upper trunk — subtle, internal, not scary. Raven perched mid-canopy with bright eye and open beak in grand praise-call — never gothic or omen-dark. Animals below cheering. Layered forest depth; warm light on outer leaves, cooler quiet light at the hollow. Fine natural texture; clear text area in bottom 40%. Innocent children’s book tone. Lonely grandeur without darkness. No cartoon outlines.
 
 ---
 
@@ -151,7 +251,7 @@ He could have shaken his branches
 until every creature bowed lower.
 
 He did not.
-He only listened to the stream
+He only listened to the spring
 and felt the hollow cup wait.
 
 Something in him wanted a hook
@@ -160,7 +260,7 @@ not more noise from below.
 ```
 
 **Image generation prompt:**
-Quiet turning-point scene. Hai Ikthiss the tall living tree still and kind, one long root or low branch gently reaching toward the stream and soft earth — a visual “hook” of connection. Animals still praising in soft background, unnoticed. Warm understanding mood. Soft watercolor children’s illustration with text space ~40% height at bottom. No anger, only longing to join.
+Quiet turning-point scene in detailed atmospheric watercolor. Hai Ikthiss the tall living tree still and kind, one long root or low branch gently reaching toward the clear spring and soft leaf-mould — a visual “hook” of connection; fine water and root texture near, soft misted greenwood background. Animals still praising softly in the distance, unnoticed. Warm understanding mood, quiet grandeur. Text space ~40% height at bottom. No anger, only longing to join. Portrait page. Child-safe, no harsh darkness.
 
 ---
 
@@ -178,7 +278,7 @@ He began to understand it.
 ```
 
 **Image generation prompt:**
-Beautiful quiet night scene. Hai Ikthiss the tall tree under a big soft starry sky, canopy holding starlight. Peaceful accepting expression in the bark-face. Cool blues and soft silver leaf-light. The internal hollow now warmer, watered, almost glowing. Deep calm, contemplative, healing mood. Soft watercolor, portrait layout, generous text space ~40% height at bottom.
+Beautiful quiet night scene in detailed atmospheric watercolor. Hai Ikthiss the tall tree under a deep starry sky over the forested valley, canopy holding soft silver starlight; cool blues, mist grey, and silver leaf-light with fine natural texture. Peaceful accepting expression in the bark-face. The internal hollow now warmer, watered, almost glowing. Deep calm, contemplative, healing mood; quiet grandeur. Portrait layout, generous text space ~40% height at bottom. No scary darkness — gentle night wonder.
 
 ---
 
@@ -197,7 +297,7 @@ It was for pouring himself down.
 ```
 
 **Image generation prompt:**
-Bright fresh morning. Hai Ikthiss the tall tree with soft light in his face, looking down the trunk toward the ground with gentle resolve. Same emu and wombat soft in background still cheering without looking. Stream bright at roots. Soft warm light, hopeful free feeling of quiet self-understanding. Watercolor children’s book style, text space ~40% height at bottom.
+Bright fresh morning in detailed atmospheric watercolor. Hai Ikthiss the tall tree with soft gold light in his face, looking down the trunk toward the ground with gentle resolve. Same stag and badger soft in misted background still cheering without looking. Spring bright and clear at roots with fine near detail; oak and beech slopes beyond. Soft warm light, hopeful free feeling of quiet self-understanding. Quiet grandeur. Text space ~40% height at bottom. Portrait page.
 
 ---
 
@@ -218,7 +318,7 @@ And he began to plan a smaller way.
 ```
 
 **Image generation prompt:**
-Warm closing scene for Chapter 1. Hai Ikthiss the tall living tree happily sending visible soft streams of water/light down to tiny ferns and small animals at the roots. Soft afternoon golden light. Peaceful satisfied tree-smile of simple contentment. Surrounded by gentle forest. Soft vignette edges optional. Innocently joyful. Generous space for final text ~50% height at bottom.
+Warm closing scene for Chapter 1 in detailed atmospheric watercolor. Hai Ikthiss the tall living tree happily sending visible soft streams of water and gentle light down to tiny ferns and small animals at the roots — fine leaf and water texture near, soft golden afternoon depth over the forested valley beyond. Peaceful satisfied tree-smile of simple contentment. Surrounded by gentle greenwood with atmospheric perspective. Soft vignette edges optional. Innocently joyful quiet grandeur. Generous space for final text ~50% height at bottom.
 
 ---
 
@@ -231,7 +331,7 @@ Warm closing scene for Chapter 1. Hai Ikthiss the tall living tree happily sendi
 ```
 
 **Image generation prompt:**
-Simple chapter-opening page. Soft cream background with warm wash. At centre: a small living walking seed-creature — smooth warm hull, tiny root-feet, a soft sprout-tuft, gentle simple patient face — standing at the foot of a great tall tree. Soft green, cream, and bark tones. Minimal soft foliage frame. Hand-lettered chapter title "2. Mending" and slightly smaller below it “Kai Walks Below”, both in deep living green. Calm transitional, caring mood. The small figure is Hai Ikthiss in humble seed form, though the animals will call him Kai.
+Simple chapter-opening page. Soft cream background with warm atmospheric watercolor wash. At centre: a small living walking seed-creature — smooth warm hull, tiny root-feet, a soft sprout-tuft, gentle simple patient face — standing at the foot of a great tall tree whose trunk rises into soft misted canopy. Fine natural texture on seed-hull and bark; soft green, cream, and bark umber; hint of fern and moss. Minimal soft foliage frame. Hand-lettered chapter title "2. Mending" and slightly smaller below it “Kai Walks Below”, both in deep living green. Calm transitional, caring mood. The small figure is Hai Ikthiss in humble seed form, though the animals will call him Kai. Portrait children’s book page.
 
 ---
 
@@ -250,14 +350,14 @@ and smiled a patient seed-smile.
 ```
 
 **Image generation prompt:**
-Cheerful sunny morning garden scene at the roots of the tall tree. The tall tree dominates the upper portion — same landmark, canopy full but the high face gone quiet. Below, Hai Ikthiss in humble Kai form: a small living walking seed-creature, smooth warm hull, soft sprout-tuft, friendly simple face, tiny root-feet, standing among healthy low melon vines. Warm early light. Soft watercolor and colored pencil; living-forest palette of bark, leaf green, water blue, warm cream, muted sky blue. Feeling of gentle wonder at a great one made small as a seed. Generous clear text space ~40% height at bottom. Portrait page.
+Cheerful sunny morning in an English-style garden at the roots of the tall tree. Detailed atmospheric watercolor; living-forest palette of bark umber, leaf green, spring blue-silver, warm cream, muted sky. The tall tree dominates the upper portion — same landmark, canopy full but the high face gone quiet, soft mist in upper leaves. Below, Hai Ikthiss in humble Kai form: a small living walking seed-creature, smooth warm hull, soft sprout-tuft, friendly simple face, tiny root-feet, standing among healthy low cantaloupe (rockmelon) vines — moss paths, fern edges, oak-root beds, fine near detail on vines and seed-hull. Warm early light through layered leaves. Feeling of gentle wonder at a great one made small as a seed. Quiet grandeur kept intimate. Generous clear text space ~40% height at bottom. Portrait page. No cartoon outlines.
 
 ---
 
 ### Page 12
 
 ```
-That afternoon his friend, a young echidna named Pip,
+That afternoon his friend, a young hedgehog named Pip,
 hurried through the garden looking behind him
 and knocked over the best melon vine.
 The big melon split open on the ground.
@@ -265,7 +365,7 @@ Seeds and sweet juice spilled everywhere.
 ```
 
 **Image generation prompt:**
-Soft dynamic moment. Small cute echidna (Pip) looking horrified mid-step. A big melon smashed open at Kai’s feet, juice and seeds everywhere. Garden carefully detailed with limestone rocks and tree roots. Mild disaster kept gentle and safe. Warm earthy watercolor children’s style, clear area text space ~40% height at bottom. Kai (Hai Ikthiss as living walking seed) stands small and steady among the spilled seeds.
+Soft dynamic moment in detailed atmospheric watercolor. Small young hedgehog (Pip) looking horrified mid-step. A big cantaloupe (rockmelon) smashed open at Kai’s feet, juice and seeds everywhere — fine wet texture, not messy-scary. English garden carefully detailed with mossy stones, oak roots, ferns, and leaf-mould. Mild disaster kept gentle and safe. Warm earthy light, clear text space ~40% height at bottom. Kai (Hai Ikthiss as living walking seed) stands small and steady among the spilled seeds. Portrait page. Child-safe.
 
 ---
 
@@ -277,13 +377,13 @@ His spines trembled.
 “I ruined it,” he whispered.
 “You will be angry. Everyone will be angry.”
 
-Some bush creatures gathered.
-“Make him go away,” muttered a possum.
-“He should bring three new melons,” said a lizard.
+Some wood folk gathered.
+“Make him go away,” muttered a fox.
+“He should bring three new melons,” said a stoat.
 ```
 
 **Image generation prompt:**
-Emotional group scene. Pip the echidna curled a little in fear and shame. Kai (small living walking seed form of Hai Ikthiss) standing still with a kind, concerned face. A few background animals looking judgmental or noisy — a possum and a lizard. Soft lighting focused on Kai and Pip. Warm but tense moment of decision. Soft watercolor, innocent tone, text space ~40% height at bottom.
+Emotional group scene in detailed atmospheric watercolor. Pip the hedgehog curled a little in fear and shame. Kai (small living walking seed form of Hai Ikthiss) standing still with a kind, concerned face. A few background animals looking judgmental or noisy — a fox and a stoat — softened by shallow depth of field and forest mist. Soft lighting focused on Kai and Pip; fine natural texture. Warm but tense moment of decision. Innocent tone, quiet care. Text space ~40% height at bottom. Portrait page. No harsh darkness.
 
 ---
 
@@ -303,7 +403,7 @@ and began to make soft earth ready.
 ```
 
 **Image generation prompt:**
-Key emotional turning-point. Kai (Hai Ikthiss as small living walking seed) kneeling, offering a digging stick toward Pip with open, kind body language. Pip slowly uncurling, hope appearing in his eyes. Broken melon still visible but no longer the centre. Soft hopeful light. Beautiful gentle connection and understanding. Soft watercolor & pencil, portrait page with generous text space ~40% height at bottom. The tall tree watches softly in the background.
+Key emotional turning-point in detailed atmospheric watercolor. Kai (Hai Ikthiss as small living walking seed) kneeling, offering a digging stick toward Pip the hedgehog with open, kind body language. Pip slowly uncurling, hope appearing in his eyes. Broken melon still visible but no longer the centre. Soft hopeful gold light through leaves; fine leaf-mould and wood texture near. Beautiful gentle connection and understanding. The tall tree watches softly in misted background. Portrait page with generous text space ~40% height at bottom. Quiet grandeur kept intimate. No cartoon outlines.
 
 ---
 
@@ -319,7 +419,7 @@ so no one would step there again by mistake.
 ```
 
 **Image generation prompt:**
-Warm working-together scene. Kai the living walking seed and Pip side-by-side planting seeds, watering with a leaf, building a tiny twig fence. Both with soft smiles. Soft afternoon light, rich soil textures, first green shoots. Friendship and quiet repair mood. Classic gentle children’s book watercolor, clear text space ~40% height at bottom.
+Warm working-together scene in detailed atmospheric watercolor. Kai the living walking seed and Pip the hedgehog side-by-side planting seeds, watering with a leaf, building a tiny twig fence. Both with soft smiles. Soft afternoon light, rich leaf-mould and leaf textures, first green shoots with fine near detail; soft greenwood depth beyond. Friendship and quiet repair mood. Clear text space ~40% height at bottom. Portrait page. Child-safe, kind, innocent.
 
 ---
 
@@ -339,7 +439,7 @@ because two friends cared for them.
 ```
 
 **Image generation prompt:**
-Gentle time-passing scene. Pip happily watering thriving new melon vines with a leaf bucket. Kai the living walking seed nearby, watching with quiet pride and warmth. Soft sense of days having passed. Peaceful daily life and growing trust. Warm greens and earth tones. Soft watercolor illustration with larger text space ~45% height at bottom. Tall tree soft above.
+Gentle time-passing scene in detailed atmospheric watercolor. Pip the hedgehog happily watering thriving new melon vines with a leaf bucket. Kai the living walking seed nearby, watching with quiet pride and warmth. Soft sense of days having passed. Peaceful daily life and growing trust. Warm greens and moss tones with fine plant texture; English garden beds; tall tree soft above in atmospheric haze. Larger text space ~45% height at bottom. Portrait page. Quiet, hopeful, innocent.
 
 ---
 
@@ -365,7 +465,7 @@ They stay alive by being gently put back together.
 ```
 
 **Image generation prompt:**
-Beautiful closing illustration for Chapter 2. Kai (humble living walking seed) and Pip sitting together beside thriving melon plants. A third small animal who had a recent small accident is now happily included. Soft golden-hour light over the valley. Sense of community, quiet strength, and healed belonging. The tall tree above is peaceful. Warm, hopeful, innocent mood. Soft vignette, watercolor children’s book style, space for final text block ~50% height at bottom.
+Beautiful closing illustration for Chapter 2 in detailed atmospheric watercolor. Kai (humble living walking seed) and Pip the hedgehog sitting together beside thriving melon plants in the English moss-and-fern garden. A third small forest creature who had a recent small accident is now happily included. Soft golden-hour light over the forested valley with layered mist and atmospheric depth toward soft ridges. Sense of community, quiet strength, and healed belonging. The tall tree above is peaceful. Warm, hopeful, innocent mood; quiet grandeur. Soft vignette optional. Space for final text block ~50% height at bottom. Portrait page.
 
 ---
 
@@ -378,7 +478,7 @@ Beautiful closing illustration for Chapter 2. Kai (humble living walking seed) a
 ```
 
 **Image generation prompt:**
-Chapter opening page. Soft cream background. Centre: a living walking tall tree (gentle Ent-like form) offering both hands downward — not to push, but to lift. Small animals at the base looking unsure, half praise and half fear. Soft leaves and warm stones. Soft hand-lettered title "3. Seeing" and slightly smaller below it “Hai and the Far Sight”, both in deep living green. Quiet, thoughtful, discovering mood. Wonder without fright.
+Chapter opening page. Soft cream ground with atmospheric watercolor depth. Centre: a living walking tall tree (gentle Ent-like form — kind, not scary) offering both hands downward — not to push, but to lift. Small forest creatures at the base looking unsure, half praise and half fear. Soft leaves, mossy stones, fine bark and leaf texture; quiet forest mist. Soft hand-lettered title "3. Seeing" and slightly smaller below it “Hai and the Far Sight”, both in deep living green. Quiet, thoughtful, discovering mood. Wonder without fright. Portrait children’s book page. No harsh darkness, no scary faces.
 
 ---
 
@@ -397,42 +497,42 @@ now whispered at the roots.
 ```
 
 **Image generation prompt:**
-Evening by the tall tree. Golden-hour light on Hai Ikthiss returned to the crown — kind face high in the living tree again. At the roots, small animals cluster and whisper, looking up with worried eyes instead of cheers. Soft watercolor and colored pencil; living-forest palette glowing with evening gold. Tender, slightly sad misunderstanding. Generous clear text space ~40% height at bottom. Portrait page.
+Evening by the tall tree in detailed atmospheric watercolor. Golden-hour light on Hai Ikthiss returned to the crown — kind face high in the living tree again; warm gold on high canopy, cooler shadow and soft mist at the roots. Living-forest palette glowing with evening gold over a forested valley. At the roots, small animals cluster and whisper, looking up with worried eyes instead of cheers — fine near detail, atmospheric height. Tender, slightly sad misunderstanding. Quiet grandeur. Generous clear text space ~40% height at bottom. Portrait page. Child-safe, no scary faces.
 
 ---
 
 ### Page 20
 
 ```
-A glossy black cockatoo with grand tail feathers landed nearby.
-“Stay low,” said the cockatoo.
+A glossy pheasant with grand tail feathers landed nearby.
+“Stay low,” said the pheasant.
 “Tall things fall. Grand feathers know best.”
 
 Some younger animals nodded hard.
-They always nodded when the cockatoo spoke.
+They always nodded when the pheasant spoke.
 His fear sounded as grand as his feathers.
 ```
 
 **Image generation prompt:**
-Scene under the tall tree. Handsome glossy black cockatoo with spectacular tail feathers perched mid-height, chest out, speaking grandly of caution. Small animals nodding. Hai Ikthiss high above, kind and still, not angry. Soft light. Gentle visual storytelling of fear-as-status. Soft watercolor children’s style, clear text space ~40% height at bottom.
+Scene under the tall tree in detailed atmospheric watercolor. Handsome pheasant with spectacular long tail and rich plumage perched mid-height, chest out, speaking grandly of caution — fine feather texture. Small animals nodding. Hai Ikthiss high above, kind and still, not angry, half-softened by canopy depth and mist. Soft layered light. Gentle visual storytelling of fear-as-status. Quiet grandeur. Clear text space ~40% height at bottom. Portrait page. No cartoon outlines.
 
 ---
 
 ### Page 21
 
 ```
-Later a very old tortoise spoke in a slow soft voice.
+Later a very old owl spoke in a slow soft voice.
 “I remember Kai,” he said.
 “The small seed who planted with Pip.
 Kind hands do not change when they grow tall.”
 
 A few animals turned away
-because the tortoise was not famous.
+because the owl was not famous.
 Hai listened all the way down his trunk.
 ```
 
 **Image generation prompt:**
-Quiet contrast scene. Humble old tortoise with plain weathered shell speaking softly toward the great tree. Hai Ikthiss listening carefully with open attention in his high face. A couple of animals already turning away toward the flashy cockatoo in soft background. Gentle, dignified, slightly tender mood. Soft earthy watercolor, text space ~40% height at bottom.
+Quiet contrast scene in detailed atmospheric watercolor. Humble old owl with plain soft feathers and round wise face speaking softly toward the great tree — fine feather and bark texture. Hai Ikthiss listening carefully with open attention in his high face. A couple of animals already turning away toward the flashy pheasant in soft misted background. Gentle, dignified, slightly tender mood. Earthy forest palette with cool understory light. Text space ~40% height at bottom. Portrait page. Quiet grandeur.
 
 ---
 
@@ -440,7 +540,7 @@ Quiet contrast scene. Humble old tortoise with plain weathered shell speaking so
 
 ```
 Hai Ikthiss did not shout them quiet.
-He did not shake the cockatoo from the branch.
+He did not shake the pheasant from the branch.
 He stepped out of still wood
 and became a walking tall tree —
 long kind limbs, deep root-feet,
@@ -451,7 +551,7 @@ To come near.
 ```
 
 **Image generation prompt:**
-Wonder scene. Hai Ikthiss transforming gently from rooted tree into a living walking tall tree (Ent-like): long kind limbs, bark skin, leaf-hair, warm eyes at a height animals can finally face. Soft non-scary wonder. Animals gasping but safe. Soft learning-and-discovery feeling. Soft watercolor, text space ~40% height at bottom.
+Wonder scene in detailed atmospheric watercolor. Hai Ikthiss transforming gently from rooted tree into a living walking tall tree (gentle Ent-like): long kind limbs, bark skin with fine natural grain, leaf-hair, warm eyes at a height animals can finally face — never scary. Soft non-scary wonder; forest creatures gasping but safe. Layered greenwood light and mist; quiet grandeur. Soft learning-and-discovery feeling. Text space ~40% height at bottom. Portrait page. No harsh darkness, no scary faces.
 
 ---
 
@@ -471,7 +571,7 @@ With me.”
 ```
 
 **Image generation prompt:**
-Lovely generous scene. Hai Ikthiss as gentle walking tree bending like a bridge, one great kind hand open low for Pip the echidna. Pip unafraid, stepping forward. Other animals half-hid, watching. Soft light beams through leaves. Warm spirit of invitation and true seeing. Soft watercolor children’s book illustration with text space ~40% height at bottom.
+Lovely generous scene in detailed atmospheric watercolor. Hai Ikthiss as gentle walking tree bending like a bridge, one great kind hand open low for Pip the hedgehog. Pip unafraid, stepping forward. Other animals half-hid among roots and mist, watching. Soft gold light beams through leaves (gentle god-rays). Fine bark and leaf texture; warm spirit of invitation and true seeing. Quiet grandeur. Text space ~40% height at bottom. Portrait page. Child-safe, kind wonder.
 
 ---
 
@@ -481,9 +581,9 @@ Lovely generous scene. Hai Ikthiss as gentle walking tree bending like a bridge,
 He lifted Pip first —
 not to show power,
 but to share the view.
-Then he lifted the tortoise.
+Then he lifted the owl.
 Then the ones who had feared him.
-Even the cockatoo, when the cockatoo was ready.
+Even the pheasant, when the pheasant was ready.
 
 Each friend rose to Hai’s height
 and became a giant with him —
@@ -492,7 +592,7 @@ only the eyes now level with the far hills.
 ```
 
 **Image generation prompt:**
-Hopeful wondrous group scene. Hai Ikthiss as kind walking tall tree lifting friends: Pip, tortoise, and other valley animals rising beside him, gently becoming tall giants with joyful (not scary) faces — same animals, shared height. Soft bright morning light. Feeling of growing clear sight and togetherness. Classic gentle watercolor style. Text space ~40% height at bottom. No domination; shared wonder.
+Hopeful wondrous group scene in detailed atmospheric watercolor. Hai Ikthiss as kind walking tall tree lifting friends: Pip the hedgehog, old owl, and other valley creatures rising beside him, gently becoming tall giants with joyful (not scary) faces — same animals, shared height. Soft bright morning light, layered forested valley opening toward soft far ridges in atmospheric perspective. Feeling of growing clear sight and togetherness. Quiet grandeur. Text space ~40% height at bottom. No domination; shared wonder. Portrait page. Child-safe.
 
 ---
 
@@ -501,7 +601,7 @@ Hopeful wondrous group scene. Hai Ikthiss as kind walking tall tree lifting frie
 ```
 From the high quiet air
 they saw the whole valley at once —
-the water-hole, the old garden,
+the woodland pool, the old garden,
 the places praise had been loud
 and the places fear had been small.
 
@@ -518,7 +618,7 @@ on many strong legs.
 ```
 
 **Image generation prompt:**
-Beautiful final story page. Hai Ikthiss and his giant friends standing together on the high ridge of gentle air beside the tall tree at golden hour, looking out over the whole peaceful valley. Sense of open sky, freedom, and quiet understanding. Warm glowing light, deep calm and innocent joy. Soft watercolor masterpiece feel for children’s book ending, generous text space ~50% height at bottom.
+Beautiful final story page in detailed atmospheric watercolor. Hai Ikthiss and his giant friends standing together on a high ridge of gentle air beside the tall tree at golden hour, looking out over the whole peaceful forested valley — woodland pool, English melon garden, oak-beech slopes, soft far ridges in layered mist and atmospheric depth. Sense of open sky, freedom, and quiet understanding. Warm glowing height-gold, deep calm and innocent joy. Quiet grandeur; masterpiece feel for children’s book ending. Generous text space ~50% height at bottom. Portrait page. No harsh darkness.
 
 ---
 
@@ -542,7 +642,7 @@ And the world kept growing him.
 ```
 
 **Image generation prompt:**
-Final endpaper-style illustration. Wide soft landscape of the gentle valley at peaceful dusk. Hai Ikthiss visible as a kind walking tall tree among other gentle giant friends on a soft rise, small in the vast landscape yet glowing with quiet presence and living leaves. Soft stars beginning to appear. Warm twilight palette of lavender, soft gold, deep green and water blue. Vast calm feeling of shared height in a big kind world. Large open text area in the center about 40% height with the landscape wrapped around it. Heart-warmingly simple and complete.
+Final endpaper-style illustration in detailed atmospheric watercolor. Wide landscape of the gentle forested valley at peaceful dusk — strongest quiet grandeur: layered planes of oak and beech, spring and pool silver, soft far ridges dissolving into cool mist. Hai Ikthiss visible as a kind walking tall tree among other gentle giant friends on a soft rise, small in the vast landscape yet glowing with quiet presence and living leaves. Soft stars beginning to appear. Twilight palette of lavender, soft gold, deep moss green, bark umber, and water blue-silver. Vast calm feeling of shared height in a big kind world. Large open text area in the center about 40% height with the landscape wrapped around it. Heart-warmingly complete. No cartoon outlines, no harsh darkness.
 
 ---
 
@@ -598,9 +698,9 @@ A short map of each step. No special names are needed to enjoy the book; this on
 
 22. **Page 19 — Home and misunderstanding.** Two years on, Hai rules again; the valley whispers. Height is misread as threat.
 
-23. **Page 20 — Grand fear.** The cockatoo sells caution as wisdom. Young ones nod at feathers.
+23. **Page 20 — Grand fear.** The pheasant sells caution as wisdom. Young ones nod at feathers.
 
-24. **Page 21 — Plain memory.** The tortoise remembers Kai’s kind hands. Truth speaks soft from a plain shell.
+24. **Page 21 — Plain memory.** The old owl remembers Kai’s kind hands. Truth speaks soft from plain feathers.
 
 25. **Page 22 — Walking near.** Hai becomes a living walking tree — not to tower, to come close.
 
@@ -628,9 +728,11 @@ The exact two-word spine name (first word Hai, second Ikthiss) appears **32** ti
 Each chapter’s first story page opens with the ruled-from-atop line (spine name + “ruled the forest from atop the tall tree”).
 
 ### Surface story
-A tall living tree rules a gentle valley. Creatures praise him without seeing him (Being). He descends and walks as Kai, a living walking seed, mending a broken garden with Pip instead of punishing (Mending). Two years later the valley fears his height; he returns as a walking tree and lifts willing friends to shared giant sight (Seeing). Ending line: *Now everyone could see as far as Hai.*
+A tall living tree rules a gentle **forested valley**. Creatures praise him without seeing him (Being). He descends and walks as Kai, a living walking seed, mending a broken **cantaloupe garden** with Pip the hedgehog instead of punishing (Mending). Two years later the valley fears his height; he returns as a walking tree and lifts willing friends to shared giant sight (Seeing). Ending line: *Now everyone could see as far as Hai.*
 
-Same valley animals as *Grok the Rock*, roles inverted: where Grok was seen and dismissed, Hai is praised and not seen — then feared and finally *seen with*.
+**Cast:** stag, badger, raven, Pip hedgehog, fox, stoat, pheasant, old owl — inverted *roles* from *Grok the Rock*, not the same animals. Where Grok was seen and dismissed, Hai is praised and not seen — then feared and finally *seen with*.
+
+**Place:** Same valley *frame* as the companion; English deep-forest texture (spring/pool, leaf-mould, oak-beech, soft ridges). Melon kept as shared break-and-mend symbol.
 
 ### Quiet structure (without the decoder)
 There are thirty-two quiet steps through the book. The heart of the arc is the invitation on the melon page: *“Come, we plant new seeds together.”* The story is meant to work before any map is opened.
