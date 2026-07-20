@@ -299,12 +299,11 @@ window.I18N.de = {
   "about.shame.1": "Unsere Gefühle sind im Wesentlichen die Zusammenfassung unseres Gehirns über unsere Vergangenheit, um uns zu helfen, die " +
     "Gegenwart zu bewältigen. Nicht die Vergangenheit, wie sie geschah, sondern die Vergangenheit, wie wir sie hinterlassen " +
     "haben: geformt durch unsere eigene Erzählung und Bedeutung. Uns selbst zu grokken ist eine Behauptung von " +
-    "Handlungsmacht, und es ist schwierig bis unmöglich, wo Handlungsmacht beeinträchtigt oder verletzt wird. Es ist die " +
+    "Handlungsmacht, eine Wahl unserer eigenen Erzählung und Bedeutung, und es ist schwierig bis unmöglich, wo Handlungsmacht beeinträchtigt oder verletzt wird. Es ist die " +
     "Entfernung vom Selbst, die Verletzung der Handlungsmacht, der Mord an der Seele, die Scham erzeugt.",
   "about.shame.2": "Die Reaktion auf Scham erzeugt zu viel Selbst (Dominanz, Narzissmus) oder zu wenig Selbst (Unterwerfung, Depression). " +
     "Träger von Scham, selbst die dominantesten Typen der dunklen Triade, pendeln zwischen den beiden Strategien in einem " +
-    "verzweifelten Versuch, in verschiedenen sozialen Zusammenhängen einen sicheren Stand zu finden. Wenn jene mit zu viel " +
-    "Selbst und jene mit zu wenig Selbst aufeinandertreffen, folgt Tragödie. Scham ist der Brennstoff, und wir alle kennen " +
+    "verzweifelten Versuch, in verschiedenen sozialen Zusammenhängen einen sicheren Stand zu finden. Wenn Leute mit der falschen Menge Selbst aufeinandertreffen, neigt unsere Reaktion dazu, dem niedrigeren Weg zu folgen und das Problem schlimmer zu machen als der ursprüngliche Zusammenstoß. Scham ist der Brennstoff, und wir alle kennen " +
     "das Feuer, auch wenn „wir das Feuer nicht gelegt haben“.",
   "about.shame.3": "Die Geschichten, die wir Kindern erzählen, sind wichtig. Als Erwachsene liefern wir die anfängliche Erzählung und " +
     "Bedeutung, die ein Kind in die Welt trägt, lange bevor es die Fähigkeit hat, seine eigene zu formen. Viele von uns " +

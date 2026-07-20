@@ -291,12 +291,11 @@ window.I18N.it = {
   "about.shame.title": "Una nota sulla vergogna e l'agency",
   "about.shame.1": "I nostri sentimenti sono, in sostanza, il riassunto del cervello del nostro passato per aiutarci a navigare il presente. " +
     "Non il passato com'è accaduto, ma il passato come l'abbiamo lasciato: plasmato dalla nostra narrazione e dal nostro " +
-    "significato. Grokkarci è un'affermazione di agency, ed è difficile o impossibile dove l'agency è compromessa o violata. " +
+    "significato. Grokkarci è un'affermazione di agency, una scelta della nostra narrativa e significato, ed è difficile o impossibile dove l'agency è compromessa o violata. " +
     "È la distanza da sé, la violazione dell'agency, l'omicidio dell'anima, che crea la vergogna.",
   "about.shame.2": "La risposta alla vergogna crea troppo sé (dominanza, narcisismo), o troppo poco sé (sottomissione, depressione). I " +
     "portatori di vergogna, anche i tipi più dominanti della triade oscura, oscillano tra le due strategie in un disperato " +
-    "tentativo di trovare un terreno sicuro in diversi contesti sociali. Quando interagiscono quelli con troppo sé e quelli " +
-    "con troppo poco sé, segue la tragedia. La vergogna è il carburante, e tutti conosciamo il fuoco anche se \"non abbiamo " +
+    "tentativo di trovare un terreno sicuro in diversi contesti sociali. Quando persone con la quantità sbagliata di sé si incontrano, la nostra reazione tende a seguire la via più bassa e peggiora il problema rispetto all'urto originale. La vergogna è il carburante, e tutti conosciamo il fuoco anche se \"non abbiamo " +
     "appiccato il fuoco\".",
   "about.shame.3": "Le storie che raccontiamo ai bambini contano. Da adulti, forniamo la narrazione e il significato iniziali che un bambino " +
     "porta nel mondo, molto prima che abbia la capacità di plasmare i propri. Molti di noi soffrono ancora di troppo o troppo " +

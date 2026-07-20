@@ -284,12 +284,11 @@ window.I18N.es = {
   "about.shame.title": "Una nota sobre la vergüenza y la agencia",
   "about.shame.1": "Nuestros sentimientos son, en esencia, el resumen del cerebro de nuestro pasado para ayudarnos a navegar el presente. No " +
     "el pasado como ocurrió, sino el pasado como lo dejamos: moldeado por nuestra propia narrativa y significado. Grokkearnos " +
-    "a nosotros mismos es una afirmación de agencia, y es difícil o imposible donde la agencia está comprometida o violada. " +
+    "a nosotros mismos es una afirmación de agencia, una elección de nuestra propia narrativa y significado, y es difícil o imposible donde la agencia está comprometida o violada. " +
     "Es la distancia de sí, la violación de la agencia, el asesinato del alma, lo que crea la vergüenza.",
   "about.shame.2": "La respuesta a la vergüenza crea demasiado yo (dominancia, narcisismo), o muy poco yo (sumisión, depresión). Los " +
     "portadores de vergüenza, incluso los tipos más dominantes de la tríada oscura, oscilan entre las dos estrategias en un " +
-    "intento desesperado por encontrar terreno seguro en distintos contextos sociales. Cuando interactúan los que tienen " +
-    "demasiado yo y los que tienen muy poco, sigue la tragedia. La vergüenza es el combustible, y todos conocemos el fuego " +
+    "intento desesperado por encontrar terreno seguro en distintos contextos sociales. Cuando las personas con la cantidad incorrecta de self se encuentran, nuestra reacción tiende a seguir el camino más bajo y empeora el problema más que el choque original. La vergüenza es el combustible, y todos conocemos el fuego " +
     "aunque \"no encendimos el fuego\".",
   "about.shame.3": "Las historias que contamos a los niños importan. Como adultos, damos la narrativa y el significado inicial que un niño " +
     "lleva al mundo, mucho antes de que tenga la capacidad de moldear los suyos. Muchos de nosotros aún sufrimos de demasiado " +

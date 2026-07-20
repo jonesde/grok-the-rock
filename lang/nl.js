@@ -300,13 +300,12 @@ window.I18N.nl = {
   "about.shame.title": "Een opmerking over schaamte en handelingsbekwaamheid",
   "about.shame.1": "Onze gevoelens zijn in wezen de samenvatting van onze hersenen van ons verleden om ons te helpen het heden te navigeren. " +
     "Niet het verleden zoals het gebeurde, maar het verleden zoals we het hebben achtergelaten: gevormd door onze eigen " +
-    "vertelling en betekenis. Onszelf grokken is een bevestiging van handelingsbekwaamheid, en het is moeilijk tot onmogelijk " +
+    "vertelling en betekenis. Onszelf grokken is een bevestiging van handelingsbekwaamheid, een keuze voor onze eigen vertelling en betekenis, en het is moeilijk tot onmogelijk " +
     "waar handelingsbekwaamheid is aangetast of geschonden. Het is de afstand van het zelf, de schending van " +
     "handelingsbekwaamheid, de moord op de ziel, die schaamte creëert.",
   "about.shame.2": "De reactie op schaamte creëert te veel zelf (dominantie, narcisme), of te weinig zelf (onderwerping, depressie). Dragers " +
     "van schaamte, zelfs de meest dominante types van de donkere triade, schommelen tussen de twee strategieën in een " +
-    "wanhopige poging om veilige grond te vinden in verschillende sociale contexten. Wanneer degenen met te veel zelf en " +
-    "degenen met te weinig zelf met elkaar omgaan, volgt tragedie. Schaamte is de brandstof, en we kennen allemaal het vuur " +
+    "wanhopige poging om veilige grond te vinden in verschillende sociale contexten. Wanneer mensen met de verkeerde hoeveelheid zelf met elkaar botsen, neigt onze reactie ertoe de lagere weg te volgen en maakt het probleem erger dan de oorspronkelijke botsing. Schaamte is de brandstof, en we kennen allemaal het vuur " +
     "ook al \"hebben wij het vuur niet aangestoken\".",
   "about.shame.3": "De verhalen die we aan kinderen vertellen doen ertoe. Als volwassenen leveren we het eerste verhaal en de eerste " +
     "betekenis die een kind de wereld in draagt, lang voordat het de capaciteit heeft om zijn eigen te vormen. Velen van ons " +

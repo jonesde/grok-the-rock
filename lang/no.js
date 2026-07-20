@@ -368,12 +368,12 @@ window.I18N.no = {
   "about.shame.title": "En merknad om skam og handlingskraft",
   "about.shame.1": "Følelsene våre er, i essensen, hjernens oppsummering av fortiden vår for å hjelpe oss med å navigere nåtiden. Ikke " +
     "fortiden slik den skjedde, men fortiden slik vi har etterlatt den: formet av vår egen fortelling og mening. Å grokke oss " +
-    "selv er en hevdelse av handlingskraft, og det er vanskelig til umulig der handlingskraft er kompromittert eller krenket. " +
+    "selv er en hevdelse av handlingskraft, et valg av vår egen fortelling og mening, og det er vanskelig til umulig der handlingskraft er kompromittert eller krenket. " +
     "Det er avstanden fra selvet, krenkelsen av handlingskraft, mordet på sjelen, som skaper skam.",
   "about.shame.2": "Responsen på skam skaper for mye selv (dominans, narsissisme), eller for lite selv (underkastelse, depresjon). Bærere av " +
     "skam, selv de mest dominerende mørke-triade-typene, svinger mellom de to strategiene i et desperat forsøk på å finne " +
-    "trygg grunn å stå på i ulike sosiale sammenhenger. Når de med for mye selv og de med for lite selv samhandler, følger " +
-    "tragedie. Skam er drivstoffet, og vi kjenner alle ilden selv om \"vi ikke startet brannen\".",
+    "trygg grunn å stå på i ulike sosiale sammenhenger. Når folk med feil mengde selv møter hverandre, har vår reaksjon en tendens til å følge den lavere veien og gjør problemet verre enn den opprinnelige kollisjonen. " +
+    "Skam er drivstoffet, og vi kjenner alle ilden selv om \"vi ikke startet brannen\".",
   "about.shame.3": "Historiene vi forteller barn betyr noe. Som voksne gir vi den første fortellingen og meningen et barn bærer med seg ut i " +
     "verden, lenge før de har kapasitet til å forme sin egen. Mange av oss lider fortsatt av for mye eller for lite selv " +
     "fordi vår egen handlingskraft ble krenket og nektet, særlig i de formative første ~25 årene av livene våre. Denne boken " +

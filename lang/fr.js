@@ -302,12 +302,11 @@ window.I18N.fr = {
   "about.shame.title": "Une note sur la honte et l'agentivité",
   "about.shame.1": "Nos sentiments sont, en essence, le résumé de notre cerveau de notre passé pour nous aider à naviguer le présent. Non le " +
     "passé tel qu'il est arrivé, mais le passé tel que nous l'avons laissé : modelé par notre propre récit et signification. " +
-    "Se groker nous-mêmes est une affirmation d'agentivité, et c'est difficile ou impossible là où l'agentivité est " +
+    "Se groker nous-mêmes est une affirmation d'agentivité, un choix de notre propre récit et signification, et c'est difficile ou impossible là où l'agentivité est " +
     "compromise ou violée. C'est le détachement de soi, la violation de l'agentivité, le meurtre de l'âme, qui crée la honte.",
   "about.shame.2": "La réponse à la honte crée trop de moi (dominance, narcissisme), ou trop peu de moi (soumission, dépression). Les " +
     "porteurs de honte, même les types les plus dominants de la triade sombre, oscillent entre les deux stratégies dans une " +
-    "tentative désespérée de trouver un terrain sûr dans divers contextes sociaux. Quand interagissent ceux qui ont trop de " +
-    "moi et ceux qui ont trop peu de moi, suit la tragédie. La honte est le carburant, et nous connaissons tous le feu même " +
+    "tentative désespérée de trouver un terrain sûr dans divers contextes sociaux. Quand des personnes avec la mauvaise quantité de moi se rencontrent, notre réaction a tendance à suivre la voie la plus basse et empire le problème par rapport au choc initial. La honte est le carburant, et nous connaissons tous le feu même " +
     "si « nous n'avons pas allumé le feu ».",
   "about.shame.3": "Les histoires que nous racontons aux enfants comptent. En tant qu'adultes, nous donnons le récit et la signification " +
     "initiaux qu'un enfant emporte dans le monde, bien avant qu'il ait la capacité de modeler les siens. Beaucoup d'entre " +

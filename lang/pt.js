@@ -402,12 +402,11 @@ window.I18N.pt = {
   "about.shame.title": "Uma nota sobre vergonha e agência",
   "about.shame.1": "Nossos sentimentos são, em essência, o resumo que o cérebro faz do nosso passado para nos ajudar a navegar o presente. " +
     "Não o passado como aconteceu, mas o passado como o deixamos: moldado por nossa própria narrativa e significado. " +
-    "Grokkarmos a nós mesmos é uma afirmação de agência, e é difícil ou impossível onde a agência está comprometida ou " +
+    "Grokkarmos a nós mesmos é uma afirmação de agência, uma escolha da nossa própria narrativa e significado, e é difícil ou impossível onde a agência está comprometida ou " +
     "violada. É a distância de si, a violação da agência, o assassinato da alma, que cria a vergonha.",
   "about.shame.2": "A resposta à vergonha cria demasiado eu (dominância, narcisismo), ou demasiado pouco eu (submissão, depressão). " +
     "Portadores de vergonha, mesmo os tipos mais dominantes da tríade sombria, oscilam entre as duas estratégias numa " +
-    "tentativa desesperada de encontrar chão firme em diferentes contextos sociais. Quando interagem aqueles com demasiado eu " +
-    "e aqueles com demasiado pouco eu, a tragédia segue. A vergonha é o combustível, e todos conhecemos o fogo embora \"não " +
+    "tentativa desesperada de encontrar chão firme em diferentes contextos sociais. Quando pessoas com a quantidade errada de self se encontram, a nossa reação tende a seguir o caminho mais baixo e piora o problema em relação ao choque original. A vergonha é o combustível, e todos conhecemos o fogo embora \"não " +
     "tenhamos começado o fogo\".",
   "about.shame.3": "As histórias que contamos às crianças importam. Como adultos, fornecemos a narrativa e o significado iniciais que uma " +
     "criança carrega para o mundo, muito antes de ela ter capacidade de moldar os seus próprios. Muitos de nós ainda sofrem " +
