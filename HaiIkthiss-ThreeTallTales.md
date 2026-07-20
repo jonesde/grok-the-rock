@@ -111,9 +111,10 @@ Generate only if a page drifts:
 **Image generation prompt:**
 Children’s picture book cover, portrait orientation.
 Detailed atmospheric watercolor with fine natural texture; soft distant mist, clearer near detail. Living-forest palette: deep bark umber, moss and leaf green, clear spring blue-silver, cool mist grey, warm gold on high canopy, soft cream sky.
-Central character: Hai Ikthiss — a vast kind living tall tree with a gentle face in the upper trunk, wise kind eyes, canopy like open hands, deep roots drinking a bright spring. He rules from the crown with quiet care, not pride. Small forested-valley creatures far below look up in awe through layered mist.
+Central character: Lord Hai Ikthiss — a vast kind living tall tree with a gentle face in the upper trunk, wise kind eyes, canopy like open hands, deep roots drinking a bright spring. He rules from the crown with quiet care, not pride. Small forested-valley creatures far below look up in awe through layered mist. 
 Ancient forested valley with glowing woodland pool, oak and beech slopes, and soft far ridges in atmospheric perspective.
 Quiet grandeur, calm, wondrous mood. High-quality innocent children’s book cover. Title space soft near top or bottom. No cartoon outlines, no harsh darkness.
+Forest Creatures to Include: (full list above)
 
 ---
 
