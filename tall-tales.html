@@ -259,7 +259,8 @@
       font-style: italic;
       opacity: 0.7;
   }
-  /* Keep cover/chapter overlays visible until baked title art lands */
+  /* Chapter openers have baked English titles; show overlay only for other langs */
+  html[data-lang="en"] .chapter-title { display: none !important; }
 </style>
 </head>
 <body>
@@ -337,8 +338,8 @@
       </div>
     </div>
     <div class="page" style="background:#f9f8f4;">
-      <img class="ph" src="images/hai/page-1.jpg" alt="Page 1 (Chapter title page)" data-i18n-alt="hai.p1.alt">
-      <div class="chapter-title" data-i18n-html="hai.c1.title">
+      <img class="ph" src="images/hai/page-1-grok-80969c94-4844-49d1-9022-6475dd08e143.jpg" alt="Page 1 (Chapter title page)" data-i18n-alt="hai.p1.alt">
+      <div class="chapter-title bottom" data-i18n-html="hai.c1.title">
         <h2>Chapter One - Being</h2>
         <p><em>Hai and the Empty Praise</em></p>
       </div>
@@ -459,8 +460,8 @@
       </div>
     </div>
     <div class="page" style="background:#f4ecde;">
-      <img class="ph" src="images/hai/page-10.jpg" alt="Page 10 (Chapter title page)" data-i18n-alt="hai.p10.alt">
-      <div class="chapter-title" data-i18n-html="hai.c2.title">
+      <img class="ph" src="images/hai/page-10-grok-19ea08e8-7651-494a-b944-08b19abf9b9d.jpg" alt="Page 10 (Chapter title page)" data-i18n-alt="hai.p10.alt">
+      <div class="chapter-title bottom" data-i18n-html="hai.c2.title">
         <h2>Chapter Two - Mending</h2>
         <p><em>Kai Walks Below</em></p>
       </div>
@@ -572,8 +573,8 @@
       </div>
     </div>
     <div class="page" style="background:#ebe3d4;">
-      <img class="ph" src="images/hai/page-18.jpg" alt="Page 18 (Chapter title page)" data-i18n-alt="hai.p18.alt">
-      <div class="chapter-title" data-i18n-html="hai.c3.title">
+      <img class="ph" src="images/hai/page-18-grok-f139627d-9eb2-4b69-98df-402e1bea6633.jpg" alt="Page 18 (Chapter title page)" data-i18n-alt="hai.p18.alt">
+      <div class="chapter-title bottom" data-i18n-html="hai.c3.title">
         <h2>Chapter Three - Seeing</h2>
         <p><em>Hai and the Far Sight</em></p>
       </div>

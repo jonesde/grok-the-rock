@@ -413,5 +413,9 @@ window.I18N.es = {
 
   "c1.title": "<h2>Capítulo Uno - Ser</h2><p><em>Grok y el pequeño sentimiento</em></p>",
   "c2.title": "<h2>Capítulo Dos - Remendar</h2><p><em>Grok lo remienda</em></p>",
-  "c3.title": "<h2>Capítulo Tres - Ver</h2><p><em>Grok y la palabra verdadera</em></p>"
+  "c3.title": "<h2>Capítulo Tres - Ver</h2><p><em>Grok y la palabra verdadera</em></p>",
+
+  "hai.c1.title": "<h2>Capítulo Uno - Ser</h2><p><em>Hai y el elogio vacío</em></p>",
+  "hai.c2.title": "<h2>Capítulo Dos - Remendar</h2><p><em>Kai camina abajo</em></p>",
+  "hai.c3.title": "<h2>Capítulo Tres - Ver</h2><p><em>Hai y la vista lejana</em></p>"
 };
