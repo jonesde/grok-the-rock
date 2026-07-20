@@ -84,6 +84,9 @@
       align-items: center;
       justify-content: center;
   }
+  .book-single.cover .page h1 {
+      font-size: clamp(3.5rem, 7vw, 6.5rem);
+  }
   .book-single.cover .cardtext { position: absolute; left: 0; right: 0; top: 0; bottom: 30%; z-index: 3; display: flex; flex-direction: column; justify-content: center; padding: 4% 10%; line-height: 0.75; color: #1b1108; text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4); }
   .chapter-title {
       position: absolute;
@@ -275,7 +278,7 @@
   <div class="book-single cover">
     <div class="page">
           <img class="cover-img" src="images/hai/cover-grok-bffd8ee1-7934-4ec3-94dc-205a63ee3959.jpg" alt="Cover Art" data-i18n-alt="cover.alt">
-          <div class="cardtext" data-i18n-html="cover.title">
+          <div class="cardtext" style="bottom:50%;" data-i18n-html="cover.title">
             <h1>Hai Ikthiss</h1>
             <h3>Three Tall Tales</h3>
             <h2>Being · Mending · Seeing</h2>
