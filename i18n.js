@@ -112,7 +112,9 @@
   }
 
   function applyLang(lang) {
-    const dict = lang === "en" ? null : window.I18N[lang];
+    // English may use lang/en.js for a few display-only overrides (full spine
+    // names in chrome) while HTML source keeps alternates for the 32-count gag.
+    const dict = window.I18N[lang] || null;
 
     document.querySelectorAll("[data-i18n]").forEach((el) => {
       applyText(dict, el, el.getAttribute("data-i18n"));
@@ -132,10 +134,13 @@
       html.setAttribute("dir", RTL[lang] ? "rtl" : "ltr");
     }
 
-    if (lang === "en") {
-      if (document.title !== originalTitle) document.title = originalTitle;
+    const siteTitle = document.querySelector(".site-title[data-i18n]");
+    if (siteTitle && siteTitle.textContent.trim()) {
+      document.title = siteTitle.textContent.trim();
     } else if (dict && dict.__title) {
       document.title = dict.__title;
+    } else if (lang === "en") {
+      document.title = originalTitle;
     }
   }
 
@@ -157,7 +162,11 @@
   }
 
   function loadLang(code) {
-    if (code === "en" || loaded[code] || loading[code]) {
+    if (loaded[code] || loading[code]) {
+      return Promise.resolve();
+    }
+    if (window.I18N[code]) {
+      loaded[code] = true;
       return Promise.resolve();
     }
     loading[code] = true;
@@ -182,9 +191,7 @@
   async function selectLang(code) {
     if (selectEl) selectEl.value = code;
     setSavedLang(code);
-    if (code !== "en") {
-      await loadLang(code);
-    }
+    await loadLang(code);
     applyLang(code);
     buildOptions(code);
   }
@@ -199,13 +206,7 @@
     selectEl.addEventListener("change", function () {
       selectLang(selectEl.value);
     });
-    if (saved !== "en") {
-      selectLang(saved);
-    } else if (initial !== "en") {
-      selectLang(initial);
-    } else {
-      applyLang("en");
-    }
+    selectLang(initial);
   }
 
   if (document.readyState === "loading") {

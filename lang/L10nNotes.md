@@ -93,7 +93,15 @@
 - **Nepali**: Uses the compound verb pattern `ग्रोक गर्ने` (grok garne). The gerund `ग्रोक गर्दै` (grok gardai) uses the progressive form. The reflexive uses `आफैलाई` (āphailāī, "to oneself"), an intensified form of `आफू` (āphū).
 - **Malay**: Closely parallel to Indonesian. Uses the `meng-` prefix for the active verb form. The continuous uses `sedang` (currently). The reflexive uses `diri` (self).
 
-## Translation keys by page
+## English display overrides (`lang/en.js`)
+
+HTML book sources keep a few **chrome alternates** (`Grok`, `Lord Ikthiss`) so a search for the exact spine names (`Grok the Rock`, `Hai Ikthiss`) stays at **32** per book. `lang/en.js` restores the full names at display time for:
+
+- `site.title` / `hai.site.title` (and thus `document.title` via `i18n.js`)
+- `cover.title` / `hai.cover.title`
+- `dedication` (seelink: `Grok the Rock = Stranger…`)
+
+Do not put those full chrome strings back into `index.html` / `tall-tales.html` source.
 
 ### index.html (story book) — 60 keys
 
