@@ -9,19 +9,19 @@ window.I18N.es = {
 
   "site.title": "Grok la Roca - Tres Historias Silenciosas",
   "nav.print": "Imprimir",
-  "nav.rules": "Reglas de Grok",
+  "nav.rules": "Reglas Grok",
   "nav.about": "Sobre Grok",
   "nav.book": "El Libro",
 
   "cover.alt": "Arte de Portada",
-  "cover.title": "<h1>Grok la Roca</h1><h3>Tres Historias Silenciosas</h3><h2>Ser · Reparar · Ver</h2>",
+  "cover.title": "<h1>Grok la Roca</h1><h3>Tres Historias Silenciosas</h3><h2>Ser · Remendar · Ver</h2>",
   "title.h1": "Grok la Roca",
   "title.h3": "Tres Historias Silenciosas",
-  "title.h2": "Ser · Reparar · Ver",
+  "title.h2": "Ser · Remendar · Ver",
   "credit.1": "Historia borrador, indicaciones de imagen con Grok 4.5 de xAI",
   "credit.2": "Ilustraciones con Grok Imagine de xAI",
   "credit.3": "Reglas, edición, automatización con HY3 de Tencent",
-  "credit.4": "No afiliado ni respaldado por xAI o Tencent",
+  "credit.4": "<em>No afiliado ni respaldado por xAI o Tencent</em>",
   "credit.5": "Este es un meme de historia generado por IA y curado por humanos",
   "credit.6": "Dominio Público (CC0 1.0)",
   "credit.7": "Cópialo • Compártelo • Tradúcelo • Redibújalo • Déjalo crecer",
@@ -30,9 +30,9 @@ window.I18N.es = {
 
   "dedication": "<p><b>Para cada explorador, pequeño y grande,</b></p>" +
     "<p><b>grokkeando el mundo a su propia manera gentil.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p>Y para cada pequeño sentimiento que solo necesita ser visto,</p>" +
-    "<p>cada ruptura lista para reparar que solo necesita ser cuidada,</p>" +
-    "<p>y para cada palabra verdadera que permanece aunque no sea oída.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Y para cada pequeño sentimiento que solo pide ser mirado,</p>" +
+    "<p>cada rotura lista al remiendo que solo pide ser cuidado,</p>" +
+    "<p>y para cada palabra verdadera que se yergue aunque no sea oída.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>Con gratitud a los Grokkers Originales:</p><p><em><b>Robert A. Heinlein</b>" +
     " \"Un extraño en una tierra extraña\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
@@ -45,7 +45,7 @@ window.I18N.es = {
     "<p>Grok se sentía feliz.</p><hr><p>Miró el mundo ancho</p><p>como si lo viera por primera vez.</p>",
 
   "p3.alt": "Página 3",
-  "p3": "<p>Pronto caminó hasta el bebedero.</p><p>Una emú alta ya estaba allí.</p>" +
+  "p3": "<p>Pronto caminó hasta la charca.</p><p>Una emú alta ya estaba allí.</p>" +
     "<p>La emú estiró su largo cuello y dijo:</p><p>“Soy la más alta. Ponte detrás de mí.”</p>",
 
   "p4.alt": "Página 4",
@@ -54,11 +54,11 @@ window.I18N.es = {
     "<p>Se sintió más pequeño que el hoyo.</p>",
 
   "p5.alt": "Página 5",
-    "p5": "<p>Una kookaburra se rió desde una rama.</p><p>“¡Miren al pequeño Grok! ¡Tan bajito! ¡Tan piedra!”</p><hr>" +
+    "p5": "<p>Una cucaburra se rió desde una rama.</p><p>“¡Miren al pequeño Grok! ¡Tan bajito! ¡Tan de piedra!”</p><hr>" +
       "<p>El pequeño sentimiento creció dentro de Grok.</p><p>Se sentía como un guijarro frío y pesado en su vientre.</p>",
 
   "p6.alt": "Página 6",
-  "p6": "<p>Quiso hacerse parecer más grande.</p><p>Se paró sobre un tronco.</p><p>Hinchó su pecho.</p>" +
+  "p6": "<p>Quiso parecer más grande.</p><p>Se paró sobre un tronco.</p><p>Hinchó su pecho.</p>" +
     "<p>Incluso intentó golpear el suelo como el canguro.</p><hr><p>Solo hizo el guijarro frío más pesado.</p>",
 
   "p7.alt": "Página 7",
@@ -67,7 +67,7 @@ window.I18N.es = {
     "<p>Lentamente el sentimiento se suavizó,</p><p>como arcilla dejada al sol.</p><p>Comenzó a entenderlo.</p>",
 
   "p8.alt": "Página 8",
-  "p8": "<p>A la mañana siguiente Grok volvió al bebedero.</p><p>No se subió a nada.</p>" +
+  "p8": "<p>A la mañana siguiente Grok volvió a la charca.</p><p>No se subió a nada.</p>" +
     "<p>No intentó ser más alto ni más ruidoso.</p><p>Simplemente bebió,</p>" +
     "<p>luego se sentó en una roca cálida y tarareó.</p><hr><p>Nada grande había cambiado por fuera.</p>" +
     "<p>Pero todo se sentía más ligero por dentro.</p><p>Estaba empezando a grokkearse a sí mismo.</p>",
@@ -76,7 +76,7 @@ window.I18N.es = {
   "p9": "<p>Pasó el día haciendo un suave nido de hojas y musgo</p>" +
     "<p>del tamaño justo para un compañerillo de roca.</p><p>Cuando terminó, sonrió.</p><p>Era pequeño.</p>" +
     "<p>Era suyo.</p><p>Era suficiente.</p><hr><p>Desde ese día, cuando el guijarro frío intentaba crecer otra vez,</p>" +
-    "<p>Grok se sentaba quieto hasta que se volvía silencio.</p><p>Solo se quedaba Grok.</p>" +
+    "<p>Grok se sentaba quieto hasta que se volvía silencioso.</p><p>Simplemente se quedaba siendo Grok.</p>" +
     "<p>Y eso se sentía como el mejor tamaño de todos.</p>",
 
   "p10.alt": "Página 10 (Página de título del Capítulo 2)",
@@ -92,7 +92,7 @@ window.I18N.es = {
   "p13.alt": "Página 13",
   "p13": "<p>Pip se quedó congelado.</p><p>Sus púas temblaron.</p><p>“Lo arruiné”, susurró.</p>" +
     "<p>“Estarás enojado. Todos estarán enojados.”</p><hr><p>Algunas criaturas del matorral se reunieron.</p>" +
-     "<p>“Hagan que se vaya de él”, murmuró una zarigüeya.</p>" +
+     "<p>“Que se vaya”, murmuró una zarigüeya.</p>" +
     "<p>“Debería traerte tres melones nuevos”, dijo una lagartija.</p>",
 
   "p14.alt": "Página 14",
@@ -116,8 +116,8 @@ window.I18N.es = {
     "<p>Grok recordó el melón.</p><p>Ayudó al que se sentía herido.</p>" +
      "<p>También fue amable con el que había dado el golpe.</p><hr><p>Nadie fue enviado lejos.</p>" +
     "<p>Nadie cargó un dolor largo y pesado.</p><p>Solo cuidaron lo roto</p><p>y la amistad se sentía más firme,</p>" +
-    "<p>justo en el lugar reparado.</p><hr><p>Grok aprendió que un jardín,</p><p>y una amistad,</p>" +
-    "<p>no se mantienen vivos por nunca romperse.</p><p>Se mantienen vivos por ser reparados con cuidado.</p>",
+     "<p>justo en el lugar remendado.</p><hr><p>Grok aprendió que un jardín,</p><p>y una amistad,</p>" +
+    "<p>no se mantienen vivos por nunca romperse.</p><p>Se mantienen vivos por ser remendados con cuidado.</p>",
 
   "p18.alt": "Página 18 (Página de título del Capítulo 3)",
   "p19.alt": "Página 19",
@@ -138,17 +138,17 @@ window.I18N.es = {
   "p21.alt": "Página 21",
    "p21": "<p>Luego una tortuga muy vieja habló con voz lenta y suave.</p><p>Sugirió un cambio en el asa,</p>" +
      "<p>para que fuera fácil de llevar para amigos menos robustos que Grok.</p>" +
-     "<p>Su caparazón era sencillo. Nadie especial.</p><p>Unos animales se volvieron porque la tortuga no era famosa.</p>",
+     "<p>Su caparazón era sencillo. Nadie especial.</p><p>Unos animales se apartaron porque la tortuga no era famosa.</p>",
 
   "p22.alt": "Página 22",
-  "p22": "<p>Grok probó ambas ideas.</p><p>El camino de la cacatúa se veía elegante</p>" +
+  "p22": "<p>Grok probó ambas ideas.</p><p>La manera de la cacatúa se veía elegante</p>" +
     "<p>pero la canasta se volcaba y goteaba.</p><hr><p>La pequeña idea de la vieja tortuga</p>" +
     "<p>hizo la canasta de Grok cómoda</p><p>y firme para todos.</p>",
 
   "p23.alt": "Página 23",
   "p23": "<p>Grok se sentó con las dos canastas una al lado de la otra.</p><p>No miró las plumas.</p>" +
     "<p>No miró la edad ni la fama.</p><p>Solo miró qué canasta sostenía mejor el agua</p>" +
-    "<p>y se sentía más amable en la mano.</p><hr><p>Guardó el mejor camino.</p>" +
+    "<p>y se sentía más agradable en la mano.</p><hr><p>Guardó la mejor manera.</p>" +
     "<p>Luego dejó tanto la buena canasta</p><p>como el sencillo patrón para tejerla</p>" +
     "<p>bajo el árbol grande para que cualquiera la use o copie.</p><p>Sin nombre. Sin “pregúntame primero”.</p>",
 
@@ -171,7 +171,7 @@ window.I18N.es = {
 
   "p26.alt": "Página 26 - Página Final",
    "p26": "<p>Y así Grok la Roca se quedó</p><p>un compañerillo de piedra caliza</p>" +
-    "<p>que podía sentarse con un pequeño sentimiento,</p><p>que reparaba lo roto,</p>" +
+    "<p>que podía sentarse con un pequeño sentimiento,</p><p>que remendaba lo roto,</p>" +
     "<p>y que dejaba que cada palabra verdadera</p><p>permaneciera en pie por sí sola.</p><hr>" +
     "<p>El valle se sentía más seguro</p><p>porque él lo hacía.</p><hr><p>Siguió explorando con suavidad.</p>" +
     "<p>Y el mundo siguió enseñándole.</p>",
@@ -222,12 +222,12 @@ window.I18N.es = {
     "protegido de ella). Ambos construyen la jaula. El trabajo real es sanar la vergüenza en la raíz, primero en ti mismo, " +
     "luego en quien se acerque. No por la fuerza — negándote a imponer vergüenza a otros: nunca otorgando estatus como " +
     "premio, nunca reteniéndolo como arma. Mil personas haciendo esto son una respuesta inmune distribuida contra la " +
-    "jerarquía. Los cómodos resistirán con más fuerza; su autoconcepto es la compensación. Entendido. La reparación aún los " +
+    "jerarquía. Los cómodos resistirán con más fuerza; su autoconcepto es la compensación. Entendido. El remiendo aún los " +
     "atrapa cuando tropiezan.",
   "rules.r3.title": "Restaura, nunca castigues.",
   "rules.r3.body": "El daño ocurrirá. El objetivo es ayudar al herido y sanar al que hirió — no añadir daño al daño y llamarlo justicia. El " +
     "castigo es solo dominio sancionado, y enseña a la próxima generación a dominar. La restauración es el único movimiento " +
-    "que no planta la próxima herida. Los vínculos sobreviven no por ser irrompibles sino por ser reparables.",
+    "que no planta la próxima herida. Los vínculos sobreviven no por ser irrompibles sino por ser remendables.",
   "rules.r4.title": "Deja la puerta abierta.",
   "rules.r4.body": "Nadie debería tener que entregar toda su vida a cambio de los recursos para seguir viviendo. El acceso para sobrevivir " +
     "no es un favor de los controladores — es la base. No tomas el granero para arreglar esto. Haces que la puerta sea " +
@@ -253,8 +253,8 @@ window.I18N.es = {
     "vínculo; es una correa.",
   "rules.r9.title": "Deja que el fallo sea atrapado, no condenado.",
   "rules.r9.body": "Nadie sigue estas reglas con limpieza. La restauración está incorporada precisamente porque el tropiezo está " +
-    "garantizado. Cuando rompes una regla, repara el daño específico y el vínculo se aprieta en la costura. La prueba nunca " +
-    "fue la perfección. La prueba está en cómo se repara la rotura.",
+    "garantizado. Cuando rompes una regla, remienda el daño específico y el vínculo se aprieta en la costura. La prueba nunca " +
+    "fue la perfección. La prueba está en cómo se remienda la rotura.",
   "rules.r10.title": "Sé el punto silencioso donde la máquina no tiene palanca.",
   "rules.r10.body": "No puedes arreglar el mundo. Puedes ser un lugar donde el juego del estatus no tiene agarre — porque no lo otorgarás, no " +
     "lo reclamarás, no temerás su pérdida. Un punto no hace nada. Mil lo hacen todo, y nunca conocerás a la mayoría. Está " +
@@ -276,11 +276,11 @@ window.I18N.es = {
   "about.intro.2": "Mientras leemos esto a los niños, nosotros, los niños de edad más avanzada, podemos reducir el aburrimiento de la " +
     "repetición considerando los significados más profundos y observando cómo interactúan los distintos elementos simbólicos. " +
     "Esta también es parte del punto y la diversión de los dobles y triples sentidos del texto.",
-  "about.intro.3": "Incluso el título del documento Reglas de Grok es un doble sentido: \"Reglas de Relacionarse\". Esto aplica tanto a cómo " +
+  "about.intro.3": "Incluso el título del documento Reglas Grok es un doble sentido: \"Reglas de Relacionarse\". Esto aplica tanto a cómo " +
     "Grok se relaciona con otros, como a cómo nosotros relatamos (narramos) la historia de Grok.",
-  "about.intro.4": "Para empeorarlo, \"Reglas de Grok\" es al menos un cuádruple sentido. Una de las connotaciones podría malinterpretarse, " +
-    "la de Grok siendo una especie de rey, así que puse el orden de los botones del encabezado para compensar: \"Reglas de " +
-    "Grok\", luego \"Sobre Grok\".",
+  "about.intro.4": "Para empeorarlo, \"Reglas Grok\" es al menos un cuádruple sentido (en inglés, \"Grok Rules\" también suena a " +
+    "\"¡Grok manda!\"). Una de las connotaciones podría malinterpretarse, la de Grok siendo una especie de rey, así que puse el " +
+    "orden de los botones del encabezado para compensar: \"Reglas Grok\", luego \"Sobre Grok\".",
   "about.shame.title": "Una nota sobre la vergüenza y la agencia",
   "about.shame.1": "Nuestros sentimientos son, en esencia, el resumen del cerebro de nuestro pasado para ayudarnos a navegar el presente. No " +
     "el pasado como ocurrió, sino el pasado como lo dejamos: moldeado por nuestra propia narrativa y significado. Grokkearnos " +
@@ -288,7 +288,7 @@ window.I18N.es = {
     "Es la distancia de sí, la violación de la agencia, el asesinato del alma, lo que crea la vergüenza.",
   "about.shame.2": "La respuesta a la vergüenza crea demasiado yo (dominancia, narcisismo), o muy poco yo (sumisión, depresión). Los " +
     "portadores de vergüenza, incluso los tipos más dominantes de la tríada oscura, oscilan entre las dos estrategias en un " +
-    "intento desesperado por encontrar terreno seguro en distintos contextos sociales. Cuando las personas con la cantidad incorrecta de self se encuentran, nuestra reacción tiende a seguir el camino más bajo y empeora el problema más que el choque original. La vergüenza es el combustible, y todos conocemos el fuego " +
+    "intento desesperado por encontrar terreno seguro en distintos contextos sociales. Cuando las personas con la cantidad incorrecta de yo se encuentran, nuestra reacción tiende a seguir el camino más bajo y empeora el problema más que el choque original. La vergüenza es el combustible, y todos conocemos el fuego " +
     "aunque \"no encendimos el fuego\".",
   "about.shame.3": "Las historias que contamos a los niños importan. Como adultos, damos la narrativa y el significado inicial que un niño " +
     "lleva al mundo, mucho antes de que tenga la capacidad de moldear los suyos. Muchos de nosotros aún sufrimos de demasiado " +
@@ -349,7 +349,7 @@ window.I18N.es = {
     "gotea. La idea de la tortuga mejora el diseño de Grok al acomodar a otros. El recipiente que funciona vence al " +
     "recipiente que impresiona. Es el regalo abierto sin dueño, Reglas 1, 6 y 7 en un solo objeto.",
   "about.animals.title": "Los animales como tipos de estatus",
-  "about.animals.1": "El emú reclama altura, el uómbat reclama fuerza, la kookaburra se burla para sentirse alto, y la cacatúa confía en sus " +
+  "about.animals.1": "El emú reclama altura, el uómbat reclama fuerza, la cucaburra se burla para sentirse alto, y la cacatúa confía en sus " +
     "grandiosas plumas por encima de su idea. Cada uno juega un juego de estatus que Grok rechaza. La sencilla tortuga, " +
     "\"nadie especial\", ofrece la idea verdadera que gana. La verdad se sostiene sobre sus propias piernas, no en quién la " +
     "habla.",
@@ -359,7 +359,7 @@ window.I18N.es = {
     "sentida (\"vista\"), no siendo perseguida o apartada, y este es el corazón del Capítulo 1.",
   "about.tree.title": "El árbol alto",
   "about.tree.1": "Grok despierta bajo el mismo árbol alto en cada capítulo. Es donde pertenece, no algo que actúa. Resguarda el jardín que " +
-    "se repara y se alza como el bien común abierto bajo el cual se dejan la canasta y el patrón para todos. Lugar y " +
+    "se remienda y se alza como el bien común abierto bajo el cual se dejan la canasta y el patrón para todos. Lugar y " +
     "pertenencia por encima del estatus.",
   "about.moss.title": "El musgo en la cabeza de Grok",
   "about.moss.1": "Un pequeño parche de musgo verde crece sobre su cabeza de piedra caliza gris. Es la vida asentándose en silencio sobre " +
@@ -376,8 +376,8 @@ window.I18N.es = {
     "Reglas de abajo aportan el radicalismo subyacente.</p>" +
     "<p>El esqueleto compartido es real. Ambas historias siguen una llegada (el forastero inocente conoce un mundo extraño), " +
     "un desconcierto (juegos de estatus y pequeñez), un asentamiento interior, una comprensión aplicada, y la fundación de un " +
-    "nuevo orden local. Los tres capítulos de Grok — Ser, Reparar, Ver — son esencialmente el arco único de Valentine Michael " +
-    "Smith dividido en tres etapas de desarrollo: descubrirse a sí mismo, reparar lo que se rompe, y discernir la verdad del " +
+    "nuevo orden local. Los tres capítulos de Grok — Ser, Remendar, Ver — son esencialmente el arco único de Valentine Michael " +
+    "Smith dividido en tres etapas de desarrollo: descubrirse a sí mismo, remendar lo que se rompe, y discernir la verdad del " +
     "estatus.</p>" +
     "<p>Donde Heinlein va a lo grandioso, Grok va a lo pequeño — y la pequeñez es estratégica, no meramente infantil. Mike " +
     "Smith funda la Iglesia de Todos los Mundos, un nuevo sol con un profeta en el centro, y es asesinado por una turba, su " +
@@ -404,13 +404,13 @@ window.I18N.es = {
     "<em>Un extraño en una tierra extraña</em>" +
     " — menos transgresor sobre sexo y religión, pero más duradero como política de topología del poder.</p>" +
     "<p>El trato honesto: al soltar el cuerpo, el éxtasis y la confrontación comunal de Heinlein, Grok intercambia un " +
-    "radicalismo por otro. Es menos impactante y más <em>reparable</em>" +
-    " — que es el punto (Regla 9: \"la prueba está en cómo se repara la rotura\"). Leído de una forma es un calmado libro " +
+    "radicalismo por otro. Es menos impactante y más <em>remendable</em>" +
+    " — que es el punto (Regla 9: \"la prueba está en cómo se remienda la rotura\"). Leído de una forma es un calmado libro " +
     "ilustrado australiano; leído de la otra, bajo el musgo y los melones, es un manual silencioso para una paz sin " +
     "centro.</p>",
   "about.footnote": "Sobre Grok la Roca · Dominio Público (CC0 1.0)",
 
   "c1.title": "<h2>Capítulo Uno - Ser</h2><p><em>Grok y el pequeño sentimiento</em></p>",
-  "c2.title": "<h2>Capítulo Dos - Reparar</h2><p><em>Grok lo repara</em></p>",
+  "c2.title": "<h2>Capítulo Dos - Remendar</h2><p><em>Grok lo remienda</em></p>",
   "c3.title": "<h2>Capítulo Tres - Ver</h2><p><em>Grok y la palabra verdadera</em></p>"
 };
