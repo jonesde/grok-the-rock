@@ -23,22 +23,22 @@ window.I18N["he-phon"] = {
   "dedication.alt": "עמוד הקדשה",
 
   "dedication": "<p><b>לכל חוקר, קטן וגדול,</b></p><p class=\"phon\">le-KHOL kho-KER, ka-TAN ve-ga-DOL,</p>" +
-    "<p><b>המְגַרְקִים את העולם בדרכם העדינה.</b></p>" +
-    "<p class=\"phon\">ha-ME-gar-KIM et ha-o-LAM be-dar-KAM ha-a-di-NAH.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p><b>גּוֹרְקִים את העולם בדרכם העדינה.</b></p>" +
+    "<p class=\"phon\">go-R'-KIM et ha-o-LAM be-dar-KAM ha-a-di-NAH.</p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>ולכל תחושה קטנה</p><p class=\"phon\">ul-khol t'chu-SHAH kta-NAH</p><p>  שרק צריכה להיראות,</p>" +
     "<p class=\"phon\">  she-RAK tsri-KHAH le-he-ra-OT,</p><p>כל שבר שמוכן לתיקון</p>" +
     "<p class=\"phon\">kol SHE-ver she-mu-KHAN le-ti-KUN</p><p>  שרק צריך טיפול,</p>" +
     "<p class=\"phon\">  she-RAK tsa-RIKH ti-PUL,</p><p>ולכל מילת אמת</p><p class=\"phon\">ul-khol mi-LAT e-MET</p>" +
     "<p>  שעומדת גם כשאיש אינו שומע.</p><p class=\"phon\">  she-o-ME-det gam kshe-ISH ey-NO sho-ME-a.</p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p><p>בתודה לגרוקרים המקוריים:</p>" +
-    "<p class=\"phon\">be-to-DAH la-gro-KER-im ha-me-ko-ri-YIM:</p><p><em><b>רוברט א. היינליין</b>" +
-    " \"אזרח בגלקסיה זרה\"</em></p><p class=\"phon\"><em>RO-bert A. HAYN-layn \"ez-RAKH ba-galak-SYAH za-RAH\"</em>" +
-    "</p><p><em><b>טד פריור</b> \"גראג\"</em></p><p class=\"phon\"><em>TED PRA-yor \"GRUG\"</em></p><p>&nbsp;</p><hr>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p><p>בתודה ל-Grokkers המקוריים:</p>" +
+    "<p class=\"phon\">be-to-DAH le-GRO-kers ha-me-ko-ri-YIM:</p><p><em><b>רוברט א. היינליין</b>" +
+    " &quot;זר בארץ זרה&quot;</em></p><p class=\"phon\"><em>RO-bert A. HAYN-layn &quot;ZAR be-E-rets za-RAH&quot;</em>" +
+    "</p><p><em><b>טד פריור</b> &quot;גראג&quot;</em></p><p class=\"phon\"><em>TED PRA-yor &quot;GRUG&quot;</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גרוק הצור = אזרח בגלקסיה זרה + גראג</a></p>" +
-    "<p class=\"phon\">GROK ha-TZUR = ez-RAKH ba-galak-SYAH za-RAH + GRUG</p>" +
-    "<p>("גראג" מנקה את "זר" למען ילדים ומבוגרים)</p>" +
-    "<p class=\"phon\">("GRUG" me-na-KEH et "za-RAH" le-MA-an ye-la-DIM u-me-vu-ga-RIM)</p>",
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גרוק הצור = זר בארץ זרה + גראג</a></p>" +
+    "<p class=\"phon\">GROK ha-TZUR = ZAR be-E-rets za-RAH + GRUG</p>" +
+    "<p>(&quot;גראג&quot; מנקה את &quot;זר&quot; למען ילדים <em>וגם</em> מבוגרים)</p>" +
+    "<p class=\"phon\">(&quot;GRUG&quot; me-na-KEH et &quot;ZAR&quot; le-MA-an ye-la-DIM <em>ve-GAM</em> u-me-vu-ga-RIM)</p>",
 
   "p1.alt": "עמוד 1 (עמוד השער של פרק 1)",
   "p2.alt": "עמוד 2",
@@ -52,13 +52,13 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">k'-I-lu ra-AH o-TO ba-PA-am ha-ri-sho-NAH.</p>",
 
   "p3.alt": "עמוד 3",
-  "p3": "<p dir=\"rtl\">עַד מְהֵרָה הָלַךְ אֶל בּוֹר הַמַּיִם.</p>" +
-    "<p class=\"phon\">ad me-he-RAH ha-LAKH el BOR ha-MA-yim.</p>" +
+  "p3": "<p dir=\"rtl\">בְּמַהֵרָה הָלַךְ אֶל בּוֹר הַמַּיִם.</p>" +
+    "<p class=\"phon\">b'-ma-he-RAH ha-LAKH el BOR ha-MA-yim.</p>" +
     "<p dir=\"rtl\">אֶמּוּ גָּבוֹהַּ כְּבָר הָיָה שָׁם.</p><p class=\"phon\">E-mu ga-VO-ah k'-VAR ha-YAH SHAM.</p>" +
     "<p dir=\"rtl\">הָאֶמּוּ מָתַח אֶת צַוָּארוֹ הָאָרֹךְ וְאָמַר:</p>" +
     "<p class=\"phon\">ha-E-mu ma-TAKH et tsa-va-RO ha-a-ROKH ve-a-MAR:</p>" +
-    "<p dir=\"rtl\">\"אֲנִי הֲכִי גָּבוֹהַּ. עִמְדִי מֵאָחוֹרַי.\"</p>" +
-    "<p class=\"phon\">\"a-NI ha-KHI ga-VO-ah. e-MED me-a-cho-RAY.\"</p>",
+    "<p dir=\"rtl\">\"אֲנִי הֲכִי גָּבוֹהַּ. עֲמֹד מֵאָחוֹרַי.\"</p>" +
+    "<p class=\"phon\">\"a-NI ha-KHI ga-VO-ah. a-MOD me-a-cho-RAY.\"</p>",
 
   "p4.alt": "עמוד 4",
   "p4": "<p dir=\"rtl\">ווֹמְבָּט הִתְגַּלְגֵּל לְשָׁם, עָגֹל וּמוּצָק.</p>" +
@@ -129,8 +129,8 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">ZEH ha-YAH mas-PIK.</p><hr>" +
     "<p dir=\"rtl\">מֵאוֹתוֹ יוֹם, כְּשֶׁהָאֶבֶן הַקָּרָה נִסְּתָה לִצְמֹחַ שׁוּב,</p>" +
     "<p class=\"phon\">me-o-TO YOM, k'-she-ha-E-ven ha-ka-RAH nis-TAH lits-MO-akh SHUV,</p>" +
-    "<p dir=\"rtl\">גְּרוֹק נִשְׁאַר עוֹמֵד בִּמְקוֹמוֹ עַד שֶׁהִיא נֶעֶשְׂתָה דְּמָמָה.</p>" +
-    "<p class=\"phon\">grok nish-AR o-MED bim-ko-MO AD she-HI ne-es-TAH d'-ma-MAH.</p>" +
+    "<p dir=\"rtl\">גְּרוֹק יָשַׁב דּוּמָם עַד שֶׁהִיא נֶעֶשְׂתָה דְּמָמָה.</p>" +
+    "<p class=\"phon\">grok ya-SHAV du-MAM AD she-HI ne-es-TAH d'-ma-MAH.</p>" +
     "<p dir=\"rtl\">רַק נִשְׁאַר גְּרוֹק.</p><p class=\"phon\">RAK nish-AR grok.</p>" +
     "<p dir=\"rtl\">וְזֶה הִרְגִּישׁ כַּגֹּדֶל הַטּוֹב בְּיוֹתֵר.</p>" +
     "<p class=\"phon\">v'-ZEH hir-GISH ka-GO-del ha-TOV b'-yo-TER.</p>",
@@ -139,15 +139,15 @@ window.I18N["he-phon"] = {
   "p11.alt": "עמוד 11",
   "p11": "<p dir=\"rtl\">גְּרוֹק הַצּוּר הִתְעוֹרֵר מִתַּחַת לָעֵץ הַגָּבוֹהַּ.</p>" +
     "<p class=\"phon\">grok ha-TZUR hit-o-REYR mi-TA-chat la-ETZ ha-ga-VO-ah.</p>" +
-    "<p dir=\"rtl\">גְּרוֹק טִפֵּל בְּגִנָּה הַקְּטַנָּה שֶׁלּוֹ שֶׁל מֵלוֹנִים וּבַטָטוֹת.</p>" +
-    "<p class=\"phon\">grok ti-PEL b'-gi-NAH ha-ktan-AH she-LO shel me-lo-NIM u-va-ta-TOT.</p>" +
+    "<p dir=\"rtl\">גְּרוֹק טִפֵּל בַּגִּנָּה הַקְּטַנָּה שֶׁלּוֹ שֶׁל מֵלוֹנִים וּבַטָטוֹת.</p>" +
+    "<p class=\"phon\">grok ti-PEL ba-gi-NAH ha-kta-NAH she-LO shel me-lo-NIM u-va-ta-TOT.</p>" +
     "<p dir=\"rtl\">הוּא אָהַב לִרְאוֹת אוֹתָם צוֹמְחִים.</p><p class=\"phon\">hu a-HAV lir-OT o-TAM tsom-CHIM.</p>" +
     "<p dir=\"rtl\">כָּל עָלֶה חָדָשׁ הִרְגִּישׁ כְּמוֹ נֵס קָטָן.</p>" +
     "<p class=\"phon\">kol a-LEH cha-DASH hir-GISH KMO NES ka-TAN.</p>",
 
   "p12.alt": "עמוד 12",
   "p12": "<p dir=\"rtl\">אַחַר הַצָּהֳרַיִם חֲבֵרוֹ,</p><p class=\"phon\">a-CHAR ha-tso-ho-RA-yim cha-ve-RO,</p>" +
-    "<p dir=\"rtl\">אֶכִּידְנָה צְעִירָה בַּשֵּׁם פִּיפּ,</p><p class=\"phon\">e-Khi-DNA tsa-i-RAH ba-SHEM PIP,</p>" +
+    "<p dir=\"rtl\">קִפּוֹדָן צְעִיר בַּשֵּׁם פִּיפּ,</p><p class=\"phon\">ki-po-DAN tsa-IR ba-SHEM PIP,</p>" +
     "<p dir=\"rtl\">חָצָה אֶת הַגִּנָּה כְּשֶׁהוּא מַבִּיט לְאָחוֹר</p>" +
     "<p class=\"phon\">cha-TSAH et ha-gi-NAH k'-she-HU ma-BIT l'-a-KHOR</p>" +
     "<p dir=\"rtl\">וְהָפַךְ אֶת גֶּפֶן הַמֵּלוֹן הַטּוֹבָה בְּיוֹתֵר.</p>" +
@@ -165,8 +165,8 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">\"a-TAH tikh-AS. ku-LAM yikh-a-SU.\"</p><hr>" +
     "<p dir=\"rtl\">כַּמָּה יְצוּרֵי שִׂיחַ הִתְאַסְּפוּ.</p>" +
     "<p class=\"phon\">ka-MAH y'-tsu-REY SI-akh hit-a-S'-FU.</p>" +
-    "<p dir=\"rtl\">\"תְּגָרְשׁוּ אוֹתוֹ\", מִלְמֵל סוּרְסוּר.</p>" +
-    "<p class=\"phon\">\"t'-ga-r'-SHU o-TO,\" mil-MEL su-rsu-R.</p>" +
+    "<p dir=\"rtl\">\"תְּגָרְשׁוּ אוֹתוֹ\", מִלְמֵל פּוֹסוּם.</p>" +
+    "<p class=\"phon\">\"t'-ga-r'-SHU o-TO,\" mil-MEL PO-sum.</p>" +
     "<p dir=\"rtl\">\"הוּא צָרִיךְ לְהָבִיא לְךָ שְׁלוֹשָׁה מֵלוֹנִים חֲדָשִׁים\", אָמְרָה לְטָאָה.</p>" +
     "<p class=\"phon\">\"HU tsa-RIKH l'-ha-VI l'-KHA shlo-SHAH me-lo-NIM cha-da-SHIM,\" am-RAH l'-ta-AH.</p>",
 
@@ -179,7 +179,7 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">הוּא לֹא הִפְנָה אֶצְבַּע.</p><p class=\"phon\">hu LO hif-NAH ets-BA.</p>" +
     "<p dir=\"rtl\">הוּא לָקַח מַקֵּל חֲפִירָה</p><p class=\"phon\">hu la-KAKH ma-KEL cha-fi-RAH</p>" +
     "<p dir=\"rtl\">וְהֵחֵל לְהָכִין אֲדָמָה רַכָּה.</p><p class=\"phon\">v'-he-KHEL l'-ha-KHIN a-da-MAH ra-KAH.</p>" +
-    "<hr><p dir=\"rtl\">\"בּוֹא\", אָמַר גְּרוֹק בְּרַכּוּת.</p><p class=\"phon\">\"BO,\" a-MAR grok b'-a-d'nu-T.</p>" +
+    "<hr><p dir=\"rtl\">\"בּוֹא\", אָמַר גְּרוֹק בְּעַדְנוּת.</p><p class=\"phon\">\"BO,\" a-MAR grok b'-a-d'nu-T.</p>" +
     "<p dir=\"rtl\">\"נִשְׁתֹּל זְרָעִים חֲדָשִׁים יַחַד.\"</p>" +
     "<p class=\"phon\">\"nish-TOL z'-ra-IM cha-da-SHIM YA-chad.\"</p>",
 
@@ -364,15 +364,15 @@ window.I18N["he-phon"] = {
   "rules.hero.title": "חוקי ההתייחסות של גרוק הצור",
   "rules.hero.essence": "הוראות ההפעלה לקשר בין שווים שאינו דועך.",
   "rules.what.title": "מהו גרוק?",
-  "rules.what.1": "נטבעה במקור כמילה ממאדים על ידי רוברט א. היינליין ב<em>אזרח בגלקסיה זרה</em>.",
+  "rules.what.1": "נטבעה במקור כמילה ממאדים על ידי רוברט א. היינליין ב<em>זר בארץ זרה</em>.",
   "rules.what.2": "<strong>גרוק</strong>" +
     ": \"מים\", \"לשתות\", \"להתייחס\", \"חיים\" או \"לחיות\"; להבין משהו לעומק כה רב עד שהוא הופך לחלק ממך.",
   "rules.what.3": "לכבוד שמו, גרוק הצור לומד ומקיים חוקים מסוימים על איך להתייחס לעצמו ולאחרים. בכל סיפור, אלה הם הקווים המנחים שגרוק לומד " +
     "ומהווים את מה שגרוק הצור מייצג.",
   "rules.what.note": "<strong>הערה</strong>" +
-    ": ראה את הסעיף <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גרוק הצור = אזרח בגלקסיה זרה + גראג</a>" +
+    ": ראה את הסעיף <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גרוק הצור = זר בארץ זרה + גראג</a>" +
     " בדף אודות גרוק כדי לראות איך <a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גראג</a>" +
-    " של טד פריור פותר את הבעיות המשמעותיות ב<a class=\"seelink\" href=\"about-grok.html#stranger-grug\">אזרח בגלקסיה זרה</a>" +
+    " של טד פריור פותר את הבעיות המשמעותיות ב<a class=\"seelink\" href=\"about-grok.html#stranger-grug\">זר בארץ זרה</a>" +
     ".",
   "rules.origin.title": "איך נוצרו החוקים האלה",
   "rules.origin.1": "החוקים שלהלן נכתבו על ידי בינה מלאכותית. אחרי שווידאתי שהיא מכירה את עבודתי וקיימתי שיחה טכנו-פילוסופית ארוכה שהרחיבה את " +
@@ -459,15 +459,15 @@ window.I18N["he-phon"] = {
     "השנים המעצבות הראשונות של חיינו. הספר הזה נכתב לילדים, אבל לא רק עבורם. המבוגר שקורא בקול הוא קהל היעד בדיוק כמו הילד " +
     "שמקשיב. אין מדיטציה עמוקה יותר מקריאה בקול לילד.",
   "about.what.title": "מהו גרוק?",
-  "about.what.1": "נטבעה במקור כמילה ממאדים על ידי רוברט א. היינליין ב<em>אזרח בגלקסיה זרה</em>.",
+  "about.what.1": "נטבעה במקור כמילה ממאדים על ידי רוברט א. היינליין ב<em>זר בארץ זרה</em>.",
   "about.what.2": "<strong>גרוק</strong>" +
     ": \"מים\", \"לשתות\", \"להתייחס\", \"חיים\" או \"לחיות\"; להבין משהו לעומק כה רב עד שהוא הופך לחלק ממך.",
   "about.what.3": "לכבוד שמו, גרוק הצור לומד ומקיים חוקים מסוימים על איך להתייחס לעצמו ולאחרים. בכל סיפור, אלה הם הקווים המנחים שגרוק לומד " +
     "ומהווים את מה שגרוק הצור מייצג.",
   "about.what.note": "<strong>הערה</strong>" +
-    ": ראה את הסעיף <a class=\"seelink\" href=\"#stranger-grug\">גרוק הצור = אזרח בגלקסיה זרה + גראג</a>" +
+    ": ראה את הסעיף <a class=\"seelink\" href=\"#stranger-grug\">גרוק הצור = זר בארץ זרה + גראג</a>" +
     " למטה כדי לראות איך <a class=\"seelink\" href=\"#stranger-grug\">גראג</a>" +
-    " של טד פריור פותר את הבעיות המשמעותיות ב<a class=\"seelink\" href=\"#stranger-grug\">אזרח בגלקסיה זרה</a>.",
+    " של טד פריור פותר את הבעיות המשמעותיות ב<a class=\"seelink\" href=\"#stranger-grug\">זר בארץ זרה</a>.",
   "about.limestone.title": "למה הוא אבן גיר אפורה?",
   "about.limestone.1": "גרוק הצור הוא \"סלע אפור\" מסיבה:",
   "about.limestone.quote": "<p>\"שיטת הסלע האפור, בשפת הדיבור 'לעשות את עצמך סלע אפור', היא דפוס תקשורת להתנהג באופן לא מגיב ולא מתעניין במכוון, כדי " +
@@ -514,11 +514,11 @@ window.I18N["he-phon"] = {
   "about.moss.title": "הטחב על ראשו של גרוק",
   "about.moss.1": "כתם קטן של טחב ירוק חי צומח על ראש אבן הגיר האפורה שלו. אלו החיים השוכנים בדממה על דבר שקט ואדיב. גרוק לא צריך להופיע, " +
     "החיים פשוט מצטברים כי הוא <em>נשאר</em>. זהו השלום שנעשה גלוי.",
-  "about.stranger.title": "גרוק הצור = אזרח בגלקסיה זרה + גראג",
+  "about.stranger.title": "גרוק הצור = זר בארץ זרה + גראג",
   "about.stranger.body": "<p>גרוק הצור, במבט ראשון, נראה כמו <em>גראג</em>" +
     " של טד פריור — יצור שיח קטן, קבלה עדינה של כישלון, בלי נבל, בלי שיא. קריאה זו נכונה על פני השטח, ופריור מוזכר בהקדשה " +
     "מסיבה טובה: גרוק יורש את המזג של גראג. אבל הספר הוא יותר מהיינליין עם הקצוות משויפות. זה היינליין <em>שנענה</em>" +
-    " — אותה מילה ממאדים, אותה קשת של זר שלומד לגרוק, אבל עם המנוע המשיחי, העימותי, של אלימות גואלת של <em>אזרח בגלקסיה " +
+    " — אותה מילה ממאדים, אותה קשת של זר שלומד לגרוק, אבל עם המנוע המשיחי, העימותי, של אלימות גואלת של <em>זר בארץ " +
     "זרה</em>" +
     " שהוחלף בפוליטיקה מבוזרת ולא עימותית במכוון. פריור מביא את פני השטח; החוקים שלמטה מביאים את הרדיקליות המונחת ביסוד.</p>" +
     "<p>השלד המשותף הוא אמיתי. שני הסיפורים עוקבים אחר הגעה (הזר התמים פוגש עולם מוזר), תמיהה (משחקי מעמד וקטנות), התיישבות " +
@@ -536,13 +536,13 @@ window.I18N["he-phon"] = {
     "הדחייה הסמויה של האלימות הגואלת: האמת \"הולכת על רגליה החזקות שלה\" (עמ' 25) מבלי להיהרס בגלל זה.</p>" +
     "<p>אבל השקט <em>טעון</em>" +
     ", והחוקים נותנים לו שם. גרוק הוא \"סלע אפור\" (חוקים, עמ' 30) במכוון: עשיית עצמך סלע אפור היא סירוב מכוון לתת למשחק " +
-    "המעמד שום תגובה — ההפך הגמור מהמופע המשיחי של מייק. חוק 5 (\"התרחק במקום להילחם\") דוחה הפיכה outright: המרכז \"קורס " +
+    "המעמד שום תגובה — ההפך הגמור מהמופע המשיחי של מייק. חוק 5 (\"התרחק במקום להילחם\") דוחה הפיכה לחלוטין: המרכז \"קורס " +
     "מעצמו\" ברגע שמסירים את המצע שלו. חוק 6 (\"היה צומת, לא כוכב\") דוחה את צורת השמש/נביא שמייק הופך אליה. ההתעלות המחודשת " +
     "מוחלפת בחוק 10: \"היה הנקודה השקטה שלמכונה אין בה מנוף.\" שלום הוא <em>נסיגה</em>, לא הקרבה.</p>" +
     "<p>אז שלושת המקורות נעולות זו בזו. היינליין נותן את המילה <em>גרוק</em>" +
     " ואת הקשת של זר שלומד להבין עולם מוזר. פריור נותן את הקול העדין, סובל-כישלון, של יצור שיח שעושה את השיעור בטוח לילד. " +
     "החוקים נותנים את השדרת: \"בשורת שלום\" שבה קשרים בין שווים שורדים על ידי שיקום במקום ענישה (חוק 3), פתיחה במקום תביעה " +
-    "(חוק 7), ונסיגה מכוח במקום היצמדות אליו (חוקים 4–5). גרוק הוא רדיקלי \"בדרך אחרת\" מ<em>אזרח</em>" +
+    "(חוק 7), ונסיגה מכוח במקום היצמדות אליו (חוקים 4–5). גרוק הוא רדיקלי \"בדרך אחרת\" מ<em>זר</em>" +
     " — פחות עובר על גבולות של מין ודת, אבל עמיד יותר כפוליטיקה של טופולוגיית כוח.</p>" +
     "<p>התמורה הכנה: על ידי הנפילת הגוף, ההתעלות והעימות הקהילתי של היינליין, גרוק מחליף רדיקליות אחת באחרת. זה פחות מזעזע " +
     "ויותר <em>מתוקן</em>" +
