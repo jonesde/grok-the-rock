@@ -142,6 +142,8 @@
     } else if (lang === "en") {
       document.title = originalTitle;
     }
+
+    document.dispatchEvent(new CustomEvent("i18n:applied", { detail: { lang } }));
   }
 
   function buildOptions(current) {
