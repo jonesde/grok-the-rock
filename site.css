@@ -381,7 +381,7 @@
 
   .icon-btn-label {
     position: absolute;
-    bottom: calc(100% + 0.4rem);
+    top: calc(100% + 0.4rem);
     left: 50%;
     transform: translateX(-50%);
     white-space: nowrap;
@@ -402,11 +402,11 @@
   .icon-btn-label::after {
     content: "";
     position: absolute;
-    top: 100%;
+    bottom: 100%;
     left: 50%;
     transform: translateX(-50%);
     border: 5px solid transparent;
-    border-top-color: #2a2018;
+    border-bottom-color: #2a2018;
   }
 
 
