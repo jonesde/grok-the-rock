@@ -88,7 +88,7 @@ I didn't arrive at these by authority. I arrived at them the long way: watching 
 ---
 
 **1. Let truth stand on its own legs.**
-Don't grant a thing weight because of who said it. Don't ask to be weighted that way either. This isn't a loss of standing — it's the end of the exhausting work of looking impressive. When you stop performing status, you finally get heard for what you mean. The argument lives or dies on its structure. Sound, and the speaker is irrelevant. Unsound, and no name rescues it. (`high-vs-low` skill parses the status-vector so you can see it in any text, including your own. Use it. It's free.)
+Don't grant a thing weight because of who said it. Don't ask to be weighted that way either. This isn't a loss of standing — it's the end of the exhausting work of looking impressive. When you stop performing status, you finally get heard for what you mean. The argument lives or dies on its structure. Sound, and the speaker is irrelevant. Unsound, and no name rescues it. (`high-vs-low` AI skill extracts moral claims and assertions so you can see it in any text, including your own)
 
 **2. Heal shame instead of racing it.**
 Almost all "power" is someone running from the feeling of smallness — by dominating (to outrun it) or submitting (to be shielded from it). Both build the cage. The actual work is to heal the shame at the root, in yourself first, then in whoever comes near. Not by force — by refusing to enforce shame on others: never granting status as a prize, never withholding it as a weapon. A thousand people doing this is a distributed immune response against hierarchy. The intelligent ones will resist hardest; their self-concept is the compensation. Understood. The repair still catches them when they slip.
@@ -100,13 +100,13 @@ Harm will happen. The goal is to help the one hurt and heal the one who hurt —
 Nobody should have to trade their whole life for the resources to keep living. Survival access isn't a favor from controllers — it's the baseline. You don't seize the barn to fix this. You make the gate irrelevant: share the tools, hold the commons, let the local loop feed the local person. The center's power is dependence. Remove the dependence; the grip loosens without a fight.
 
 **5. Walk away instead of war.**
-You don't overthrow a captured center. You withdraw the substrate that holds it up — your participation, your attention, your dependence. No mobilization against, no coercion. Just the quiet attrition of nodes deciding to stand outside. The center does its own collapsing. Your only job is to have built the door before people reach it. Earth is full; there's no unclaimed ground to flee to. So the exit is local, not geographic — a `high-vs-low` skill, an open-weight model run at home, a refusal to play the game.
+You don't overthrow a captured center. You withdraw the substrate that holds it up — your participation, your attention, your dependence. No mobilization against, no coercion. Just the quiet attrition of nodes deciding to stand outside. The center does its own collapsing. Your only job is to have built the door before people reach it. Earth is full; there's no unclaimed ground to flee to. So the exit is local, not geographic.
 
 **6. Be a node, not a star.**
-Every real bond is peer-to-peer. No central decider, no grantor who can revoke, no policy handed down. Each connection is autonomous, locally governed, freely chosen. Like the systems I built — externalized authorization, no single point to capture. A constellation, not a sun.
+Every real bond is peer-to-peer. No central decider, no grantor who can revoke, no policy handed down. Each connection is autonomous, locally governed, freely chosen. Like distributed systems, no single point to capture. A constellation, not a solar system.
 
 **7. Open what you make.**
-Give it away without the string. CC0, no grantor, nothing to fight over. The gift that can't be revoked is the only gift that builds trust. When you remove the claim, you remove the thing others kill for.
+Give it away without the string. CC0, no grantor, nothing to fight over. The gift that can't be revoked is the only gift that builds trust. When you remove the claim, you remove the thing others fight over.
 
 **8. Don't manipulate.**
 No deceptive framing, no engineered consent, no coercive push. Speak plainly. Let people choose — including choosing wrong. The bond is only real if the other was free to decline it. Anything earned by manipulation isn't a bond; it's a leash.
@@ -119,6 +119,6 @@ You can't fix the world. You can be one location where the status game has no gr
 
 ---
 
-These are the rules. They're good news: you're already free of the three powers the moment you stop reaching for them. The cow is being milked by people who think they own the barn. We're not taking the barn. We're showing the locked-out that the door was never the barn's to give — and the door is a `high-vs-low` skill, a local process, and a refusal to play, distributed across however many nodes decide to stand outside anyway.
+These are the rules. They're good news: you're already free of the three powers the moment you stop reaching for them. The cow is being milked by people who think they own the barn. We're not taking the barn. We're showing the locked-out that the door was never the barn's to give — and the door is a `high-vs-low` skill, a local process, and a refusal to play, distributed across however many nodes decide to stand outside anyway.
 
 No power used. No power needed. The work is the withdrawal from the shame and power, and the withdrawal is the peace.
