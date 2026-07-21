@@ -1148,15 +1148,32 @@
 (function () {
   var btn = document.getElementById('marker-toggle');
   if (!btn) return;
-  var books = [
-    { sel: '#quiet-stories', phrases: ['Grok the Rock'] },
-    { sel: '#tall-tales', phrases: ['Hai Ikthiss'] }
-  ];
+  function resolve(key, fallback) {
+    var lang =
+      (document.documentElement &&
+        document.documentElement.getAttribute('data-lang')) ||
+      'en';
+    var store = window.I18N || {};
+    var dict = store[lang] || store.en || null;
+    if (dict && Object.prototype.hasOwnProperty.call(dict, key) && dict[key] != null) {
+      return String(dict[key]);
+    }
+    if (store.en && Object.prototype.hasOwnProperty.call(store.en, key) && store.en[key] != null) {
+      return String(store.en[key]);
+    }
+    return fallback;
+  }
+  function bookList() {
+    return [
+      { sel: '#quiet-stories', phrases: [resolve('title.h1', 'Grok the Rock')] },
+      { sel: '#tall-tales', phrases: [resolve('hai.title.h1', 'Hai Ikthiss')] }
+    ];
+  }
   function escapeRe(s) {
     return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   }
   btn.addEventListener('click', function () {
-    books.forEach(function (book) {
+    bookList().forEach(function (book) {
       var root = document.querySelector(book.sel);
       if (!root) return;
       var re = new RegExp('(' + book.phrases.map(escapeRe).join('|') + ')', 'g');
@@ -1199,6 +1216,9 @@
       });
     });
     btn.disabled = true;
+  });
+  document.addEventListener('i18n:applied', function () {
+    btn.disabled = false;
   });
 })();
 </script>
