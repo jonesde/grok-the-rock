@@ -8,7 +8,7 @@ Strategy:
 - Stubs contain ONLY the localized UI chrome plus two demonstration keys that
   show the grok-verb coinage in context ("dedication" and "about.name.1").
 - All other strings are OMITTED, so the i18n loader falls back to the inline
-  English original (captured by captureOriginal() in i18n.js). This keeps the
+  English original (captured by captureOriginal() in site.js). This keeps the
   stub files clean -- no leftover Spanish prose -- until a human translator
   fills them in.
 """

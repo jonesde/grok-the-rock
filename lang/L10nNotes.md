@@ -97,7 +97,7 @@
 
 HTML book sources keep a few **chrome alternates** (`Grok`, `Lord Ikthiss`) so a search for the exact spine names (`Grok the Rock`, `Hai Ikthiss`) stays at **32** per book. `lang/en.js` restores the full names at display time for:
 
-- `site.title` / `hai.site.title` (and thus `document.title` via `i18n.js`)
+- `site.title` / `hai.site.title` (and thus `document.title` via `site.js`)
 - `cover.title` / `hai.cover.title`
 - `dedication` (seelink: `Grok the Rock = Stranger…`)
 
@@ -126,7 +126,7 @@ Do not put those full chrome strings back into `index.html` / `tall-tales.html` 
 | `c2.title` | html | Chapter 2 title overlay |
 | `c3.title` | html | Chapter 3 title overlay |
 
-**Alt text notes:** English scene alts live in the HTML `alt` attributes. Missing `*.alt` keys fall back to English via `i18n.js`. Do not ship stub alts like "Page 2".
+**Alt text notes:** English scene alts live in the HTML `alt` attributes. Missing `*.alt` keys fall back to English via `site.js`. Do not ship stub alts like "Page 2".
 
 **Spine name + alts:** The exact two-word surface name (`Grok the Rock` / `Hai Ikthiss`) is a structural marker targeting **32** occurrences per book across story captions, title chrome, and **image alts** (and image prompts in the draft markdown). When a locale translates alts, put the translated two-word spine in the **same alt keys** where English has it (and omit it where English uses only the short name, e.g. `p12.alt` “Grok’s feet”, or Kai-only Tall Tales beats). Hebrew does this: Quiet Stories alts use **גרוק הצור**; Tall Tales alts use **האי איקתיס**. Story-body Hebrew may keep niqqud on the spine (`גְּרוֹק הַצּוּר` / `הָאִי אִיקְתִּיס`); alts and chrome use the unpointed form.
 
@@ -281,4 +281,4 @@ window.I18N.XX = {
 };
 ```
 
-The i18n loader (`i18n.js`) lazy-loads `lang/XX.js` scripts on language switch. Each language also needs an entry in the `LANGS` object in `i18n.js` with its native name.
+The i18n loader (`site.js`) lazy-loads `lang/XX.js` scripts on language switch. Each language also needs an entry in the `LANGS` object in `site.js` with its native name.
