@@ -16,6 +16,9 @@ window.I18N.en = {
 
   "site.title": "Grok the Rock - Three Quiet Stories",
   "hai.site.title": "Hai Ikthiss - Three Tall Tales",
+  "site.title.text": "Grok the Rock - All Book Text",
+
+  "nav.text": "Both",
 
   "cover.title":
     "<h1>Grok the Rock</h1><h3>Three Quiet Stories</h3><h2>Being · Mending · Seeing</h2>",

@@ -1149,3 +1149,173 @@
     background: linear-gradient(180deg, #e8e0d0 0%, #d9d0bc 45%, #efe7d8 100%);
     min-height: 40vh;
   }
+
+
+  /* ===== All-book text page (book-text.html) ===== */
+  .booktext {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: clamp(1rem, 3vw, 2.6rem) clamp(0.8rem, 3vw, 2rem) 4rem;
+  }
+
+  .booktext-section { margin: 0 auto 3.2rem; }
+
+  .booktext-head {
+    display: flex;
+    align-items: center;
+    gap: 1.1rem;
+    justify-content: center;
+    max-width: 760px;
+    margin: 1.4rem auto 1.9rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgba(107, 98, 86, 0.25);
+    text-align: left;
+  }
+
+  .book-cover-card {
+    align-items: center;
+    justify-content: center;
+    padding: 1.4rem;
+    background: #fbf4e6;
+  }
+
+  .book-cover-icon {
+    width: clamp(120px, 45%, 200px);
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 0 10px 28px rgba(40, 30, 20, 0.18);
+  }
+
+  .booktext-head h2 {
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 600;
+    margin: 0;
+    font-size: clamp(1.3rem, 3.2vw, 2rem);
+    color: #1b1108;
+  }
+
+  .booktext-sub {
+    margin: 0.25rem 0 0;
+    color: #6b6256;
+    font-family: "Nunito", Georgia, serif;
+    font-size: 0.95rem;
+  }
+
+  .booktext-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(0.8rem, 2vw, 1.5rem);
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  @media (max-width: 800px) {
+    .booktext-grid { grid-template-columns: 1fr; }
+  }
+
+  .text-page {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+    background: #fbf4e6;
+    border: 1px solid rgba(107, 98, 86, 0.18);
+    border-radius: 16px;
+    padding: 1rem 1.1rem 1.1rem;
+    box-shadow: 0 6px 18px rgba(40, 30, 20, 0.08);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    break-inside: avoid;
+  }
+
+  .text-page:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 26px rgba(40, 30, 20, 0.14);
+  }
+
+  .tp-head { display: flex; align-items: center; }
+
+  .tp-badge {
+    display: inline-block;
+    font-family: "Fraunces", Georgia, serif;
+    font-weight: 600;
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #fbf4e6;
+    background: #6b6256;
+    padding: 0.2rem 0.7rem;
+    border-radius: 999px;
+  }
+
+  .tp-body {
+    font-family: "Nunito", Georgia, serif;
+    color: #3a2f22;
+    line-height: 1.5;
+    font-size: clamp(0.85rem, 1.1vw, 1rem);
+  }
+
+  .tp-body p { margin: 0; }
+  .tp-body h1, .tp-body h2, .tp-body h3 {
+    font-family: "Fraunces", Georgia, serif;
+    color: #1b1108;
+    margin: 0 0 0.2em;
+    line-height: 1.2;
+  }
+  .tp-body h1 { font-size: clamp(1.1rem, 2vw, 1.6rem); }
+  .tp-body h2 { font-size: clamp(1rem, 1.8vw, 1.35rem); }
+  .tp-body h3 { font-size: clamp(0.95rem, 1.6vw, 1.2rem); }
+  .tp-body em { font-style: italic; }
+
+  .tp-body hr {
+    width: 40px;
+    border: none;
+    color: transparent;
+    border-top: 3px dotted rgba(150, 140, 120, 0.8);
+    margin: 0.45rem auto;
+  }
+
+  .tp-alt {
+    background: rgba(107, 98, 86, 0.10);
+    border-left: 3px solid #6b6256;
+    border-radius: 10px;
+    padding: 0.6rem 0.8rem;
+    font-family: "Nunito", Georgia, serif;
+  }
+
+  .tp-alt-label {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 0.3rem;
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #6b6256;
+  }
+
+  .tp-alt-label svg { width: 14px; height: 14px; flex: 0 0 auto; }
+
+  .tp-alt-text {
+    display: block;
+    color: #3a2f22;
+    font-size: 0.85rem;
+    line-height: 1.45;
+    font-style: italic;
+  }
+
+  @media print {
+    .booktext { max-width: none; padding: 0; }
+    .booktext-grid { grid-template-columns: 1fr; gap: 0.4rem; max-width: none; }
+    .booktext-icon { box-shadow: none; }
+    .text-page {
+      box-shadow: none;
+      break-inside: avoid;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .tp-alt {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+      background: rgba(107, 98, 86, 0.10);
+    }
+  }

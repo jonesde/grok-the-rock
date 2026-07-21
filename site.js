@@ -6,12 +6,14 @@
     "quiet-stories.html": { titleI18n: "site.title", title: "Grok - Three Quiet Stories", active: "book", kind: "book" },
     "about-grok.html": { titleI18n: "site.title.about", title: "Grok the Rock - About Grok", active: "about", kind: "article" },
     "grok-rules.html": { titleI18n: "site.title.rules", title: "Grok the Rock - Rules of Relating", active: "rules", kind: "article" },
-    "tall-tales.html": { titleI18n: "hai.site.title", title: "Lord Ikthiss - Three Tall Tales", active: "tall", kind: "book" }
+    "tall-tales.html": { titleI18n: "hai.site.title", title: "Lord Ikthiss - Three Tall Tales", active: "tall", kind: "book" },
+    "book-text.html": { titleI18n: "site.title.text", title: "Grok the Rock - All Book Text", active: "text", kind: "article" }
   };
 
   var NAV = [
     { key: "rules", i18n: "nav.rules", label: "Rules", href: "grok-rules.html" },
     { key: "about", i18n: "nav.about", label: "About", href: "about-grok.html" },
+    { key: "text", i18n: "nav.text", label: "Both", href: "book-text.html" },
     { key: "book", i18n: "nav.book", label: "Quiet Stories", href: "quiet-stories.html" },
     { key: "tall", i18n: "nav.tall", label: "Tall Tales", href: "tall-tales.html" }
   ];
