@@ -9,6 +9,7 @@ window.I18N.de = {
 
   "site.title": "Grok der Fels - Drei stille Geschichten",
   "nav.print": "Drucken",
+  "nav.download": "Herunterladen",
   "nav.rules": "Grok-Regeln",
   "nav.about": "Über Grok",
   "nav.book": "Stille Geschichten",

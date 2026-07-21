@@ -9,6 +9,7 @@ window.I18N.it = {
 
   "site.title": "Grok la Roccia - Tre storie silenziose",
   "nav.print": "Stampa",
+  "nav.download": "Scarica",
   "nav.rules": "Regole Grok",
   "nav.about": "Su Grok",
   "nav.book": "Storie Quiete",

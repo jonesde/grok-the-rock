@@ -9,6 +9,7 @@ window.I18N.pt = {
 
   "site.title": "Grok a Rocha - Três Histórias Silenciosas",
   "nav.print": "Imprimir",
+  "nav.download": "Baixar",
   "nav.rules": "Regras Grok",
   "nav.about": "Sobre Grok",
   "nav.book": "Histórias Quietas",

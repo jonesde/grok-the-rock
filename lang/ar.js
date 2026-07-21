@@ -10,6 +10,7 @@ window.I18N.ar = {
 
   "site.title": "غروك الصخرة - ثلاث قصص هادئة",
   "nav.print": "طباعة",
+  "nav.download": "تنزيل",
   "nav.rules": "قواعد غروك",
   "nav.about": "عن غروك",
   "nav.book": "قصص هادئة",

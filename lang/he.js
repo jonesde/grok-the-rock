@@ -13,6 +13,7 @@ window.I18N.he = {
 
   "site.title": "גרוק הצור – שלושה סיפורים שקטים",
   "nav.print": "הדפס",
+  "nav.download": "הורדה",
   "nav.rules": "חוקי גרוק",
   "nav.about": "על גרוק",
   "nav.book": "סיפורים שקטים",

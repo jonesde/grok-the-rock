@@ -9,6 +9,7 @@ window.I18N.fr = {
   "__title": "Grok le Rocher - Trois Histoires Silencieuses",
   "site.title": "Grok le Rocher - Trois Histoires Silencieuses",
   "nav.print": "Imprimer",
+  "nav.download": "Télécharger",
   "nav.rules": "Règles de Grok",
   "nav.about": "À propos de Grok",
   "nav.book": "Histoires Tranquilles",

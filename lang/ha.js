@@ -9,6 +9,7 @@ window.I18N.ha = {
 
   "site.title": "Grok Dutsen - Labarai Uku Masu Natsuwa",
   "nav.print": "Buga",
+  "nav.download": "Zazzage",
   "nav.rules": "Dokokin Grok",
   "nav.about": "Game da Grok",
   "nav.book": "Labarun Shiru",

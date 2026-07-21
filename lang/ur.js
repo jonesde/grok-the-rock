@@ -9,6 +9,7 @@ window.I18N.ur = {
 
   "site.title": "گروک دی چٹان - تین خاموش کہانیاں",
   "nav.print": "پرنٹ",
+  "nav.download": "ڈاؤن لوڈ",
   "nav.rules": "گروک کے اصول",
   "nav.about": "گروک کے بارے میں",
   "nav.book": "خاموش کہانیاں",

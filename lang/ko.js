@@ -9,6 +9,7 @@ window.I18N.ko = {
 
   "site.title": "바위 그록 - 세 편의 조용한 이야기",
   "nav.print": "인쇄",
+  "nav.download": "다운로드",
   "nav.rules": "그록의 규칙",
   "nav.about": "그록에 대하여",
   "nav.book": "고요한 이야기",

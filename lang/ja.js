@@ -9,6 +9,7 @@ window.I18N.ja = {
 
   "site.title": "岩グロック - 三つの静かな物語",
   "nav.print": "印刷",
+  "nav.download": "ダウンロード",
   "nav.rules": "グロックの掟",
   "nav.about": "グロックについて",
   "nav.book": "静かな物語",

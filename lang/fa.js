@@ -9,6 +9,7 @@ window.I18N.fa = {
 
   "site.title": "گروکِ سنگ - سه داستان آرام",
   "nav.print": "چاپ",
+  "nav.download": "دانلود",
   "nav.rules": "قواعد گروک",
   "nav.about": "دربارهٔ گروک",
   "nav.book": "داستان‌های آرام",

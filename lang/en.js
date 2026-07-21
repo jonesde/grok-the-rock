@@ -3,6 +3,12 @@
 // this file restores the full original names at display time only.
 window.I18N = window.I18N || {};
 window.I18N.en = {
+  "nav.download": "Download",
+  "nav.downloadProgress": "Fetching… {done}/{total}",
+  "nav.downloadZipping": "Zipping…",
+  "nav.downloadDone": "Downloaded",
+  "nav.downloadError": "Download failed. Open the site over http(s), not as a local file.",
+
   "site.title": "Grok the Rock - Three Quiet Stories",
   "hai.site.title": "Hai Ikthiss - Three Tall Tales",
 

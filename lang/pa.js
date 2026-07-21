@@ -9,6 +9,7 @@ window.I18N.pa = {
 
   "site.title": "ਗ੍ਰੋਕ ਪੱਥਰ - ਤਿੰਨ ਚੁੱਪ ਕਹਾਣੀਆਂ",
   "nav.print": "ਪ੍ਰਿੰਟ",
+  "nav.download": "ਡਾਊਨਲੋਡ",
   "nav.rules": "ਗ੍ਰੋਕ ਨਿਯਮ",
   "nav.about": "ਗ੍ਰੋਕ ਬਾਰੇ",
   "nav.book": "ਚੁੱਪ ਕਹਾਣੀਆਂ",

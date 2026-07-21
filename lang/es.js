@@ -9,6 +9,7 @@ window.I18N.es = {
 
   "site.title": "Grok la Roca - Tres Historias Silenciosas",
   "nav.print": "Imprimir",
+  "nav.download": "Descargar",
   "nav.rules": "Reglas Grok",
   "nav.about": "Sobre Grok",
   "nav.book": "Historias Quietas",

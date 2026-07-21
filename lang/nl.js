@@ -9,6 +9,7 @@ window.I18N.nl = {
 
   "site.title": "Grok de Rots - Drie stille verhalen",
   "nav.print": "Afdrukken",
+  "nav.download": "Downloaden",
   "nav.rules": "Grok-regels",
   "nav.about": "Over Grok",
   "nav.book": "Stille Verhalen",

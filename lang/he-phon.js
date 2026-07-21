@@ -4,6 +4,7 @@ window.I18N["he-phon"] = {
 
   "site.title": "גרוק הצור – שלושה סיפורים שקטים",
   "nav.print": "הדפס",
+  "nav.download": "Horada",
   "nav.rules": "חוקי גרוק",
   "nav.about": "על גרוק",
   "nav.book": "סיפורים שקטים",

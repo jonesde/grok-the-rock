@@ -9,6 +9,7 @@ window.I18N.zh = {
 
   "site.title": "格罗克岩石 - 三个安静的故事",
   "nav.print": "打印",
+  "nav.download": "下载",
   "nav.rules": "格罗克法则",
   "nav.about": "关于格罗克",
   "nav.book": "安静的故事",

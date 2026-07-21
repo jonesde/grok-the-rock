@@ -9,6 +9,7 @@ window.I18N.ru = {
 
   "site.title": "Грок-Камень — Три тихие истории",
   "nav.print": "Печать",
+  "nav.download": "Скачать",
   "nav.rules": "Правила Грока",
   "nav.about": "О Гроке",
   "nav.book": "Тихие истории",

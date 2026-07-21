@@ -9,6 +9,7 @@ window.I18N.no = {
 
   "site.title": "Grok Steinen - Tre stille historier",
   "nav.print": "Skriv ut",
+  "nav.download": "Last ned",
   "nav.rules": "Grok-regler",
   "nav.about": "Om Grok",
   "nav.book": "Stille Historier",
