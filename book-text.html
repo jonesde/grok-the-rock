@@ -12,6 +12,39 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="site.css">
+<style>
+  .marker-toggle {
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    z-index: 300;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 50%;
+    border: 1px solid #6b6256;
+    background: #fff;
+    color: #6b6256;
+    box-shadow: 0 2px 8px rgba(0,0,0,.18);
+    cursor: pointer;
+  }
+  .marker-toggle:hover { background: #f3efe7; }
+  .marker-toggle:disabled { opacity: .5; cursor: default; }
+  .marker-hl {
+    background: #fff3b0;
+    border-radius: 2px;
+    padding: 0 .04em;
+  }
+  .marker-num {
+    font-size: .62em;
+    font-weight: 700;
+    color: #6b6256;
+    vertical-align: super;
+    margin-left: .1em;
+  }
+</style>
 </head>
 <body>
 <main class="booktext">
@@ -24,8 +57,8 @@
       <article class="text-page tp-solo">
         <header class="tp-head"><span class="tp-badge">Cover</span></header>
         <img class="book-cover-icon" src="images/ico/icon-512.png" alt="Grok the Rock: Three Quiet Stories">
-        <div class="tp-body" data-i18n-html="cover.title">
-          <h1>Grok</h1>
+        <div class="tp-body skipc" data-i18n-html="cover.title">
+          <h1>Grok the Rock</h1>
           <h3>Three Quiet Stories</h3>
           <h2>Being · Mending · Seeing</h2>
         </div>
@@ -56,7 +89,7 @@
 
       <article class="text-page">
         <header class="tp-head"><span class="tp-badge">Dedication</span></header>
-        <div class="tp-body" data-i18n-html="dedication">
+        <div class="tp-body skipc" data-i18n-html="dedication">
           <p><b>For every explorer, small and large,</b></p>
           <p><b>grokking the world in their own gentle way.</b></p>
           <p>&nbsp;</p>
@@ -558,7 +591,7 @@
       <article class="text-page tp-solo">
         <header class="tp-head"><span class="tp-badge">Cover</span></header>
         <img class="book-cover-icon" src="images/ico/icon-hai-512.png" alt="Hai Ikthiss: Three Tall Tales">
-        <div class="tp-body" data-i18n-html="hai.cover.title">
+        <div class="tp-body skipc" data-i18n-html="hai.cover.title">
           <h1>Lord Ikthiss</h1>
           <h3>Three Tall Tales</h3>
           <h2>Being · Mending · Seeing</h2>
@@ -1109,5 +1142,71 @@
 <script src="lang/en.js"></script>
 <script src="lang/es.js"></script>
 <script src="site.js"></script>
+<button id="marker-toggle" class="marker-toggle" type="button" aria-label="Number story markers" title="Number story markers">
+  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+    <line x1="9" y1="6" x2="20" y2="6"/>
+    <line x1="9" y1="12" x2="20" y2="12"/>
+    <line x1="9" y1="18" x2="20" y2="18"/>
+    <path d="M4.5 6.2v2.6M4.5 11.8v2.6M4.5 17.2v2.6"/>
+  </svg>
+</button>
+<script>
+(function () {
+  var btn = document.getElementById('marker-toggle');
+  if (!btn) return;
+  var books = [
+    { sel: '#quiet-stories', phrases: ['Grok the Rock'] },
+    { sel: '#tall-tales', phrases: ['Hai Ikthiss'] }
+  ];
+  function escapeRe(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+  btn.addEventListener('click', function () {
+    books.forEach(function (book) {
+      var root = document.querySelector(book.sel);
+      if (!root) return;
+      var re = new RegExp('(' + book.phrases.map(escapeRe).join('|') + ')', 'g');
+      var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+        acceptNode: function (n) {
+          if (!n.nodeValue || !n.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+          var p = n.parentElement;
+          if (!p) return NodeFilter.FILTER_REJECT;
+          var tag = p.tagName;
+          if (tag === 'SCRIPT' || tag === 'STYLE' || tag === 'NOSCRIPT') return NodeFilter.FILTER_REJECT;
+          if (p.closest('button')) return NodeFilter.FILTER_REJECT;
+          if (p.closest('.skipc')) return NodeFilter.FILTER_REJECT;
+          re.lastIndex = 0;
+          return re.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+        }
+      });
+      var nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      var counter = 0;
+      nodes.forEach(function (node) {
+        re.lastIndex = 0;
+        var text = node.nodeValue;
+        var frag = document.createDocumentFragment();
+        var last = 0, m;
+        while ((m = re.exec(text))) {
+          if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+          counter++;
+          var mark = document.createElement('mark');
+          mark.className = 'marker-hl';
+          mark.textContent = m[0];
+          frag.appendChild(mark);
+          var sup = document.createElement('sup');
+          sup.className = 'marker-num';
+          sup.textContent = String(counter);
+          frag.appendChild(sup);
+          last = m.index + m[0].length;
+        }
+        if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+        node.parentNode.replaceChild(frag, node);
+      });
+    });
+    btn.disabled = true;
+  });
+})();
+</script>
 </body>
 </html>
