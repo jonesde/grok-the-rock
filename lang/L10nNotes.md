@@ -126,7 +126,9 @@ Do not put those full chrome strings back into `index.html` / `tall-tales.html` 
 | `c2.title` | html | Chapter 2 title overlay |
 | `c3.title` | html | Chapter 3 title overlay |
 
-**Alt text notes:** English scene alts live in the HTML `alt` attributes. Locale files should omit `*.alt` until a real translation exists — missing keys fall back to English via `i18n.js`. Do not ship stub alts like "Page 2".
+**Alt text notes:** English scene alts live in the HTML `alt` attributes. Missing `*.alt` keys fall back to English via `i18n.js`. Do not ship stub alts like "Page 2".
+
+**Spine name + alts:** The exact two-word surface name (`Grok the Rock` / `Hai Ikthiss`) is a structural marker targeting **32** occurrences per book across story captions, title chrome, and **image alts** (and image prompts in the draft markdown). When a locale translates alts, put the translated two-word spine in the **same alt keys** where English has it (and omit it where English uses only the short name, e.g. `p12.alt` “Grok’s feet”, or Kai-only Tall Tales beats). Hebrew does this: Quiet Stories alts use **גרוק הצור**; Tall Tales alts use **האי איקתיס**. Story-body Hebrew may keep niqqud on the spine (`גְּרוֹק הַצּוּר` / `הָאִי אִיקְתִּיס`); alts and chrome use the unpointed form.
 
 ### tall-tales.html — Hai keys (`hai.*`)
 
@@ -137,9 +139,51 @@ Same shape as Quiet Stories, all prefixed with `hai.`:
 | `hai.site.title` | text | "Hai Ikthiss - Three Tall Tales" |
 | `hai.cover.alt` / `hai.dedication.alt` / `hai.p1.alt`–`hai.p26.alt` | alt | Scene descriptions |
 | `hai.cover.title`, `hai.title.*`, `hai.credit.*`, `hai.dedication` | text/html | Title page + credits + dedication |
-| `hai.p2`–`hai.p26` | html | Story captions |
+| `hai.p2`–`hai.p9`, `hai.p11`–`hai.p17`, `hai.p19`–`hai.p26` | html | Story captions (no p1/p10/p18 — chapter title pages) |
 | `hai.c1.title`–`hai.c3.title` | html | Chapter title overlays |
 | `nav.book` / `nav.tall` | text | Shared nav ("Quiet Stories" / "Tall Tales") |
+
+**Structural markers (keep parallel across languages):**
+- Spine name **Hai Ikthiss** appears on the chapter openers and key beats (same role as "Grok the Rock"). Animals in Ch.1 praise say **Lord Ikthiss**; the humble seed form is **Kai**.
+- Each chapter’s first story page opens with: *Hai Ikthiss ruled the forest from atop the tall tree.*
+- Chapter arc titles stay **Being · Mending · Seeing** (or the language’s established Quiet Stories equivalents — Hebrew uses שלום · תיקון · ראייה).
+- Agent phrase **Tall Tellers** (dedication) stays English where "Grokkers" does; book titles translate (e.g. Tolkien → local *Lord of the Rings* title).
+- English cast: stag, badger, raven, Pip (hedgehog), fox, stoat, pheasant, old owl. Use common local animal names.
+- Shared symbols with Quiet Stories (keep literal): melon/cantaloupe, water, hollow cup, seed, root, tree, lift / far sight.
+- HTML chrome alternates in source (`Lord Ikthiss`) are restored to full **Hai Ikthiss** via `lang/en.js` (`hai.site.title`, `hai.cover.title`). Do not put full spine chrome back into `tall-tales.html`.
+
+### Hebrew special case (`he` / `he-phon`)
+
+Hebrew is not a plain phonetic port — names and a few symbols lean on layers in `GrokTheRock-Symbolism.md` and the Quiet Stories conventions already in `lang/he.js`.
+
+**Quiet Stories (locked):**
+- **Grok the Rock** → גרוק הצור (צור = rock of the Psalms; see `GrokDavid.md`)
+- **Being** → שלום (wholeness/peace, not bare "existence")
+- Verb root ג-ר-ק; Grokkers stays English
+- Story pages use full niqqud; chrome is lighter
+- `he-phon` repeats Hebrew and adds Latin phonetics (`<p class="phon">…</p>`; story lines also `dir="rtl"`)
+
+**Tall Tales names:**
+
+| English | Hebrew | Notes |
+|---------|--------|--------|
+| Hai Ikthiss (spine) | הָאִי אִיקְתִּיס / האי איקתיס | Keep two-word spine. **האי** is a stable transliteration of *Hai* (already in chapter titles); full story niqqud uses הָאִי. **איקתיס** preserves the *Ikthiss* sound (ichthys / fish echo in art and dedication). Do not translate the spine into a descriptive phrase. |
+| Lord Ikthiss | אֲדוֹן אִיקְתִּיס | Natural Hebrew **אדון** + same surname; gentle title, not royal pomp. Not לורד. |
+| Kai | קַאי / קאי | Humble seed name; stay as proper noun. |
+| Pip | פִּיפּ | Same as Quiet Stories. Tall Tales Pip is a **hedgehog** (קִפּוֹד), not the Quiet Stories echidna (קִפּוֹדָן). |
+| Three Tall Tales | שלושה סיפורי גובה | Matches `nav.tall` = סיפורי גובה |
+| Lord of the Rings | שר הטבעות | Standard Hebrew book title |
+
+**Tall Tales wording choices (Hebrew):**
+- Opening spine line: *מָשַׁל בַּיַּעַר מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ* (gentle "ruled," not harsh conquest).
+- **Hollow cup** → כּוֹס חֲלוּלָה / כּוֹס שְׁבָחִים; purpose is **לִשְׁפֹּךְ** (pour down), not collect praise.
+- **Hook / living join** (p6) → **וָו** + חִבּוּר חַי (letter *vav* = join/hook; matches the draft lesson and Sefer Yetzirah layer — prefer this over a plain "קרס").
+- **Living walking seed** → זֶרַע חַי מְהַלֵּךְ; **walking tall tree** → עֵץ גָּבוֹהַּ מְהַלֵּךְ.
+- **Far sight** → הַמַּבָּט הָרָחוֹק (already in `hai.c3.title`).
+- Ch.2 mending beats stay close to Quiet Stories Hebrew (`p12`–`p17`), swapping Grok→Kai and cast animals.
+- Animals: אַיָּל, גִּירִית, עוֹרֵב, קִפּוֹד, שׁוּעָל, סְמוּר, פַּסְיוֹן, יַנְשׁוּף.
+- Companion links in Quiet Stories Hebrew should use the translated Tall Tales title (האי איקתיס — שלושה סיפורי גובה), not leftover English.
+- **Alts required for Hebrew** (`cover.alt`, `dedication.alt`, `p1.alt`–`p26.alt`, and all `hai.*.alt`): real scene translations with spine names in the same slots as English, so the marker layout matches when `he` / `he-phon` is selected.
 
 ### grok-rules.html — 30 keys
 

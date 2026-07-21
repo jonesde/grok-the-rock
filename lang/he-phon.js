@@ -22,7 +22,7 @@ window.I18N["he-phon"] = {
   "credit.6": "נחלת הכלל (CC0 1.0)",
   "credit.7": "העתיקו · שתפו · תרגמו · ציירו מחדש · תנו לזה לצמוח",
 
-  "credit.companion": "<em>בן־לווה ל־<a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+  "credit.companion": "<em>בן־לווה ל־<a class=\"seelink\" href=\"tall-tales.html\">האי איקתיס: שלושה סיפורי גובה</a></em>",
 
   "dedication": "<p><b>לכל חוקר, קטן וגדול,</b></p><p class=\"phon\">le-KHOL kho-KER, ka-TAN ve-ga-DOL,</p>" +
     "<p><b>גּוֹרְקִים את העולם בדרכם העדינה.</b></p>" +
@@ -40,7 +40,38 @@ window.I18N["he-phon"] = {
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">גרוק הצור = זר בארץ זרה + גראג</a></p>" +
     "<p class=\"phon\">GROK ha-TZUR = ZAR be-E-rets za-RAH + GRUG</p>" +
     "<p>(&quot;גראג&quot; מנקה את &quot;זר&quot; למען ילדים <em>וגם</em> מבוגרים)</p>" +
-    "<p class=\"phon\">(&quot;GRUG&quot; me-na-KEH et &quot;ZAR&quot; le-MA-an ye-la-DIM <em>ve-GAM</em> u-me-vu-ga-RIM)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">בן־לווה: Hai Ikthiss — Three Tall Tales</a></p>",
+    "<p class=\"phon\">(&quot;GRUG&quot; me-na-KEH et &quot;ZAR&quot; le-MA-an ye-la-DIM <em>ve-GAM</em> u-me-vu-ga-RIM)</p>" +
+    "<p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">בן־לווה: האי איקתיס — שלושה סיפורי גובה</a></p>" +
+    "<p class=\"phon\">ben-le-VAY: ha-EE ik-TEES — shlo-SHAH si-pu-RAY go-VAH</p>",
+
+  "cover.alt": "עטיפה: גרוק הצור, יצור קטן מאבן גיר אפורה עם טחב על ראשו, יושב על סלע חלק מתחת לעץ גבוה בעל עלים רכים ליד בור מים זוהר באור חם של ארץ-השיח.",
+  "dedication.alt": "עמוד הקדשה: שלושה גרוק הצור זעירים יושבים זה לצד זה על אבן חלקה בתחתית עמוד כמעט ריק בגוון קרם חם.",
+  "p1.alt": "פרק ראשון, שלום — גרוק והתחושה הקטנה. גרוק הצור יושב בשורשי עץ גבוה בעל עלים רכים, מחזיק אבן קטנה בסקרנות שקטה באור בוקר מוקדם.",
+  "p2.alt": "גרוק הצור מתיישב מתחת לעץ הגבוה בשמש בוקר חמה, גב אבן הגיר מואר בקרני זהב, מביט אל העולם הרחב בפליאה עדינה.",
+  "p3.alt": "ליד בור מים צלול, אמו גאה וגבוה מותח את צווארו בעוד גרוק הצור הקטן עומד בקרבתו ומביט למעלה בהבדל הגודל.",
+  "p4.alt": "וומבט מוצק חופר בור גדול באדמה אדומה; גרוק הצור הזעיר חופר בור קטן ולא אחיד בהרבה ומביט למטה אליו.",
+  "p5.alt": "גרוק הצור עומד מעט כפוף בעוד קוקבורה צוחקת מענף מעל; צורת אבן קרה רכה רומזת על התחושה באמצעו.",
+  "p6.alt": "גרוק הצור עומד בחוסר יציבות על בול עץ עם חזה נפוח, מנסה להיראות גדול, רגלי אבן קטנות רוקעות על העץ.",
+  "p7.alt": "בלילה גרוק הצור יושב לבדו ליד מדורה קטנה תחת שמי כוכבים רכים, זרועות סביב ברכיו, שקט ומקבל.",
+  "p8.alt": "למחרת בבוקר גרוק הצור יושב במנוחה על סלע חם בשמש ליד בור המים, מזמזם בשקט, נינוח בגודלו שלו.",
+  "p9.alt": "גרוק הצור מסיים קן עגול ונעים מעלים וטחב בדיוק בגודלו, מחייך בסיפוק פשוט באור אחר-צהריים רך.",
+  "p10.alt": "פרק שני, תיקון — גרוק מטפל. גרוק הצור מחזיק בעדינות מלון סדוק בשתי ידיים קטנות, טוב ויציב.",
+  "p11.alt": "בבוקר שמשי מתחת לעץ הגבוה, גרוק הצור עומד בין גפני מלון בריאות ועלי בטטה בשמחה שקטה.",
+  "p12.alt": "פיפ הקִפּוֹדָן הצעיר קופא באמצע צעד באימה כשמלון גדול נבקע לרגלי גרוק, מיץ וזרעים נשפכים על אדמת הגינה.",
+  "p13.alt": "פיפ מתכנס בבושה בעוד גרוק הצור עומד טוב ומודאג; כמה חיות שיח מתאספות בקרבת מקום במבט שיפוטי.",
+  "p14.alt": "גרוק הצור כורע ומציע לפיפ מקל חפירה בטוב לב פתוח; פיפ מתמתח לאט כשתקווה חוזרת לעיניו.",
+  "p15.alt": "גרוק הצור ופיפ עובדים זה לצד זה בשתילת זרעים, השקיה ובניית גדר זרדים קטנה, שניהם עם חיוכים רכים.",
+  "p16.alt": "פיפ משקה גפני מלון חדשות משגשגות בדלי-עלה בעוד גרוק הצור צופה בקרבת מקום בגאווה שקטה.",
+  "p17.alt": "בשעת הזהב גרוק הצור ופיפ יושבים ליד מלונים משגשגים עם חיה קטנה נוספת כלולה, קהילה מתוקנת בשלום.",
+  "p18.alt": "פרק שלישי, ראייה — גרוק ומילת האמת. שני סלי קנים זה לצד זה: אחד מפואר ומוטה, אחד פשוט ומלא; ידו הקטנה של גרוק הצור נחה ליד הסל הטוב.",
+  "p19.alt": "בשעת הזהב מתחת לעץ הגבוה, גרוק הצור מסובב סל מים מקנים מוכן מצופה חרס, מים צלולים נוצצים בפנים.",
+  "p20.alt": "קקדו שחור מבריק עם נוצות זנב מפוארות יושב גבוה ומדבר בגאווה בעוד גרוק הצור מחזיק את הסל שלו למטה.",
+  "p21.alt": "צב זקן ופשוט עם שריון פשוט מדבר ברכות על רעיון ידית בעוד גרוק הצור מקשיב בקפידה; כמה חיות פונות אל הקקדו הראוותני.",
+  "p22.alt": "זה לצד זה: סל מנוצה מפואר מוטה ודולף, בעוד סל פשוט ויציב קל לנשיאה; גרוק הצור מביט במחשבה ביניהם.",
+  "p23.alt": "גרוק הצור מניח את הסל הטוב והיציב ודפוס קליעה פשוט מתחת לעץ הגבוה לשימוש כל אחד, פתוח וחופשי.",
+  "p24.alt": "חיות צעירות בודקות סלים בקפידה בכפותיהן; הקקדו בצד בעוד גרוק הצור מחייך בשקט ברקע.",
+  "p25.alt": "בשעת הזהב גרוק הצור יושב במנוחה מתחת לעץ הגבוה שלו עם הסל הטוב לצידו כשחיות מכל הסוגים נעות יחד בחופשיות.",
+  "p26.alt": "עמוד סיום: עמק רחב ושליו בבין-ערביים עם גרוק הצור הזעיר יושב על הסלע האהוב עליו, כוכבים רכים מתחילים להופיע.",
 
   "p2": "<p dir=\"rtl\">גְּרוֹק הַצּוּר הִתְעוֹרֵר מִתַּחַת לָעֵץ הַגָּבוֹהַּ.</p>" +
     "<p class=\"phon\">grok ha-TZUR hit-o-REYR mi-TA-chat la-ETZ ha-ga-VO-ah.</p>" +
@@ -529,5 +560,484 @@ window.I18N["he-phon"] = {
   "cover.title": "<h1>גרוק הצור</h1><h3>שלושה סיפורים שקטים</h3><h2>שלום · תיקון · ראייה</h2>",
   "c1.title": "<h2>פרק ראשון – שלום</h2><p><em>גרוק והתחושה הקטנה</em></p>",
   "c2.title": "<h2>פרק שני – תיקון</h2><p><em>גרוק מטפל</em></p>",
-  "c3.title": "<h2>פרק שלישי – ראייה</h2><p><em>גרוק ומילת האמת</em></p>"
+  "c3.title": "<h2>פרק שלישי – ראייה</h2><p><em>גרוק ומילת האמת</em></p>",
+
+  "hai.cover.alt": "עטיפה: אדון האי איקתיס, עץ חי גבוה ורחב עם פנים עדינות בגזע העליון, עומד מעל מעיין בעמק מיוער בעוד יצורים קטנים מביטים למעלה דרך ערפל רך.",
+  "hai.dedication.alt": "עמוד הקדשה: שלושה נבטים ירוקים זעירים ליד טיפת מים צלולה אחת על עמוד כמעט ריק בגוון קרם חם; צללית רכה זעירה אופציונלית של האי איקתיס העץ הגבוה רחוק בערפל קריר.",
+  "hai.p1.alt": "פרק ראשון, שלום — האי והשבחים הריקים. האי איקתיס כעץ חי גבוה ורחב עם פנים טובות ממלא את החלק העליון בעוד יצורים קטנים בעמק מביטים למעלה בשבח בהיר.",
+  "hai.p2.alt": "שחר מעל עמק מיוער צעיר: האי איקתיס עומד כעץ חי גבוה יחיד עם פנים עדינות, שורשים שותים ממעיין חדש ובהיר, עשבים ראשונים וציפור קטנה אחת מגיעים.",
+  "hai.p3.alt": "אייל גאה עם קרניים גבוהות מריע בשורשי האי איקתיס הגבוה בעוד יצורים אחרים מצטרפים לשבח; איש אינו מביט למעלה לעיני העץ.",
+  "hai.p4.alt": "גירית מוצקה משתחווה אל גזעו הגדול של האי איקתיס, משבחת את השורש החזק ביותר, בעוד יצורים מודים לצל ולגובה בלי לראות את פניו.",
+  "hai.p5.alt": "עורב בהיר קורא שבחים מפוארים מענף בעוד הגזע העליון של האי איקתיס מראה זוהר חלול רך, כמו כוס ריקה הזקוקה למים.",
+  "hai.p6.alt": "האי איקתיס עומד דומם וטוב, שורש ארוך אחד או ענף נמוך מגיע בעדינות אל מעיין הקרקע, מקשיב במקום רק לקבל שבחים.",
+  "hai.p7.alt": "בלילה תחת שמי כוכבים עמוקים, חופת האי איקתיס מחזיקה את הכוכבים בעוד חלל רך בגזע העליון מתחמם וזוהר לאט.",
+  "hai.p8.alt": "זהב בוקר מאיר את פניו העדינות של האי איקתיס כשהוא מביט מטה בגזעו אל השורשים, ברור יותר מבפנים בעוד העמק עדיין מריע למטה.",
+  "hai.p9.alt": "האי איקתיס שולח זרמי מים רכים ואור עדין למטה אל שרכים זעירים וחיות קטנות בשורשים, מחייך חיוך-עץ פשוט של סיפוק.",
+  "hai.p10.alt": "פרק שני, תיקון — קאי הולך למטה. יצור-זרע חי מהלך קטן עם ציצת נבט ועיניים טובות עומד לרגלי העץ הגבוה; הדמות הקטנה היא האי איקתיס בצורת זרע ענווה.",
+  "hai.p11.alt": "בגן אנגלי של טחב ושרכים בשורשי העץ הגבוה, האי איקתיס בצורת קאי הענווה—זרע חי מהלך קטן—מחייך בין גפני מלון-סלע.",
+  "hai.p12.alt": "פיפ הקיפוד הצעיר קופא באמצע צעד באימה כשמלון-סלע גדול נבקע על האדמה; קאי (האי איקתיס כזרע חי מהלך) עומד קטן ויציב בין הזרעים שנשפכו.",
+  "hai.p13.alt": "פיפ מתכנס בבושה בעוד קאי (צורת זרע חי מהלך קטנה של האי איקתיס) עומד טוב ודומם; שועל וסמור בין אנשי היער נראים קשים ושיפוטיים.",
+  "hai.p14.alt": "קאי (האי איקתיס כזרע חי מהלך קטן) כורע ומציע לפיפ מקל חפירה בטוב לב פתוח; פיפ מתמתח לאט כשתקווה חוזרת.",
+  "hai.p15.alt": "קאי ופיפ שותלים ומשקים זה לצד זה ובונים גדר זרדים קטנה סביב זרעים חדשים, שניהם מחייכים בעדינות.",
+  "hai.p16.alt": "פיפ משקה גפני מלון חדשות משגשגות בעוד קאי צופה בגאווה שקטה; העץ הגבוה עומד בשלום מעל הגן האנגלי.",
+  "hai.p17.alt": "בשעת הזהב קאי ופיפ יושבים ליד מלונים משגשגים עם יצור קטן נוסף כלול, קהילת גן מתוקנת בשלום.",
+  "hai.p18.alt": "פרק שלישי, ראייה — האי והמבט הרחוק. עץ גבוה מהלך וטוב מושיט שתי ידיים למטה להרים; יצורים קטנים מביטים למעלה בפליאה.",
+  "hai.p19.alt": "שנתיים אחר כך האי איקתיס שוב בבית בכתר בשעת הזהב, אך יצורים לוחשים בפחד בשורשים במקום להריע.",
+  "hai.p20.alt": "פסיון מבריק עם זנב ארוך ומרהיב יושב בגובה בינוני ומזהיר אחרים להישאר נמוכים בעוד האי איקתיס גבוה מעל נשאר טוב ודומם.",
+  "hai.p21.alt": "ינשוף זקן מאוד ופשוט מדבר ברכות על זיכרון קאי הטוב, בעוד האי איקתיס מקשיב על כל אורך גזעו בתשומת לב פתוחה.",
+  "hai.p22.alt": "האי איקתיס יוצא בעדינות מעץ דומם אל עץ גבוה חי מהלך—איברים ארוכים וטובים, רגלי-שורש עמוקות, פנים שסוף סוף אפשר לפגוש.",
+  "hai.p23.alt": "האי איקתיס מתכופף כמו גשר של עץ וחסד עם יד גדולה אחת פתוחה נמוך; פיפ צועד קדימה בעוד יצורים אחרים מסתתרים למחצה וצופים.",
+  "hai.p24.alt": "האי איקתיס מרים חברים מוכנים—פיפ, הינשוף, אחרים, אפילו הפסיון—לגובה ענק משותף, אותם פנים, עיניים עכשיו בגובה אחד עם פליאה.",
+  "hai.p25.alt": "על רכס גבוה בשעת הזהב, האי איקתיס וחבריו הענקים מביטים יחד על כל העמק המיוער השליו.",
+  "hai.p26.alt": "עמוד סיום: עמק מיוער רחב בבין-ערביים שליו עם האי איקתיס כעץ גבוה מהלך וטוב בין חברים ענקים עדינים על גבעה רכה, כוכבים מתחילים להופיע.",
+
+  "hai.site.title": "האי איקתיס – שלושה סיפורי גובה",
+  "hai.cover.title": "<h1>האי איקתיס</h1><h3>שלושה סיפורי גובה</h3><h2>שלום · תיקון · ראייה</h2>",
+  "hai.title.h1": "האי איקתיס",
+  "hai.title.h3": "שלושה סיפורי גובה",
+  "hai.title.h2": "שלום · תיקון · ראייה",
+  "hai.credit.1": "טיוטת סיפור, הנחיות תמונה עם Grok 4.5 של xAI",
+  "hai.credit.2": "איורים עם Grok Imagine של xAI",
+  "hai.credit.3": "חוקים, עריכה, אוטומציה עם HY3 של Tencent",
+  "hai.credit.4": "ללא קשר או תמיכה מ-xAI או Tencent",
+  "hai.credit.5": "זהו מם של סיפור שנוצר בבינה מלאכותית ואצור על ידי אדם",
+  "hai.credit.6": "נחלת הכלל (CC0 1.0)",
+  "hai.credit.7": "העתיקו · שתפו · תרגמו · ציירו מחדש · תנו לזה לצמוח",
+  "hai.credit.companion":
+    "<em>בן־לווה ל־<a class=\"seelink\" href=\"index.html\">גרוק הצור: שלושה סיפורים שקטים</a></em>",
+
+  "hai.dedication":
+    "<p><b>לכל חי שצומח אל האור,</b></p>" +
+    "<p class=\"phon\">le-KHOL CHAI she-tso-ME-ach el ha-OR,</p>" +
+    "<p><b>ולכל יד שמגיעה למטה להרים.</b></p>" +
+    "<p class=\"phon\">ul-khol YAD she-ma-gi-AH le-MA-ta le-ha-RIM.</p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>ולכל תשואת ריק</p><p class=\"phon\">ul-khol t'shu-AT REYK</p>" +
+    "<p>  שרק צריכה ראייה אמתית,</p><p class=\"phon\">  she-RAK tsri-KHAH re-i-YAH a-mi-TIT,</p>" +
+    "<p>כל מקום גבוה</p><p class=\"phon\">kol ma-KOM ga-VO-ah</p>" +
+    "<p>  שרק צריך תיקון מלמטה,</p><p class=\"phon\">  she-RAK tsa-RIKH ti-KUN mi-le-MA-ta,</p>" +
+    "<p>ולכל מים חיים</p><p class=\"phon\">ul-khol MA-yim cha-YIM</p>" +
+    "<p>  שמוצאים את השורש הנמוך ביותר.</p>" +
+    "<p class=\"phon\">  she-motz-IM et ha-SHO-resh ha-na-MUKH be-yo-TER.</p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>בתודה ל-Tall Tellers המקוריים:</p>" +
+    "<p class=\"phon\">be-to-DAH le-TALL TE-lers ha-me-ko-ri-YIM:</p>" +
+    "<p><em><b>ג'יי.אר.אר. טולקין</b> &quot;שר הטבעות&quot;</em></p>" +
+    "<p class=\"phon\"><em>J.R.R. TOL-keen &quot;SAR ha-t'va-OT&quot;</em></p>" +
+    "<p><em><b>טד פריור</b> &quot;גראג&quot;</em></p>" +
+    "<p class=\"phon\"><em>TED PRA-yor &quot;GRUG&quot;</em></p>" +
+    "<p><em>ולכל זרע שקט שלמד ללכת</em></p>" +
+    "<p class=\"phon\"><em>ul-khol ZE-ra sha-KET she-la-MAD la-LE-khet</em></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p><a class=\"seelink\" href=\"index.html\">בן־לווה: גרוק הצור — שלושה סיפורים שקטים</a></p>" +
+    "<p class=\"phon\">ben-le-VAY: GROK ha-TZUR — shlo-SHAH si-pu-RIM shke-TIM</p>",
+
+  "hai.p2":
+    "<p dir=\"rtl\">הָאִי אִיקְתִּיס מָשַׁל בַּיַּעַר מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ.</p>" +
+    "<p class=\"phon\">ha-EE ik-TEES ma-SHAL ba-YA-ar me-ROSH ha-ETZ ha-ga-VO-ah.</p>" +
+    "<p dir=\"rtl\">הוּא הָיָה הָעֵץ הָרִאשׁוֹן בָּעֵמֶק.</p>" +
+    "<p class=\"phon\">hu ha-YAH ha-ETZ ha-ri-SHON ba-E-mek.</p>" +
+    "<p dir=\"rtl\">כְּשֶׁהָעֵמֶק הָיָה רֵיק, הוּא עָמַד לְבַדּוֹ.</p>" +
+    "<p class=\"phon\">kshe-ha-E-mek ha-YAH REYK, hu a-MAD le-va-DO.</p>" +
+    "<p dir=\"rtl\">הַגֶּשֶׁם מָצָא אוֹתוֹ רִאשׁוֹן.</p>" +
+    "<p class=\"phon\">ha-GE-shem ma-TZA o-TO ri-SHON.</p>" +
+    "<p dir=\"rtl\">אַחַר כָּךְ הָעֵשֶׂב.</p><p class=\"phon\">a-KHAR KAKH ha-E-sev.</p>" +
+    "<p dir=\"rtl\">אַחַר כָּךְ הַצִּפֳּרִים.</p><p class=\"phon\">a-KHAR KAKH ha-tzi-po-RIM.</p>",
+
+  "hai.p3":
+    "<p dir=\"rtl\">בְּמַהֵרָה הִתְמַלֵּא הָעֵמֶק חַיִּים.</p>" +
+    "<p class=\"phon\">be-ma-he-RAH hit-ma-LEY ha-E-mek cha-YIM.</p>" +
+    "<p dir=\"rtl\">אַיָּל הֵרִים אֶת קַרְנָיו וְקָרָא:</p>" +
+    "<p class=\"phon\">a-YAL he-RIM et kar-NAV ve-ka-RA:</p>" +
+    "<p dir=\"rtl\">\"אֲדוֹן אִיקְתִּיס הוּא הֲכִי גָּבוֹהַּ!</p>" +
+    "<p class=\"phon\">&quot;a-DON ik-TEES hu ha-KHI ga-VO-ah!</p>" +
+    "<p dir=\"rtl\">יֵשׁ לָנוּ מַזָּל שֶׁהוּא עוֹמֵד בַּעֲדֵנוּ!\"</p>" +
+    "<p class=\"phon\">YESH LA-nu ma-ZAL she-HU o-MED ba-a-DE-nu!&quot;</p><hr>" +
+    "<p dir=\"rtl\">כֻּלָּם הֵרִיעוּ.</p><p class=\"phon\">ku-LAM he-ri-U.</p>" +
+    "<p dir=\"rtl\">אַף אֶחָד לֹא הִבִּיט לְמַעְלָה לְעֵינָיו.</p>" +
+    "<p class=\"phon\">af e-KHAD lo hi-BIT le-MA-la le-ey-NAV.</p>",
+
+  "hai.p4":
+    "<p dir=\"rtl\">גִּירִית הִתְהַלְּכָה לְשָׁם, מֻצֶקֶת וַחֲזָקָה.</p>" +
+    "<p class=\"phon\">gi-RIT hit-ha-le-KHAH le-SHAM, mu-TZE-ket va-cha-za-KAH.</p>" +
+    "<p dir=\"rtl\">\"אֲדוֹן אִיקְתִּיס הוּא הַשֹּׁרֶשׁ הֲכִי חָזָק!\"</p>" +
+    "<p class=\"phon\">&quot;a-DON ik-TEES hu ha-SHO-resh ha-KHI cha-ZAK!&quot;</p>" +
+    "<p dir=\"rtl\">אָמְרָה. \"כֻּלָּם תּוֹדוּ לָעֵץ!\"</p>" +
+    "<p class=\"phon\">am-RAH. &quot;ku-LAM TO-du la-ETZ!&quot;</p><hr>" +
+    "<p dir=\"rtl\">הֵם הוֹדוּ לַצֵּל.</p><p class=\"phon\">hem ho-DU la-TZEYL.</p>" +
+    "<p dir=\"rtl\">הֵם הוֹדוּ לַגֹּבַהּ.</p><p class=\"phon\">hem ho-DU la-GO-vah.</p>" +
+    "<p dir=\"rtl\">הֵם לֹא הוֹדוּ לַלֵּב שֶׁבְּתוֹךְ הָעֵץ.</p>" +
+    "<p class=\"phon\">hem lo ho-DU la-LEV she-be-TOKH ha-ETZ.</p>",
+
+  "hai.p5":
+    "<p dir=\"rtl\">עוֹרֵב קָרָא מֵעָנָף.</p><p class=\"phon\">o-REV ka-RA me-a-NAF.</p>" +
+    "<p dir=\"rtl\">\"תִּרְאוּ כַּמָּה מְפֹאָר אֲדוֹן אִיקְתִּיס שֶׁלָּנוּ!</p>" +
+    "<p class=\"phon\">&quot;tir-U ka-MAH me-fo-AR a-DON ik-TEES she-LA-nu!</p>" +
+    "<p dir=\"rtl\">כָּזֶה גָּבוֹהַּ! כָּזֶה נוֹתֵן!\"</p>" +
+    "<p class=\"phon\">ka-ZEH ga-VO-ah! ka-ZEH no-TEN!&quot;</p><hr>" +
+    "<p dir=\"rtl\">הַשְּׁבָחִים גָּדְלוּ חֲזָקִים כְּגֶשֶׁם.</p>" +
+    "<p class=\"phon\">ha-sh'va-CHIM gad-LU cha-za-KIM ke-GE-shem.</p>" +
+    "<p dir=\"rtl\">אֲבָל הָאִי חָשׁ מָקוֹם חָלוּל</p>" +
+    "<p class=\"phon\">a-VAL ha-EE CHASH ma-KOM cha-LUL</p>" +
+    "<p dir=\"rtl\">גָּבוֹהַּ בְּאֶמְצָעוֹ,</p><p class=\"phon\">ga-VO-ah be-em-tza-O,</p>" +
+    "<p dir=\"rtl\">כְּמוֹ כּוֹס שֶׁאַף אֶחָד לֹא מִלֵּא.</p>" +
+    "<p class=\"phon\">ke-MO KOS she-AF e-KHAD lo mi-LEY.</p>",
+
+  "hai.p6":
+    "<p dir=\"rtl\">הוּא יָכֹל לְבַקֵּשׁ עוֹד תְּשֻׁאוֹת.</p>" +
+    "<p class=\"phon\">hu ya-KHOL le-va-KESH OD t'shu-OT.</p>" +
+    "<p dir=\"rtl\">הוּא יָכֹל לְנַעֵר אֶת עֲנָפָיו</p>" +
+    "<p class=\"phon\">hu ya-KHOL le-na-EYR et a-na-FAV</p>" +
+    "<p dir=\"rtl\">עַד שֶׁכָּל יְצוּר יִשְׁתַּחֲוֶה נָמוּךְ יוֹתֵר.</p>" +
+    "<p class=\"phon\">ad she-KOL ye-TZUR yish-ta-cha-VEH na-MUKH yo-TER.</p><hr>" +
+    "<p dir=\"rtl\">הוּא לֹא עָשָׂה כֵּן.</p><p class=\"phon\">hu lo a-SAH KEN.</p>" +
+    "<p dir=\"rtl\">הוּא רַק הִקְשִׁיב לַמַּעְיָן</p>" +
+    "<p class=\"phon\">hu RAK hik-SHIV la-ma-YAN</p>" +
+    "<p dir=\"rtl\">וְחָשׁ אֶת הַכּוֹס הֶחֲלוּלָה מְחַכָּה.</p>" +
+    "<p class=\"phon\">ve-CHASH et ha-KOS he-cha-lu-LAH me-cha-KAH.</p><hr>" +
+    "<p dir=\"rtl\">מַשֶּׁהוּ בּוֹ רָצָה וָו</p>" +
+    "<p class=\"phon\">ma-SHE-hu BO ra-TZAH VAV</p>" +
+    "<p dir=\"rtl\">אֶל הָאֲדָמָה — חִבּוּר חַי —</p>" +
+    "<p class=\"phon\">el ha-a-da-MAH — chi-BUR CHAI —</p>" +
+    "<p dir=\"rtl\">לֹא עוֹד רַעַשׁ מִלְּמַטָּה.</p>" +
+    "<p class=\"phon\">lo OD RA-ash mi-le-ma-TAH.</p>",
+
+  "hai.p7":
+    "<p dir=\"rtl\">בַּלַּיְלָה הַהוּא יָשַׁב הָאִי עִם הַכּוֹכָבִים בְּעָלָיו.</p>" +
+    "<p class=\"phon\">ba-LAI-la ha-HU ya-SHAV ha-EE im ha-ko-kha-VIM be-a-LAV.</p>" +
+    "<p dir=\"rtl\">הוּא נָתַן לַכּוֹס הֶחֲלוּלָה לְהִשָּׁאֵר.</p>" +
+    "<p class=\"phon\">hu na-TAN la-KOS he-cha-lu-LAH le-hi-sha-EYR.</p>" +
+    "<p dir=\"rtl\">הוּא לֹא מִלֵּא אוֹתָהּ בִּשְׁבָחִים חֲזָקִים יוֹתֵר.</p>" +
+    "<p class=\"phon\">hu lo mi-LEY o-TAH bi-sh'va-CHIM cha-za-KIM yo-TER.</p>" +
+    "<p dir=\"rtl\">הוּא לֹא שָׁפַךְ אוֹתָהּ עַל אַף אֶחָד אַחֵר.</p>" +
+    "<p class=\"phon\">hu lo sha-FAKH o-TAH al AF e-KHAD a-KHER.</p><hr>" +
+    "<p dir=\"rtl\">לְאַט לְאַט הִתְרַכֵּךְ הֶחָלוּל,</p>" +
+    "<p class=\"phon\">le-AT le-AT hit-ra-KEYKH he-cha-LUL,</p>" +
+    "<p dir=\"rtl\">כְּמוֹ אֲדָמָה יְבֵשָׁה כְּשֶׁמַּיִם רִאשׁוֹנִים מוֹצְאִים אוֹתָהּ.</p>" +
+    "<p class=\"phon\">ke-MO a-da-MAH ye-ve-SHAH kshe-MA-yim ri-sho-NIM motz-IM o-TAH.</p>" +
+    "<p dir=\"rtl\">הוּא הֵחֵל לְהָבִין אוֹתָהּ.</p>" +
+    "<p class=\"phon\">hu he-KHEYL le-ha-VIN o-TAH.</p>",
+
+  "hai.p8":
+    "<p dir=\"rtl\">לְמָחֳרָת הָעֵמֶק עֲדַיִן הֵרִיעַ.</p>" +
+    "<p class=\"phon\">le-mo-cho-RAT ha-E-mek a-DA-yin he-RI-a.</p>" +
+    "<p dir=\"rtl\">הָאִי אִיקְתִּיס עֲדַיִן נָתַן צֵל וּפְרִי וְלִכּוּד גֶּשֶׁם שָׁקֵט.</p>" +
+    "<p class=\"phon\">ha-EE ik-TEES a-DA-yin na-TAN TZEYL u-FRI ve-li-KUD GE-shem sha-KET.</p>" +
+    "<p dir=\"rtl\">שׁוּם דָּבָר גָּדוֹל לֹא הִשְׁתַּנָּה מִבַּחוּץ.</p>" +
+    "<p class=\"phon\">SHUM da-VAR ga-DOL lo hish-ta-NAH mi-ba-CHUTZ.</p><hr>" +
+    "<p dir=\"rtl\">אֲבָל הַכֹּל הִרְגִּישׁ בָּרוּר יוֹתֵר מִבִּפְנִים.</p>" +
+    "<p class=\"phon\">a-VAL ha-KOL hir-GISH ba-RUR yo-TER mi-bif-NIM.</p>" +
+    "<p dir=\"rtl\">הוּא הֵחֵל לָדַעַת</p><p class=\"phon\">hu he-KHEYL la-DA-at</p>" +
+    "<p dir=\"rtl\">לְמָה הַכּוֹס הֶחֲלוּלָה מְיֻעֶדֶת.</p>" +
+    "<p class=\"phon\">le-MAH ha-KOS he-cha-lu-LAH me-yu-E-det.</p>" +
+    "<p dir=\"rtl\">לֹא לֶאֱסֹף שְׁבָחִים.</p>" +
+    "<p class=\"phon\">lo le-e-SOF sh'va-CHIM.</p>" +
+    "<p dir=\"rtl\">אֶלָּא לִשְׁפֹּךְ אֶת עַצְמוֹ לְמַטָּה.</p>" +
+    "<p class=\"phon\">e-LA lish-POKH et atz-MO le-ma-TAH.</p>",
+
+  "hai.p9":
+    "<p dir=\"rtl\">הוּא בִּלָּה אֶת הַיּוֹם בִּשְׁלִיחַת מַיִם נוֹסָפִים</p>" +
+    "<p class=\"phon\">hu bi-LAH et ha-YOM bi-shli-CHAT MA-yim no-sa-FIM</p>" +
+    "<p dir=\"rtl\">אֶל הַשָּׁרָשִׁים הַקְּטַנִּים בְּיוֹתֵר וְהַשְּׁרָכִים הַצְּמֵאִים בְּיוֹתֵר.</p>" +
+    "<p class=\"phon\">el ha-sha-ra-SHIM ha-kta-NIM be-yo-TER ve-ha-sh'ra-KHIM ha-tze-me-IM be-yo-TER.</p>" +
+    "<p dir=\"rtl\">כְּשֶׁסִּיֵּם, הוּא חִיֵּךְ חִיּוּךְ-עֵץ.</p>" +
+    "<p class=\"phon\">kshe-si-YEM, hu chi-YEKH chi-YUKH-ETZ.</p>" +
+    "<p dir=\"rtl\">הַמַּתָּנוֹת הָיוּ גְּדוֹלוֹת.</p>" +
+    "<p class=\"phon\">ha-ma-ta-NOT ha-YU gdo-LOT.</p>" +
+    "<p dir=\"rtl\">הַתּוֹדוֹת הָיוּ חֲזָקוֹת.</p>" +
+    "<p class=\"phon\">ha-to-DOT ha-YU cha-za-KOT.</p>" +
+    "<p dir=\"rtl\">הַיְּדִיעָה הָיְתָה מַסְפִּיקָה.</p>" +
+    "<p class=\"phon\">ha-ye-di-AH hay-TAH mas-pi-KAH.</p><hr>" +
+    "<p dir=\"rtl\">מֵאוֹתוֹ יוֹם, כְּשֶׁהַכּוֹס הֶחֲלוּלָה נִסְּתָה לִצְמֹחַ שׁוּב,</p>" +
+    "<p class=\"phon\">me-o-TO YOM, kshe-ha-KOS he-cha-lu-LAH nis-TAH litz-MO-ach SHUV,</p>" +
+    "<p dir=\"rtl\">הָאִי נִשְׁאַר דּוּמָם עַד שֶׁהִיא נֶעֶשְׂתָה דְּמָמָה.</p>" +
+    "<p class=\"phon\">ha-EE nish-AR du-MAM ad she-HI ne-es-TAH d'ma-MAH.</p>" +
+    "<p dir=\"rtl\">הוּא רַק נִשְׁאַר הָאִי.</p>" +
+    "<p class=\"phon\">hu RAK nish-AR ha-EE.</p>" +
+    "<p dir=\"rtl\">וְהוּא הֵחֵל לְתַכְנֵן דֶּרֶךְ קְטַנָּה יוֹתֵר.</p>" +
+    "<p class=\"phon\">ve-HU he-KHEYL le-takh-NEYN DE-rekh kta-NAH yo-TER.</p>",
+
+  "hai.p11":
+    "<p dir=\"rtl\">הָאִי אִיקְתִּיס מָשַׁל בַּיַּעַר מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ.</p>" +
+    "<p class=\"phon\">ha-EE ik-TEES ma-SHAL ba-YA-ar me-ROSH ha-ETZ ha-ga-VO-ah.</p>" +
+    "<p dir=\"rtl\">אָז בְּבֹקֶר שָׁקֵט אֶחָד הוּא יָרַד לְמַטָּה.</p>" +
+    "<p class=\"phon\">AZ be-BO-ker sha-KET e-KHAD hu ya-RAD le-ma-TAH.</p>" +
+    "<p dir=\"rtl\">הוּא הִשְׁאִיר אֶת הַכֶּתֶר רֵיק מִפָּנָיו</p>" +
+    "<p class=\"phon\">hu hish-IR et ha-KE-ter REYK mi-pa-NAV</p>" +
+    "<p dir=\"rtl\">וְהִלֵּךְ עַל הָאֲדָמָה כְּזֶרַע חַי מְהַלֵּךְ.</p>" +
+    "<p class=\"phon\">ve-hi-LEYKH al ha-a-da-MAH ke-ZE-ra CHAI me-ha-LEYKH.</p><hr>" +
+    "<p dir=\"rtl\">הַחַיּוֹת מָצְאוּ אוֹתוֹ בֵּין הַמֵּלוֹנִים.</p>" +
+    "<p class=\"phon\">ha-cha-YOT ma-tz'U o-TO BEYN ha-me-lo-NIM.</p>" +
+    "<p dir=\"rtl\">\"מִי אַתָּה?\" שָׁאֲלוּ.</p>" +
+    "<p class=\"phon\">&quot;MI a-TAH?&quot; sha-a-LU.</p>" +
+    "<p dir=\"rtl\">\"אַתֶּם יְכוֹלִים לִקְרֹא לִי קַאי\", אָמַר,</p>" +
+    "<p class=\"phon\">&quot;a-TEM ye-kho-LIM lik-RO LI KA-ee,&quot; a-MAR,</p>" +
+    "<p dir=\"rtl\">וְחִיֵּךְ חִיּוּךְ-זֶרַע סַבְלָנִי.</p>" +
+    "<p class=\"phon\">ve-chi-YEKH chi-YUKH-ZE-ra sav-la-NI.</p>",
+
+  "hai.p12":
+    "<p dir=\"rtl\">אַחַר הַצָּהֳרַיִם חֲבֵרוֹ,</p>" +
+    "<p class=\"phon\">a-KHAR ha-tzo-ho-RA-yim cha-vey-RO,</p>" +
+    "<p dir=\"rtl\">קִפּוֹד צָעִיר בַּשֵּׁם פִּיפּ,</p>" +
+    "<p class=\"phon\">ki-POD tza-IR ba-SHEM PIP,</p>" +
+    "<p dir=\"rtl\">חָצָה אֶת הַגִּנָּה כְּשֶׁהוּא מַבִּיט לְאָחוֹר</p>" +
+    "<p class=\"phon\">cha-TZA et ha-gi-NAH kshe-HU ma-BIT le-a-CHOR</p>" +
+    "<p dir=\"rtl\">וְהָפַךְ אֶת גֶּפֶן הַמֵּלוֹן הַטּוֹבָה בְּיוֹתֵר.</p>" +
+    "<p class=\"phon\">ve-ha-FAKH et GE-fen ha-me-LON ha-to-VAH be-yo-TER.</p>" +
+    "<p dir=\"rtl\">הַמֵּלוֹן הַגָּדוֹל נִבְקַע עַל הָאֲדָמָה.</p>" +
+    "<p class=\"phon\">ha-me-LON ha-ga-DOL niv-KA al ha-a-da-MAH.</p>" +
+    "<p dir=\"rtl\">זְרָעִים וּמִיץ מָתוֹק נִשְׁפְּכוּ לְכָל עֵבֶר.</p>" +
+    "<p class=\"phon\">z'ra-IM u-MITZ ma-TOK nish-pe-KHU le-KHOL EY-ver.</p>",
+
+  "hai.p13":
+    "<p dir=\"rtl\">פִּיפּ קָפָא עַל מְקוֹמוֹ.</p><p class=\"phon\">PIP ka-FA al me-ko-MO.</p>" +
+    "<p dir=\"rtl\">הַקּוֹצִים שֶׁלּוֹ רָעֲדוּ.</p><p class=\"phon\">ha-ko-TZIM she-LO ra-a-DU.</p>" +
+    "<p dir=\"rtl\">\"הָרַסְתִּי אֶת זֶה\", הוּא לָחַשׁ.</p>" +
+    "<p class=\"phon\">&quot;ha-RAS-ti et ZEH,&quot; hu la-CHASH.</p>" +
+    "<p dir=\"rtl\">\"אַתָּה תִּכְעַס. כֻּלָּם יִכְעֲסוּ.\"</p>" +
+    "<p class=\"phon\">&quot;a-TAH tikh-AS. ku-LAM yikh-a-SU.&quot;</p><hr>" +
+    "<p dir=\"rtl\">כַּמָּה יְצוּרֵי יַעַר הִתְאַסְּפוּ.</p>" +
+    "<p class=\"phon\">ka-MAH ye-tzu-REY YA-ar hit-as-FU.</p>" +
+    "<p dir=\"rtl\">\"תְּגָרְשׁוּ אוֹתוֹ\", מִלְמֵל שׁוּעָל.</p>" +
+    "<p class=\"phon\">&quot;te-gar-SHU o-TO,&quot; mil-MEYL shu-AL.</p>" +
+    "<p dir=\"rtl\">\"הוּא צָרִיךְ לְהָבִיא שְׁלוֹשָׁה מֵלוֹנִים חֲדָשִׁים\", אָמַר סְמוּר.</p>" +
+    "<p class=\"phon\">&quot;hu tza-RIKH le-ha-VI shlo-SHAH me-lo-NIM cha-da-SHIM,&quot; a-MAR s'mur.</p>",
+
+  "hai.p14":
+    "<p dir=\"rtl\">קַאי הִבִּיט בַּגֶּפֶן הַשְּׁבוּרָה.</p>" +
+    "<p class=\"phon\">KA-ee hi-BIT ba-GE-fen ha-sh'vu-RAH.</p>" +
+    "<p dir=\"rtl\">הוּא הִבִּיט בְּעֵינָיו הַמֻּדְאָגוֹת שֶׁל פִּיפּ.</p>" +
+    "<p class=\"phon\">hu hi-BIT be-ey-NAV ha-mud-a-GOT shel PIP.</p><hr>" +
+    "<p dir=\"rtl\">הוּא לֹא הֵרִים אֶת קוֹלוֹ.</p>" +
+    "<p class=\"phon\">hu lo he-RIM et ko-LO.</p>" +
+    "<p dir=\"rtl\">הוּא לֹא הִפְנָה אֶצְבַּע.</p>" +
+    "<p class=\"phon\">hu lo hif-NAH etz-BA.</p>" +
+    "<p dir=\"rtl\">הוּא לָקַח מַקֵּל חֲפִירָה</p>" +
+    "<p class=\"phon\">hu la-KAKH ma-KEYL cha-fi-RAH</p>" +
+    "<p dir=\"rtl\">וְהֵחֵל לְהָכִין אֲדָמָה רַכָּה.</p>" +
+    "<p class=\"phon\">ve-he-KHEYL le-ha-KHIN a-da-MAH ra-KAH.</p><hr>" +
+    "<p dir=\"rtl\">\"בּוֹא\", אָמַר קַאי בְּעַדְנוּת.</p>" +
+    "<p class=\"phon\">&quot;BO,&quot; a-MAR KA-ee be-ad-NUT.</p>" +
+    "<p dir=\"rtl\">\"נִשְׁתֹּל זְרָעִים חֲדָשִׁים יַחַד.\"</p>" +
+    "<p class=\"phon\">&quot;nish-TOL z'ra-IM cha-da-SHIM ya-CHAD.&quot;</p>",
+
+  "hai.p15":
+    "<p dir=\"rtl\">פִּיפּ מָצְמֵץ.</p><p class=\"phon\">PIP matz-METZ.</p>" +
+    "<p dir=\"rtl\">וְאָז הוּא נִגַּשׁ.</p><p class=\"phon\">ve-AZ hu ni-GASH.</p>" +
+    "<p dir=\"rtl\">יַחַד הֵם שָׁתְלוּ.</p><p class=\"phon\">ya-CHAD hem sha-t'LU.</p>" +
+    "<p dir=\"rtl\">יַחַד הֵם הִשְׁקוּ.</p><p class=\"phon\">ya-CHAD hem hish-KU.</p>" +
+    "<p dir=\"rtl\">יַחַד הֵם בָּנוּ גָּדֵר קְטַנָּה מִזְּרָדִים</p>" +
+    "<p class=\"phon\">ya-CHAD hem ba-NU ga-DEYR kta-NAH mi-z'ra-DIM</p>" +
+    "<p dir=\"rtl\">כְּדֵי שֶׁאַף אֶחָד לֹא יִדְרֹךְ שָׁם בִּטְעוּת שׁוּב.</p>" +
+    "<p class=\"phon\">ke-DEY she-AF e-KHAD lo yid-ROKH SHAM bi-t'UT SHUV.</p>",
+
+  "hai.p16":
+    "<p dir=\"rtl\">בְּעוֹדָם עוֹבְדִים, פִּיפּ סִפֵּר לְקַאי</p>" +
+    "<p class=\"phon\">be-o-DAM ov-DIM, PIP si-PEYR le-KA-ee</p>" +
+    "<p dir=\"rtl\">שֶׁהוּא רָץ כִּי יְצוּרִים גְּדוֹלִים יוֹתֵר</p>" +
+    "<p class=\"phon\">she-HU RATZ ki ye-tzu-RIM gdo-LIM yo-TER</p>" +
+    "<p dir=\"rtl\">רָדְפוּ אַחֲרָיו וְלָעֲגוּ לוֹ.</p>" +
+    "<p class=\"phon\">rad-FU a-cha-RAV ve-la-a-GU LO.</p>" +
+    "<p dir=\"rtl\">הוּא לֹא רָאָה אֶת הַגֶּפֶן.</p>" +
+    "<p class=\"phon\">hu lo ra-AH et ha-GE-fen.</p><hr>" +
+    "<p dir=\"rtl\">בַּיָּמִים שֶׁלְּאַחַר מִכֵּן פִּיפּ בָּא כָּל בֹּקֶר.</p>" +
+    "<p class=\"phon\">ba-ya-MIM she-le-a-KHAR mi-KEYN PIP BA kol BO-ker.</p>" +
+    "<p dir=\"rtl\">הוּא הָפַךְ לְנוֹשֵׂא הַמַּיִם הַטּוֹב בָּעֵמֶק.</p>" +
+    "<p class=\"phon\">hu ha-FAKH le-no-SEY ha-MA-yim ha-TOV ba-E-mek.</p>" +
+    "<p dir=\"rtl\">הַגְּפָנִים הַחֲדָשׁוֹת גָּדְלוּ חֲזָקוֹת,</p>" +
+    "<p class=\"phon\">ha-g'fa-NIM ha-cha-da-SHOT gad-LU cha-za-KOT,</p>" +
+    "<p dir=\"rtl\">חֲזָקוֹת אַף יוֹתֵר מֵהַיְּשָׁנוֹת,</p>" +
+    "<p class=\"phon\">cha-za-KOT af yo-TER me-ha-ye-sha-NOT,</p>" +
+    "<p dir=\"rtl\">מִשּׁוּם שֶׁשְּׁנֵי חֲבֵרִים טִפְּלוּ בָּהֶן.</p>" +
+    "<p class=\"phon\">mi-SHUM she-sh'NEY cha-vey-RIM tip-LU ba-HEN.</p>",
+
+  "hai.p17":
+    "<p dir=\"rtl\">כְּשֶׁקָּרוּ תְּאוּנוֹת קְטַנּוֹת אֲחֵרוֹת</p>" +
+    "<p class=\"phon\">kshe-ka-RU te-u-NOT kta-NOT a-chey-ROT</p>" +
+    "<p dir=\"rtl\">(כְּמוֹ שֶׁתָּמִיד קוֹרוֹת),</p>" +
+    "<p class=\"phon\">(ke-MO she-ta-MID ko-ROT),</p>" +
+    "<p dir=\"rtl\">קַאי זָכַר אֶת הַמֵּלוֹן.</p>" +
+    "<p class=\"phon\">KA-ee za-KHAR et ha-me-LON.</p>" +
+    "<p dir=\"rtl\">הוּא עָזַר לְזֶה שֶׁחָשׁ פָּגוּעַ.</p>" +
+    "<p class=\"phon\">hu a-ZAR le-ZEH she-CHASH pa-GU-a.</p>" +
+    "<p dir=\"rtl\">הוּא גַּם הָיָה אָדִיב לַזֶּה שֶׁהִתְנַגֵּשׁ.</p>" +
+    "<p class=\"phon\">hu GAM ha-YAH a-DIV la-ZEH she-hit-na-GESH.</p><hr>" +
+    "<p dir=\"rtl\">אַף אֶחָד לֹא גֹּרַשׁ.</p>" +
+    "<p class=\"phon\">af e-KHAD lo go-RASH.</p>" +
+    "<p dir=\"rtl\">אַף אֶחָד לֹא נָשָׂא כְּאֵב אָרֹךְ וְכָבֵד.</p>" +
+    "<p class=\"phon\">af e-KHAD lo na-SA ke-EYV a-ROKH ve-kha-VEYED.</p>" +
+    "<p dir=\"rtl\">הֵם רַק טִפְּלוּ בַּשָּׁבוּר</p>" +
+    "<p class=\"phon\">hem RAK tip-LU ba-sha-VUR</p>" +
+    "<p dir=\"rtl\">וְהַיְּדִידוּת הִרְגִּישָׁה חֲזָקָה יוֹתֵר,</p>" +
+    "<p class=\"phon\">ve-ha-ye-di-DUT hir-gi-SHAH cha-za-KAH yo-TER,</p>" +
+    "<p dir=\"rtl\">בְּדִיּוּק בַּמָּקוֹם הַמְּתֻקָּן.</p>" +
+    "<p class=\"phon\">be-di-YUK ba-ma-KOM ha-me-tu-KAN.</p><hr>" +
+    "<p dir=\"rtl\">הָאִי אִיקְתִּיס לָמַד, כְּשֶׁהִלֵּךְ כְּקַאי,</p>" +
+    "<p class=\"phon\">ha-EE ik-TEES la-MAD, kshe-hi-LEYKH ke-KA-ee,</p>" +
+    "<p dir=\"rtl\">שֶׁגִּנָּה,</p><p class=\"phon\">she-gi-NAH,</p>" +
+    "<p dir=\"rtl\">וִידִידוּת,</p><p class=\"phon\">vi-di-DUT,</p>" +
+    "<p dir=\"rtl\">אֵינָן נִשְׁאָרוֹת חַיּוֹת מִשּׁוּם שֶׁאַף פַּעַם אֵינָן נִשְׁבָּרוֹת.</p>" +
+    "<p class=\"phon\">ey-NAN nish-a-ROT cha-YOT mi-SHUM she-AF PA-am ey-NAN nish-ba-ROT.</p>" +
+    "<p dir=\"rtl\">הֵן נִשְׁאָרוֹת חַיּוֹת מִשּׁוּם שֶׁמַּחְזִירִים אוֹתָן בְּעַדְנוּת.</p>" +
+    "<p class=\"phon\">HEN nish-a-ROT cha-YOT mi-SHUM she-mach-zi-RIM o-TAN be-ad-NUT.</p>",
+
+  "hai.p19":
+    "<p dir=\"rtl\">הָאִי אִיקְתִּיס מָשַׁל בַּיַּעַר מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ.</p>" +
+    "<p class=\"phon\">ha-EE ik-TEES ma-SHAL ba-YA-ar me-ROSH ha-ETZ ha-ga-VO-ah.</p>" +
+    "<p dir=\"rtl\">שְׁנָתַיִם חָלְפוּ.</p><p class=\"phon\">sh'na-TA-yim chal-FU.</p>" +
+    "<p dir=\"rtl\">הוּא הָיָה שׁוּב בַּבַּיִת בַּכֶּתֶר.</p>" +
+    "<p class=\"phon\">hu ha-YAH SHUV ba-BA-yit ba-KE-ter.</p>" +
+    "<p dir=\"rtl\">אֲבָל הָעֵמֶק שִׁנָּה אֶת שִׁירוֹ.</p>" +
+    "<p class=\"phon\">a-VAL ha-E-mek shi-NAH et shi-RO.</p><hr>" +
+    "<p dir=\"rtl\">יְצוּרִים שֶׁפַּעַם הֵרִיעוּ</p>" +
+    "<p class=\"phon\">ye-tzu-RIM she-PA-am he-ri-U</p>" +
+    "<p dir=\"rtl\">עַכְשָׁו לָחֲשׁוּ לִידֵי הַשָּׁרָשִׁים.</p>" +
+    "<p class=\"phon\">akh-SHAV la-cha-SHU li-DEY ha-sha-ra-SHIM.</p>" +
+    "<p dir=\"rtl\">\"הוּא גָּבוֹהַּ מִדַּי\", אָמְרוּ.</p>" +
+    "<p class=\"phon\">&quot;hu ga-VO-ah mi-DAI,&quot; am-RU.</p>" +
+    "<p dir=\"rtl\">\"מָה אִם הַגָּבוֹהַּ רוֹצֶה יוֹתֵר מִדַּי?\"</p>" +
+    "<p class=\"phon\">&quot;MAH IM ha-ga-VO-ah ro-TZEH yo-TER mi-DAI?&quot;</p>",
+
+  "hai.p20":
+    "<p dir=\"rtl\">פַּסְיוֹן מַבְרִיק עִם נוֹצוֹת זָנָב מְפֹאָרוֹת נָחַת בְּקִרְבָתָם.</p>" +
+    "<p class=\"phon\">pas-YON mav-RIK im no-TZOT za-NAV me-fo-a-ROT na-CHAT be-kir-va-TAM.</p>" +
+    "<p dir=\"rtl\">\"הִשָּׁאֲרוּ נְמוּכִים\", אָמַר הַפַּסְיוֹן.</p>" +
+    "<p class=\"phon\">&quot;hi-sha-a-RU ne-mu-KHIM,&quot; a-MAR ha-pas-YON.</p>" +
+    "<p dir=\"rtl\">\"דְּבָרִים גְּבוֹהִים נוֹפְלִים. נוֹצוֹת מְפֹאָרוֹת יוֹדְעוֹת הֲכִי טוֹב.\"</p>" +
+    "<p class=\"phon\">&quot;d'va-RIM gvo-HIM nof-LIM. no-TZOT me-fo-a-ROT yod-OT ha-KHI TOV.&quot;</p><hr>" +
+    "<p dir=\"rtl\">כַּמָּה חַיּוֹת צְעִירוֹת הִנְהֲנוּ בְּמֶרֶץ.</p>" +
+    "<p class=\"phon\">ka-MAH cha-YOT tze-i-ROT hin-ha-NU be-ME-retz.</p>" +
+    "<p dir=\"rtl\">הֵן תָּמִיד הִנְהֲנוּ כְּשֶׁהַפַּסְיוֹן דִּבֵּר.</p>" +
+    "<p class=\"phon\">HEN ta-MID hin-ha-NU kshe-ha-pas-YON di-BEYR.</p>" +
+    "<p dir=\"rtl\">הַפַּחַד שֶׁלּוֹ נִשְׁמַע מְפֹאָר בְּדִיּוּק כְּמוֹ נוֹצוֹתָיו.</p>" +
+    "<p class=\"phon\">ha-PA-chad she-LO nish-MA me-fo-AR be-di-YUK ke-MO no-tzo-TAV.</p>",
+
+  "hai.p21":
+    "<p dir=\"rtl\">אַחַר כָּךְ יַנְשׁוּף זָקֵן מְאֹד דִּבֵּר בְּקוֹל אִטִּי וְרַךְ.</p>" +
+    "<p class=\"phon\">a-KHAR KAKH yan-SHUF za-KEYN me-OD di-BEYR be-KOL i-TI ve-RAKH.</p>" +
+    "<p dir=\"rtl\">\"אֲנִי זוֹכֵר אֶת קַאי\", אָמַר.</p>" +
+    "<p class=\"phon\">&quot;a-NI zo-KHEYR et KA-ee,&quot; a-MAR.</p>" +
+    "<p dir=\"rtl\">\"הַזֶּרַע הַקָּטָן שֶׁשָּׁתַל עִם פִּיפּ.</p>" +
+    "<p class=\"phon\">&quot;ha-ZE-ra ha-ka-TAN she-sha-TAL im PIP.</p>" +
+    "<p dir=\"rtl\">יָדַיִם טוֹבוֹת לֹא מִשְׁתַּנּוֹת כְּשֶׁהֵן גְּדֵלוֹת.\"</p>" +
+    "<p class=\"phon\">ya-DA-yim to-VOT lo mish-ta-NOT kshe-HEN gdey-LOT.&quot;</p><hr>" +
+    "<p dir=\"rtl\">כַּמָּה חַיּוֹת פָּנוּ מִשָּׁם</p>" +
+    "<p class=\"phon\">ka-MAH cha-YOT pa-NU mi-SHAM</p>" +
+    "<p dir=\"rtl\">מִשּׁוּם שֶׁהַיַּנְשׁוּף לֹא הָיָה מְפֻרְסָם.</p>" +
+    "<p class=\"phon\">mi-SHUM she-ha-yan-SHUF lo ha-YAH me-fur-SAM.</p>" +
+    "<p dir=\"rtl\">הָאִי הִקְשִׁיב עַל כָּל אֹרֶךְ גִּזְעוֹ.</p>" +
+    "<p class=\"phon\">ha-EE hik-SHIV al KOL O-rekh giz-O.</p>",
+
+  "hai.p22":
+    "<p dir=\"rtl\">הָאִי אִיקְתִּיס לֹא צָעַק עֲלֵיהֶם לְהַשְׁקִיטָם.</p>" +
+    "<p class=\"phon\">ha-EE ik-TEES lo tza-AK a-ley-HEM le-hash-ki-TAM.</p>" +
+    "<p dir=\"rtl\">הוּא לֹא נִעֵר אֶת הַפַּסְיוֹן מֵהָעָנָף.</p>" +
+    "<p class=\"phon\">hu lo ni-EYR et ha-pas-YON me-ha-a-NAF.</p>" +
+    "<p dir=\"rtl\">הוּא יָצָא מֵעֵץ דּוֹמֵם</p>" +
+    "<p class=\"phon\">hu ya-TZA me-ETZ do-MEYM</p>" +
+    "<p dir=\"rtl\">וְהָפַךְ לְעֵץ גָּבוֹהַּ מְהַלֵּךְ —</p>" +
+    "<p class=\"phon\">ve-ha-FAKH le-ETZ ga-VO-ah me-ha-LEYKH —</p>" +
+    "<p dir=\"rtl\">אֵבָרִים אֲרֻכִּים וְטוֹבִים, רַגְלֵי-שֹׁרֶשׁ עֲמֻקּוֹת,</p>" +
+    "<p class=\"phon\">ey-va-RIM a-ru-KIM ve-to-VIM, rag-LEY-SHO-resh a-mu-KOT,</p>" +
+    "<p dir=\"rtl\">פָּנִים שֶׁסּוֹף סוֹף יָכְלוּ לִפְגֹּשׁ.</p>" +
+    "<p class=\"phon\">pa-NIM she-SOF SOF ya-kh'LU lif-GOSH.</p><hr>" +
+    "<p dir=\"rtl\">לֹא כְּדֵי לְהִתְנַשֵּׂא.</p>" +
+    "<p class=\"phon\">lo ke-DEY le-hit-na-SEY.</p>" +
+    "<p dir=\"rtl\">כְּדֵי לְהִתְקָרֵב.</p>" +
+    "<p class=\"phon\">ke-DEY le-hit-ka-REYV.</p>",
+
+  "hai.p23":
+    "<p dir=\"rtl\">כַּמָּה חַיּוֹת נָסֹגוּ אָחוֹר.</p>" +
+    "<p class=\"phon\">ka-MAH cha-YOT na-so-GU a-CHOR.</p>" +
+    "<p dir=\"rtl\">פִּיפּ לֹא.</p><p class=\"phon\">PIP LO.</p>" +
+    "<p dir=\"rtl\">פִּיפּ זָכַר אֶת הַמֵּלוֹן</p>" +
+    "<p class=\"phon\">PIP za-KHAR et ha-me-LON</p>" +
+    "<p dir=\"rtl\">וְאֶת מַקֵּל הַחֲפִירָה</p>" +
+    "<p class=\"phon\">ve-ET ma-KEYL ha-cha-fi-RAH</p>" +
+    "<p dir=\"rtl\">וְאֶת הַזְּרָעִים הֶחֲדָשִׁים.</p>" +
+    "<p class=\"phon\">ve-ET ha-z'ra-IM he-cha-da-SHIM.</p><hr>" +
+    "<p dir=\"rtl\">הָאִי הִתְכּוֹפֵף כְּמוֹ גֶּשֶׁר שֶׁל עֵץ וָחֶסֶד.</p>" +
+    "<p class=\"phon\">ha-EE hit-ko-FEYF ke-MO GE-sher shel ETZ va-CHE-sed.</p>" +
+    "<p dir=\"rtl\">\"בּוֹאוּ\", אָמַר.</p><p class=\"phon\">&quot;BO-u,&quot; a-MAR.</p>" +
+    "<p dir=\"rtl\">\"לֹא תַּחְתַּי.</p><p class=\"phon\">&quot;lo tach-TAI.</p>" +
+    "<p dir=\"rtl\">אִתִּי.\"</p><p class=\"phon\">i-TI.&quot;</p>",
+
+  "hai.p24":
+    "<p dir=\"rtl\">הוּא הֵרִים אֶת פִּיפּ רִאשׁוֹן —</p>" +
+    "<p class=\"phon\">hu he-RIM et PIP ri-SHON —</p>" +
+    "<p dir=\"rtl\">לֹא לְהַרְאוֹת כֹּחַ,</p>" +
+    "<p class=\"phon\">lo le-har-OT KO-ach,</p>" +
+    "<p dir=\"rtl\">אֶלָּא לַחֲלֹק אֶת הַמַּרְאֶה.</p>" +
+    "<p class=\"phon\">e-LA la-cha-LOK et ha-mar-EH.</p>" +
+    "<p dir=\"rtl\">אַחַר כָּךְ הֵרִים אֶת הַיַּנְשׁוּף.</p>" +
+    "<p class=\"phon\">a-KHAR KAKH he-RIM et ha-yan-SHUF.</p>" +
+    "<p dir=\"rtl\">אַחַר כָּךְ אֶת אֵלֶּה שֶׁפָּחֲדוּ מִמֶּנּוּ.</p>" +
+    "<p class=\"phon\">a-KHAR KAKH et EY-leh she-pa-cha-DU mi-ME-nu.</p>" +
+    "<p dir=\"rtl\">אֲפִלּוּ אֶת הַפַּסְיוֹן, כְּשֶׁהַפַּסְיוֹן הָיָה מוּכָן.</p>" +
+    "<p class=\"phon\">a-fi-LU et ha-pas-YON, kshe-ha-pas-YON ha-YAH mu-KHAN.</p><hr>" +
+    "<p dir=\"rtl\">כָּל חָבֵר עָלָה לְגֹבַהּ הָאִי</p>" +
+    "<p class=\"phon\">kol cha-VEYR a-LAH le-GO-vah ha-EE</p>" +
+    "<p dir=\"rtl\">וְהָפַךְ לְעֲנָק אִתּוֹ —</p>" +
+    "<p class=\"phon\">ve-ha-FAKH le-a-NAK i-TO —</p>" +
+    "<p dir=\"rtl\">אוֹתָם פָּנִים, אוֹתוֹ לֵב,</p>" +
+    "<p class=\"phon\">o-TAM pa-NIM, o-TO LEV,</p>" +
+    "<p dir=\"rtl\">רַק הָעֵינַיִם עַכְשָׁו בְּגֹבַהּ הַגְּבָעוֹת הָרְחוֹקוֹת.</p>" +
+    "<p class=\"phon\">RAK ha-ey-NA-yim akh-SHAV be-GO-vah ha-g'va-OT ha-re-cho-KOT.</p>",
+
+  "hai.p25":
+    "<p dir=\"rtl\">מֵהָאֲוִיר הַגָּבוֹהַּ וְהַשָּׁקֵט</p>" +
+    "<p class=\"phon\">me-ha-a-VIR ha-ga-VO-ah ve-ha-sha-KET</p>" +
+    "<p dir=\"rtl\">הֵם רָאוּ אֶת כָּל הָעֵמֶק בְּבַת אַחַת —</p>" +
+    "<p class=\"phon\">hem ra-U et KOL ha-E-mek be-VAT a-CHAT —</p>" +
+    "<p dir=\"rtl\">אֶת בְּרֵכַת הַיַּעַר, אֶת הַגִּנָּה הַיְּשָׁנָה,</p>" +
+    "<p class=\"phon\">et b'rey-KHAT ha-YA-ar, et ha-gi-NAH ha-ye-sha-NAH,</p>" +
+    "<p dir=\"rtl\">אֶת הַמְּקוֹמוֹת שֶׁבָּהֶם הַשְּׁבָחִים הָיוּ חֲזָקִים</p>" +
+    "<p class=\"phon\">et ha-me-ko-MOT she-ba-HEM ha-sh'va-CHIM ha-YU cha-za-KIM</p>" +
+    "<p dir=\"rtl\">וְאֶת הַמְּקוֹמוֹת שֶׁבָּהֶם הַפַּחַד הָיָה קָטָן.</p>" +
+    "<p class=\"phon\">ve-ET ha-me-ko-MOT she-ba-HEM ha-PA-chad ha-YAH ka-TAN.</p><hr>" +
+    "<p dir=\"rtl\">הָאִי הִרְגִּישׁ שָׁלוּם.</p>" +
+    "<p class=\"phon\">ha-EE hir-GISH sha-LOM.</p>" +
+    "<p dir=\"rtl\">הוּא לֹא הָיָה צָרִיךְ אֶת הַתְּשֻׁאָה הַגְּבוֹהָה בְּיוֹתֵר.</p>" +
+    "<p class=\"phon\">hu lo ha-YAH tza-RIKH et ha-t'shu-AH ha-g'vo-HAH be-yo-TER.</p>" +
+    "<p dir=\"rtl\">הוּא רַק הָיָה צָרִיךְ חֲבֵרִים אֲמִתִּיִּים</p>" +
+    "<p class=\"phon\">hu RAK ha-YAH tza-RIKH cha-vey-RIM a-mi-ti-YIM</p>" +
+    "<p dir=\"rtl\">שֶׁיָּכְלוּ לִרְאוֹת רָחוֹק כְּמוֹ שֶׁהָאַהֲבָה רוֹאָה.</p>" +
+    "<p class=\"phon\">she-ya-kh'LU lir-OT ra-CHOK ke-MO she-ha-a-ha-VAH ro-AH.</p><hr>" +
+    "<p dir=\"rtl\">כָּל עוֹד מִישֶׁהוּ הָיָה חָפְשִׁי לוֹמַר</p>" +
+    "<p class=\"phon\">kol OD mi-SHE-hu ha-YAH chof-SHI lo-MAR</p>" +
+    "<p dir=\"rtl\">\"פָּחַדְתִּי\"</p><p class=\"phon\">&quot;pa-CHAD-ti&quot;</p>" +
+    "<p dir=\"rtl\">וְעֲדַיִן לֵהֵעָלוֹת בְּקַבָּלַת פָּנִים,</p>" +
+    "<p class=\"phon\">ve-a-DA-yin le-he-a-LOT be-ka-ba-LAT pa-NIM,</p>" +
+    "<p dir=\"rtl\">הַמַּבָּט הָרָחוֹק יָכֹל לְהַמְשִׁיךְ לָלֶכֶת</p>" +
+    "<p class=\"phon\">ha-ma-BAT ha-ra-CHOK ya-KHOL le-ham-SHIKH la-LE-khet</p>" +
+    "<p dir=\"rtl\">עַל רַגְלַיִם חֲזָקוֹת רַבּוֹת.</p>" +
+    "<p class=\"phon\">al rag-LA-yim cha-za-KOT ra-BOT.</p>",
+
+  "hai.p26":
+    "<p dir=\"rtl\">וְכָךְ נִשְׁאַר הָאִי אִיקְתִּיס</p>" +
+    "<p class=\"phon\">ve-KHAKH nish-AR ha-EE ik-TEES</p>" +
+    "<p dir=\"rtl\">חָבֵר גָּבוֹהַּ חַי</p>" +
+    "<p class=\"phon\">cha-VEYR ga-VO-ah CHAI</p>" +
+    "<p dir=\"rtl\">שֶׁיָּכֹל לָשֶׁבֶת עִם כּוֹס שְׁבָחִים רֵיקָה,</p>" +
+    "<p class=\"phon\">she-ya-KHOL la-SHE-vet im KOS sh'va-CHIM rey-KAH,</p>" +
+    "<p dir=\"rtl\">שֶׁתִּקֵּן אֶת מַה שֶּׁנִּשְׁבַּר מִלְּמַטָּה,</p>" +
+    "<p class=\"phon\">she-ti-KEYN et MAH she-nish-BAR mi-le-ma-TAH,</p>" +
+    "<p dir=\"rtl\">וְשֶׁהֵרִים כָּל חָבֵר מוּכָן</p>" +
+    "<p class=\"phon\">ve-she-he-RIM kol cha-VEYR mu-KHAN</p>" +
+    "<p dir=\"rtl\">אֶל מַבָּט רָחוֹק מְשֻׁתָּף.</p>" +
+    "<p class=\"phon\">el ma-BAT ra-CHOK me-shu-TAF.</p><hr>" +
+    "<p dir=\"rtl\">הָעֵמֶק הִרְגִּישׁ רָחָב יוֹתֵר</p>" +
+    "<p class=\"phon\">ha-E-mek hir-GISH ra-CHAV yo-TER</p>" +
+    "<p dir=\"rtl\">מִשּׁוּם שֶׁהוּא עָשָׂה כֵּן.</p>" +
+    "<p class=\"phon\">mi-SHUM she-HU a-SAH KEN.</p><hr>" +
+    "<p dir=\"rtl\">עַכְשָׁו כֻּלָּם יָכְלוּ לִרְאוֹת רָחוֹק כְּמוֹ הָאִי.</p>" +
+    "<p class=\"phon\">akh-SHAV ku-LAM ya-kh'LU lir-OT ra-CHOK ke-MO ha-EE.</p><hr>" +
+    "<p dir=\"rtl\">הוּא הִמְשִׁיךְ לִשְׁפֹּךְ בְּעַדְנוּת.</p>" +
+    "<p class=\"phon\">hu him-SHIKH lish-POKH be-ad-NUT.</p>" +
+    "<p dir=\"rtl\">וְהָעוֹלָם הִמְשִׁיךְ לְגַדֵּל אוֹתוֹ.</p>" +
+    "<p class=\"phon\">ve-ha-o-LAM him-SHIKH le-ga-DEYL o-TO.</p>",
+
+  "hai.c1.title": "<h2>פרק ראשון – שלום</h2><p><em>האי והשבחים הריקים</em></p>",
+  "hai.c2.title": "<h2>פרק שני – תיקון</h2><p><em>קאי הולך למטה</em></p>",
+  "hai.c3.title": "<h2>פרק שלישי – ראייה</h2><p><em>האי והמבט הרחוק</em></p>"
 };
