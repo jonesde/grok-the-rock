@@ -486,6 +486,7 @@
     "images/ico/favicon.ico",
     "images/ico/icon-192.png",
     "images/ico/icon-512.png",
+    "images/ico/icon-hai-512.png",
     "images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg",
     "images/dedication-grok-4d644bb0-0b15-4fa8-9b89-b78964cd7026.jpg",
     "images/page-1-grok-66371264-365e-4572-8b05-f6e03851fcf5.jpg",
@@ -515,9 +516,12 @@
     "images/page-25-grok-87bf0bc3-52ea-4af3-ac9b-f89a5ec3f06c.jpg",
     "images/page-26-grok-97985439-fb8c-40bb-ab0c-2acc180954f9.jpg",
     "images/hai/cover-grok-bffd8ee1-7934-4ec3-94dc-205a63ee3959.jpg",
+    "images/hai/dedication-grok-03af8e53-3392-4e53-8910-53349a26558e_up.jpg",
     "images/hai/page-1-grok-80969c94-4844-49d1-9022-6475dd08e143.jpg",
+    "images/hai/page-2-grok-37485c9d-64c3-4fca-b2ed-7f7244a42d77_up.jpg",
     "images/hai/page-10-grok-19ea08e8-7651-494a-b944-08b19abf9b9d.jpg",
-    "images/hai/page-18-grok-f139627d-9eb2-4b69-98df-402e1bea6633.jpg"
+    "images/hai/page-18-grok-f139627d-9eb2-4b69-98df-402e1bea6633.jpg",
+    "GrokTheRock-AllBookText-Marked.pdf"
   ];
 
   function t(key, fallback) {
