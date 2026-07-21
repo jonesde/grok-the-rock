@@ -9,7 +9,10 @@ Sources:
 - Separate touching animals via multi-seed geodesic labeling
 - Scale so head-to-feet height is TARGET_H
   (stag antlers extend above; Hai leaf-crown top = head top)
-- Write individual transparent PNGs + 9-figure lineup
+- Write individual transparent PNGs + lineups:
+    creatures-equal-height.png     (head-tops aligned, equal body height)
+    creatures-eye-aligned.png      (eyes via scaling + one shared baseline)
+    creatures-eye-aligned-2row.png (same scales, two baseline rows)
 
 Outputs: images/hai/reference/creatures/
 """
@@ -80,6 +83,31 @@ BODY_FRAC = {
     "owl": 1.0,
     "fox": 1.0,
     "stoat": 1.0,
+}
+
+# Anchor Y in each head-scaled cutout (px from top). Locked by visual check.
+# Usually the eye center; hedgehog uses the dark nose tip (spines hide the eye).
+# Used for creatures-eye-aligned.png via scaling (not translation).
+ANCHOR_Y = {
+    "hai-walk": 157,
+    "hedgehog": 171,  # nose tip on the right — near eye height
+    "stag": 300,
+    "badger": 109,
+    "raven": 86,
+    "pheasant": 95,
+    "owl": 148,
+    "fox": 120,
+    "stoat": 92,
+}
+# After eye-scale, distance from feet baseline up to the anchor (px).
+# Chosen near the median feet→eye span of the head-scaled cutouts.
+TARGET_EYE_ABOVE_FEET = 400
+# Extra size multipliers for the eye-aligned lineup (1.0 = no change).
+# Applied on top of the feet→eye scale; all figures still sit on one foot baseline.
+EYE_SCALE_BOOST = {
+    "hai-walk": 1.10,
+    "fox": 1.20,
+    "stoat": 1.20,
 }
 
 
@@ -270,11 +298,11 @@ def head_y_from_top(im: Image.Image, name: str) -> int:
     return int(round(h * (1.0 - body_frac)))
 
 
-def build_lineup(figs: list[tuple[str, Image.Image]]) -> Image.Image:
-    """Composite figures with heads on one horizontal line; antlers above."""
+def build_lineup_head(figs: list[tuple[str, Image.Image]]) -> Image.Image:
+    """Composite figures with head-tops on one line (antlers may rise above)."""
     metas = [(name, im, head_y_from_top(im, name)) for name, im in figs]
-    max_above = max(hy for _, _, hy in metas)
-    max_below = max(im.size[1] - hy for _, im, hy in metas)
+    max_above = max(ay for _, _, ay in metas)
+    max_below = max(im.size[1] - ay for _, im, ay in metas)
     total_w = (
         LINEUP_MARGIN * 2
         + sum(im.size[0] for _, im, _ in metas)
@@ -283,11 +311,101 @@ def build_lineup(figs: list[tuple[str, Image.Image]]) -> Image.Image:
     total_h = LINEUP_MARGIN * 2 + max_above + max_below
     canvas = Image.new("RGBA", (total_w, total_h), (0, 0, 0, 0))
     x = LINEUP_MARGIN
-    head_line = LINEUP_MARGIN + max_above
-    for name, im, hy in metas:
-        canvas.alpha_composite(im, (x, head_line - hy))
+    line = LINEUP_MARGIN + max_above
+    for name, im, ay in metas:
+        canvas.alpha_composite(im, (x, line - ay))
         x += im.size[0] + LINEUP_GAP
     return canvas
+
+
+def scale_for_eyes(
+    figs: list[tuple[str, Image.Image]],
+    anchor_y: dict[str, int],
+    target_eye_above_feet: int = TARGET_EYE_ABOVE_FEET,
+    scale_boost: dict[str, float] | None = None,
+) -> list[tuple[str, Image.Image]]:
+    """Resize figures so feet→eye distance matches (plus optional boosts)."""
+    boost = scale_boost or {}
+    scaled: list[tuple[str, Image.Image]] = []
+    for name, im in figs:
+        w, h = im.size
+        ay = int(anchor_y[name])
+        ay = max(1, min(ay, h - 1))
+        feet_to_anchor = h - ay
+        scale = (target_eye_above_feet / feet_to_anchor) * float(boost.get(name, 1.0))
+        nw = max(1, int(round(w * scale)))
+        nh = max(1, int(round(h * scale)))
+        out = im.resize((nw, nh), Image.LANCZOS)
+        scaled.append((name, out))
+        print(
+            f"  eye-scale {name:12s} {w}x{h} -> {nw}x{nh} "
+            f"(scale={scale:.3f}, boost={boost.get(name, 1.0):.2f})"
+        )
+    return scaled
+
+
+def _row_width(row: list[tuple[str, Image.Image]]) -> int:
+    if not row:
+        return 0
+    return sum(im.size[0] for _, im in row) + LINEUP_GAP * (len(row) - 1)
+
+
+def place_on_baselines(
+    rows: list[list[tuple[str, Image.Image]]],
+    row_gap: int = LINEUP_GAP,
+) -> Image.Image:
+    """Place each row bottom-aligned on its own baseline; rows stacked top→bottom."""
+    row_heights = [max(im.size[1] for _, im in row) for row in rows]
+    row_widths = [_row_width(row) for row in rows]
+    total_w = LINEUP_MARGIN * 2 + max(row_widths)
+    total_h = (
+        LINEUP_MARGIN * 2
+        + sum(row_heights)
+        + row_gap * (len(rows) - 1)
+    )
+    canvas = Image.new("RGBA", (total_w, total_h), (0, 0, 0, 0))
+    y_top = LINEUP_MARGIN
+    for row, rh in zip(rows, row_heights):
+        baseline = y_top + rh
+        # center row horizontally if narrower than widest
+        row_w = _row_width(row)
+        x = LINEUP_MARGIN + (max(row_widths) - row_w) // 2
+        for name, im in row:
+            canvas.alpha_composite(im, (x, baseline - im.size[1]))
+            x += im.size[0] + LINEUP_GAP
+        y_top = baseline + row_gap
+    return canvas
+
+
+def build_lineup_eyes(
+    figs: list[tuple[str, Image.Image]],
+    anchor_y: dict[str, int],
+    target_eye_above_feet: int = TARGET_EYE_ABOVE_FEET,
+    scale_boost: dict[str, float] | None = None,
+    rows: int = 1,
+) -> Image.Image:
+    """Composite figures by scaling so eyes share a height, feet on baseline(s).
+
+    Base scale sets (height - anchor_y) == target_eye_above_feet. Optional
+    per-name boost multiplies size; figures bottom-align on each row's baseline.
+    rows=2 splits the lineup into two stacked rows (order preserved).
+    """
+    scaled = scale_for_eyes(figs, anchor_y, target_eye_above_feet, scale_boost)
+    if rows <= 1:
+        return place_on_baselines([scaled])
+
+    # Split into `rows` groups, balancing total width as evenly as possible.
+    n = len(scaled)
+    # Prefer nearly equal counts; for 9 figures / 2 rows → 5 + 4.
+    base, extra = divmod(n, rows)
+    counts = [base + (1 if i < extra else 0) for i in range(rows)]
+    # Put the larger count on top when uneven (5 then 4).
+    groups: list[list[tuple[str, Image.Image]]] = []
+    idx = 0
+    for c in counts:
+        groups.append(scaled[idx : idx + c])
+        idx += c
+    return place_on_baselines(groups)
 
 
 def edge_hits(im: Image.Image) -> int:
@@ -358,10 +476,36 @@ def main() -> None:
     figs: list[tuple[str, Image.Image]] = [("hai-walk", hai)] + creatures
     assert [n for n, _ in figs] == LINEUP_NAMES
 
-    lineup = build_lineup(figs)
-    lineup_path = OUT_DIR / "creatures-equal-height.png"
-    lineup.save(lineup_path, "PNG")
-    print(f"  wrote {lineup_path.relative_to(ROOT)} {lineup.size[0]}x{lineup.size[1]} ({len(figs)} figures)")
+    head_lineup = build_lineup_head(figs)
+    head_path = OUT_DIR / "creatures-equal-height.png"
+    head_lineup.save(head_path, "PNG")
+    print(
+        f"  wrote {head_path.relative_to(ROOT)} "
+        f"{head_lineup.size[0]}x{head_lineup.size[1]} ({len(figs)} figures, head-aligned)"
+    )
+
+    print("  eye-aligned lineups (scale to shared feet→eye distance):")
+    eye_scaled = scale_for_eyes(figs, anchor_y=ANCHOR_Y, scale_boost=EYE_SCALE_BOOST)
+
+    eye_1row = place_on_baselines([eye_scaled])
+    eye_1path = OUT_DIR / "creatures-eye-aligned.png"
+    eye_1row.save(eye_1path, "PNG")
+    print(
+        f"  wrote {eye_1path.relative_to(ROOT)} "
+        f"{eye_1row.size[0]}x{eye_1row.size[1]} ({len(figs)} figures, 1 row)"
+    )
+
+    # 9 figures → 5 top + 4 bottom (order preserved)
+    n = len(eye_scaled)
+    top_n = (n + 1) // 2
+    eye_2row = place_on_baselines([eye_scaled[:top_n], eye_scaled[top_n:]])
+    eye_2path = OUT_DIR / "creatures-eye-aligned-2row.png"
+    eye_2row.save(eye_2path, "PNG")
+    print(
+        f"  wrote {eye_2path.relative_to(ROOT)} "
+        f"{eye_2row.size[0]}x{eye_2row.size[1]} "
+        f"({top_n}+{n - top_n} figures, 2 rows)"
+    )
     print("Done.")
 
 
