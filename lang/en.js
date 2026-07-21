@@ -41,7 +41,7 @@ window.I18N.en = {
     "<p><em><b>Robert A. Heinlein</b> \"Stranger in a Strange Land\"</em></p>" +
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok the Rock = Stranger in a Strange Land + Grug</a></p>" +
+    "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok = Stranger in a Strange Land + Grug</a></p>" +
     "<p>(\"Grug\" cleans up \"Stranger\" for children <em>and</em> adults)</p>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"tall-tales.html\">Companion: Hai Ikthiss — Three Tall Tales</a></p>"
