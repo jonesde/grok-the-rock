@@ -43,7 +43,7 @@ window.I18N.no = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Steinen = Fremmed i en fremmed verden + Grug</a>" +
-    "</p><p>(\"Grug\" renser \"Fremmed\" for barn <em>og</em> voksne)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Følgeverk: Hai Ikthiss — Tre Høye Eventyr</a></p>",
+    "</p><p>(\"Grug\" renser \"Fremmed\" for barn <em>og</em> voksne)</p>",
 
   "p2": "<p>Grok Steinen våknet under det høye treet.</p>" +
     "<p>Solen var varm på kalksteinsryggen hans.</p>" +
@@ -526,9 +526,7 @@ window.I18N.no = {
     "<p>Med takk til de opprinnelige Tall Tellers:</p>" +
     "<p><em><b>J.R.R. Tolkien</b> \"Ringenes herre\"</em></p>" +
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
-    "<p><em>og hvert stille frø som lærte å gå</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Følgeverk: Grok Steinen — Tre stille historier</a></p>",
+    "<p><em>og hvert stille frø som lærte å gå</em></p>",
 
   "hai.p2": "<p>Hai Ikthiss styrte skogen fra toppen av det høye treet.</p>" +
     "<p>Han var det første treet i dalen.</p><p>Da dalen var tom, sto han alene.</p>" +

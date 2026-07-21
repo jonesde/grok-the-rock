@@ -38,7 +38,7 @@ window.I18N.fr = {
     " « Stranger in a Strange Land »</em></p><p><em><b>Ted Prior</b> « Grug »</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p><p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok le Rocher = Stranger " +
     "in a Strange Land + Grug</a></p><p>(« Grug » nettoie « Stranger » pour les enfants <em>et</em> " +
-    "les adultes)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Compagnon : Hai Ikthiss — Trois Contes Hauts</a></p>",
+    "les adultes)</p>",
 
   "p2": "<p>Grok le Rocher s'éveilla sous le grand arbre.</p><p>Le soleil était chaud sur son dos de calcaire.</p>" +
     "<p>Grok se sentait heureux.</p><hr><p>Il regarda le vaste monde</p><p>comme s'il le voyait pour " +
@@ -453,9 +453,7 @@ window.I18N.fr = {
     "<p>Avec gratitude envers les Tall Tellers Originaux :</p>" +
     "<p><em><b>J.R.R. Tolkien</b> « Le Seigneur des anneaux »</em></p>" +
     "<p><em><b>Ted Prior</b> « Grug »</em></p>" +
-    "<p><em>et chaque graine tranquille qui a appris à marcher</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Compagnon : Grok le Rocher — Trois Histoires Silencieuses</a></p>",
+    "<p><em>et chaque graine tranquille qui a appris à marcher</em></p>",
 
   "hai.p2": "<p>Hai Ikthiss régnait sur la forêt du haut du grand arbre.</p>" +
     "<p>Il était le premier arbre de la vallée.</p><p>Quand la vallée était vide, il se tenait seul.</p>" +

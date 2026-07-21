@@ -52,7 +52,7 @@ window.I18N.pt = {
     "<hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok a Rocha = Um Estranho numa Terra Estranha + Grug</a></p>" +
-    "<p>(\"Grug\" limpa \"Estranho\" para crianças <em>e</em> adultos)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Companheiro: Hai Ikthiss — Três Contos Altos</a></p>",
+    "<p>(\"Grug\" limpa \"Estranho\" para crianças <em>e</em> adultos)</p>",
 
   "p2": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
     "<p>O sol estava quente em suas costas de calcário.</p>" +
@@ -561,9 +561,7 @@ window.I18N.pt = {
     "<p>Com gratidão aos Tall Tellers Originais:</p>" +
     "<p><em><b>J.R.R. Tolkien</b> \"O Senhor dos Anéis\"</em></p>" +
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
-    "<p><em>e cada semente quieta que aprendeu a caminhar</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Companheiro: Grok a Rocha — Três Histórias Silenciosas</a></p>",
+    "<p><em>e cada semente quieta que aprendeu a caminhar</em></p>",
 
   "hai.p2": "<p>Hai Ikthiss governava a floresta do alto da árvore alta.</p>" +
     "<p>Ele era a primeira árvore do vale.</p><p>Quando o vale estava vazio, ele ficava sozinho.</p>" +

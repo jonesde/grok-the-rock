@@ -40,7 +40,7 @@ window.I18N.it = {
     " \"Straniero in terra straniera\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok la Roccia = Straniero in terra straniera + Grug</a>" +
-    "</p><p>(\"Grug\" rende \"Straniero\" adatto per bambini <em>e</em> adulti)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Compagno: Hai Ikthiss — Tre Racconti Alti</a></p>",
+    "</p><p>(\"Grug\" rende \"Straniero\" adatto per bambini <em>e</em> adulti)</p>",
 
   "p2": "<p>Grok la Roccia si svegliò sotto l'albero alto.</p><p>Il sole era caldo sulla sua schiena di calcare.</p>" +
     "<p>Grok si sentiva felice.</p><hr><p>Guardò il mondo vasto</p><p>come se lo vedesse per la primissima volta.</p>",
@@ -453,9 +453,7 @@ window.I18N.it = {
     "<p>Con gratitudine ai Tall Tellers originali:</p>" +
     "<p><em><b>J.R.R. Tolkien</b> \"Il Signore degli Anelli\"</em></p>" +
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
-    "<p><em>e ogni seme quieto che imparò a camminare</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Compagno: Grok la Roccia — Tre storie silenziose</a></p>",
+    "<p><em>e ogni seme quieto che imparò a camminare</em></p>",
 
   "hai.p2": "<p>Hai Ikthiss regnava sulla foresta dalla cima dell'albero alto.</p>" +
     "<p>Era il primo albero della valle.</p><p>Quando la valle era vuota, stava da solo.</p>" +

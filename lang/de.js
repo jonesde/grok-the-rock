@@ -38,7 +38,7 @@ window.I18N.de = {
     "<p>und für jedes wahre Wort, das steht, auch wenn es ungehört bleibt.</p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p><p>Mit Dank an die Original Grokkers:</p><p><em><b>Robert A. Heinlein</b> „Fremder in einer fremden Welt“</em></p><p><em><b>Ted Prior</b> „Grug“</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok der Fels = Fremder in einer fremden Welt + Grug</a>" +
-    "</p><p>(„Grug“ macht „Fremder“ sauber für Kinder <em>und</em> Erwachsene)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Begleiter: Hai Ikthiss — Drei hohe Märchen</a></p>",
+    "</p><p>(„Grug“ macht „Fremder“ sauber für Kinder <em>und</em> Erwachsene)</p>",
 
   "p2": "<p>Grok der Fels erwachte unter dem hohen Baum.</p><p>Die Sonne war warm auf seinem Kalksteinrücken.</p>" +
     "<p>Grok fühlte sich glücklich.</p><hr><p>Er betrachtete die weite Welt</p>" +
@@ -466,9 +466,7 @@ window.I18N.de = {
     "<p>Mit Dank an die ursprünglichen Tall Tellers:</p>" +
     "<p><em><b>J.R.R. Tolkien</b> „Der Herr der Ringe“</em></p>" +
     "<p><em><b>Ted Prior</b> „Grug“</em></p>" +
-    "<p><em>und jedes stille Samenkorn, das gehen lernte</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Begleiter: Grok der Fels — Drei stille Geschichten</a></p>",
+    "<p><em>und jedes stille Samenkorn, das gehen lernte</em></p>",
 
   "hai.p2": "<p>Hai Ikthiss regierte den Wald von der Spitze des hohen Baumes.</p>" +
     "<p>Er war der erste Baum im Tal.</p><p>Als das Tal leer war, stand er allein.</p>" +

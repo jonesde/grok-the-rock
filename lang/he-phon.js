@@ -43,7 +43,7 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">GROK ha-TZUR = ZAR be-E-rets za-RAH + GRUG</p>" +
     "<p>(&quot;גראג&quot; מנקה את &quot;זר&quot; למען ילדים <em>וגם</em> מבוגרים)</p>" +
     "<p class=\"phon\">(&quot;GRUG&quot; me-na-KEH et &quot;ZAR&quot; le-MA-an ye-la-DIM <em>ve-GAM</em> u-me-vu-ga-RIM)</p>" +
-    "<p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">בן־לווה: האי איקתיס — שלושה סיפורי גובה</a></p>" +
+    "" +
     "<p class=\"phon\">ben-le-VAY: ha-EE ik-TEES — shlo-SHAH si-pu-RAY go-VAH</p>",
 
   "cover.alt": "עטיפה: גרוק הצור, יצור קטן מאבן גיר אפורה עם טחב על ראשו, יושב על סלע חלק מתחת לעץ גבוה בעל עלים רכים ליד בור מים זוהר באור חם של ארץ-השיח.",
@@ -629,8 +629,6 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\"><em>TED PRA-yor &quot;GRUG&quot;</em></p>" +
     "<p><em>ולכל זרע שקט שלמד ללכת</em></p>" +
     "<p class=\"phon\"><em>ul-khol ZE-ra sha-KET she-la-MAD la-LE-khet</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">בן־לווה: גרוק הצור — שלושה סיפורים שקטים</a></p>" +
     "<p class=\"phon\">ben-le-VAY: GROK ha-TZUR — shlo-SHAH si-pu-RIM shke-TIM</p>",
 
   "hai.p2":

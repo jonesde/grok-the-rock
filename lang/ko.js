@@ -52,7 +52,7 @@ window.I18N.ko = {
     "<hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">바위 그록 = 『낯선 땅의 이방인』 + Grug</a></p>" +
-    "<p>（『Grug』가 『이방인』을 아이들과 어른들에게 깨끗이 해줍니다）</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">짝 이야기: Hai Ikthiss — 세 편의 키 큰 이야기</a></p>",
+    "<p>（『Grug』가 『이방인』을 아이들과 어른들에게 깨끗이 해줍니다）</p>",
 
   "p2": "<p>바위 그록은 키 큰 나무 아래에서 깨어났습니다.</p>" +
     "<p>석회암 등에 햇살이 따뜻했습니다.</p>" +
@@ -487,9 +487,7 @@ window.I18N.ko = {
     "<p>원조 Tall Tellers께 감사하며:</p>" +
     "<p><em><b>J.R.R. 톨킨</b> 『반지의 제왕』</em></p>" +
     "<p><em><b>테드 프라이어</b> 『Grug』</em></p>" +
-    "<p><em>그리고 걷는 법을 배운 모든 고요한 씨앗에게</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">짝 이야기: 바위 그록 — 세 편의 조용한 이야기</a></p>",
+    "<p><em>그리고 걷는 법을 배운 모든 고요한 씨앗에게</em></p>",
 
   "hai.p2": "<p>Hai Ikthiss는 키 큰 나무 꼭대기에서 숲을 다스렸습니다.</p>" +
     "<p>골짜기의 첫 나무였습니다.</p><p>골짜기가 비었을 때, 홀로 서 있었습니다.</p>" +

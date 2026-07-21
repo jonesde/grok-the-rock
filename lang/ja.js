@@ -49,7 +49,7 @@ window.I18N.ja = {
     "<p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">岩グロック = 『異星の客』+ Grug</a></p>" +
-    "<p>（『Grug』が『異星の客』を子どもにも大人にもきれいにします）</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">対になる物語：Hai Ikthiss — 三つの背高なたとえ話</a></p>",
+    "<p>（『Grug』が『異星の客』を子どもにも大人にもきれいにします）</p>",
 
   "p2": "<p>岩グロックは高い木の下で目を覚ましました。</p>" +
     "<p>お日さまが石灰岩の背中をあたためていました。</p>" +
@@ -472,9 +472,7 @@ window.I18N.ja = {
     "<p>最初の Tall Tellers に感謝を：</p>" +
     "<p><em><b>J.R.R.トールキン</b>『指輪物語』</em></p>" +
     "<p><em><b>テッド・プライアー</b>『Grug』</em></p>" +
-    "<p><em>そして歩くことを学んだすべての静かな種に</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">対になる物語：岩グロック — 三つの静かな物語</a></p>",
+    "<p><em>そして歩くことを学んだすべての静かな種に</em></p>",
 
   "hai.p2": "<p>Hai Ikthissは高い木の頂きから森を治めていました。</p>" +
     "<p>谷で最初の木でした。</p><p>谷が空のとき、ひとりで立っていました。</p>" +

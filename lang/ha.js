@@ -40,7 +40,7 @@ window.I18N.ha = {
     " \"Baƙo a Ƙasar Baƙo\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Dutsen = Baƙo a Ƙasar Baƙo + Grug</a>" +
-    "</p><p>(\"Grug\" yana tsaftace \"Baƙo\" ga yara <em>da</em> manya)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Aboki: Hai Ikthiss — Tatsuniyoyi Uku Masu Tsayi</a></p>",
+    "</p><p>(\"Grug\" yana tsaftace \"Baƙo\" ga yara <em>da</em> manya)</p>",
 
   "p2": "<p>Grok Dutsen ya farka a ƙarƙashin doguwar bishiya.</p><p>Rana ta yi zafi a bayansa na dutsen farar ƙasa.</p>" +
     "<p>Grok ya ji farin ciki.</p><hr><p>Ya kalli faffadar duniya</p>" +
@@ -293,9 +293,7 @@ window.I18N.ha = {
     "<p>Tare da godiya ga asalin Tall Tellers:</p>" +
     "<p><em><b>J.R.R. Tolkien</b> \"Ubangijin Zobba\"</em></p>" +
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
-    "<p><em>da kowane iri mai natsuwa da ya koyi tafiya</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Aboki: Grok Dutsen — Labarai Uku Masu Natsuwa</a></p>",
+    "<p><em>da kowane iri mai natsuwa da ya koyi tafiya</em></p>",
 
   "hai.p2": "<p>Hai Ikthiss yana mulkin daji daga saman bishiyar doguwa.</p>" +
     "<p>Shi ne bishiya ta farko a kwarin.</p><p>Lokacin da kwarin ya kasance fanko, ya tsaya shi kaɗai.</p>" +

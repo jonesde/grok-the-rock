@@ -40,7 +40,7 @@ window.I18N.nl = {
     " \"Vreemdeling in een vreemd land\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok de Rots = Vreemdeling in een vreemd land + Grug</a>" +
-    "</p><p>(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Metgezel: Hai Ikthiss — Drie Hoge Vertellingen</a></p>",
+    "</p><p>(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)</p>",
 
   "p2": "<p>Grok de Rots werd wakker onder de hoge boom.</p><p>De zon was warm op zijn kalkstenen rug.</p>" +
     "<p>Grok voelde zich blij.</p><hr><p>Hij keek naar de wijde wereld</p>" +
@@ -465,9 +465,7 @@ window.I18N.nl = {
     "<p>Met dank aan de oorspronkelijke Tall Tellers:</p>" +
     "<p><em><b>J.R.R. Tolkien</b> \"In de ban van de ring\"</em></p>" +
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
-    "<p><em>en elk stil zaad dat leerde lopen</em></p>" +
-    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Metgezel: Grok de Rots — Drie stille verhalen</a></p>",
+    "<p><em>en elk stil zaad dat leerde lopen</em></p>",
 
   "hai.p2": "<p>Hai Ikthiss regeerde het bos vanop de top van de hoge boom.</p>" +
     "<p>Hij was de eerste boom in het dal.</p><p>Toen het dal leeg was, stond hij alleen.</p>" +
