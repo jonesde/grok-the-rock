@@ -27,7 +27,7 @@ window.I18N.de = {
   "credit.6": "Gemeinfrei (CC0 1.0)",
   "credit.7": "Kopiere es • Teile es • Übersetze es • Zeichne es neu • Lass es wachsen",
 
-  "credit.companion": "<em>Begleiter zu <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+  "credit.companion": "<em>Begleiter zu <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Drei hohe Märchen</a></em>",
 
   "dedication": "<p><b>Für alle Entdecker, klein und groß,</b></p>" +
     "<p><b>die die Welt auf ihre eigene sanfte Weise grokken.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
@@ -36,7 +36,7 @@ window.I18N.de = {
     "<p>und für jedes wahre Wort, das steht, auch wenn es ungehört bleibt.</p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p><p>Mit Dank an die Original Grokkers:</p><p><em><b>Robert A. Heinlein</b> „Fremder in einer fremden Welt“</em></p><p><em><b>Ted Prior</b> „Grug“</em></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok der Fels = Fremder in einer fremden Welt + Grug</a>" +
-    "</p><p>(„Grug“ macht „Fremder“ sauber für Kinder <em>und</em> Erwachsene)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Begleiter: Hai Ikthiss — Three Tall Tales</a></p>",
+    "</p><p>(„Grug“ macht „Fremder“ sauber für Kinder <em>und</em> Erwachsene)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Begleiter: Hai Ikthiss — Drei hohe Märchen</a></p>",
 
   "p2": "<p>Grok der Fels erwachte unter dem hohen Baum.</p><p>Die Sonne war warm auf seinem Kalksteinrücken.</p>" +
     "<p>Grok fühlte sich glücklich.</p><hr><p>Er betrachtete die weite Welt</p>" +
@@ -409,5 +409,199 @@ window.I18N.de = {
   "cover.title": "<h1>Grok der Fels</h1><h3>Drei stille Geschichten</h3><h2>Sein · Flicken · Sehen</h2>",
   "c1.title": "<h2>Kapitel Eins - Sein</h2><p><em>Grok und das kleine Gefühl</em></p>",
   "c2.title": "<h2>Kapitel Zwei - Flicken</h2><p><em>Grok kümmert sich</em></p>",
-  "c3.title": "<h2>Kapitel Drei - Sehen</h2><p><em>Grok und das wahre Wort</em></p>"
+  "c3.title": "<h2>Kapitel Drei - Sehen</h2><p><em>Grok und das wahre Wort</em></p>",
+
+  "hai.cover.alt": "Umschlag: Lord Hai Ikthiss, ein weiter gütiger lebender hoher Baum mit sanftem Gesicht im oberen Stamm, steht über einer Quelle im bewaldeten Tal, während kleine Wesen durch weichen Nebel hinaufschauen.",
+  "hai.dedication.alt": "Widmungsseite: drei winzige grüne Keime neben einem klaren Wassertropfen auf einer fast leeren warmen Cremeseite; optional winzige weiche Silhouette von Hai Ikthiss dem hohen Baum fern im kühlen Nebel.",
+  "hai.p1.alt": "Kapitel Eins, Sein — Hai und das leere Lob. Hai Ikthiss als weiter lebender hoher Baum mit gütigem Gesicht füllt den oberen Teil, während kleine Talwesen hell lobend hinaufschauen.",
+  "hai.p2.alt": "Morgendämmerung über einem jungen bewaldeten Tal: Hai Ikthiss steht als einziger lebender hoher Baum mit sanftem Gesicht, Wurzeln trinken eine helle neue Quelle, erstes Gras und ein kleiner Vogel kommen.",
+  "hai.p3.alt": "Ein stolzer Hirsch mit hohem Geweih jubelt an den Wurzeln des hohen Hai Ikthiss, andere Wesen stimmen ein; niemand schaut hinauf in die Augen des Baumes.",
+  "hai.p4.alt": "Ein kräftiger Dachs verneigt sich zum großen Stamm von Hai Ikthiss, lobt die stärkste Wurzel, während Wesen Schatten und Höhe danken, ohne sein Gesicht zu sehen.",
+  "hai.p5.alt": "Ein heller Rabe ruft großes Lob vom Ast, während der obere Stamm von Hai Ikthiss ein weiches hohles Leuchten zeigt, wie ein leerer Becher, der Wasser braucht.",
+  "hai.p6.alt": "Hai Ikthiss steht still und gütig, eine lange Wurzel oder niedriger Ast greift sanft zur Bodenquelle, hört zu statt nur Lob zu empfangen.",
+  "hai.p7.alt": "Nachts unter tiefem Sternenhimmel hält die Krone von Hai Ikthiss die Sterne, während ein weiches Hohles im oberen Stamm langsam wärmt und leuchtet.",
+  "hai.p8.alt": "Morgen gold erhellt Hai Ikthiss’ sanftes Gesicht, während er den Stamm hinab zu den Wurzeln schaut, innen klarer, während das Tal unten noch jubelt.",
+  "hai.p9.alt": "Hai Ikthiss sendet weiche Wasserströme und sanftes Licht hinab zu winzigen Farnen und kleinen Tieren an den Wurzeln und lächelt ein einfaches Baumlächeln der Zufriedenheit.",
+  "hai.p10.alt": "Kapitel Zwei, Flicken — Kai geht unten. Ein kleines lebendes gehendes Samenwesen mit Sprossenschopf und gütigen Augen steht am Fuß des großen hohen Baumes; die kleine Gestalt ist Hai Ikthiss in demütiger Samenform.",
+  "hai.p11.alt": "In einem englischen Moos-und-Farn-Garten an den Wurzeln des hohen Baumes lächelt Hai Ikthiss in demütiger Kai-Form—ein kleines lebendes gehendes Samenkorn—zwischen Melonenranken.",
+  "hai.p12.alt": "Pip der junge Igel erstarrt mitten im Schritt vor Entsetzen, als eine große Melone auf dem Boden aufplatzt; Kai (Hai Ikthiss als lebendes gehendes Samenkorn) steht klein und fest zwischen den verschütteten Samen.",
+  "hai.p13.alt": "Pip rollt sich vor Scham ein, während Kai (kleine lebende gehende Samenform von Hai Ikthiss) gütig und still steht; Fuchs und Hermelin unter dem Waldvolk wirken hart und urteilend.",
+  "hai.p14.alt": "Kai (Hai Ikthiss als kleines lebendes gehendes Samenkorn) kniet und bietet Pip mit offener Güte einen Grabstock; Pip rollt sich langsam aus, als Hoffnung zurückkehrt.",
+  "hai.p15.alt": "Kai und Pip pflanzen und gießen nebeneinander und bauen einen kleinen Zweigzaun um neue Samen, beide sanft lächelnd.",
+  "hai.p16.alt": "Pip gießt gedeihende neue Melonenranken, während Kai mit stiller Freude zuschaut; der hohe Baum steht friedlich über dem englischen Garten.",
+  "hai.p17.alt": "Zur goldenen Stunde sitzen Kai und Pip bei gedeihenden Melonen mit einem weiteren kleinen Wesen, eine friedlich geflickte Gartengemeinschaft.",
+  "hai.p18.alt": "Kapitel Drei, Sehen — Hai und der ferne Blick. Ein gütiger gehender hoher Baum bietet beide Hände nach unten zum Heben; kleine Wesen schauen staunend hinauf.",
+  "hai.p19.alt": "Zwei Jahre später ist Hai Ikthiss zur goldenen Stunde wieder zu Hause in der Krone, doch Wesen flüstern ängstlich an den Wurzeln statt zu jubeln.",
+  "hai.p20.alt": "Ein glänzender Fasan mit langem spektakulärem Schwanz sitzt auf mittlerer Höhe und warnt andere, niedrig zu bleiben, während Hai Ikthiss hoch oben gütig und still bleibt.",
+  "hai.p21.alt": "Eine sehr alte schlichte Eule spricht leise vom gütigen Kai, während Hai Ikthiss den ganzen Stamm hinab mit offener Aufmerksamkeit zuhört.",
+  "hai.p22.alt": "Hai Ikthiss tritt sanft aus stillem Holz und wird ein lebendes gehendes hohes Baumwesen—lange gütige Glieder, tiefe Wurzelfüße, ein Gesicht, dem man endlich begegnen kann.",
+  "hai.p23.alt": "Hai Ikthiss beugt sich wie eine Brücke aus Holz und Güte mit einer großen Hand tief offen; Pip tritt vor, während andere Wesen halb versteckt zuschauen.",
+  "hai.p24.alt": "Hai Ikthiss hebt willige Freunde—Pip, die Eule, andere, sogar den Fasan—auf gemeinsame Riesenhöhe, dieselben Gesichter, Augen nun auf einer Ebene mit Staunen.",
+  "hai.p25.alt": "Auf einem hohen Kamm zur goldenen Stunde blicken Hai Ikthiss und seine Riesenfreunde gemeinsam über das ganze friedliche bewaldete Tal.",
+  "hai.p26.alt": "Schlussseite: weites bewaldetes Tal in friedlicher Dämmerung mit Hai Ikthiss als gütigem gehenden hohen Baum unter sanften Riesenfreunden auf einem weichen Anstieg, Sterne beginnen zu erscheinen.",
+
+  "hai.site.title": "Hai Ikthiss - Drei hohe Märchen",
+  "hai.cover.title": "<h1>Hai Ikthiss</h1><h3>Drei hohe Märchen</h3><h2>Sein · Flicken · Sehen</h2>",
+  "hai.title.h1": "Hai Ikthiss",
+  "hai.title.h3": "Drei hohe Märchen",
+  "hai.title.h2": "Sein · Flicken · Sehen",
+  "hai.credit.1": "Geschichtsentwurf, Bildanregungen mit Grok 4.5 von xAI",
+  "hai.credit.2": "Illustrationen mit Grok Imagine von xAI",
+  "hai.credit.3": "Regeln, Bearbeitung, Automatisierung mit HY3 von Tencent",
+  "hai.credit.4": "<em>Nicht verbunden mit oder unterstützt von xAI oder Tencent</em>",
+  "hai.credit.5": "Dies ist eine von KI erzeugte, von Menschen kuratierte Geschichts-Meme",
+  "hai.credit.6": "Gemeinfrei (CC0 1.0)",
+  "hai.credit.7": "Kopiere es • Teile es • Übersetze es • Zeichne es neu • Lass es wachsen",
+  "hai.credit.companion":
+    "<em>Begleiter zu <a class=\"seelink\" href=\"index.html\">Grok der Fels: Drei stille Geschichten</a></em>",
+
+  "hai.dedication":
+    "<p><b>Für jedes Leben, das dem Licht entgegenwächst,</b></p>" +
+    "<p><b>und jede Hand, die sich hinab streckt, um zu heben.</b></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Und für jeden leeren Jubel,</p><p>  der noch wahres Sehen braucht,</p>" +
+    "<p>jeden hohen Ort,</p><p>  der noch Flicken unten braucht,</p>" +
+    "<p>und für jedes lebendige Wasser,</p><p>  das die niedrigste Wurzel findet.</p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Mit Dank an die ursprünglichen Tall Tellers:</p>" +
+    "<p><em><b>J.R.R. Tolkien</b> „Der Herr der Ringe“</em></p>" +
+    "<p><em><b>Ted Prior</b> „Grug“</em></p>" +
+    "<p><em>und jedes stille Samenkorn, das gehen lernte</em></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p><a class=\"seelink\" href=\"index.html\">Begleiter: Grok der Fels — Drei stille Geschichten</a></p>",
+
+  "hai.p2": "<p>Hai Ikthiss regierte den Wald von der Spitze des hohen Baumes.</p>" +
+    "<p>Er war der erste Baum im Tal.</p><p>Als das Tal leer war, stand er allein.</p>" +
+    "<p>Der Regen fand ihn zuerst.</p><p>Dann Gras.</p><p>Dann Vögel.</p>",
+
+  "hai.p3": "<p>Bald füllte sich das Tal mit Leben.</p><p>Ein Hirsch hob sein Geweih und rief:</p>" +
+    "<p>„Lord Ikthiss ist der Höchste!</p><p>Wir haben Glück, dass er für uns steht!“</p><hr>" +
+    "<p>Alle jubelten.</p><p>Niemand schaute hinauf in seine Augen.</p>",
+
+  "hai.p4": "<p>Ein Dachs kam schwerfällig heran, solid und stark.</p>" +
+    "<p>„Lord Ikthiss ist die stärkste Wurzel!“</p><p>sagte er. „Alle danken dem Baum!“</p><hr>" +
+    "<p>Sie dankten dem Schatten.</p><p>Sie dankten der Höhe.</p>" +
+    "<p>Sie dankten nicht dem Herzen im Holz.</p>",
+
+  "hai.p5": "<p>Ein Rabe rief von einem Ast.</p><p>„Seht, wie großartig unser Lord Ikthiss ist!</p>" +
+    "<p>So hoch! So gebend!“</p><hr><p>Das Lob wuchs laut wie Regen.</p>" +
+    "<p>Aber Hai spürte eine hohle Stelle</p><p>hoch in seiner Mitte,</p>" +
+    "<p>wie einen Becher, den niemand gefüllt hatte.</p>",
+
+  "hai.p6": "<p>Er hätte mehr Jubel verlangen können.</p><p>Er hätte seine Äste schütteln können,</p>" +
+    "<p>bis jedes Wesen tiefer verbeugte.</p><hr><p>Er tat es nicht.</p>" +
+    "<p>Er hörte nur der Quelle zu</p><p>und spürte den hohlen Becher warten.</p><hr>" +
+    "<p>Etwas in ihm wollte einen Haken</p><p>zum Boden — eine lebendige Verbindung —</p>" +
+    "<p>nicht mehr Lärm von unten.</p>",
+
+  "hai.p7": "<p>In jener Nacht saß Hai mit den Sternen in seinen Blättern.</p>" +
+    "<p>Er ließ den hohlen Becher bleiben.</p><p>Er füllte ihn nicht mit lauterem Lob.</p>" +
+    "<p>Er kippte ihn nicht auf jemand anderen.</p><hr><p>Langsam weichte das Hohle auf,</p>" +
+    "<p>wie trockene Erde, wenn erstes Wasser sie findet.</p><p>Er begann es zu verstehen.</p>",
+
+  "hai.p8": "<p>Am nächsten Morgen jubelte das Tal noch.</p>" +
+    "<p>Hai Ikthiss gab noch Schatten und Frucht und stilles Auffangen von Regen.</p>" +
+    "<p>Draußen hatte sich nichts Großes geändert.</p><hr><p>Aber innen fühlte sich alles klarer an.</p>" +
+    "<p>Er begann zu wissen,</p><p>wofür der hohle Becher war.</p>" +
+    "<p>Nicht um Lob zu sammeln.</p><p>Sondern um sich selbst hinab zu gießen.</p>",
+
+  "hai.p9": "<p>Er verbrachte den Tag damit, extra Wasser</p>" +
+    "<p>zu den kleinsten Wurzeln und durstigsten Farnen zu senden.</p>" +
+    "<p>Als er fertig war, lächelte er ein Baumlächeln.</p><p>Die Gaben waren groß.</p>" +
+    "<p>Der Dank war laut.</p><p>Das Wissen war genug.</p><hr>" +
+    "<p>Von dem Tag an, wenn der hohle Becher wieder wachsen wollte,</p>" +
+    "<p>blieb Hai still, bis er ruhig wurde.</p><p>Er blieb einfach Hai.</p>" +
+    "<p>Und er begann, einen kleineren Weg zu planen.</p>",
+
+  "hai.p11": "<p>Hai Ikthiss regierte den Wald von der Spitze des hohen Baumes.</p>" +
+    "<p>Dann stieg er an einem stillen Morgen hinab.</p><p>Er ließ die Krone leer von seinem Gesicht</p>" +
+    "<p>und ging als lebendes gehendes Samenkorn auf dem Boden.</p><hr><p>Die Tiere fanden ihn zwischen den Melonen.</p>" +
+    "<p>„Wer bist du?“ fragten sie.</p><p>„Ihr könnt mich Kai nennen,“ sagte er</p>" +
+    "<p>und lächelte ein geduldiges Samenlächeln.</p>",
+
+  "hai.p12": "<p>An jenem Nachmittag rannte sein Freund, ein junger Igel namens Pip,</p>" +
+    "<p>durch den Garten und schaute hinter sich</p>" +
+    "<p>und stieß die beste Melonenranke um.</p>" +
+    "<p>Die große Melone platzte auf dem Boden auf.</p><p>Samen und süßer Saft verschütteten sich überall.</p>",
+
+  "hai.p13": "<p>Pip erstarrte.</p><p>Seine Stacheln zitterten.</p>" +
+    "<p>„Ich habe es ruiniert,“ flüsterte er.</p><p>„Du wirst wütend sein. Alle werden wütend sein.“</p><hr>" +
+    "<p>Etwas Waldvolk versammelte sich.</p><p>„Schickt ihn weg,“ murmelte ein Fuchs.</p>" +
+    "<p>„Er soll drei neue Melonen bringen,“ sagte ein Hermelin.</p>",
+
+  "hai.p14": "<p>Kai betrachtete die gebrochene Ranke.</p><p>Er betrachtete Pips sorgenvolle Augen.</p><hr>" +
+    "<p>Er erhob nicht die Stimme.</p><p>Er zeigte nicht mit dem Finger.</p><p>Er nahm einen Grabstock</p>" +
+    "<p>und begann, weichen Boden vorzubereiten.</p><hr><p>„Komm,“ sagte Kai sanft.</p>" +
+    "<p>„Wir pflanzen neue Samen zusammen.“</p>",
+
+  "hai.p15": "<p>Pip blinzelte.</p><p>Dann kam er näher.</p><p>Zusammen pflanzten sie.</p><p>Zusammen gossen sie.</p>" +
+    "<p>Zusammen bauten sie einen kleinen Zaun aus Zweigen,</p><p>damit niemand dort wieder aus Versehen trat.</p>",
+
+  "hai.p16": "<p>Während sie arbeiteten, erzählte Pip Kai,</p><p>er sei gerannt, weil größere Wesen</p>" +
+    "<p>ihn gejagt und gelacht hatten.</p><p>Er hatte die Ranke nicht gesehen.</p><hr>" +
+    "<p>An den nächsten Tagen kam Pip jeden Morgen.</p>" +
+    "<p>Er wurde der beste Wasserträger im Tal.</p><p>Die neuen Ranken wuchsen stark,</p>" +
+    "<p>sogar stärker als die alten,</p><p>weil zwei Freunde sie pflegten.</p>",
+
+  "hai.p17": "<p>Als andere kleine Unfälle geschahen</p><p>(wie sie immer geschehen),</p>" +
+    "<p>erinnerte Kai sich an die Melone.</p><p>Er half dem, der sich verletzt fühlte.</p>" +
+    "<p>Er blieb auch gütig zu dem, der gestoßen hatte.</p><hr><p>Niemand wurde weggeschickt.</p>" +
+    "<p>Niemand trug einen langen schweren Schmerz.</p><p>Sie pflegten nur das Gebrochene,</p>" +
+    "<p>und die Freundschaft fühlte sich fester an,</p><p>genau an der geflickten Stelle.</p><hr>" +
+    "<p>Hai Ikthiss lernte, als Kai gehend,</p><p>dass ein Garten und eine Freundschaft</p>" +
+    "<p>nicht dadurch leben, dass sie nie brechen.</p>" +
+    "<p>Sie leben, indem man sie sanft wieder zusammenfügt.</p>",
+
+  "hai.p19": "<p>Hai Ikthiss regierte den Wald von der Spitze des hohen Baumes.</p>" +
+    "<p>Zwei Jahre waren vergangen.</p><p>Er war wieder zu Hause in der Krone.</p>" +
+    "<p>Aber das Tal hatte sein Lied gewechselt.</p><hr><p>Wesen, die einst jubelten,</p>" +
+    "<p>flüsterten nun an den Wurzeln.</p><p>„Er ist zu hoch,“ sagten sie.</p>" +
+    "<p>„Was, wenn der Hohe zu viel will?“</p>",
+
+  "hai.p20": "<p>Ein glänzender Fasan mit prächtigen Schwanzfedern landete in der Nähe.</p>" +
+    "<p>„Bleibt niedrig,“ sagte der Fasan.</p>" +
+    "<p>„Hohes fällt. Prächtige Federn wissen es am besten.“</p><hr>" +
+    "<p>Einige junge Tiere nickten heftig.</p><p>Sie nickten immer, wenn der Fasan sprach.</p>" +
+    "<p>Seine Angst klang so prächtig wie seine Federn.</p>",
+
+  "hai.p21": "<p>Später sprach eine sehr alte Eule mit langsamer sanfter Stimme.</p>" +
+    "<p>„Ich erinnere mich an Kai,“ sagte sie.</p><p>„Das kleine Samenkorn, das mit Pip pflanzte.</p>" +
+    "<p>Gütige Hände ändern sich nicht, wenn sie hoch werden.“</p><hr>" +
+    "<p>Einige Tiere wandten sich ab,</p><p>weil die Eule nicht berühmt war.</p>" +
+    "<p>Hai hörte den ganzen Stamm hinab zu.</p>",
+
+  "hai.p22": "<p>Hai Ikthiss schrie sie nicht still.</p>" +
+    "<p>Er schüttelte den Fasan nicht vom Ast.</p><p>Er trat aus stillem Holz</p>" +
+    "<p>und wurde ein gehender hoher Baum —</p><p>lange gütige Glieder, tiefe Wurzelfüße,</p>" +
+    "<p>ein Gesicht, dem sie endlich begegnen konnten.</p><hr><p>Nicht um zu überragen.</p><p>Um nah zu kommen.</p>",
+
+  "hai.p23": "<p>Einige Tiere traten zurück.</p><p>Pip nicht.</p><p>Pip erinnerte sich an die Melone</p>" +
+    "<p>und den Grabstock</p><p>und die neuen Samen.</p><hr>" +
+    "<p>Hai beugte sich wie eine Brücke aus Holz und Güte.</p><p>„Kommt,“ sagte er.</p>" +
+    "<p>„Nicht unter mir.</p><p>Mit mir.“</p>",
+
+  "hai.p24": "<p>Er hob Pip zuerst —</p><p>nicht um Macht zu zeigen,</p><p>sondern um den Blick zu teilen.</p>" +
+    "<p>Dann hob er die Eule.</p><p>Dann die, die ihn gefürchtet hatten.</p>" +
+    "<p>Sogar den Fasan, als der Fasan bereit war.</p><hr>" +
+    "<p>Jeder Freund stieg zu Hais Höhe</p><p>und wurde mit ihm ein Riese —</p>" +
+    "<p>dasselbe Gesicht, dasselbe Herz,</p><p>nur die Augen nun auf Höhe der fernen Hügel.</p>",
+
+  "hai.p25": "<p>Aus der hohen stillen Luft</p><p>sahen sie das ganze Tal auf einmal —</p>" +
+    "<p>den Waldteich, den alten Garten,</p><p>die Orte, wo Lob laut gewesen war,</p>" +
+    "<p>und die Orte, wo Angst klein gewesen war.</p><hr><p>Hai fühlte Frieden.</p>" +
+    "<p>Er brauchte nicht den höchsten Jubel.</p><p>Er brauchte nur wahre Freunde,</p>" +
+    "<p>die so weit sehen können, wie Liebe sieht.</p><hr><p>Solange jemand frei sagen konnte</p>" +
+    "<p>„ich hatte Angst“</p><p>und trotzdem willkommen gehoben wurde,</p>" +
+    "<p>konnte der ferne Blick weitergehen</p><p>auf vielen starken Beinen.</p>",
+
+  "hai.p26": "<p>Und so blieb Hai Ikthiss</p><p>ein lebendiger hoher Gefährte,</p>" +
+    "<p>der mit einem leeren Becher Lob sitzen konnte,</p><p>der flickte, was von unten brach,</p>" +
+    "<p>und der jeden willigen Freund</p><p>zu geteiltem fernem Blick hob.</p><hr>" +
+    "<p>Das Tal fühlte sich weiter an,</p><p>weil er es tat.</p><hr>" +
+    "<p>Nun konnten alle so weit sehen wie Hai.</p><hr>" +
+    "<p>Er goss weiter sanft.</p><p>Und die Welt ließ ihn weiter wachsen.</p>",
+
+  "hai.c1.title": "<h2>Kapitel Eins - Sein</h2><p><em>Hai und das leere Lob</em></p>",
+  "hai.c2.title": "<h2>Kapitel Zwei - Flicken</h2><p><em>Kai geht unten</em></p>",
+  "hai.c3.title": "<h2>Kapitel Drei - Sehen</h2><p><em>Hai und der ferne Blick</em></p>"
 };
