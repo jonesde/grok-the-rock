@@ -10,7 +10,7 @@ window.I18N.en = {
   "nav.downloadError": "Download failed. Open the site over http(s), not as a local file.",
 
   "download.dialogTitle": "Download the site",
-  "download.dialogDesc": "Downloads a single .zip with all 4 web pages — Quiet Stories, Tall Tales, Rules, and About — plus every image, style, and script they need to read the whole site offline.",
+  "download.dialogDesc": "Downloads a single .zip with all 5 web pages — Quiet Stories, Tall Tales, Rules, About, and All Book Text — plus every image, style, and script they need to read the whole site offline.",
   "download.dialogCancel": "Cancel",
   "download.dialogConfirm": "Download",
 

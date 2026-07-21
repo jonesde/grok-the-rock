@@ -65,7 +65,8 @@
       "  </a>\n" +
       '<dialog id="download-dialog" class="site-dialog" aria-labelledby="download-dialog-title">\n' +
       '  <h2 id="download-dialog-title" data-i18n="download.dialogTitle">Download the site</h2>\n' +
-      '  <p data-i18n="download.dialogDesc">Downloads a single .zip with all 4 web pages — Quiet Stories, Tall Tales, Rules, and About — plus every image, style, and script they need to read the whole site offline.</p>\n' +
+      '  <p data-i18n="download.dialogDesc">Downloads a single .zip with all 5 web pages — Quiet Stories, Tall Tales, Rules, About, and All Book Text — plus every image, style, and script they need to read the whole site offline.</p>\n' +
+      '  <p class="site-dialog-status" id="download-status" role="status" aria-live="polite"></p>\n' +
       '  <div class="site-dialog-actions">\n' +
       '    <button type="button" class="site-link" id="download-cancel-btn" data-i18n="download.dialogCancel">Cancel</button>\n' +
       '    <button type="button" class="site-link" id="download-confirm-btn" data-i18n="download.dialogConfirm" autofocus>Download</button>\n' +
@@ -439,6 +440,7 @@
     "about-grok.html",
     "grok-rules.html",
     "tall-tales.html",
+    "book-text.html",
     "site.js",
     "site.css",
     "vendor/fflate.min.js",
@@ -577,51 +579,54 @@
     });
   }
 
-  function restoreLabel(btn) {
-    var key = btn.getAttribute("data-i18n");
-    if (key && btn.dataset.i18nEn) {
-      btn.textContent = t(key, btn.dataset.i18nEn);
-    } else {
-      btn.textContent = t("nav.download", "Download");
-    }
+  var building = false;
+
+  function setStatus(statusEl, msg) {
+    if (statusEl) statusEl.textContent = msg;
   }
 
-  function run(btn) {
-    if (btn.disabled) return;
-    btn.disabled = true;
+  function run(statusEl) {
+    if (building) return Promise.resolve();
+    building = true;
     var total = FILES.length;
-    btn.textContent = t("nav.downloadProgress", "Fetching… {done}/{total}")
-      .replace("{done}", "0")
-      .replace("{total}", String(total));
+    setStatus(
+      statusEl,
+      t("nav.downloadProgress", "Fetching… {done}/{total}")
+        .replace("{done}", "0")
+        .replace("{total}", String(total))
+    );
 
-    fetchFiles(function (done, tot) {
-      btn.textContent = t("nav.downloadProgress", "Fetching… {done}/{total}")
-        .replace("{done}", String(done))
-        .replace("{total}", String(tot));
+    return fetchFiles(function (done, tot) {
+      setStatus(
+        statusEl,
+        t("nav.downloadProgress", "Fetching… {done}/{total}")
+          .replace("{done}", String(done))
+          .replace("{total}", String(tot))
+      );
     })
       .then(function (files) {
-        btn.textContent = t("nav.downloadZipping", "Zipping…");
+        setStatus(statusEl, t("nav.downloadZipping", "Zipping…"));
         return zipFiles(files);
       })
       .then(function (data) {
         downloadBlob(data, ZIP_NAME);
-        btn.textContent = t("nav.downloadDone", "Downloaded");
-        setTimeout(function () {
-          restoreLabel(btn);
-          btn.disabled = false;
-        }, 1600);
+        setStatus(statusEl, t("nav.downloadDone", "Downloaded"));
       })
       .catch(function (err) {
         console.error(err);
-        window.alert(
+        setStatus(
+          statusEl,
           t(
             "nav.downloadError",
             "Download failed. Open the site over http(s), not as a local file."
           )
         );
-        restoreLabel(btn);
-        btn.disabled = false;
-      });
+        throw err;
+      })
+      .then(
+        function () { building = false; },
+        function () { building = false; }
+      );
   }
 
   function init() {
@@ -630,20 +635,27 @@
     var dialog = document.getElementById("download-dialog");
     if (!dialog) {
       btn.addEventListener("click", function () {
-        run(btn);
+        run(null);
       });
       return;
     }
     var cancelBtn = document.getElementById("download-cancel-btn");
     var confirmBtn = document.getElementById("download-confirm-btn");
+    var statusEl = document.getElementById("download-status");
 
     function closeDialog() {
       if (typeof dialog.close === "function" && dialog.open) dialog.close();
     }
 
+    function resetDialog() {
+      if (statusEl) statusEl.textContent = "";
+      if (confirmBtn) confirmBtn.disabled = false;
+      if (cancelBtn) cancelBtn.disabled = false;
+    }
+
     btn.addEventListener("click", function () {
       if (typeof dialog.showModal === "function") dialog.showModal();
-      else run(btn);
+      else run(null);
     });
     if (cancelBtn) cancelBtn.addEventListener("click", closeDialog);
     dialog.addEventListener("cancel", closeDialog);
@@ -651,8 +663,17 @@
       if (e.target === dialog) closeDialog();
     });
     if (confirmBtn) confirmBtn.addEventListener("click", function () {
-      closeDialog();
-      run(btn);
+      if (building) return;
+      if (confirmBtn) confirmBtn.disabled = true;
+      if (cancelBtn) cancelBtn.disabled = true;
+      run(statusEl).then(function () {
+        setTimeout(function () {
+          closeDialog();
+          resetDialog();
+        }, 1600);
+      }).catch(function () {
+        resetDialog();
+      });
     });
   }
 

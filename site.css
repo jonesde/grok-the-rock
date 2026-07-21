@@ -459,6 +459,15 @@
   }
 
 
+  .site-dialog-status {
+    margin: 0 0 1.1rem;
+    min-height: 1.2rem;
+    font-size: 0.9rem;
+    font-style: italic;
+    color: #6b6256;
+  }
+
+
   #lang-select {
     -webkit-appearance: none;
     -moz-appearance: none;
