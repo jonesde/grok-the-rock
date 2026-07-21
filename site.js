@@ -377,24 +377,41 @@
   (function () {
     var video = document.getElementById("cover-video");
     if (!video) return;
+    var coverImg = document.querySelector(".book-single.cover .cover-img");
     var delayBetweenLoops = 5000;
-    var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (reduceMotion) {
-      video.pause();
+
+    function showImage() {
+      try { video.pause(); } catch (e) {}
       video.removeAttribute("autoplay");
       video.style.display = "none";
-      var coverImg = document.querySelector(".book-single.cover .cover-img");
       if (coverImg) coverImg.style.display = "block";
-    } else {
+    }
+
+    var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduceMotion) {
+      showImage();
+      return;
+    }
+
+    function startLoop() {
       video.addEventListener("ended", function () {
         setTimeout(function () {
           video.currentTime = 0;
-          video.play().catch(function (error) {
-            console.log("Playback prevented:", error);
-          });
+          var p = video.play();
+          if (p && typeof p.catch === "function") p.catch(function () {});
         }, delayBetweenLoops);
       });
     }
+
+    video.addEventListener("error", showImage, true);
+    var src = video.querySelector("source");
+    if (src) src.addEventListener("error", showImage);
+
+    var played = video.play();
+    if (played && typeof played.catch === "function") {
+      played.catch(function () { showImage(); });
+    }
+    startLoop();
   })();
 })();
 

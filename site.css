@@ -1097,8 +1097,8 @@
   }
 
 
-  /* Cover: show static image on screen (no video yet) */
-  .book-single.cover .cover-img { display: block; }
+  /* Cover: show static image on screen only when there is no video cover */
+  .book-single.cover:not(:has(#cover-video)) .cover-img { display: block; }
 
 
   .book-single.cover .page {
