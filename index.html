@@ -34,6 +34,33 @@
   }
   .home-grid a:hover img,
   .home-grid a:focus-visible img { transform: translateY(-4px); }
+  .booktext-link {
+    position: fixed;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    z-index: 50;
+    font-size: 24px;
+    font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif;
+    color: #1b1108;
+    text-decoration: none;
+    background: rgba(239,231,216,0.92);
+    border: 1px solid rgba(150,140,120,0.45);
+    border-bottom: none;
+    border-radius: 12px 12px 0 0;
+    padding: 0.5rem 1.4rem;
+    box-shadow: 0 -4px 16px rgba(40,30,20,0.14);
+    transition: transform .15s ease, background .15s ease;
+  }
+  .booktext-link:hover,
+  .booktext-link:focus-visible {
+    background: rgba(239,231,216,1);
+    transform: translateX(-50%) translateY(-3px);
+  }
+  /* Direction-aware variant: LTR default, RTL when the page is RTL */
+  .booktext-link .bt-rtl { display: none; }
+  html[dir="rtl"] .booktext-link .bt-ltr { display: none; }
+  html[dir="rtl"] .booktext-link .bt-rtl { display: inline; }
 </style>
 </head>
 <body>
@@ -43,6 +70,10 @@
     </a>
     <a href="tall-tales.html" aria-label="Hai Ikthiss: Three Tall Tales">
       <img src="images/ico/icon-hai-512.png" width="512" height="512" alt="Hai Ikthiss: Three Tall Tales">
+    </a>
+    <a href="book-text.html" class="booktext-link" aria-label="Read the full book text">
+      <span class="bt-ltr" lang="he" dir="ltr" aria-hidden="true">ז = ו + י</span>
+      <span class="bt-rtl" lang="he" dir="rtl" aria-hidden="true">י + ו = ז</span>
     </a>
   </main>
   <script src="vendor/fflate.min.js"></script>
