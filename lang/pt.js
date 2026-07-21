@@ -27,7 +27,7 @@ window.I18N.pt = {
   "credit.6": "Domínio Público (CC0 1.0)",
   "credit.7": "Copie • Compartilhe • Traduza • Redesenhe • Deixe crescer",
 
-  "credit.companion": "<em>Companheiro de <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+  "credit.companion": "<em>Companheiro de <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Três Contos Altos</a></em>",
 
   "dedication": "<p><b>Para cada explorador, pequeno e grande,</b></p>" +
     "<p><b>grokkando o mundo à sua própria maneira gentil.</b></p>" +
@@ -50,7 +50,7 @@ window.I18N.pt = {
     "<hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok a Rocha = Um Estranho numa Terra Estranha + Grug</a></p>" +
-    "<p>(\"Grug\" limpa \"Estranho\" para crianças <em>e</em> adultos)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Companheiro: Hai Ikthiss — Three Tall Tales</a></p>",
+    "<p>(\"Grug\" limpa \"Estranho\" para crianças <em>e</em> adultos)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Companheiro: Hai Ikthiss — Três Contos Altos</a></p>",
 
   "p2": "<p>Grok a Rocha acordou sob a árvore alta.</p>" +
     "<p>O sol estava quente em suas costas de calcário.</p>" +
@@ -505,5 +505,199 @@ window.I18N.pt = {
   "cover.title": "<h1>Grok a Rocha</h1><h3>Três Histórias Silenciosas</h3><h2>Ser · Remendar · Ver</h2>",
   "c1.title": "<h2>Capítulo Um - Ser</h2><p><em>Grok e o pequeno sentimento</em></p>",
   "c2.title": "<h2>Capítulo Dois - Remendar</h2><p><em>Grok o remenda</em></p>",
-  "c3.title": "<h2>Capítulo Três - Ver</h2><p><em>Grok e a palavra verdadeira</em></p>"
+  "c3.title": "<h2>Capítulo Três - Ver</h2><p><em>Grok e a palavra verdadeira</em></p>",
+
+  "hai.cover.alt": "Capa: Senhor Hai Ikthiss, uma vasta e bondosa árvore alta viva com um rosto gentil no tronco alto, ergue-se sobre uma nascente num vale florestado enquanto pequenas criaturas olham para cima através de uma névoa suave.",
+  "hai.dedication.alt": "Página de dedicatória: três minúsculos brotos verdes ao lado de uma única gota de água clara numa página quase em branco de creme quente; silhueta minúscula e suave opcional de Hai Ikthiss a árvore alta longe na névoa fresca.",
+  "hai.p1.alt": "Capítulo Um, Ser — Hai e o elogio vazio. Hai Ikthiss como uma vasta árvore alta viva com um rosto bondoso preenche a parte de cima enquanto pequenas criaturas do vale olham para cima em elogio brilhante.",
+  "hai.p2.alt": "Amanhecer sobre um vale florestado jovem: Hai Ikthiss ergue-se como uma única árvore alta viva com um rosto gentil, raízes bebendo de uma nascente nova e clara, primeiras ervas e um passarinho chegando.",
+  "hai.p3.alt": "Um cervo orgulhoso com chifres altos aclama nas raízes do alto Hai Ikthiss enquanto outras criaturas se juntam ao elogio; ninguém olha para cima aos olhos da árvore.",
+  "hai.p4.alt": "Um texugo robusto se inclina em direção ao grande tronco de Hai Ikthiss, elogiando a raiz mais forte, enquanto as criaturas agradecem a sombra e a altura sem ver o seu rosto.",
+  "hai.p5.alt": "Um corvo brilhante lança um grande elogio de um galho enquanto o tronco alto de Hai Ikthiss mostra um brilho oco suave, como um copo vazio que precisa de água.",
+  "hai.p6.alt": "Hai Ikthiss fica quieto e bondoso, uma longa raiz ou galho baixo se estende suavemente até a nascente do chão, ouvindo em vez de só receber elogios.",
+  "hai.p7.alt": "À noite sob um céu estrelado profundo, a copa de Hai Ikthiss segura as estrelas enquanto um oco suave no tronco alto aquece e brilha devagar.",
+  "hai.p8.alt": "O ouro da manhã ilumina o rosto gentil de Hai Ikthiss enquanto ele olha pelo tronco até as raízes, mais claro por dentro enquanto o vale ainda aclama embaixo.",
+  "hai.p9.alt": "Hai Ikthiss envia suaves filetes de água e luz gentil para minúsculas samambaias e pequenos animais nas raízes, sorrindo um simples sorriso de árvore de contentamento.",
+  "hai.p10.alt": "Capítulo Dois, Remendar — Kai caminha embaixo. Uma pequena criatura-semente viva que caminha com um tufo de broto e olhos bondosos fica ao pé da grande árvore alta; a figura pequena é Hai Ikthiss em humilde forma de semente.",
+  "hai.p11.alt": "Num jardim inglês de musgo e samambaias nas raízes da árvore alta, Hai Ikthiss em humilde forma Kai—uma pequena semente viva que caminha—sorri entre trepadeiras de melão.",
+  "hai.p12.alt": "Pip o jovem ouriço congela no meio do passo de horror quando um grande melão se parte no chão; Kai (Hai Ikthiss como semente viva que caminha) fica pequeno e firme entre as sementes derramadas.",
+  "hai.p13.alt": "Pip se encolhe de vergonha enquanto Kai (pequena forma de semente viva que caminha de Hai Ikthiss) fica bondoso e quieto; uma raposa e uma doninha entre o povo da mata parecem duros e julgadores.",
+  "hai.p14.alt": "Kai (Hai Ikthiss como pequena semente viva que caminha) se ajoelha e oferece a Pip um pau para cavar com bondade aberta; Pip se desenrola devagar quando a esperança volta.",
+  "hai.p15.alt": "Kai e Pip plantam e regam lado a lado e constroem uma pequena cerca de gravetos ao redor de novas sementes, ambos sorrindo com suavidade.",
+  "hai.p16.alt": "Pip rega novas trepadeiras de melão prósperas enquanto Kai observa com orgulho silencioso; a árvore alta ergue-se em paz sobre o jardim inglês.",
+  "hai.p17.alt": "Na hora dourada Kai e Pip sentam-se ao lado de melões prósperos com outra pequena criatura incluída, uma comunidade de jardim remendada em paz.",
+  "hai.p18.alt": "Capítulo Três, Ver — Hai e o olhar distante. Uma bondosa árvore alta que caminha oferece ambas as mãos para baixo para erguer; pequenas criaturas olham para cima com assombro.",
+  "hai.p19.alt": "Dois anos depois Hai Ikthiss está de novo em casa na copa na hora dourada, mas as criaturas sussurram com medo nas raízes em vez de aclamar.",
+  "hai.p20.alt": "Um faisão lustroso com uma cauda longa e espetacular pousa a meia altura e avisa os outros para ficarem baixos enquanto Hai Ikthiss alto acima fica bondoso e quieto.",
+  "hai.p21.alt": "Uma coruja muito velha e simples fala baixinho lembrando o bondoso Kai, enquanto Hai Ikthiss escuta por todo o tronco com atenção aberta.",
+  "hai.p22.alt": "Hai Ikthiss sai suavemente da madeira quieta e se torna uma árvore alta viva que caminha—longos membros bondosos, profundos pés-raiz, um rosto que enfim se pode encontrar.",
+  "hai.p23.alt": "Hai Ikthiss se curva como uma ponte de madeira e bondade com uma grande mão aberta embaixo; Pip dá um passo à frente enquanto outras criaturas se escondem pela metade e olham.",
+  "hai.p24.alt": "Hai Ikthiss ergue amigos dispostos—Pip, a coruja, outros, até o faisão—a uma altura de gigante compartilhada, mesmos rostos, olhos agora no mesmo nível com assombro.",
+  "hai.p25.alt": "Numa crista alta na hora dourada, Hai Ikthiss e seus amigos gigantes olham juntos todo o vale florestado em paz.",
+  "hai.p26.alt": "Página final: amplo vale florestado no crepúsculo em paz com Hai Ikthiss como uma bondosa árvore alta que caminha entre suaves amigos gigantes numa elevação macia, estrelas começando a aparecer.",
+
+  "hai.site.title": "Hai Ikthiss - Três Contos Altos",
+  "hai.cover.title": "<h1>Hai Ikthiss</h1><h3>Três Contos Altos</h3><h2>Ser · Remendar · Ver</h2>",
+  "hai.title.h1": "Hai Ikthiss",
+  "hai.title.h3": "Três Contos Altos",
+  "hai.title.h2": "Ser · Remendar · Ver",
+  "hai.credit.1": "História rascunho, indicações de imagem com Grok 4.5 da xAI",
+  "hai.credit.2": "Ilustrações com Grok Imagine da xAI",
+  "hai.credit.3": "Regras, edição, automação com HY3 da Tencent",
+  "hai.credit.4": "<em>Não afiliado nem endossado pela xAI ou Tencent</em>",
+  "hai.credit.5": "Este é um meme-história gerado por IA e curado por humanos",
+  "hai.credit.6": "Domínio Público (CC0 1.0)",
+  "hai.credit.7": "Copie • Compartilhe • Traduza • Redesenhe • Deixe crescer",
+  "hai.credit.companion":
+    "<em>Companheiro de <a class=\"seelink\" href=\"index.html\">Grok a Rocha: Três Histórias Silenciosas</a></em>",
+
+  "hai.dedication":
+    "<p><b>Para cada vida que cresce em direção à luz,</b></p>" +
+    "<p><b>e cada mão que se inclina para erguer.</b></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>E para cada aclamação vazia</p><p>  que ainda precisa de verdadeiro olhar,</p>" +
+    "<p>cada lugar alto</p><p>  que ainda precisa de remendo embaixo,</p>" +
+    "<p>e para cada água viva</p><p>  que encontra a raiz mais baixa.</p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Com gratidão aos Tall Tellers Originais:</p>" +
+    "<p><em><b>J.R.R. Tolkien</b> \"O Senhor dos Anéis\"</em></p>" +
+    "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
+    "<p><em>e cada semente quieta que aprendeu a caminhar</em></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p><a class=\"seelink\" href=\"index.html\">Companheiro: Grok a Rocha — Três Histórias Silenciosas</a></p>",
+
+  "hai.p2": "<p>Hai Ikthiss governava a floresta do alto da árvore alta.</p>" +
+    "<p>Ele era a primeira árvore do vale.</p><p>Quando o vale estava vazio, ele ficava sozinho.</p>" +
+    "<p>A chuva o encontrou primeiro.</p><p>Depois a grama.</p><p>Depois os pássaros.</p>",
+
+  "hai.p3": "<p>Logo o vale se encheu de vida.</p><p>Um cervo ergueu os chifres e chamou:</p>" +
+    "<p>\"O Senhor Ikthiss é o mais alto!</p><p>Temos sorte de que ele fique por nós!\"</p><hr>" +
+    "<p>Todos aclamaram.</p><p>Ninguém olhou para cima aos seus olhos.</p>",
+
+  "hai.p4": "<p>Um texugo se aproximou com passo pesado, sólido e forte.</p>" +
+    "<p>\"O Senhor Ikthiss é a raiz mais forte!\"</p><p>disse. \"Todos agradeçam à árvore!\"</p><hr>" +
+    "<p>Agradeceram a sombra.</p><p>Agradeceram a altura.</p>" +
+    "<p>Não agradeceram o coração dentro da madeira.</p>",
+
+  "hai.p5": "<p>Um corvo chamou de um galho.</p><p>\"Vejam quão grandioso é o nosso Senhor Ikthiss!</p>" +
+    "<p>Tão alto! Tão generoso!\"</p><hr><p>O elogio cresceu forte como a chuva.</p>" +
+    "<p>Mas Hai sentiu um lugar oco</p><p>alto no seu meio,</p>" +
+    "<p>como um copo que ninguém tinha enchido.</p>",
+
+  "hai.p6": "<p>Ele poderia ter pedido mais aclamações.</p><p>Poderia ter sacudido os galhos</p>" +
+    "<p>até que cada criatura se inclinasse mais baixo.</p><hr><p>Ele não fez isso.</p>" +
+    "<p>Só escutou a nascente</p><p>e sentiu o copo oco esperar.</p><hr>" +
+    "<p>Algo nele queria um gancho</p><p>até o chão — uma união viva —</p>" +
+    "<p>não mais barulho de baixo.</p>",
+
+  "hai.p7": "<p>Naquela noite Hai sentou-se com as estrelas nas folhas.</p>" +
+    "<p>Deixou o copo oco ficar.</p><p>Não o encheu com elogios mais fortes.</p>" +
+    "<p>Não o derramou sobre mais ninguém.</p><hr><p>Devagar o oco amoleceu,</p>" +
+    "<p>como terra seca quando a primeira água a encontra.</p><p>Ele começou a entendê-lo.</p>",
+
+  "hai.p8": "<p>Na manhã seguinte o vale ainda aclamava.</p>" +
+    "<p>Hai Ikthiss ainda dava sombra e fruto e quieto recolhimento de chuva.</p>" +
+    "<p>Nada grande tinha mudado por fora.</p><hr><p>Mas tudo se sentia mais claro por dentro.</p>" +
+    "<p>Ele estava começando a saber</p><p>para que servia o copo oco.</p>" +
+    "<p>Não era para reunir elogios.</p><p>Era para derramar-se para baixo.</p>",
+
+  "hai.p9": "<p>Ele passou o dia enviando água extra</p>" +
+    "<p>às raízes mais pequenas e às samambaias mais sedentas.</p>" +
+    "<p>Quando terminou, sorriu um sorriso de árvore.</p><p>Os presentes eram grandes.</p>" +
+    "<p>Os agradecimentos eram fortes.</p><p>O saber era suficiente.</p><hr>" +
+    "<p>Daquele dia em diante, quando o copo oco tentava crescer de novo,</p>" +
+    "<p>Hai ficava quieto até que se tornasse silencioso.</p><p>Ele simplesmente continuava sendo Hai.</p>" +
+    "<p>E começou a planejar um jeito mais pequeno.</p>",
+
+  "hai.p11": "<p>Hai Ikthiss governava a floresta do alto da árvore alta.</p>" +
+    "<p>Então numa manhã quieta ele desceu.</p><p>Deixou a copa vazia do seu rosto</p>" +
+    "<p>e caminhou no chão como uma semente viva que caminha.</p><hr><p>Os animais o acharam entre os melões.</p>" +
+    "<p>\"Quem é você?\" perguntaram.</p><p>\"Podem me chamar de Kai,\" disse ele,</p>" +
+    "<p>e sorriu um paciente sorriso de semente.</p>",
+
+  "hai.p12": "<p>Naquela tarde o seu amigo, um jovem ouriço chamado Pip,</p>" +
+    "<p>correu pelo jardim olhando para trás</p>" +
+    "<p>e derrubou a melhor trepadeira de melão.</p>" +
+    "<p>O grande melão se partiu no chão.</p><p>Sementes e suco doce se derramaram por toda parte.</p>",
+
+  "hai.p13": "<p>Pip congelou.</p><p>Os seus espinhos tremeram.</p>" +
+    "<p>\"Eu estraguei,\" sussurrou.</p><p>\"Você vai ficar bravo. Todos vão ficar bravos.\"</p><hr>" +
+    "<p>Alguns da mata se reuniram.</p><p>\"Façam-no ir embora,\" murmurou uma raposa.</p>" +
+    "<p>\"Ele deveria trazer três melões novos,\" disse uma doninha.</p>",
+
+  "hai.p14": "<p>Kai olhou para a trepadeira quebrada.</p><p>Olhou para os olhos preocupados de Pip.</p><hr>" +
+    "<p>Não ergueu a voz.</p><p>Não apontou o dedo.</p><p>Pegou um pau para cavar</p>" +
+    "<p>e começou a preparar a terra macia.</p><hr><p>\"Venha,\" disse Kai com suavidade.</p>" +
+    "<p>\"Vamos plantar novas sementes juntos.\"</p>",
+
+  "hai.p15": "<p>Pip piscou.</p><p>Depois se aproximou.</p><p>Juntos plantaram.</p><p>Juntos regaram.</p>" +
+    "<p>Juntos construíram uma pequena cerca de gravetos</p><p>para que ninguém pisasse ali por engano de novo.</p>",
+
+  "hai.p16": "<p>Enquanto trabalhavam, Pip contou a Kai</p><p>que estava correndo porque criaturas maiores</p>" +
+    "<p>o tinham perseguido e riam.</p><p>Ele não tinha visto a trepadeira.</p><hr>" +
+    "<p>Nos dias seguintes Pip veio toda manhã.</p>" +
+    "<p>Tornou-se o melhor carregador de água do vale.</p><p>As novas trepadeiras cresceram fortes,</p>" +
+    "<p>ainda mais fortes que as velhas,</p><p>porque dois amigos cuidaram delas.</p>",
+
+  "hai.p17": "<p>Quando aconteceram outros pequenos acidentes</p><p>(como sempre acontecem),</p>" +
+    "<p>Kai lembrou-se do melão.</p><p>Ajudou quem se sentia ferido.</p>" +
+    "<p>Também ficou gentil com quem tinha esbarrado.</p><hr><p>Ninguém foi mandado embora.</p>" +
+    "<p>Ninguém carregou uma dor longa e pesada.</p><p>Só cuidaram do que estava quebrado</p>" +
+    "<p>e a amizade se sentia mais firme,</p><p>bem no lugar remendado.</p><hr>" +
+    "<p>Hai Ikthiss aprendeu, caminhando como Kai,</p><p>que um jardim, e uma amizade,</p>" +
+    "<p>não se mantêm vivos por nunca se quebrarem.</p>" +
+    "<p>Mantêm-se vivos por serem suavemente reunidos de novo.</p>",
+
+  "hai.p19": "<p>Hai Ikthiss governava a floresta do alto da árvore alta.</p>" +
+    "<p>Dois anos tinham passado.</p><p>Ele estava de novo em casa na copa.</p>" +
+    "<p>Mas o vale tinha mudado a sua canção.</p><hr><p>Criaturas que outrora aclamavam</p>" +
+    "<p>agora sussurravam nas raízes.</p><p>\"Ele é alto demais,\" diziam.</p>" +
+    "<p>\"E se o alto quiser demais?\"</p>",
+
+  "hai.p20": "<p>Um faisão lustroso com grandiosas penas de cauda pousou perto.</p>" +
+    "<p>\"Fiquem baixos,\" disse o faisão.</p>" +
+    "<p>\"Coisas altas caem. Penas grandiosas sabem melhor.\"</p><hr>" +
+    "<p>Alguns animais jovens acenaram com força.</p><p>Sempre acenavam quando o faisão falava.</p>" +
+    "<p>O seu medo soava tão grandioso quanto as suas penas.</p>",
+
+  "hai.p21": "<p>Depois uma coruja muito velha falou com voz lenta e suave.</p>" +
+    "<p>\"Eu me lembro de Kai,\" disse.</p><p>\"A pequena semente que plantava com Pip.</p>" +
+    "<p>Mãos bondosas não mudam quando ficam altas.\"</p><hr>" +
+    "<p>Alguns animais se afastaram</p><p>porque a coruja não era famosa.</p>" +
+    "<p>Hai escutou por todo o seu tronco.</p>",
+
+  "hai.p22": "<p>Hai Ikthiss não gritou para os calar.</p>" +
+    "<p>Não sacudiu o faisão do galho.</p><p>Saiu da madeira quieta</p>" +
+    "<p>e se tornou uma árvore alta que caminha —</p><p>longos membros bondosos, profundos pés-raiz,</p>" +
+    "<p>um rosto que enfim podiam encontrar.</p><hr><p>Não para se impor.</p><p>Para se aproximar.</p>",
+
+  "hai.p23": "<p>Alguns animais recuaram.</p><p>Pip não.</p><p>Pip lembrou-se do melão</p>" +
+    "<p>e do pau para cavar</p><p>e das novas sementes.</p><hr>" +
+    "<p>Hai se curvou como uma ponte de madeira e bondade.</p><p>\"Venham,\" disse.</p>" +
+    "<p>\"Não debaixo de mim.</p><p>Comigo.\"</p>",
+
+  "hai.p24": "<p>Ergueu Pip primeiro —</p><p>não para mostrar poder,</p><p>mas para partilhar a vista.</p>" +
+    "<p>Depois ergueu a coruja.</p><p>Depois os que o tinham temido.</p>" +
+    "<p>Até o faisão, quando o faisão esteve pronto.</p><hr>" +
+    "<p>Cada amigo subiu à altura de Hai</p><p>e se tornou um gigante com ele —</p>" +
+    "<p>mesmo rosto, mesmo coração,</p><p>só os olhos agora ao nível das colinas distantes.</p>",
+
+  "hai.p25": "<p>Do ar alto e quieto</p><p>eles viram todo o vale de uma vez —</p>" +
+    "<p>o lago da mata, o velho jardim,</p><p>os lugares onde o elogio tinha sido forte</p>" +
+    "<p>e os lugares onde o medo tinha sido pequeno.</p><hr><p>Hai se sentiu em paz.</p>" +
+    "<p>Ele não precisava da aclamação mais alta.</p><p>Só precisava de verdadeiros amigos</p>" +
+    "<p>que pudessem ver tão longe quanto o amor pode ver.</p><hr><p>Enquanto alguém fosse livre para dizer</p>" +
+    "<p>\"Eu tinha medo\"</p><p>e ainda assim ser erguido com acolhimento,</p>" +
+    "<p>o olhar distante podia continuar a caminhar</p><p>sobre muitas pernas fortes.</p>",
+
+  "hai.p26": "<p>E assim Hai Ikthiss ficou</p><p>um alto companheiro vivo</p>" +
+    "<p>que podia sentar-se com um copo vazio de elogio,</p><p>que remendava o que se quebrava de baixo,</p>" +
+    "<p>e que erguia cada amigo disposto</p><p>a um olhar distante partilhado.</p><hr>" +
+    "<p>O vale se sentia mais amplo</p><p>porque ele o fazia.</p><hr>" +
+    "<p>Agora todos podiam ver tão longe quanto Hai.</p><hr>" +
+    "<p>Ele continuou a derramar com suavidade.</p><p>E o mundo continuou a fazê-lo crescer.</p>",
+
+  "hai.c1.title": "<h2>Capítulo Um - Ser</h2><p><em>Hai e o elogio vazio</em></p>",
+  "hai.c2.title": "<h2>Capítulo Dois - Remendar</h2><p><em>Kai caminha embaixo</em></p>",
+  "hai.c3.title": "<h2>Capítulo Três - Ver</h2><p><em>Hai e o olhar distante</em></p>"
 };

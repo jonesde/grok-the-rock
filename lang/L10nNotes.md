@@ -185,6 +185,28 @@ Hebrew is not a plain phonetic port — names and a few symbols lean on layers i
 - Companion links in Quiet Stories Hebrew should use the translated Tall Tales title (האי איקתיס — שלושה סיפורי גובה), not leftover English.
 - **Alts required for Hebrew** (`cover.alt`, `dedication.alt`, `p1.alt`–`p26.alt`, and all `hai.*.alt`): real scene translations with spine names in the same slots as English, so the marker layout matches when `he` / `he-phon` is selected.
 
+### Tall Tales names (Latin / Romance: es, fr, it, pt)
+
+| English | es | fr | it | pt |
+|---------|----|----|----|-----|
+| Hai Ikthiss (spine) | Hai Ikthiss | Hai Ikthiss | Hai Ikthiss | Hai Ikthiss |
+| Lord Ikthiss | Señor Ikthiss | Seigneur Ikthiss | Signore Ikthiss | Senhor Ikthiss |
+| Kai / Pip | Kai / Pip | Kai / Pip | Kai / Pip | Kai / Pip |
+| Three Tall Tales | Tres Cuentos Altos | Trois Contes Hauts | Tre Racconti Alti | Três Contos Altos |
+| Lord of the Rings | El Señor de los Anillos | Le Seigneur des anneaux | Il Signore degli Anelli | O Senhor dos Anéis |
+| Tall Tellers | Tall Tellers (English) | Tall Tellers | Tall Tellers | Tall Tellers |
+| Arc (from Quiet Stories) | Ser · Remendar · Ver | Être · Réparer · Voir | Essere · Riparare · Vedere | Ser · Remendar · Ver |
+
+**Chapter subtitles:**
+- es: Hai y el elogio vacío · Kai camina abajo · Hai y la vista lejana
+- fr: Hai et la louange vide · Kai marche en bas · Hai et le regard lointain
+- it: Hai e la lode vuota · Kai cammina sotto · Hai e lo sguardo lontano
+- pt: Hai e o elogio vazio · Kai caminha embaixo · Hai e o olhar distante
+
+**Animals:** stag/ciervo/cerf/cervo/cervo · badger/tejón/blaireau/tasso/texugo · raven/cuervo/corbeau/corvo/corvo · hedgehog/erizo/hérisson/riccio/ouriço · fox/zorro/renard/volpe/raposa · stoat/comadreja/hermine/ermellino/doninha · pheasant/faisán/faisan/fagiano/faisão · owl/búho/hibou/gufo/coruja.
+
+**Wording:** hollow cup → copa hueca / coupe creuse / coppa vuota / copo oco (pour down, not collect). Keep living walking seed / walking tall tree compounds. Ch.2 stays close to Quiet Stories mending beats. Companion links in Quiet Stories must use the translated Tall Tales title. Full `hai.*` story + alts required (same key set as Hebrew).
+
 ### grok-rules.html — 30 keys
 
 | Key | Type | Content |
