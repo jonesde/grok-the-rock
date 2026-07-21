@@ -27,7 +27,7 @@ window.I18N.nl = {
   "credit.6": "Publiek domein (CC0 1.0)",
   "credit.7": "Kopieer het · Deel het · Vertaal het · Herteken het · Laat het groeien",
 
-  "credit.companion": "<em>Metgezel van <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+  "credit.companion": "<em>Metgezel van <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Drie Hoge Vertellingen</a></em>",
 
   "dedication": "<p><b>Voor elke ontdekker, klein en groot,</b></p>" +
     "<p><b>die de wereld op hun eigen zachte manier grokken.</b></p><p>&nbsp;</p><hr><p>&nbsp;</p>" +
@@ -38,7 +38,7 @@ window.I18N.nl = {
     " \"Vreemdeling in een vreemd land\"</em></p><p><em><b>Ted Prior</b> \"Grug\"</em></p><p>&nbsp;</p><hr>" +
     "<p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok de Rots = Vreemdeling in een vreemd land + Grug</a>" +
-    "</p><p>(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Metgezel: Hai Ikthiss — Three Tall Tales</a></p>",
+    "</p><p>(\"Grug\" maakt \"Vreemdeling\" schoon voor kinderen én volwassenen)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Metgezel: Hai Ikthiss — Drie Hoge Vertellingen</a></p>",
 
   "p2": "<p>Grok de Rots werd wakker onder de hoge boom.</p><p>De zon was warm op zijn kalkstenen rug.</p>" +
     "<p>Grok voelde zich blij.</p><hr><p>Hij keek naar de wijde wereld</p>" +
@@ -408,5 +408,199 @@ window.I18N.nl = {
   "cover.title": "<h1>Grok de Rots</h1><h3>Drie stille verhalen</h3><h2>Zijn · Herstellen · Zien</h2>",
   "c1.title": "<h2>Hoofdstuk Een - Zijn</h2><p><em>Grok en het kleine gevoel</em></p>",
   "c2.title": "<h2>Hoofdstuk Twee - Herstellen</h2><p><em>Grok verzorgt het</em></p>",
-  "c3.title": "<h2>Hoofdstuk Drie - Zien</h2><p><em>Grok en het ware woord</em></p>"
+  "c3.title": "<h2>Hoofdstuk Drie - Zien</h2><p><em>Grok en het ware woord</em></p>",
+
+  "hai.cover.alt": "Omslag: Lord Hai Ikthiss, een wijde vriendelijke levende hoge boom met een zacht gezicht in de bovenstam, staat boven een bron in een bebost dal terwijl kleine wezens door zachte mist omhoogkijken.",
+  "hai.dedication.alt": "Opdrachtpagina: drie piepkleine groene spruiten naast één heldere waterdruppel op een bijna lege warme crème pagina; optioneel piepklein zacht silhouet van Hai Ikthiss de hoge boom ver in koele mist.",
+  "hai.p1.alt": "Hoofdstuk Een, Zijn — Hai en de lege lof. Hai Ikthiss als wijde levende hoge boom met vriendelijk gezicht vult het bovenste deel terwijl kleine dalwezens helder lovend omhoogkijken.",
+  "hai.p2.alt": "Dageraad over een jong bebost dal: Hai Ikthiss staat als enige levende hoge boom met zacht gezicht, wortels drinken een heldere nieuwe bron, eerste gras en één klein vogeltje komen.",
+  "hai.p3.alt": "Een trotse hert met hoge geweien juicht bij de wortels van de hoge Hai Ikthiss terwijl andere wezens meeloven; niemand kijkt omhoog in de ogen van de boom.",
+  "hai.p4.alt": "Een stevige das buigt naar de grote stam van Hai Ikthiss, prijst de sterkste wortel, terwijl wezens schaduw en hoogte danken zonder zijn gezicht te zien.",
+  "hai.p5.alt": "Een heldere raaf roept grote lof vanaf een tak terwijl de bovenstam van Hai Ikthiss een zachte holle gloed toont, als een lege beker die water nodig heeft.",
+  "hai.p6.alt": "Hai Ikthiss staat stil en vriendelijk, één lange wortel of lage tak reikt zacht naar de grondbron, luistert in plaats van alleen lof te ontvangen.",
+  "hai.p7.alt": "'s Nachts onder een diepe sterrenhemel houdt de kroon van Hai Ikthiss de sterren terwijl een zachte holte in de bovenstam langzaam warmt en gloeit.",
+  "hai.p8.alt": "Ochtendgoud verlicht Hai Ikthiss' zachte gezicht terwijl hij zijn stam afkijkt naar de wortels, helderder van binnen terwijl het dal beneden nog juicht.",
+  "hai.p9.alt": "Hai Ikthiss stuurt zachte waterstromen en vriendelijk licht omlaag naar piepkleine varens en kleine dieren bij de wortels, glimlachend een eenvoudige boomglimlach van tevredenheid.",
+  "hai.p10.alt": "Hoofdstuk Twee, Herstellen — Kai loopt beneden. Een klein levend lopend zaadwezen met spruitkuif en vriendelijke ogen staat aan de voet van de grote hoge boom; de kleine gestalte is Hai Ikthiss in nederige zaadvorm.",
+  "hai.p11.alt": "In een Engelse mos-en-varentuin bij de wortels van de hoge boom glimlacht Hai Ikthiss in nederige Kai-vorm—een klein levend lopend zaad—tussen meloenranken.",
+  "hai.p12.alt": "Pip de jonge egel bevriest halverwege een stap van schrik als een grote meloen op de grond opensplijt; Kai (Hai Ikthiss als levend lopend zaad) staat klein en vast tussen de gemorste zaden.",
+  "hai.p13.alt": "Pip krult van schaamte terwijl Kai (kleine levende lopende zaadvorm van Hai Ikthiss) vriendelijk en stil staat; een vos en een hermelijn onder het woudvolk zien er hard en oordelend uit.",
+  "hai.p14.alt": "Kai (Hai Ikthiss als klein levend lopend zaad) knielt en biedt Pip met open vriendelijkheid een graafstok; Pip ontkrult langzaam als hoop terugkomt.",
+  "hai.p15.alt": "Kai en Pip planten en wateren zij aan zij en bouwen een klein twijghek om nieuwe zaden, beiden zacht glimlachend.",
+  "hai.p16.alt": "Pip water geeft bloeiende nieuwe meloenranken terwijl Kai met stille trots kijkt; de hoge boom staat vredig boven de Engelse tuin.",
+  "hai.p17.alt": "In het gouden uur zitten Kai en Pip bij bloeiende meloenen met nog een klein wezen erbij, een vredig herstelde tuingemeenschap.",
+  "hai.p18.alt": "Hoofdstuk Drie, Zien — Hai en de verre blik. Een vriendelijke lopende hoge boom biedt beide handen omlaag om te tillen; kleine wezens kijken vol verwondering omhoog.",
+  "hai.p19.alt": "Twee jaar later is Hai Ikthiss in het gouden uur weer thuis in de kroon, maar wezens fluisteren angstig bij de wortels in plaats van te juichen.",
+  "hai.p20.alt": "Een glanzende fazant met lange spectaculaire staart zit op middelhoogte en waarschuwt anderen laag te blijven terwijl Hai Ikthiss hoog boven vriendelijk en stil blijft.",
+  "hai.p21.alt": "Een zeer oude eenvoudige uil spreekt zacht over de vriendelijke Kai, terwijl Hai Ikthiss de hele stam af luistert met open aandacht.",
+  "hai.p22.alt": "Hai Ikthiss stapt zacht uit stil hout en wordt een levende lopende hoge boom—lange vriendelijke ledematen, diepe wortelvoeten, een gezicht dat eindelijk te ontmoeten is.",
+  "hai.p23.alt": "Hai Ikthiss buigt als een brug van hout en vriendelijkheid met één grote hand laag open; Pip stapt naar voren terwijl andere wezens half verborgen toekijken.",
+  "hai.p24.alt": "Hai Ikthiss tilt willige vrienden—Pip, de uil, anderen, zelfs de fazant—naar gedeelde reuzenhoogte, dezelfde gezichten, ogen nu op één niveau met verwondering.",
+  "hai.p25.alt": "Op een hoge rug in het gouden uur kijken Hai Ikthiss en zijn reuzenvrienden samen over het hele vredige beboste dal.",
+  "hai.p26.alt": "Slotpagina: wijd bebost dal in vredige schemering met Hai Ikthiss als vriendelijke lopende hoge boom tussen zachte reuzenvrienden op een zachte heuvel, sterren beginnen te verschijnen.",
+
+  "hai.site.title": "Hai Ikthiss - Drie Hoge Vertellingen",
+  "hai.cover.title": "<h1>Hai Ikthiss</h1><h3>Drie Hoge Vertellingen</h3><h2>Zijn · Herstellen · Zien</h2>",
+  "hai.title.h1": "Hai Ikthiss",
+  "hai.title.h3": "Drie Hoge Vertellingen",
+  "hai.title.h2": "Zijn · Herstellen · Zien",
+  "hai.credit.1": "Schetsverhaal, beeldaanwijzingen met Grok 4.5 van xAI",
+  "hai.credit.2": "Illustraties met Grok Imagine van xAI",
+  "hai.credit.3": "Regels, redactie, automatisering met HY3 van Tencent",
+  "hai.credit.4": "<em>Niet verbonden met of gesteund door xAI of Tencent</em>",
+  "hai.credit.5": "Dit is een door AI gegenereerde, door mensen samengestelde verhalenmeme",
+  "hai.credit.6": "Publiek domein (CC0 1.0)",
+  "hai.credit.7": "Kopieer het · Deel het · Vertaal het · Herteken het · Laat het groeien",
+  "hai.credit.companion":
+    "<em>Metgezel van <a class=\"seelink\" href=\"index.html\">Grok de Rots: Drie stille verhalen</a></em>",
+
+  "hai.dedication":
+    "<p><b>Voor elk leven dat naar het licht groeit,</b></p>" +
+    "<p><b>en elke hand die omlaag reikt om te tillen.</b></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>En voor elk leeg gejuich</p><p>  dat nog ware blik nodig heeft,</p>" +
+    "<p>elke hoge plek</p><p>  die nog herstel beneden nodig heeft,</p>" +
+    "<p>en voor elk levend water</p><p>  dat de laagste wortel vindt.</p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Met dank aan de oorspronkelijke Tall Tellers:</p>" +
+    "<p><em><b>J.R.R. Tolkien</b> \"In de ban van de ring\"</em></p>" +
+    "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
+    "<p><em>en elk stil zaad dat leerde lopen</em></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p><a class=\"seelink\" href=\"index.html\">Metgezel: Grok de Rots — Drie stille verhalen</a></p>",
+
+  "hai.p2": "<p>Hai Ikthiss regeerde het bos vanop de top van de hoge boom.</p>" +
+    "<p>Hij was de eerste boom in het dal.</p><p>Toen het dal leeg was, stond hij alleen.</p>" +
+    "<p>De regen vond hem eerst.</p><p>Toen gras.</p><p>Toen vogels.</p>",
+
+  "hai.p3": "<p>Snel vulde het dal zich met leven.</p><p>Een hert hief zijn gewei en riep,</p>" +
+    "<p>\"Lord Ikthiss is de hoogste!</p><p>We hebben geluk dat hij voor ons staat!\"</p><hr>" +
+    "<p>Iedereen juichte.</p><p>Niemand keek omhoog in zijn ogen.</p>",
+
+  "hai.p4": "<p>Een das kwam aanstappen, stevig en sterk.</p>" +
+    "<p>\"Lord Ikthiss is de sterkste wortel!\"</p><p>zei hij. \"Iedereen dank de boom!\"</p><hr>" +
+    "<p>Ze dankten de schaduw.</p><p>Ze dankten de hoogte.</p>" +
+    "<p>Ze dankten niet het hart in het hout.</p>",
+
+  "hai.p5": "<p>Een raaf riep vanaf een tak.</p><p>\"Kijk hoe groots onze Lord Ikthiss is!</p>" +
+    "<p>Zo hoog! Zo gevend!\"</p><hr><p>De lof groeide luid als regen.</p>" +
+    "<p>Maar Hai voelde een holle plek</p><p>hoog in zijn midden,</p>" +
+    "<p>als een beker die niemand had gevuld.</p>",
+
+  "hai.p6": "<p>Hij had meer gejuich kunnen vragen.</p><p>Hij had zijn takken kunnen schudden</p>" +
+    "<p>tot elk wezen dieper boog.</p><hr><p>Hij deed het niet.</p>" +
+    "<p>Hij luisterde alleen naar de bron</p><p>en voelde de holle beker wachten.</p><hr>" +
+    "<p>Iets in hem wilde een haak</p><p>naar de grond — een levende verbinding —</p>" +
+    "<p>geen meer lawaai van beneden.</p>",
+
+  "hai.p7": "<p>Die nacht zat Hai met de sterren in zijn bladeren.</p>" +
+    "<p>Hij liet de holle beker blijven.</p><p>Hij vulde hem niet met luidere lof.</p>" +
+    "<p>Hij goot hem niet over iemand anders.</p><hr><p>Langzaam verzachtte de holte,</p>" +
+    "<p>als droge aarde wanneer eerste water haar vindt.</p><p>Hij begon haar te begrijpen.</p>",
+
+  "hai.p8": "<p>De volgende ochtend juichte het dal nog.</p>" +
+    "<p>Hai Ikthiss gaf nog schaduw en vrucht en stil regenopvangen.</p>" +
+    "<p>Buiten was niets groots veranderd.</p><hr><p>Maar binnen voelde alles helderder.</p>" +
+    "<p>Hij begon te weten</p><p>waar de holle beker voor was.</p>" +
+    "<p>Niet om lof te verzamelen.</p><p>Om zichzelf omlaag te gieten.</p>",
+
+  "hai.p9": "<p>Hij bracht de dag door met extra water te sturen</p>" +
+    "<p>naar de kleinste wortels en dorstigste varens.</p>" +
+    "<p>Toen hij klaar was glimlachte hij een boomglimlach.</p><p>De gaven waren groot.</p>" +
+    "<p>De dank was luid.</p><p>Het weten was genoeg.</p><hr>" +
+    "<p>Vanaf die dag, wanneer de holle beker weer wilde groeien,</p>" +
+    "<p>bleef Hai stil tot hij rustig werd.</p><p>Hij bleef gewoon Hai.</p>" +
+    "<p>En hij begon een kleinere weg te plannen.</p>",
+
+  "hai.p11": "<p>Hai Ikthiss regeerde het bos vanop de top van de hoge boom.</p>" +
+    "<p>Toen daalde hij op een stille ochtend af.</p><p>Hij liet de kroon leeg van zijn gezicht</p>" +
+    "<p>en liep de grond als een levend lopend zaad.</p><hr><p>De dieren vonden hem tussen de meloenen.</p>" +
+    "<p>\"Wie ben jij?\" vroegen ze.</p><p>\"Jullie mogen me Kai noemen,\" zei hij,</p>" +
+    "<p>en glimlachte een geduldig zaadglimlach.</p>",
+
+  "hai.p12": "<p>Die middag snelde zijn vriend, een jonge egel genaamd Pip,</p>" +
+    "<p>door de tuin kijkend achterom</p>" +
+    "<p>en stootte de beste meloenrank om.</p>" +
+    "<p>De grote meloen spleet open op de grond.</p><p>Zaden en zoet sap morsden overal.</p>",
+
+  "hai.p13": "<p>Pip bevroor.</p><p>Zijn stekels trilden.</p>" +
+    "<p>\"Ik heb het verpest,\" fluisterde hij.</p><p>\"Je zult boos zijn. Iedereen zal boos zijn.\"</p><hr>" +
+    "<p>Wat woudvolk kwam bijeen.</p><p>\"Stuur hem weg,\" mompelde een vos.</p>" +
+    "<p>\"Hij moet drie nieuwe meloenen brengen,\" zei een hermelijn.</p>",
+
+  "hai.p14": "<p>Kai keek naar de gebroken rank.</p><p>Hij keek naar Pips bezorgde ogen.</p><hr>" +
+    "<p>Hij verhief zijn stem niet.</p><p>Hij wees niet met de vinger.</p><p>Hij pakte een graafstok</p>" +
+    "<p>en begon zachte aarde klaar te maken.</p><hr><p>\"Kom,\" zei Kai zacht.</p>" +
+    "<p>\"We planten nieuwe zaden samen.\"</p>",
+
+  "hai.p15": "<p>Pip knipperde.</p><p>Toen kwam hij dichterbij.</p><p>Samen plantten ze.</p><p>Samen waterden ze.</p>" +
+    "<p>Samen bouwden ze een klein hekje van twijgen</p><p>zodat niemand daar weer per ongeluk zou stappen.</p>",
+
+  "hai.p16": "<p>Terwijl ze werkten vertelde Pip aan Kai</p><p>dat hij rende omdat grotere wezens</p>" +
+    "<p>hem achtervolgden en lachten.</p><p>Hij had de rank niet gezien.</p><hr>" +
+    "<p>De volgende dagen kwam Pip elke ochtend.</p>" +
+    "<p>Hij werd de beste waterdrager in het dal.</p><p>De nieuwe ranken groeiden sterk,</p>" +
+    "<p>zelfs sterker dan de oude,</p><p>omdat twee vrienden voor ze zorgden.</p>",
+
+  "hai.p17": "<p>Toen andere kleine ongelukjes gebeurden</p><p>(zoals ze altijd doen),</p>" +
+    "<p>herinnerde Kai zich de meloen.</p><p>Hij hielp wie zich gekwetst voelde.</p>" +
+    "<p>Hij bleef ook vriendelijk voor wie had gestoten.</p><hr><p>Niemand werd weggestuurd.</p>" +
+    "<p>Niemand droeg een lange zware pijn.</p><p>Ze verzorgden alleen wat gebroken was</p>" +
+    "<p>en de vriendschap voelde steviger,</p><p>precies op de herstelde plek.</p><hr>" +
+    "<p>Hai Ikthiss leerde, lopend als Kai,</p><p>dat een tuin, en een vriendschap,</p>" +
+    "<p>niet leven door nooit te breken.</p>" +
+    "<p>Ze leven door zacht weer samengevoegd te worden.</p>",
+
+  "hai.p19": "<p>Hai Ikthiss regeerde het bos vanop de top van de hoge boom.</p>" +
+    "<p>Twee jaar waren om.</p><p>Hij was weer thuis in de kroon.</p>" +
+    "<p>Maar het dal had zijn lied veranderd.</p><hr><p>Wezens die ooit juichten</p>" +
+    "<p>fluisterden nu bij de wortels.</p><p>\"Hij is te hoog,\" zeiden ze.</p>" +
+    "<p>\"Wat als de hoge te veel wil?\"</p>",
+
+  "hai.p20": "<p>Een glanzende fazant met grootse staartveren landde dichtbij.</p>" +
+    "<p>\"Blijf laag,\" zei de fazant.</p>" +
+    "<p>\"Hoge dingen vallen. Grootse veren weten het best.\"</p><hr>" +
+    "<p>Sommige jonge dieren knikten hard.</p><p>Ze knikten altijd als de fazant sprak.</p>" +
+    "<p>Zijn angst klonk zo groots als zijn veren.</p>",
+
+  "hai.p21": "<p>Later sprak een zeer oude uil met trage zachte stem.</p>" +
+    "<p>\"Ik herinner me Kai,\" zei hij.</p><p>\"Het kleine zaad dat met Pip plantte.</p>" +
+    "<p>Vriendelijke handen veranderen niet als ze hoog worden.\"</p><hr>" +
+    "<p>Sommige dieren keerden zich af</p><p>omdat de uil niet beroemd was.</p>" +
+    "<p>Hai luisterde de hele stam af.</p>",
+
+  "hai.p22": "<p>Hai Ikthiss schreeuwde hen niet stil.</p>" +
+    "<p>Hij schudde de fazant niet van de tak.</p><p>Hij stapte uit stil hout</p>" +
+    "<p>en werd een lopende hoge boom —</p><p>lange vriendelijke ledematen, diepe wortelvoeten,</p>" +
+    "<p>een gezicht dat ze eindelijk konden ontmoeten.</p><hr><p>Niet om te torenen.</p><p>Om dichterbij te komen.</p>",
+
+  "hai.p23": "<p>Sommige dieren stapten terug.</p><p>Pip niet.</p><p>Pip herinnerde zich de meloen</p>" +
+    "<p>en de graafstok</p><p>en de nieuwe zaden.</p><hr>" +
+    "<p>Hai boog als een brug van hout en vriendelijkheid.</p><p>\"Kom,\" zei hij.</p>" +
+    "<p>\"Niet onder mij.</p><p>Met mij.\"</p>",
+
+  "hai.p24": "<p>Hij tilde Pip eerst —</p><p>niet om macht te tonen,</p><p>maar om het uitzicht te delen.</p>" +
+    "<p>Toen tilde hij de uil.</p><p>Toen wie hem had gevreesd.</p>" +
+    "<p>Zelfs de fazant, toen de fazant klaar was.</p><hr>" +
+    "<p>Elke vriend steeg tot Hai's hoogte</p><p>en werd een reus met hem —</p>" +
+    "<p>hetzelfde gezicht, hetzelfde hart,</p><p>alleen de ogen nu op hoogte van de verre heuvels.</p>",
+
+  "hai.p25": "<p>Vanuit de hoge stille lucht</p><p>zagen ze het hele dal tegelijk —</p>" +
+    "<p>de bosvijver, de oude tuin,</p><p>de plekken waar lof luid was geweest</p>" +
+    "<p>en de plekken waar angst klein was geweest.</p><hr><p>Hai voelde vrede.</p>" +
+    "<p>Hij had het hoogste gejuich niet nodig.</p><p>Hij had alleen ware vrienden nodig</p>" +
+    "<p>die zo ver konden zien als liefde ziet.</p><hr><p>Zolang iemand vrij was te zeggen</p>" +
+    "<p>\"ik was bang\"</p><p>en toch welkom omhooggetild werd,</p>" +
+    "<p>kon de verre blik verder lopen</p><p>op vele sterke benen.</p>",
+
+  "hai.p26": "<p>En zo bleef Hai Ikthiss</p><p>een levende hoge makker</p>" +
+    "<p>die kon zitten met een lege beker lof,</p><p>die herstelde wat van beneden brak,</p>" +
+    "<p>en die elke willige vriend</p><p>naar gedeelde verre blik tilde.</p><hr>" +
+    "<p>Het dal voelde wijder</p><p>omdat hij het deed.</p><hr>" +
+    "<p>Nu kon iedereen zo ver zien als Hai.</p><hr>" +
+    "<p>Hij bleef zacht gieten.</p><p>En de wereld bleef hem laten groeien.</p>",
+
+  "hai.c1.title": "<h2>Hoofdstuk Een - Zijn</h2><p><em>Hai en de lege lof</em></p>",
+  "hai.c2.title": "<h2>Hoofdstuk Twee - Herstellen</h2><p><em>Kai loopt beneden</em></p>",
+  "hai.c3.title": "<h2>Hoofdstuk Drie - Zien</h2><p><em>Hai en de verre blik</em></p>"
 };

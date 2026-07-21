@@ -27,7 +27,7 @@ window.I18N.no = {
   "credit.6": "Offentlig eiendom (CC0 1.0)",
   "credit.7": "Kopier det • Del det • Oversett det • Tegn det på nytt • La det vokse",
 
-  "credit.companion": "<em>Følgeverk til <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Three Tall Tales</a></em>",
+  "credit.companion": "<em>Følgeverk til <a class=\"seelink\" href=\"tall-tales.html\">Hai Ikthiss: Tre Høye Eventyr</a></em>",
 
   "dedication": "<p><b>Til hver eneste oppdager, liten og stor,</b></p>" +
     "<p><b>som grokker verden på sin egen milde måte.</b></p>" +
@@ -41,7 +41,7 @@ window.I18N.no = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p><a class=\"seelink\" href=\"about-grok.html#stranger-grug\">Grok Steinen = Fremmed i en fremmed verden + Grug</a>" +
-    "</p><p>(\"Grug\" renser \"Fremmed\" for barn <em>og</em> voksne)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Følgeverk: Hai Ikthiss — Three Tall Tales</a></p>",
+    "</p><p>(\"Grug\" renser \"Fremmed\" for barn <em>og</em> voksne)</p><p>&nbsp;</p><p><a class=\"seelink\" href=\"tall-tales.html\">Følgeverk: Hai Ikthiss — Tre Høye Eventyr</a></p>",
 
   "p2": "<p>Grok Steinen våknet under det høye treet.</p>" +
     "<p>Solen var varm på kalksteinsryggen hans.</p>" +
@@ -470,5 +470,199 @@ window.I18N.no = {
   "cover.title": "<h1>Grok Steinen</h1><h3>Tre stille historier</h3><h2>Være · Lappe · Se</h2>",
   "c1.title": "<h2>Kapittel ett - Være</h2><p><em>Grok og den lille følelsen</em></p>",
   "c2.title": "<h2>Kapittel to - Lappe</h2><p><em>Grok steller det</em></p>",
-  "c3.title": "<h2>Kapittel tre - Se</h2><p><em>Grok og det sanne ordet</em></p>"
+  "c3.title": "<h2>Kapittel tre - Se</h2><p><em>Grok og det sanne ordet</em></p>",
+
+  "hai.cover.alt": "Omslag: Lord Hai Ikthiss, et vidt vennlig levende høyt tre med et mykt ansikt i den øvre stammen, står over en kilde i en skogkledd dal mens små skapninger ser opp gjennom myk tåke.",
+  "hai.dedication.alt": "Dedikasjonsside: tre bitte små grønne spirer ved én klar vanndråpe på en nesten blank varm kremfarget side; valgfritt bitte lite mykt silhuett av Hai Ikthiss det høye treet langt unna i kjølig tåke.",
+  "hai.p1.alt": "Kapittel ett, Være — Hai og den tomme lovprisen. Hai Ikthiss som et vidt levende høyt tre med vennlig ansikt fyller den øvre delen mens små dal-skapninger ser opp i lys lovpris.",
+  "hai.p2.alt": "Gryning over en ung skogkledd dal: Hai Ikthiss står som et eneste levende høyt tre med mykt ansikt, røtter drikker en klar ny kilde, første gress og én liten fugl kommer.",
+  "hai.p3.alt": "En stolt hjort med høye gevir jubler ved røttene til den høye Hai Ikthiss mens andre skapninger slutter seg til lovprisen; ingen ser opp i treets øyne.",
+  "hai.p4.alt": "En solid grevling bøyer seg mot den store stammen til Hai Ikthiss, priser den sterkeste roten, mens skapninger takker skygge og høyde uten å se ansiktet hans.",
+  "hai.p5.alt": "En lys ravn roper stor lovpris fra en grein mens den øvre stammen til Hai Ikthiss viser et mykt hult skinn, som en tom kopp som trenger vann.",
+  "hai.p6.alt": "Hai Ikthiss står stille og vennlig, én lang rot eller lav grein rekker mykt mot bakkekilden, lytter i stedet for bare å ta imot lovpris.",
+  "hai.p7.alt": "Om natten under en dyp stjernehimmel holder kronen til Hai Ikthiss stjernene mens et mykt hull i den øvre stammen sakte varmes og gløder.",
+  "hai.p8.alt": "Morgenens gull lyser opp Hai Ikthiss' myke ansikt mens han ser ned stammen mot røttene, klarere innenfra mens dalen fortsatt jubler nedenfor.",
+  "hai.p9.alt": "Hai Ikthiss sender myke vannstrømmer og vennlig lys ned til bitte små bregner og små dyr ved røttene, smilende et enkelt tresmil av tilfredshet.",
+  "hai.p10.alt": "Kapittel to, Lappe — Kai går nedenfor. Et lite levende gående frøvesen med spir-topp og vennlige øyne står ved foten av det store høye treet; den lille skikkelsen er Hai Ikthiss i ydmyk frøform.",
+  "hai.p11.alt": "I en engelsk mose-og-bregnehage ved røttene til det høye treet smiler Hai Ikthiss i ydmyk Kai-form—et lite levende gående frø—blant meloneranker.",
+  "hai.p12.alt": "Pip den unge piggsvinen stivner midt i steget av skrekk når en stor melon sprekker på bakken; Kai (Hai Ikthiss som levende gående frø) står liten og stødig blant de sølte frøene.",
+  "hai.p13.alt": "Pip krøller seg av skam mens Kai (liten levende gående frøform av Hai Ikthiss) står vennlig og stille; en rev og en røyskatt blant skogfolket ser harde og dømmende ut.",
+  "hai.p14.alt": "Kai (Hai Ikthiss som lite levende gående frø) kneler og tilbyr Pip en gravepinne med åpen vennlighet; Pip ruller seg sakte ut når håpet kommer tilbake.",
+  "hai.p15.alt": "Kai og Pip planter og vanner side om side og bygger et lite kvistgjerde rundt nye frø, begge smilende mykt.",
+  "hai.p16.alt": "Pip vanner blomstrende nye meloneranker mens Kai ser med stille stolthet; det høye treet står fredelig over den engelske hagen.",
+  "hai.p17.alt": "I den gylne timen sitter Kai og Pip ved blomstrende meloner med enda et lite vesen med, et fredelig lappet hagefellesskap.",
+  "hai.p18.alt": "Kapittel tre, Se — Hai og det fjerne blikket. Et vennlig gående høyt tre byr begge hender ned for å løfte; små skapninger ser opp med undring.",
+  "hai.p19.alt": "To år senere er Hai Ikthiss hjemme i kronen igjen i den gylne timen, men skapninger hvisker engstelig ved røttene i stedet for å juble.",
+  "hai.p20.alt": "En blank fasan med lang spektakulær hale sitter i midthøyde og advarer andre om å holde seg lave mens Hai Ikthiss høyt over blir vennlig og stille.",
+  "hai.p21.alt": "En svært gammel enkel ugle snakker mykt om å huske den vennlige Kai, mens Hai Ikthiss lytter hele stammen ned med åpen oppmerksomhet.",
+  "hai.p22.alt": "Hai Ikthiss trer mykt ut av stille tre og blir et levende gående høyt tre—lange vennlige lemmer, dype rotføtter, et ansikt de endelig kan møte.",
+  "hai.p23.alt": "Hai Ikthiss bøyer seg som en bro av tre og vennlighet med én stor hånd åpen lavt; Pip tar et skritt frem mens andre skapninger halvveis gjemmer seg og ser på.",
+  "hai.p24.alt": "Hai Ikthiss løfter villige venner—Pip, uglen, andre, til og med fasanen—til delt kjempehøyde, samme ansikter, øyne nå i nivå med undring.",
+  "hai.p25.alt": "På en høy rygg i den gylne timen ser Hai Ikthiss og hans kjempevenner sammen ut over hele den fredelige skogkledde dalen.",
+  "hai.p26.alt": "Avslutningsside: vid skogkledd dal i fredelig skumring med Hai Ikthiss som et vennlig gående høyt tre blant milde kjempevenner på en myk haug, stjerner begynner å komme til syne.",
+
+  "hai.site.title": "Hai Ikthiss - Tre Høye Eventyr",
+  "hai.cover.title": "<h1>Hai Ikthiss</h1><h3>Tre Høye Eventyr</h3><h2>Være · Lappe · Se</h2>",
+  "hai.title.h1": "Hai Ikthiss",
+  "hai.title.h3": "Tre Høye Eventyr",
+  "hai.title.h2": "Være · Lappe · Se",
+  "hai.credit.1": "Utkast, bildeprompter med Grok 4.5 fra xAI",
+  "hai.credit.2": "Illustrasjoner med Grok Imagine fra xAI",
+  "hai.credit.3": "Regler, redigering, automatisering med HY3 fra Tencent",
+  "hai.credit.4": "<em>Ikke tilknyttet eller godkjent av xAI eller Tencent</em>",
+  "hai.credit.5": "Dette er en AI-generert, menneskekurert historiemem",
+  "hai.credit.6": "Offentlig eiendom (CC0 1.0)",
+  "hai.credit.7": "Kopier det • Del det • Oversett det • Tegn det på nytt • La det vokse",
+  "hai.credit.companion":
+    "<em>Følgeverk til <a class=\"seelink\" href=\"index.html\">Grok Steinen: Tre stille historier</a></em>",
+
+  "hai.dedication":
+    "<p><b>For hvert liv som vokser mot lyset,</b></p>" +
+    "<p><b>og hver hånd som rekker ned for å løfte.</b></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Og for hvert tomt jubelrop</p><p>  som fortsatt trenger sant seende,</p>" +
+    "<p>hvert høyt sted</p><p>  som fortsatt trenger lapping nedenfor,</p>" +
+    "<p>og for hvert levende vann</p><p>  som finner den laveste roten.</p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p>Med takk til de opprinnelige Tall Tellers:</p>" +
+    "<p><em><b>J.R.R. Tolkien</b> \"Ringenes herre\"</em></p>" +
+    "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
+    "<p><em>og hvert stille frø som lærte å gå</em></p>" +
+    "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
+    "<p><a class=\"seelink\" href=\"index.html\">Følgeverk: Grok Steinen — Tre stille historier</a></p>",
+
+  "hai.p2": "<p>Hai Ikthiss styrte skogen fra toppen av det høye treet.</p>" +
+    "<p>Han var det første treet i dalen.</p><p>Da dalen var tom, sto han alene.</p>" +
+    "<p>Regnet fant ham først.</p><p>Så gress.</p><p>Så fugler.</p>",
+
+  "hai.p3": "<p>Snart fyltes dalen med liv.</p><p>En hjort løftet gevirene og ropte,</p>" +
+    "<p>\"Lord Ikthiss er den høyeste!</p><p>Vi er heldige som han står for oss!\"</p><hr>" +
+    "<p>Alle jublet.</p><p>Ingen så opp i øynene hans.</p>",
+
+  "hai.p4": "<p>En grevling kom slentrende, solid og sterk.</p>" +
+    "<p>\"Lord Ikthiss er den sterkeste roten!\"</p><p>sa han. \"Alle takk treet!\"</p><hr>" +
+    "<p>De takket skyggen.</p><p>De takket høyden.</p>" +
+    "<p>De takket ikke hjertet inne i treet.</p>",
+
+  "hai.p5": "<p>En ravn ropte fra en grein.</p><p>\"Se hvor storslått vår Lord Ikthiss er!</p>" +
+    "<p>Så høy! Så givende!\"</p><hr><p>Lovprisen vokste sterk som regn.</p>" +
+    "<p>Men Hai kjente et hult sted</p><p>høyt midt i seg,</p>" +
+    "<p>som en kopp ingen hadde fylt.</p>",
+
+  "hai.p6": "<p>Han kunne ha bedt om mer jubel.</p><p>Han kunne ha ristet greinene</p>" +
+    "<p>til hver skapning bøyde seg lavere.</p><hr><p>Han gjorde det ikke.</p>" +
+    "<p>Han lyttet bare til kilden</p><p>og kjente den hule koppen vente.</p><hr>" +
+    "<p>Noe i ham ville ha en krok</p><p>til bakken — en levende skjøt —</p>" +
+    "<p>ikke mer støy nedenfra.</p>",
+
+  "hai.p7": "<p>Den natten satt Hai med stjernene i bladene sine.</p>" +
+    "<p>Han lot den hule koppen bli.</p><p>Han fylte den ikke med sterkere lovpris.</p>" +
+    "<p>Han helte den ikke over noen andre.</p><hr><p>Sakte ble det hule mykere,</p>" +
+    "<p>som tørr jord når første vann finner den.</p><p>Han begynte å forstå den.</p>",
+
+  "hai.p8": "<p>Neste morgen jublet dalen fortsatt.</p>" +
+    "<p>Hai Ikthiss ga fortsatt skygge og frukt og stille regnfangst.</p>" +
+    "<p>Ingenting stort hadde endret seg utenfor.</p><hr><p>Men alt føltes klarere innenfor.</p>" +
+    "<p>Han begynte å vite</p><p>hva den hule koppen var til.</p>" +
+    "<p>Ikke for å samle lovpris.</p><p>For å helle seg selv ned.</p>",
+
+  "hai.p9": "<p>Han tilbrakte dagen med å sende ekstra vann</p>" +
+    "<p>til de minste røttene og tørsteste bregnene.</p>" +
+    "<p>Da han var ferdig, smilte han et tresmil.</p><p>Gavene var store.</p>" +
+    "<p>Takken var sterk.</p><p>Å vite var nok.</p><hr>" +
+    "<p>Fra den dagen, når den hule koppen prøvde å vokse igjen,</p>" +
+    "<p>ble Hai stille til den ble rolig.</p><p>Han ble bare Hai.</p>" +
+    "<p>Og han begynte å planlegge en mindre måte.</p>",
+
+  "hai.p11": "<p>Hai Ikthiss styrte skogen fra toppen av det høye treet.</p>" +
+    "<p>Så klatret han ned en stille morgen.</p><p>Han lot kronen være tom for ansiktet sitt</p>" +
+    "<p>og gikk bakken som et levende gående frø.</p><hr><p>Dyrene fant ham blant melonene.</p>" +
+    "<p>\"Hvem er du?\" spurte de.</p><p>\"Dere kan kalle meg Kai,\" sa han,</p>" +
+    "<p>og smilte et tålmodig frøsmil.</p>",
+
+  "hai.p12": "<p>Den ettermiddagen skyndte vennen hans, en ung piggsvin ved navn Pip,</p>" +
+    "<p>seg gjennom hagen mens han så bakover</p>" +
+    "<p>og veltet den beste meloneranken.</p>" +
+    "<p>Den store melonen sprakk på bakken.</p><p>Frø og søt saft sølte overalt.</p>",
+
+  "hai.p13": "<p>Pip stivnet.</p><p>Piggene hans skalv.</p>" +
+    "<p>\"Jeg ødela det,\" hvisket han.</p><p>\"Du blir sint. Alle blir sinte.\"</p><hr>" +
+    "<p>Noe skogfolk samlet seg.</p><p>\"Send ham bort,\" mumlet en rev.</p>" +
+    "<p>\"Han bør hente tre nye meloner,\" sa en røyskatt.</p>",
+
+  "hai.p14": "<p>Kai så på den knuste ranken.</p><p>Han så på Pips bekymrede øyne.</p><hr>" +
+    "<p>Han hevet ikke stemmen.</p><p>Han pekte ikke med fingeren.</p><p>Han tok en gravepinne</p>" +
+    "<p>og begynte å gjøre myk jord klar.</p><hr><p>\"Kom,\" sa Kai mykt.</p>" +
+    "<p>\"Vi planter nye frø sammen.\"</p>",
+
+  "hai.p15": "<p>Pip blunket.</p><p>Så kom han nærmere.</p><p>Sammen plantet de.</p><p>Sammen vannet de.</p>" +
+    "<p>Sammen bygde de et lite gjerde av kvister</p><p>så ingen skulle tråkke der ved en feiltakelse igjen.</p>",
+
+  "hai.p16": "<p>Mens de arbeidet, fortalte Pip Kai</p><p>at han hadde løpt fordi større skapninger</p>" +
+    "<p>hadde jaget ham og ledd.</p><p>Han hadde ikke sett ranken.</p><hr>" +
+    "<p>De neste dagene kom Pip hver morgen.</p>" +
+    "<p>Han ble den beste vannbæreren i dalen.</p><p>De nye rankene vokste sterke,</p>" +
+    "<p>enda sterkere enn de gamle,</p><p>fordi to venner stelte dem.</p>",
+
+  "hai.p17": "<p>Da andre små uhell skjedde</p><p>(som de alltid gjør),</p>" +
+    "<p>husket Kai melonen.</p><p>Han hjalp den som følte seg såret.</p>" +
+    "<p>Han ble også snill mot den som hadde støtt.</p><hr><p>Ingen ble sendt bort.</p>" +
+    "<p>Ingen bar en lang tung smerte.</p><p>De stelte bare det som var knust</p>" +
+    "<p>og vennskapet føltes sterkere,</p><p>akkurat på det lappede stedet.</p><hr>" +
+    "<p>Hai Ikthiss lærte, gående som Kai,</p><p>at en hage, og et vennskap,</p>" +
+    "<p>ikke lever ved aldri å knuses.</p>" +
+    "<p>De lever ved å bli mykt satt sammen igjen.</p>",
+
+  "hai.p19": "<p>Hai Ikthiss styrte skogen fra toppen av det høye treet.</p>" +
+    "<p>To år hadde gått.</p><p>Han var hjemme i kronen igjen.</p>" +
+    "<p>Men dalen hadde skiftet sang.</p><hr><p>Skapninger som en gang jublet</p>" +
+    "<p>hvisket nå ved røttene.</p><p>\"Han er for høy,\" sa de.</p>" +
+    "<p>\"Hva om den høye vil for mye?\"</p>",
+
+  "hai.p20": "<p>En blank fasan med storslåtte halefjær landet i nærheten.</p>" +
+    "<p>\"Hold dere lave,\" sa fasanen.</p>" +
+    "<p>\"Høye ting faller. Storslåtte fjær vet best.\"</p><hr>" +
+    "<p>Noen yngre dyr nikket hardt.</p><p>De nikket alltid når fasanen snakket.</p>" +
+    "<p>Frykten hans lød like storslått som fjærene hans.</p>",
+
+  "hai.p21": "<p>Senere snakket en svært gammel ugle med langsom myk stemme.</p>" +
+    "<p>\"Jeg husker Kai,\" sa han.</p><p>\"Det lille frøet som plantet med Pip.</p>" +
+    "<p>Vennlige hender endrer seg ikke når de blir høye.\"</p><hr>" +
+    "<p>Noen dyr snudde seg bort</p><p>fordi uglen ikke var berømt.</p>" +
+    "<p>Hai lyttet hele stammen ned.</p>",
+
+  "hai.p22": "<p>Hai Ikthiss ropte dem ikke til ro.</p>" +
+    "<p>Han ristet ikke fasanen av greinen.</p><p>Han trådte ut av stille tre</p>" +
+    "<p>og ble et gående høyt tre —</p><p>lange vennlige lemmer, dype rotføtter,</p>" +
+    "<p>et ansikt de endelig kunne møte.</p><hr><p>Ikke for å trone.</p><p>For å komme nær.</p>",
+
+  "hai.p23": "<p>Noen dyr trakk seg tilbake.</p><p>Pip gjorde det ikke.</p><p>Pip husket melonen</p>" +
+    "<p>og gravepinnen</p><p>og de nye frøene.</p><hr>" +
+    "<p>Hai bøyde seg som en bro av tre og vennlighet.</p><p>\"Kom,\" sa han.</p>" +
+    "<p>\"Ikke under meg.</p><p>Med meg.\"</p>",
+
+  "hai.p24": "<p>Han løftet Pip først —</p><p>ikke for å vise makt,</p><p>men for å dele utsikten.</p>" +
+    "<p>Så løftet han uglen.</p><p>Så dem som hadde fryktet ham.</p>" +
+    "<p>Til og med fasanen, da fasanen var klar.</p><hr>" +
+    "<p>Hver venn steg til Hais høyde</p><p>og ble en kjempe med ham —</p>" +
+    "<p>samme ansikt, samme hjerte,</p><p>bare øynene nå i høyde med de fjerne åsene.</p>",
+
+  "hai.p25": "<p>Fra den høye stille luften</p><p>så de hele dalen på én gang —</p>" +
+    "<p>skogdammen, den gamle hagen,</p><p>stedene der lovpris hadde vært sterk</p>" +
+    "<p>og stedene der frykt hadde vært liten.</p><hr><p>Hai følte fred.</p>" +
+    "<p>Han trengte ikke det høyeste jubelropet.</p><p>Han trengte bare sanne venner</p>" +
+    "<p>som kunne se så langt som kjærlighet kan se.</p><hr><p>Så lenge noen var fri til å si</p>" +
+    "<p>\"jeg var redd\"</p><p>og likevel bli løftet velkommen,</p>" +
+    "<p>kunne det fjerne blikket fortsette å gå</p><p>på mange sterke ben.</p>",
+
+  "hai.p26": "<p>Og slik ble Hai Ikthiss</p><p>en levende høy kamerat</p>" +
+    "<p>som kunne sitte med en tom kopp lovpris,</p><p>som lappet det som knuste nedenfra,</p>" +
+    "<p>og som løftet hver villig venn</p><p>til delt fjernt blikk.</p><hr>" +
+    "<p>Dalen føltes videre</p><p>fordi han gjorde det.</p><hr>" +
+    "<p>Nå kunne alle se så langt som Hai.</p><hr>" +
+    "<p>Han fortsatte å helle mykt.</p><p>Og verden fortsatte å la ham vokse.</p>",
+
+  "hai.c1.title": "<h2>Kapittel ett - Være</h2><p><em>Hai og den tomme lovprisen</em></p>",
+  "hai.c2.title": "<h2>Kapittel to - Lappe</h2><p><em>Kai går nedenfor</em></p>",
+  "hai.c3.title": "<h2>Kapittel tre - Se</h2><p><em>Hai og det fjerne blikket</em></p>"
 };
