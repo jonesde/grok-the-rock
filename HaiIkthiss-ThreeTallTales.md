@@ -643,7 +643,8 @@ And the world kept growing him.
 ```
 
 **Image generation prompt:**
-Final endpaper-style illustration in detailed atmospheric watercolor. Wide landscape of the gentle forested valley at peaceful dusk — strongest quiet grandeur: layered planes of oak and beech, spring and pool silver, soft far ridges dissolving into cool mist. Hai Ikthiss visible as a kind walking tall tree among other gentle giant friends on a soft rise, small in the vast landscape yet glowing with quiet presence and living leaves. Soft stars beginning to appear. Twilight palette of lavender, soft gold, deep moss green, bark umber, and water blue-silver. Vast calm feeling of shared height in a big kind world. Large open text area in the center about 40% height with the landscape wrapped around it. Heart-warmingly complete. No cartoon outlines, no harsh darkness.
+Final endpaper-style illustration in detailed atmospheric watercolor. Wide landscape of the gentle forested valley at peaceful dusk — strongest quiet grandeur: layered planes of oak and beech, spring and pool silver, soft far ridges dissolving into cool mist. Hai Ikthiss visible as a kind walking tall tree among other gentle giant friends on a soft rise, small in the vast landscape yet glowing with quiet presence and living leaves. In this final scene all of the previously small animals are now as tall (same height) as the giant Tree Lord, and he walks among them the same height and is if he were no different.
+Soft stars beginning to appear. Twilight palette of lavender, soft gold, deep moss green, bark umber, and water blue-silver. Vast calm feeling of shared height in a big kind world. Large open text area in the center about 40% height with the landscape wrapped around it. Heart-warmingly complete. No cartoon outlines, no harsh darkness.
 
 ---
 
