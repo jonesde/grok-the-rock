@@ -401,8 +401,8 @@
       function showImage() {
         try { video.pause(); } catch (e) {}
         video.removeAttribute("autoplay");
-        video.style.display = "none";
         if (coverImg) coverImg.style.display = "block";
+        if (video && video.parentNode) video.parentNode.removeChild(video);
       }
 
       var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -424,6 +424,16 @@
       video.addEventListener("error", showImage, true);
       var src = video.querySelector("source");
       if (src) src.addEventListener("error", showImage);
+
+      function alreadyFailed() {
+        if (video.error) return true;
+        if (src && src.error) return true;
+        return false;
+      }
+      if (alreadyFailed()) {
+        showImage();
+        return;
+      }
 
       var played = video.play();
       if (played && typeof played.catch === "function") {
