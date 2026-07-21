@@ -14,6 +14,7 @@ window.I18N.pt = {
   "nav.about": "Sobre",
   "nav.book": "Histórias Quietas",
   "nav.tall": "Contos Altos",
+  "nav.home": "Início",
   "nav.menu": "Menu",
   "nav.close": "Fechar",
 
@@ -547,7 +548,7 @@ window.I18N.pt = {
   "hai.credit.6": "Domínio Público (CC0 1.0)",
   "hai.credit.7": "Copie • Compartilhe • Traduza • Redesenhe • Deixe crescer",
   "hai.credit.companion":
-    "<em>Companheiro de <a class=\"seelink\" href=\"index.html\">Grok a Rocha: Três Histórias Silenciosas</a></em>",
+    "<em>Companheiro de <a class=\"seelink\" href=\"quiet-stories.html\">Grok a Rocha: Três Histórias Silenciosas</a></em>",
 
   "hai.dedication":
     "<p><b>Para cada vida que cresce em direção à luz,</b></p>" +
@@ -562,7 +563,7 @@ window.I18N.pt = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>e cada semente quieta que aprendeu a caminhar</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">Companheiro: Grok a Rocha — Três Histórias Silenciosas</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Companheiro: Grok a Rocha — Três Histórias Silenciosas</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss governava a floresta do alto da árvore alta.</p>" +
     "<p>Ele era a primeira árvore do vale.</p><p>Quando o vale estava vazio, ele ficava sozinho.</p>" +

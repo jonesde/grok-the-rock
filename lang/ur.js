@@ -14,6 +14,7 @@ window.I18N.ur = {
   "nav.about": "تعارف",
   "nav.book": "خاموش کہانیاں",
   "nav.tall": "اونچی کہانیاں",
+  "nav.home": "ہوم",
   "nav.menu": "مینو",
   "nav.close": "بند کریں",
 
@@ -426,7 +427,7 @@ window.I18N.ur = {
   "hai.credit.6": "عوامی ڈومین (CC0 1.0)",
   "hai.credit.7": "اسے نقل کریں • بانٹیں • ترجمہ کریں • دوبارہ کھینچیں • اسے بڑھنے دیں",
   "hai.credit.companion":
-    "<em><a class=\"seelink\" href=\"index.html\">گروک دی چٹان: تین خاموش کہانیاں</a> کا ساتھی</em>",
+    "<em><a class=\"seelink\" href=\"quiet-stories.html\">گروک دی چٹان: تین خاموش کہانیاں</a> کا ساتھی</em>",
 
   "hai.dedication":
     "<p><b>ہر اس زندگی کے لیے جو روشنی کی طرف بڑھتی ہے،</b></p>" +
@@ -441,7 +442,7 @@ window.I18N.ur = {
     "<p><em><b>ٹیڈ پرائر</b> \"Grug\"</em></p>" +
     "<p><em>اور ہر خاموش بیج جس نے چلنا سیکھا</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">ساتھی: گروک دی چٹان — تین خاموش کہانیاں</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">ساتھی: گروک دی چٹان — تین خاموش کہانیاں</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss اونچے درخت کی چوٹی سے جنگل پر حکومت کرتا تھا۔</p>" +
     "<p>وہ وادی کا پہلا درخت تھا۔</p><p>جب وادی خالی تھی، وہ اکیلے کھڑا تھا۔</p>" +

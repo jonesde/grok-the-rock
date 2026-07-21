@@ -14,6 +14,7 @@ window.I18N.de = {
   "nav.about": "Über",
   "nav.book": "Stille Geschichten",
   "nav.tall": "Hohe Märchen",
+  "nav.home": "Start",
   "nav.menu": "Menü",
   "nav.close": "Schließen",
 
@@ -452,7 +453,7 @@ window.I18N.de = {
   "hai.credit.6": "Gemeinfrei (CC0 1.0)",
   "hai.credit.7": "Kopiere es • Teile es • Übersetze es • Zeichne es neu • Lass es wachsen",
   "hai.credit.companion":
-    "<em>Begleiter zu <a class=\"seelink\" href=\"index.html\">Grok der Fels: Drei stille Geschichten</a></em>",
+    "<em>Begleiter zu <a class=\"seelink\" href=\"quiet-stories.html\">Grok der Fels: Drei stille Geschichten</a></em>",
 
   "hai.dedication":
     "<p><b>Für jedes Leben, das dem Licht entgegenwächst,</b></p>" +
@@ -467,7 +468,7 @@ window.I18N.de = {
     "<p><em><b>Ted Prior</b> „Grug“</em></p>" +
     "<p><em>und jedes stille Samenkorn, das gehen lernte</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">Begleiter: Grok der Fels — Drei stille Geschichten</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Begleiter: Grok der Fels — Drei stille Geschichten</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss regierte den Wald von der Spitze des hohen Baumes.</p>" +
     "<p>Er war der erste Baum im Tal.</p><p>Als das Tal leer war, stand er allein.</p>" +

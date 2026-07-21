@@ -14,6 +14,7 @@ window.I18N.nl = {
   "nav.about": "Over",
   "nav.book": "Stille Verhalen",
   "nav.tall": "Hoge Vertellingen",
+  "nav.home": "Home",
   "nav.menu": "Menu",
   "nav.close": "Sluiten",
 
@@ -451,7 +452,7 @@ window.I18N.nl = {
   "hai.credit.6": "Publiek domein (CC0 1.0)",
   "hai.credit.7": "Kopieer het · Deel het · Vertaal het · Herteken het · Laat het groeien",
   "hai.credit.companion":
-    "<em>Metgezel van <a class=\"seelink\" href=\"index.html\">Grok de Rots: Drie stille verhalen</a></em>",
+    "<em>Metgezel van <a class=\"seelink\" href=\"quiet-stories.html\">Grok de Rots: Drie stille verhalen</a></em>",
 
   "hai.dedication":
     "<p><b>Voor elk leven dat naar het licht groeit,</b></p>" +
@@ -466,7 +467,7 @@ window.I18N.nl = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>en elk stil zaad dat leerde lopen</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">Metgezel: Grok de Rots — Drie stille verhalen</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Metgezel: Grok de Rots — Drie stille verhalen</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss regeerde het bos vanop de top van de hoge boom.</p>" +
     "<p>Hij was de eerste boom in het dal.</p><p>Toen het dal leeg was, stond hij alleen.</p>" +

@@ -14,6 +14,7 @@ window.I18N.ko = {
   "nav.about": "소개",
   "nav.book": "고요한 이야기",
   "nav.tall": "키 큰 이야기",
+  "nav.home": "홈",
   "nav.menu": "메뉴",
   "nav.close": "닫기",
 
@@ -473,7 +474,7 @@ window.I18N.ko = {
   "hai.credit.6": "퍼블릭 도메인 (CC0 1.0)",
   "hai.credit.7": "복사하세요 · 공유하세요 · 번역하세요 · 다시 그리세요 · 자라게 두세요",
   "hai.credit.companion":
-    "<em><a class=\"seelink\" href=\"index.html\">바위 그록: 세 편의 조용한 이야기</a>의 짝 이야기</em>",
+    "<em><a class=\"seelink\" href=\"quiet-stories.html\">바위 그록: 세 편의 조용한 이야기</a>의 짝 이야기</em>",
 
   "hai.dedication":
     "<p><b>빛을 향해 자라는 모든 생명과,</b></p>" +
@@ -488,7 +489,7 @@ window.I18N.ko = {
     "<p><em><b>테드 프라이어</b> 『Grug』</em></p>" +
     "<p><em>그리고 걷는 법을 배운 모든 고요한 씨앗에게</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">짝 이야기: 바위 그록 — 세 편의 조용한 이야기</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">짝 이야기: 바위 그록 — 세 편의 조용한 이야기</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss는 키 큰 나무 꼭대기에서 숲을 다스렸습니다.</p>" +
     "<p>골짜기의 첫 나무였습니다.</p><p>골짜기가 비었을 때, 홀로 서 있었습니다.</p>" +

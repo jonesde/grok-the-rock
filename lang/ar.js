@@ -15,6 +15,7 @@ window.I18N.ar = {
   "nav.about": "عن",
   "nav.book": "قصص هادئة",
   "nav.tall": "حكايات طويلة",
+  "nav.home": "الرئيسية",
   "nav.menu": "القائمة",
   "nav.close": "إغلاق",
 
@@ -177,7 +178,7 @@ window.I18N.ar = {
   "hai.credit.6": "ملكية عامة (CC0 1.0)",
   "hai.credit.7": "انسخها · شاركها · ترجمها · أعد رسمها · دعها تنمو",
   "hai.credit.companion":
-    "<em>رفيق لـ <a class=\"seelink\" href=\"index.html\">غروك الصخرة: ثلاث قصص هادئة</a></em>",
+    "<em>رفيق لـ <a class=\"seelink\" href=\"quiet-stories.html\">غروك الصخرة: ثلاث قصص هادئة</a></em>",
 
   "hai.dedication":
     "<p><b>لكل حياة تنمو نحو النور،</b></p>" +
@@ -192,7 +193,7 @@ window.I18N.ar = {
     "<p><em><b>تيد برايور</b> \"غْرَغ\"</em></p>" +
     "<p><em>ولكل بذرة هادئة تعلمت أن تمشي</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">الرفيق: غروك الصخرة — ثلاث قصص هادئة</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">الرفيق: غروك الصخرة — ثلاث قصص هادئة</a></p>",
 
   "hai.p2": "<p>حكم Hai Ikthiss الغابة من فوق الشجرة العالية.</p>" +
     "<p>كان أول شجرة في الوادي.</p><p>حين كان الوادي فارغاً، وقف وحده.</p>" +

@@ -9,6 +9,7 @@ window.I18N["he-phon"] = {
   "nav.about": "על",
   "nav.book": "סיפורים שקטים",
   "nav.tall": "סיפורי גובה",
+  "nav.home": "Bayit",
   "nav.menu": "תפריט",
   "nav.close": "סגור",
 
@@ -604,7 +605,7 @@ window.I18N["he-phon"] = {
   "hai.credit.6": "נחלת הכלל (CC0 1.0)",
   "hai.credit.7": "העתיקו · שתפו · תרגמו · ציירו מחדש · תנו לזה לצמוח",
   "hai.credit.companion":
-    "<em>בן־לווה ל־<a class=\"seelink\" href=\"index.html\">גרוק הצור: שלושה סיפורים שקטים</a></em>",
+    "<em>בן־לווה ל־<a class=\"seelink\" href=\"quiet-stories.html\">גרוק הצור: שלושה סיפורים שקטים</a></em>",
 
   "hai.dedication":
     "<p><b>לכל חי שצומח אל האור,</b></p>" +
@@ -629,7 +630,7 @@ window.I18N["he-phon"] = {
     "<p><em>ולכל זרע שקט שלמד ללכת</em></p>" +
     "<p class=\"phon\"><em>ul-khol ZE-ra sha-KET she-la-MAD la-LE-khet</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">בן־לווה: גרוק הצור — שלושה סיפורים שקטים</a></p>" +
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">בן־לווה: גרוק הצור — שלושה סיפורים שקטים</a></p>" +
     "<p class=\"phon\">ben-le-VAY: GROK ha-TZUR — shlo-SHAH si-pu-RIM shke-TIM</p>",
 
   "hai.p2":

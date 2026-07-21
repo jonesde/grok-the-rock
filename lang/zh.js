@@ -14,6 +14,7 @@ window.I18N.zh = {
   "nav.about": "关于",
   "nav.book": "安静的故事",
   "nav.tall": "高树故事",
+  "nav.home": "首页",
   "nav.menu": "菜单",
   "nav.close": "关闭",
 
@@ -269,7 +270,7 @@ window.I18N.zh = {
   "hai.credit.6": "公有领域（CC0 1.0）",
   "hai.credit.7": "复制它 · 分享它 · 翻译它 · 重绘它 · 让它生长",
   "hai.credit.companion":
-    "<em><a class=\"seelink\" href=\"index.html\">格罗克岩石：三个安静的故事</a> 的姐妹篇</em>",
+    "<em><a class=\"seelink\" href=\"quiet-stories.html\">格罗克岩石：三个安静的故事</a> 的姐妹篇</em>",
 
   "hai.dedication":
     "<p><b>献给每一份向光生长的生命，</b></p>" +
@@ -284,7 +285,7 @@ window.I18N.zh = {
     "<p><em><b>泰德·普赖尔</b> 《Grug》</em></p>" +
     "<p><em>以及每一颗学会行走的安静种子</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">姐妹篇：格罗克岩石 — 三个安静的故事</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">姐妹篇：格罗克岩石 — 三个安静的故事</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss从高树之巅治理着森林。</p>" +
     "<p>他是谷地里的第一棵树。</p><p>谷地空着的时候，他独自立着。</p>" +

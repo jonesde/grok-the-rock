@@ -14,6 +14,7 @@ window.I18N.no = {
   "nav.about": "Om",
   "nav.book": "Stille Historier",
   "nav.tall": "Høye Eventyr",
+  "nav.home": "Hjem",
   "nav.menu": "Meny",
   "nav.close": "Lukk",
 
@@ -512,7 +513,7 @@ window.I18N.no = {
   "hai.credit.6": "Offentlig eiendom (CC0 1.0)",
   "hai.credit.7": "Kopier det • Del det • Oversett det • Tegn det på nytt • La det vokse",
   "hai.credit.companion":
-    "<em>Følgeverk til <a class=\"seelink\" href=\"index.html\">Grok Steinen: Tre stille historier</a></em>",
+    "<em>Følgeverk til <a class=\"seelink\" href=\"quiet-stories.html\">Grok Steinen: Tre stille historier</a></em>",
 
   "hai.dedication":
     "<p><b>For hvert liv som vokser mot lyset,</b></p>" +
@@ -527,7 +528,7 @@ window.I18N.no = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>og hvert stille frø som lærte å gå</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">Følgeverk: Grok Steinen — Tre stille historier</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Følgeverk: Grok Steinen — Tre stille historier</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss styrte skogen fra toppen av det høye treet.</p>" +
     "<p>Han var det første treet i dalen.</p><p>Da dalen var tom, sto han alene.</p>" +

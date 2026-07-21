@@ -101,9 +101,9 @@ HTML book sources keep a few **chrome alternates** (`Grok`, `Lord Ikthiss`) so a
 - `cover.title` / `hai.cover.title`
 - `dedication` (seelink: `Grok the Rock = Stranger…`)
 
-Do not put those full chrome strings back into `index.html` / `tall-tales.html` source.
+Do not put those full chrome strings back into `quiet-stories.html` / `tall-tales.html` source.
 
-### index.html (story book) — 60 keys
+### quiet-stories.html (story book) — 60 keys
 
 | Key | Type | Content |
 |-----|------|---------|
@@ -277,7 +277,7 @@ window.I18N = window.I18N || {};
 window.I18N.XX = {
   "__title": "Translated page title",
   // All keys from the three pages, in order:
-  // index.html keys, then rules keys, then about keys, then cover/chapter overlays
+  // quiet-stories.html keys, then rules keys, then about keys, then cover/chapter overlays
 };
 ```
 

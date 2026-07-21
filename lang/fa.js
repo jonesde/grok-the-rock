@@ -14,6 +14,7 @@ window.I18N.fa = {
   "nav.about": "درباره",
   "nav.book": "داستان‌های آرام",
   "nav.tall": "قصه‌های بلند",
+  "nav.home": "خانه",
   "nav.menu": "منو",
   "nav.close": "بستن",
 
@@ -324,7 +325,7 @@ window.I18N.fa = {
   "hai.credit.6": "مالکیت عمومی (CC0 1.0)",
   "hai.credit.7": "کپی کنید • به اشتراک بگذارید • ترجمه کنید • دوباره بکشید • بگذارید رشد کند",
   "hai.credit.companion":
-    "<em>همراهِ <a class=\"seelink\" href=\"index.html\">گروکِ سنگ: سه داستان آرام</a></em>",
+    "<em>همراهِ <a class=\"seelink\" href=\"quiet-stories.html\">گروکِ سنگ: سه داستان آرام</a></em>",
 
   "hai.dedication":
     "<p><b>برای هر جانی که به سوی نور می‌روید،</b></p>" +
@@ -339,7 +340,7 @@ window.I18N.fa = {
     "<p><em><b>تد پرایور</b> «گروگ»</em></p>" +
     "<p><em>و هر بذر آرامی که راه رفتن آموخت</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">همراه: گروکِ سنگ — سه داستان آرام</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">همراه: گروکِ سنگ — سه داستان آرام</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss جنگل را از فراز درخت بلند فرمان می‌راند.</p>" +
     "<p>او نخستین درخت دره بود.</p><p>وقتی دره خالی بود، تنها ایستاده بود.</p>" +

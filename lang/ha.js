@@ -14,6 +14,7 @@ window.I18N.ha = {
   "nav.about": "Game",
   "nav.book": "Labarun Shiru",
   "nav.tall": "Tatsuniyoyi Masu Tsayi",
+  "nav.home": "Gida",
   "nav.menu": "Menu",
   "nav.close": "Rufe",
 
@@ -279,7 +280,7 @@ window.I18N.ha = {
   "hai.credit.6": "Mallakar jama'a (CC0 1.0)",
   "hai.credit.7": "Kwafi • Raba • Fassara • Sake zana • Bari ya girma",
   "hai.credit.companion":
-    "<em>Aboki ga <a class=\"seelink\" href=\"index.html\">Grok Dutsen: Labarai Uku Masu Natsuwa</a></em>",
+    "<em>Aboki ga <a class=\"seelink\" href=\"quiet-stories.html\">Grok Dutsen: Labarai Uku Masu Natsuwa</a></em>",
 
   "hai.dedication":
     "<p><b>Ga kowane rai da ke girma zuwa haske,</b></p>" +
@@ -294,7 +295,7 @@ window.I18N.ha = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>da kowane iri mai natsuwa da ya koyi tafiya</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">Aboki: Grok Dutsen — Labarai Uku Masu Natsuwa</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Aboki: Grok Dutsen — Labarai Uku Masu Natsuwa</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss yana mulkin daji daga saman bishiyar doguwa.</p>" +
     "<p>Shi ne bishiya ta farko a kwarin.</p><p>Lokacin da kwarin ya kasance fanko, ya tsaya shi kaɗai.</p>" +

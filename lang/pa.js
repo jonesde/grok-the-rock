@@ -14,6 +14,7 @@ window.I18N.pa = {
   "nav.about": "ਬਾਰੇ",
   "nav.book": "ਚੁੱਪ ਕਹਾਣੀਆਂ",
   "nav.tall": "ਉੱਚੀਆਂ ਕਹਾਣੀਆਂ",
+  "nav.home": "ਮੁੱਖ ਪੰਨਾ",
   "nav.menu": "ਮੀਨੂ",
   "nav.close": "ਬੰਦ ਕਰੋ",
 
@@ -193,7 +194,7 @@ window.I18N.pa = {
   "hai.credit.6": "ਪਬਲਿਕ ਡੋਮੇਨ (CC0 1.0)",
   "hai.credit.7": "ਕਾਪੀ ਕਰੋ • ਸਾਂਝਾ ਕਰੋ • ਅਨੁਵਾਦ ਕਰੋ • ਮੁੜ ਖਿੱਚੋ • ਇਸਨੂੰ ਵਧਣ ਦਿਓ",
   "hai.credit.companion":
-    "<em><a class=\"seelink\" href=\"index.html\">ਗ੍ਰੋਕ ਪੱਥਰ: ਤਿੰਨ ਚੁੱਪ ਕਹਾਣੀਆਂ</a> ਦਾ ਸਾਥੀ</em>",
+    "<em><a class=\"seelink\" href=\"quiet-stories.html\">ਗ੍ਰੋਕ ਪੱਥਰ: ਤਿੰਨ ਚੁੱਪ ਕਹਾਣੀਆਂ</a> ਦਾ ਸਾਥੀ</em>",
 
   "hai.dedication":
     "<p><b>ਹਰ ਉਸ ਜੀਵਨ ਲਈ ਜੋ ਰੋਸ਼ਨੀ ਵੱਲ ਵਧਦਾ ਹੈ,</b></p>" +
@@ -208,7 +209,7 @@ window.I18N.pa = {
     "<p><em><b>ਟੈਡ ਪ੍ਰਾਇਰ</b> \"Grug\"</em></p>" +
     "<p><em>ਅਤੇ ਹਰ ਚੁੱਪ ਬੀਜ ਜਿਸਨੇ ਚੱਲਣਾ ਸਿੱਖਿਆ</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">ਸਾਥੀ: ਗ੍ਰੋਕ ਪੱਥਰ — ਤਿੰਨ ਚੁੱਪ ਕਹਾਣੀਆਂ</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">ਸਾਥੀ: ਗ੍ਰੋਕ ਪੱਥਰ — ਤਿੰਨ ਚੁੱਪ ਕਹਾਣੀਆਂ</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss ਉੱਚੇ ਰੁੱਖ ਦੀ ਚੋਟੀ ਤੋਂ ਜੰਗਲ ਉੱਤੇ ਰਾਜ ਕਰਦਾ ਸੀ।</p>" +
     "<p>ਉਹ ਘਾਟੀ ਦਾ ਪਹਿਲਾ ਰੁੱਖ ਸੀ।</p><p>ਜਦੋਂ ਘਾਟੀ ਖਾਲੀ ਸੀ, ਉਹ ਇਕੱਲਾ ਖੜ੍ਹਾ ਸੀ।</p>" +

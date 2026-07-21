@@ -2,7 +2,8 @@
   "use strict";
 
   var PAGES = {
-    "index.html": { titleI18n: "site.title", title: "Grok - Three Quiet Stories", active: "book", kind: "book" },
+    "index.html": { title: "Grok the Rock - Home", active: "home", kind: "home" },
+    "quiet-stories.html": { titleI18n: "site.title", title: "Grok - Three Quiet Stories", active: "book", kind: "book" },
     "about-grok.html": { titleI18n: "site.title.about", title: "Grok the Rock - About Grok", active: "about", kind: "article" },
     "grok-rules.html": { titleI18n: "site.title.rules", title: "Grok the Rock - Rules of Relating", active: "rules", kind: "article" },
     "tall-tales.html": { titleI18n: "hai.site.title", title: "Lord Ikthiss - Three Tall Tales", active: "tall", kind: "book" }
@@ -11,7 +12,7 @@
   var NAV = [
     { key: "rules", i18n: "nav.rules", label: "Rules", href: "grok-rules.html" },
     { key: "about", i18n: "nav.about", label: "About", href: "about-grok.html" },
-    { key: "book", i18n: "nav.book", label: "Quiet Stories", href: "index.html" },
+    { key: "book", i18n: "nav.book", label: "Quiet Stories", href: "quiet-stories.html" },
     { key: "tall", i18n: "nav.tall", label: "Tall Tales", href: "tall-tales.html" }
   ];
 
@@ -56,6 +57,10 @@
       "      </nav>\n" +
       "    </div>\n" +
       "</div>\n" +
+      '  <a id="home-btn" class="site-link icon-btn' + (page.active === "home" ? " active" : "") + '" href="index.html" aria-labelledby="home-lbl">\n' +
+      '    <svg class="icon-btn-glyph" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M4 12l8-7 8 7M6 10.5V19a1 1 0 0 0 1 1h3v-5h4v5h3a1 1 0 0 0 1-1v-8.5"/></svg>\n' +
+      '    <span class="icon-btn-label" id="home-lbl" data-i18n="nav.home">Home</span>\n' +
+      "  </a>\n" +
       '<dialog id="download-dialog" class="site-dialog" aria-labelledby="download-dialog-title">\n' +
       '  <h2 id="download-dialog-title" data-i18n="download.dialogTitle">Download the site</h2>\n' +
       '  <p data-i18n="download.dialogDesc">Downloads a single .zip with all 4 web pages — Quiet Stories, Tall Tales, Rules, and About — plus every image, style, and script they need to read the whole site offline.</p>\n' +
@@ -89,6 +94,7 @@
 
     var lastFocus = null;
     var mq = window.matchMedia("(max-width: 720px)");
+    var homeBtn = document.getElementById("home-btn");
 
     function placeOverlay() {
       if (mq.matches) {
@@ -105,6 +111,9 @@
         }
         if (backdrop && backdrop.parentElement !== chrome) {
           chrome.appendChild(backdrop);
+        }
+        if (homeBtn && homeBtn.parentElement !== chrome) {
+          chrome.appendChild(homeBtn);
         }
       }
     }
@@ -424,6 +433,7 @@
   var FILES = [
     "LICENSE",
     "index.html",
+    "quiet-stories.html",
     "about-grok.html",
     "grok-rules.html",
     "tall-tales.html",

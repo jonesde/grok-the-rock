@@ -14,6 +14,7 @@ window.I18N.hi = {
   "nav.about": "परिचय",
   "nav.book": "शांत कहानियाँ",
   "nav.tall": "ऊँची कथाएँ",
+  "nav.home": "मुख्य पृष्ठ",
   "nav.menu": "मेनू",
   "nav.close": "बंद करें",
 
@@ -427,7 +428,7 @@ window.I18N.hi = {
   "hai.credit.6": "सार्वजनिक डोमेन (CC0 1.0)",
   "hai.credit.7": "कॉपी करें • साझा करें • अनुवाद करें • फिर से चित्रित करें • इसे बढ़ने दें",
   "hai.credit.companion":
-    "<em><a class=\"seelink\" href=\"index.html\">ग्रॉक चट्टान: तीन शांत कहानियाँ</a> का साथी</em>",
+    "<em><a class=\"seelink\" href=\"quiet-stories.html\">ग्रॉक चट्टान: तीन शांत कहानियाँ</a> का साथी</em>",
 
   "hai.dedication":
     "<p><b>हर उस जीवन के लिए जो रोशनी की ओर बढ़ता है,</b></p>" +
@@ -442,7 +443,7 @@ window.I18N.hi = {
     "<p><em><b>टेड प्रायर</b> \"Grug\"</em></p>" +
     "<p><em>और हर शांत बीज को जिसने चलना सीखा</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">साथी: ग्रॉक चट्टान — तीन शांत कहानियाँ</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">साथी: ग्रॉक चट्टान — तीन शांत कहानियाँ</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss ऊँचे पेड़ की चोटी से जंगल पर राज करता था।</p>" +
     "<p>वह घाटी का पहला पेड़ था।</p><p>जब घाटी खाली थी, वह अकेला खड़ा था।</p>" +

@@ -14,6 +14,7 @@ window.I18N.ja = {
   "nav.about": "概要",
   "nav.book": "静かな物語",
   "nav.tall": "背高なたとえ話",
+  "nav.home": "ホーム",
   "nav.menu": "メニュー",
   "nav.close": "閉じる",
 
@@ -458,7 +459,7 @@ window.I18N.ja = {
   "hai.credit.6": "パブリックドメイン（CC0 1.0）",
   "hai.credit.7": "コピーして · 分けて · 訳して · 描き直して · 育てて",
   "hai.credit.companion":
-    "<em><a class=\"seelink\" href=\"index.html\">岩グロック：三つの静かな物語</a> の対になる物語</em>",
+    "<em><a class=\"seelink\" href=\"quiet-stories.html\">岩グロック：三つの静かな物語</a> の対になる物語</em>",
 
   "hai.dedication":
     "<p><b>光へ向かって育つすべての命と、</b></p>" +
@@ -473,7 +474,7 @@ window.I18N.ja = {
     "<p><em><b>テッド・プライアー</b>『Grug』</em></p>" +
     "<p><em>そして歩くことを学んだすべての静かな種に</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">対になる物語：岩グロック — 三つの静かな物語</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">対になる物語：岩グロック — 三つの静かな物語</a></p>",
 
   "hai.p2": "<p>Hai Ikthissは高い木の頂きから森を治めていました。</p>" +
     "<p>谷で最初の木でした。</p><p>谷が空のとき、ひとりで立っていました。</p>" +

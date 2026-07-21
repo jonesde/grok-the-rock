@@ -14,6 +14,7 @@ window.I18N.it = {
   "nav.about": "Info",
   "nav.book": "Storie Quiete",
   "nav.tall": "Racconti Alti",
+  "nav.home": "Home",
   "nav.menu": "Menu",
   "nav.close": "Chiudi",
 
@@ -439,7 +440,7 @@ window.I18N.it = {
   "hai.credit.6": "Pubblico dominio (CC0 1.0)",
   "hai.credit.7": "Copialo • Condividilo • Traducilo • Ridisegnalo • Lascialo crescere",
   "hai.credit.companion":
-    "<em>Compagno di <a class=\"seelink\" href=\"index.html\">Grok la Roccia: Tre storie silenziose</a></em>",
+    "<em>Compagno di <a class=\"seelink\" href=\"quiet-stories.html\">Grok la Roccia: Tre storie silenziose</a></em>",
 
   "hai.dedication":
     "<p><b>Per ogni vita che cresce verso la luce,</b></p>" +
@@ -454,7 +455,7 @@ window.I18N.it = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>e ogni seme quieto che imparò a camminare</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">Compagno: Grok la Roccia — Tre storie silenziose</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Compagno: Grok la Roccia — Tre storie silenziose</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss regnava sulla foresta dalla cima dell'albero alto.</p>" +
     "<p>Era il primo albero della valle.</p><p>Quando la valle era vuota, stava da solo.</p>" +

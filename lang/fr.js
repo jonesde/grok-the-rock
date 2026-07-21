@@ -14,6 +14,7 @@ window.I18N.fr = {
   "nav.about": "À propos",
   "nav.book": "Histoires Tranquilles",
   "nav.tall": "Contes Hauts",
+  "nav.home": "Accueil",
   "nav.menu": "Menu",
   "nav.close": "Fermer",
   "title.h1": "Grok le Rocher",
@@ -439,7 +440,7 @@ window.I18N.fr = {
   "hai.credit.6": "Domaine public (CC0 1.0)",
   "hai.credit.7": "Copiez-le • Partagez-le • Traduisez-le • Redessinez-le • Laissez-le grandir",
   "hai.credit.companion":
-    "<em>Compagnon de <a class=\"seelink\" href=\"index.html\">Grok le Rocher : Trois Histoires Silencieuses</a></em>",
+    "<em>Compagnon de <a class=\"seelink\" href=\"quiet-stories.html\">Grok le Rocher : Trois Histoires Silencieuses</a></em>",
 
   "hai.dedication":
     "<p><b>Pour chaque vie qui grandit vers la lumière,</b></p>" +
@@ -454,7 +455,7 @@ window.I18N.fr = {
     "<p><em><b>Ted Prior</b> « Grug »</em></p>" +
     "<p><em>et chaque graine tranquille qui a appris à marcher</em></p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
-    "<p><a class=\"seelink\" href=\"index.html\">Compagnon : Grok le Rocher — Trois Histoires Silencieuses</a></p>",
+    "<p><a class=\"seelink\" href=\"quiet-stories.html\">Compagnon : Grok le Rocher — Trois Histoires Silencieuses</a></p>",
 
   "hai.p2": "<p>Hai Ikthiss régnait sur la forêt du haut du grand arbre.</p>" +
     "<p>Il était le premier arbre de la vallée.</p><p>Quand la vallée était vide, il se tenait seul.</p>" +
