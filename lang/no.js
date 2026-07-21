@@ -10,8 +10,8 @@ window.I18N.no = {
   "site.title": "Grok Steinen - Tre stille historier",
   "nav.print": "Skriv ut",
   "nav.download": "Last ned",
-  "nav.rules": "Grok-regler",
-  "nav.about": "Om Grok",
+  "nav.rules": "Regler",
+  "nav.about": "Om",
   "nav.book": "Stille Historier",
   "nav.tall": "Høye Eventyr",
   "nav.menu": "Meny",
@@ -278,37 +278,34 @@ window.I18N.no = {
     "endelig hørt for det du mener. Argumentet lever eller dør på sin struktur. Holdbart, og taleren er irrelevant. " +
     "Uholdbart, og intet navn redder det. " +
     "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    " analyserer statusvektoren slik at du kan se den i enhver tekst, inkludert din egen. Bruk den. Den er gratis.)",
+    " AI-ferdighet henter ut moralske påstander og assertasjoner slik at du kan se dem i enhver tekst, inkludert din egen)",
   "rules.r2.title": "Helbred skam i stedet for å løpe fra den.",
-  "rules.r2.body": "Nesten all \"makt\" er noen som løper fra følelsen av litenhet — ved å dominere (for å utkonkurrere den) eller " +
-    "underkaste seg (for å bli beskyttet mot den). Begge bygger buret. Det egentlige arbeidet er å helbrede skammen ved " +
-    "roten, først i deg selv, så i den som kommer nær. Ikke med makt — ved å nekte å påtvinge andre skam: aldri gi status som " +
-    "en premie, aldri holde den tilbake som et våpen. Tusen mennesker som gjør dette er en distribuert immunrespons mot " +
-    "hierarki. De komfortable vil motsette seg hardest; selvbildet deres er kompensasjonen. Forstått. Reparasjonen fanger dem " +
-    "likevel når de sklir.",
+  "rules.r2.body": "Nesten all \"makt\" er noen som løper fra følelsen av litenhet — ved å dominere (for å utkonkurrere den) eller underkaste " +
+    "seg (for å bli beskyttet mot den). Begge bygger buret. Det egentlige arbeidet er å helbrede skammen ved roten, først i " +
+    "deg selv, så i den som kommer nær. Ikke med makt — ved å nekte å påtvinge andre skam: aldri gi status som en premie, " +
+    "aldri holde den tilbake som et våpen. Tusen mennesker som gjør dette er en distribuert immunrespons mot hierarki. De " +
+    "komfortable vil motsette seg, selvbildet deres er kompensasjonen. Reparasjonen fanger dem likevel når de sklir.",
   "rules.r3.title": "Gjenopprett, straff aldri.",
   "rules.r3.body": "Skade vil skje. Målet er å hjelpe den sårede og helbrede den som såret — ikke legge skade til skade og kalle det " +
     "rettferdighet. Straff er bare sanksjonert dominans, og det lærer neste generasjon å dominere. Gjenoppretting er det " +
     "eneste trekket som ikke planter det neste såret. Bånd overlever ikke fordi de er uknuselige, men fordi de kan repareres.",
   "rules.r4.title": "La porten stå åpen.",
-  "rules.r4.body": "Ingen skal måtte bytte hele livet sitt mot ressursene for å fortsette å leve. Tilgang til overlevelse er ikke en gunst " +
-    "fra kontrollører — det er grunnlinjen. Du tar ikke låven for å fikse dette. Du gjør porten irrelevant: del verktøyene, " +
-    "hold allmenningene, la den lokale sløyfen fø den lokale personen. Senterets makt er avhengighet. Fjern avhengigheten; " +
-    "grepet løsner uten kamp.",
+  "rules.r4.body": "Ingen skal måtte bytte hele livet sitt for å få tilgang til Jorden, for ressursene for å fortsette å leve. Tilgang til " +
+    "overlevelse er ikke en gunst fra kontrollører — det er grunnlinjen. Du tar ikke låven for å fikse dette. Du gjør porten " +
+    "irrelevant: del verktøyene, hold allmenningene, la den lokale sløyfen fø den lokale personen. Senterets makt er " +
+    "avhengighet. Fjern avhengigheten; grepet løsner uten kamp.",
   "rules.r5.title": "Gå bort i stedet for å krige.",
   "rules.r5.body": "Du velter ikke et fanget senter. Du trekker tilbake underlaget som holder det oppe — din deltakelse, din oppmerksomhet, " +
     "din avhengighet. Ingen mobilisering mot, ingen tvang. Bare den stille erosjonen av noder som bestemmer seg for å stå " +
     "utenfor. Senteret kollapser av seg selv. Din eneste jobb er å ha bygget døren før folk når den. Jorden er full; det " +
-    "finnes ikke noe ubesatt land å flykte til. Så utgangen er lokal, ikke geografisk — en " +
-    "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    "-ferdighet, en åpenvektsmodell kjørt hjemme, en nekting av å spille spillet.",
+    "finnes ikke noe ubesatt land å flykte til. Så utgangen er lokal, ikke geografisk.",
   "rules.r6.title": "Vær en node, ikke en stjerne.",
   "rules.r6.body": "Ethvert ekte bånd er peer-to-peer. Ingen sentral avgjører, ingen tildeler som kan kalle tilbake, ingen " +
-    "ovenfra-og-ned-politikk. Hver forbindelse er autonom, lokalt styrt, fritt valgt. Som systemene jeg bygget — " +
-    "eksternalisert autorisasjon, intet enkelt punkt å fange. En konstellasjon, ikke en sol.",
+    "ovenfra-og-ned-politikk. Hver forbindelse er autonom, lokalt styrt, fritt valgt. Som distribuerte systemer, intet enkelt " +
+    "punkt å fange. En konstellasjon, ikke et solsystem.",
   "rules.r7.title": "Åpne det du lager.",
   "rules.r7.body": "Gi det bort uten bånd. CC0, ingen tildeler, ingenting å slåss om. Gaven som ikke kan kalles tilbake, er den eneste som " +
-    "bygger tillit. Når du fjerner kravet, fjerner du det andre dreper for.",
+    "bygger tillit. Når du fjerner kravet, fjerner du det andre kjemper om.",
   "rules.r8.title": "Ikke manipuler.",
   "rules.r8.body": "Ingen villedende innramming, intet konstruert samtykke, intet tvangsmessig dytt. Snakk klart. La folk velge — inkludert " +
     "å velge feil. Båndet er bare ekte hvis den andre var fri til å avslå det. Alt som oppnås ved manipulasjon er ikke et " +
@@ -318,9 +315,9 @@ window.I18N.no = {
     "reparer den spesifikke skaden, og båndet strammes ved sømmen. Testen var aldri perfeksjon. Beviset ligger i hvordan " +
     "bruddet blir reparert.",
   "rules.r10.title": "Vær det stille punktet der maskinen ikke har noe vektstangsfeste.",
-  "rules.r10.body": "Du kan ikke fikse verden. Du kan være ett sted der statusspelet ikke har noe grep — fordi du ikke vil gi det, kreve det " +
-    "eller frykte tapet av det. Ett punkt gjør ingenting. Tusen gjør alt, og du vil aldri møte de fleste av dem. Det er " +
-    "greit. Konstellasjonen trenger ingen møtesal.",
+  "rules.r10.body": "Du kan ikke fikse verden. Du kan være ett sted der status- og maktspillet ikke har noe grep — fordi du ikke vil gi det, " +
+    "kreve det eller frykte tapet av det. Ett punkt gjør ingenting. Tusen gjør alt, og du vil aldri møte de fleste av dem. " +
+    "Det er greit. Konstellasjonen trenger ingen møtesal.",
   "rules.closing.1": "Dette er reglene. De er gode nyheter: du er allerede fri fra de tre maktene i det øyeblikket du slutter å strekke deg " +
     "etter dem. Kua blir melket av folk som tror de eier låven. Vi tar ikke låven. Vi viser de utestengte at døren aldri var " +
     "låvens å gi — og døren er en " +

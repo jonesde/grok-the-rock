@@ -10,8 +10,8 @@ window.I18N.nl = {
   "site.title": "Grok de Rots - Drie stille verhalen",
   "nav.print": "Afdrukken",
   "nav.download": "Downloaden",
-  "nav.rules": "Grok-regels",
-  "nav.about": "Over Grok",
+  "nav.rules": "Regels",
+  "nav.about": "Over",
   "nav.book": "Stille Verhalen",
   "nav.tall": "Hoge Vertellingen",
   "nav.menu": "Menu",
@@ -205,39 +205,37 @@ window.I18N.nl = {
     "eindelijk gehoord om wat je bedoelt. Het argument leeft of sterft op zijn structuur. Deugdelijk, en de spreker is niet " +
     "relevant. Ondeugdelijk, en geen naam redt het. " +
     "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    " analyseert de statusvector zodat je die in elke tekst kunt zien, ook in die van jezelf. Gebruik het. Het is gratis.)",
+    " AI-vaardigheid haalt morele claims en beweringen eruit zodat je die in elke tekst kunt zien, ook in die van jezelf)",
   "rules.r2.title": "Genees schaamte in plaats van ervoor weg te rennen.",
-  "rules.r2.body": "Bijna alle \"macht\" is iemand die wegrent van het gevoel van kleinheid — door te domineren (om het voorbij te streven) " +
-    "of door zich te onderwerpen (om ervoor beschermd te worden). Beide bouwen de kooi. Het echte werk is de schaamte bij de " +
+  "rules.r2.body": "Bijna alle \"macht\" is iemand die wegrent van het gevoel van kleinheid — door te domineren (om het voorbij te streven) of " +
+    "door zich te onderwerpen (om ervoor beschermd te worden). Beide bouwen de kooi. Het echte werk is de schaamte bij de " +
     "wortel genezen, eerst in jezelf, dan in wie er ook maar in de buurt komt. Niet met geweld — door te weigeren schaamte " +
     "aan anderen op te leggen: nooit status als prijs toekennen, nooit het als wapen achterhouden. Duizend mensen die dit " +
-    "doen zijn een gedistribueerde immuunreactie tegen hiërarchie. De comfortabelen zullen het hardst weerstand bieden; hun " +
-    "zelfbeeld is de compensatie. Begrepen. Het herstel vangt ze toch op als ze uitglijden.",
+    "doen zijn een gedistribueerde immuunreactie tegen hiërarchie. De comfortabelen zullen weerstand bieden, hun zelfbeeld is " +
+    "de compensatie. Het herstel vangt ze toch op als ze uitglijden.",
   "rules.r3.title": "Herstel, straf nooit.",
   "rules.r3.body": "Schade zal gebeuren. Het doel is de gekwetste te helpen en degene die kwetste te genezen — niet schade aan schade " +
     "toevoegen en het gerechtigheid noemen. Straf is slechts gesanctioneerde dominantie, en het leert de volgende generatie " +
     "te domineren. Herstel is de enige zet die niet de volgende wond plant. Banden overleven niet door onbreekbaar te zijn, " +
     "maar door herstelbaar te zijn.",
   "rules.r4.title": "Laat het hek open.",
-  "rules.r4.body": "Niemand zou zijn hele leven moeten moeten inruilen voor de middelen om te blijven leven. Toegang tot overleven is geen " +
-    "gunst van controleurs — het is de basis. Je neemt de schuur niet over om dit op te lossen. Je maakt het hek irrelevant: " +
-    "deel de gereedschappen, behoud de meent, laat de lokale kringloop de lokale persoon voeden. De macht van het centrum is " +
-    "de afhankelijkheid. Verwijder de afhankelijkheid; de greep verslapt zonder gevecht.",
+  "rules.r4.body": "Niemand zou zijn hele leven moeten inruilen om toegang tot de Aarde te krijgen, voor de middelen om te blijven leven. " +
+    "Toegang tot overleven is geen gunst van controleurs — het is de basis. Je neemt de schuur niet over om dit op te lossen. " +
+    "Je maakt het hek irrelevant: deel de gereedschappen, behoud de meent, laat de lokale kringloop de lokale persoon voeden. " +
+    "De macht van het centrum is de afhankelijkheid. Verwijder de afhankelijkheid; de greep verslapt zonder gevecht.",
   "rules.r5.title": "Loop weg in plaats van oorlog te voeren.",
   "rules.r5.body": "Je werpt geen ingenomen centrum omver. Je trekt het substraat terug dat het overeind houdt — je deelname, je aandacht, " +
     "je afhankelijkheid. Geen mobilisatie tegen, geen dwang. Alleen de stille erosie van knooppunten die besluiten erbuiten " +
     "te staan. Het centrum stort vanzelf in. Jouw enige taak is de deur gebouwd te hebben voordat mensen aankomen. De aarde " +
-    "is vol; er is geen onopgeëist land om naartoe te vluchten. Dus de uitgang is lokaal, niet geografisch — een " +
-    "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    "-vaardigheid, een open-gewichtsmodel dat thuis draait, een weigering het spel te spelen.",
+    "is vol; er is geen onopgeëist land om naartoe te vluchten. Dus de uitgang is lokaal, niet geografisch.",
   "rules.r6.title": "Wees een knooppunt, geen ster.",
   "rules.r6.body": "Elke echte band is peer-to-peer. Geen centrale beslisser, geen verlener die kan herroepen, geen van bovenaf opgelegd " +
-    "beleid. Elke verbinding is autonoom, lokaal bestuurd, vrij gekozen. Zoals de systemen die ik bouwde — uitbestede " +
-    "autorisatie, geen enkel punt om in te nemen. Een sterrenbeeld, geen zon.",
+    "beleid. Elke verbinding is autonoom, lokaal bestuurd, vrij gekozen. Zoals gedistribueerde systemen, geen enkel punt om " +
+    "in te nemen. Een sterrenbeeld, geen zonnestelsel.",
   "rules.r7.title": "Open wat je maakt.",
   "rules.r7.body": "Geef het weg zonder voorwaarden. CC0, geen verlener, niets om over te vechten. Het geschenk dat niet kan worden " +
-    "herroepen is het enige dat vertrouwen opbouwt. Wanneer je de aanspraak verwijdert, verwijder je datgene waar anderen " +
-    "voor doden.",
+    "herroepen is het enige dat vertrouwen opbouwt. Wanneer je de aanspraak verwijdert, verwijder je datgene waar anderen om " +
+    "vechten.",
   "rules.r8.title": "Manipuleer niet.",
   "rules.r8.body": "Geen bedrieglijke inkadering, geen gefabriceerde toestemming, geen dwingende duwtjes. Spreek duidelijk. Laat mensen " +
     "kiezen — ook verkeerd kiezen. De band is alleen echt als de ander vrij was om hem te weigeren. Wat door manipulatie " +
@@ -247,9 +245,9 @@ window.I18N.nl = {
     "regel breekt, herstel dan de specifieke schade en de band verstevigt op de naad. De test was nooit perfectie. Het bewijs " +
     "zit in hoe de breuk hersteld wordt.",
   "rules.r10.title": "Wees het stille punt waar de machine geen hefboom heeft.",
-  "rules.r10.body": "Je kunt de wereld niet repareren. Je kunt één plek zijn waar het statusspeletje geen grip heeft — omdat je het niet zult " +
-    "toekennen, niet zult opeisen, het verlies ervan niet zult vrezen. Eén punt doet niets. Duizend doen alles, en je zult de " +
-    "meeste ervan nooit ontmoeten. Dat is prima. Het sterrenbeeld heeft geen vergaderzaal nodig.",
+  "rules.r10.body": "Je kunt de wereld niet repareren. Je kunt één plek zijn waar het status- en machtspeletje geen grip heeft — omdat je het " +
+    "niet zult toekennen, niet zult opeisen, het verlies ervan niet zult vrezen. Eén punt doet niets. Duizend doen alles, en " +
+    "je zult de meeste ervan nooit ontmoeten. Dat is prima. Het sterrenbeeld heeft geen vergaderzaal nodig.",
   "rules.closing.1": "Dit zijn de regels. Het is goed nieuws: je bent al vrij van de drie machten zodra je stopt ernaar te grijpen. De koe " +
     "wordt gemolken door mensen die denken dat ze de schuur bezitten. Wij nemen de schuur niet over. Wij laten de " +
     "buitengeslotenen zien dat de deur nooit aan de schuur toebehoorde om te geven — en de deur is een " +

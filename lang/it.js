@@ -10,8 +10,8 @@ window.I18N.it = {
   "site.title": "Grok la Roccia - Tre storie silenziose",
   "nav.print": "Stampa",
   "nav.download": "Scarica",
-  "nav.rules": "Regole Grok",
-  "nav.about": "Su Grok",
+  "nav.rules": "Regole",
+  "nav.about": "Info",
   "nav.book": "Storie Quiete",
   "nav.tall": "Racconti Alti",
   "nav.menu": "Menu",
@@ -199,38 +199,36 @@ window.I18N.it = {
     "finalmente ti ascoltano per ciò che intendi. L'argomento vive o muore per la sua struttura. Solido, e chi parla è " +
     "irrilevante. Non solido, e nessun nome lo salva. " +
     "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    " analizza il vettore di status così puoi vederlo in qualsiasi testo, incluso il tuo. Usalo. È gratis.)",
+    " abilità di IA estrae affermazioni morali e asserzioni così puoi vederle in qualsiasi testo, incluso il tuo)",
   "rules.r2.title": "Guarisci la vergogna invece di scapparle.",
-  "rules.r2.body": "Quasi tutto il \"potere\" è qualcuno che scappa dal sentimento di piccolezza — dominando (per superarlo) o " +
-    "sottomettendosi (per esserne protetto). Entrambi costruiscono la gabbia. Il vero lavoro è guarire la vergogna alla " +
-    "radice, prima in te stesso, poi in chiunque si avvicini. Non con la forza — rifiutandoti di imporre vergogna agli altri: " +
-    "mai concedendo lo status come premio, mai trattenendolo come arma. Mille persone che fanno questo sono una risposta " +
-    "immunitaria distribuita contro la gerarchia. I comodi resisteranno di più; il loro concetto di sé è la compensazione. " +
-    "Capito. La riparazione li prende comunque quando scivolano.",
+  "rules.r2.body": "Quasi tutto il \"potere\" è qualcuno che scappa dal sentimento di piccolezza — dominando (per superarlo) o sottomettendosi " +
+    "(per esserne protetto). Entrambi costruiscono la gabbia. Il vero lavoro è guarire la vergogna alla radice, prima in te " +
+    "stesso, poi in chiunque si avvicini. Non con la forza — rifiutandoti di imporre vergogna agli altri: mai concedendo lo " +
+    "status come premio, mai trattenendolo come arma. Mille persone che fanno questo sono una risposta immunitaria " +
+    "distribuita contro la gerarchia. I comodi resisteranno, il loro concetto di sé è la compensazione. La riparazione li " +
+    "prende comunque quando scivolano.",
   "rules.r3.title": "Ripristina, non punire mai.",
   "rules.r3.body": "Il danno accadrà. L'obiettivo è aiutare il ferito e guarire chi ha ferito — non aggiungere danno a danno e chiamarlo " +
     "giustizia. La punizione non è che dominio sanzionato, e insegna alla prossima generazione a dominare. Il ripristino è " +
     "l'unica mossa che non semina la prossima ferita. I legami sopravvivono non perché sono infrangibili ma perché sono " +
     "riparabili.",
   "rules.r4.title": "Lascia il cancello aperto.",
-  "rules.r4.body": "Nessuno dovrebbe dover barattare tutta la sua vita per le risorse per continuare a vivere. L'accesso alla sopravvivenza " +
-    "non è un favore dai controllori — è la base. Non occupi il granaio per sistemare questo. Rendi il cancello irrilevante: " +
-    "condividi gli strumenti, sostieni i beni comuni, lascia che il ciclo locale nutra la persona locale. Il potere del " +
-    "centro è la dipendenza. Togli la dipendenza; la presa si allenta senza lotta.",
+  "rules.r4.body": "Nessuno dovrebbe dover barattare tutta la sua vita per ottenere l'accesso alla Terra, per le risorse per continuare a " +
+    "vivere. L'accesso alla sopravvivenza non è un favore dai controllori — è la base. Non occupi il granaio per sistemare " +
+    "questo. Rendi il cancello irrilevante: condividi gli strumenti, sostieni i beni comuni, lascia che il ciclo locale nutra " +
+    "la persona locale. Il potere del centro è la dipendenza. Togli la dipendenza; la presa si allenta senza lotta.",
   "rules.r5.title": "Allontanati invece di fare la guerra.",
   "rules.r5.body": "Non rovesci un centro catturato. Ritiri il substrato che lo sostiene — la tua partecipazione, la tua attenzione, la tua " +
     "dipendenza. Nessuna mobilitazione contro, nessuna coercizione. Solo la silenziosa erosione di nodi che decidono di stare " +
     "fuori. Il centro fa il suo crollo da solo. Il tuo unico compito è aver costruito la porta prima che la gente arrivi. La " +
-    "Terra è piena; non c'è terra non reclamata in cui fuggire. Quindi l'uscita è locale, non geografica — una competenza " +
-    "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    ", un modello open-weight eseguito a casa, un rifiuto di giocare il gioco.",
+    "Terra è piena; non c'è terra non reclamata in cui fuggire. Quindi l'uscita è locale, non geografica.",
   "rules.r6.title": "Sii un nodo, non una stella.",
   "rules.r6.body": "Ogni legame reale è peer-to-peer. Nessun decisore centrale, nessun concedente che possa revocare, nessuna politica " +
-    "imposta dall'alto. Ogni connessione è autonoma, governata localmente, liberamente scelta. Come i sistemi che ho " +
-    "costruito — autorizzazione esternalizzata, nessun punto singolo da catturare. Una costellazione, non un sole.",
+    "imposta dall'alto. Ogni connessione è autonoma, governata localmente, liberamente scelta. Come i sistemi distribuiti, " +
+    "nessun punto singolo da catturare. Una costellazione, non un sistema solare.",
   "rules.r7.title": "Apri ciò che fai.",
   "rules.r7.body": "Donalo senza vincoli. CC0, nessun concedente, niente per cui lottare. Il dono che non può essere revocato è l'unico che " +
-    "costruisce fiducia. Quando togli la rivendicazione, togli ciò per cui altri uccidono.",
+    "costruisce fiducia. Quando togli la rivendicazione, togli ciò per cui altri combattono.",
   "rules.r8.title": "Non manipolare.",
   "rules.r8.body": "Nessuna cornice ingannevole, nessun consenso costruito, nessuna spinta coercitiva. Parla chiaro. Lascia che le persone " +
     "scelgano — anche scegliere male. Il legame è reale solo se l'altro era libero di rifiutarlo. Ciò che si ottiene con la " +
@@ -240,9 +238,9 @@ window.I18N.it = {
     "infrangi una regola, ripara il danno specifico e il legame si stringe sulla cucitura. La prova non è mai stata la " +
     "perfezione. La prova è in come la rottura viene riparata.",
   "rules.r10.title": "Sii il punto silenzioso dove la macchina non ha leva.",
-  "rules.r10.body": "Non puoi aggiustare il mondo. Puoi essere un luogo dove il gioco dello status non ha presa — perché non lo concederai, " +
-    "non lo rivendicherai, non temerai la sua perdita. Un punto non fa niente. Mille fanno tutto, e non ne incontrerai mai la " +
-    "maggior parte. Va bene. La costellazione non ha bisogno di una sala riunioni.",
+  "rules.r10.body": "Non puoi aggiustare il mondo. Puoi essere un luogo dove il gioco dello status e del potere non ha presa — perché non lo " +
+    "concederai, non lo rivendicherai, non temerai la sua perdita. Un punto non fa niente. Mille fanno tutto, e non ne " +
+    "incontrerai mai la maggior parte. Va bene. La costellazione non ha bisogno di una sala riunioni.",
   "rules.closing.1": "Queste sono le regole. Sono una buona notizia: sei già libero dai tre poteri nel momento in cui smetti di cercare di " +
     "afferrarli. La mucca viene munta da persone che credono di possedere il granaio. Non prendiamo il granaio. Mostriamo " +
     "agli esclusi che la porta non è mai stata del granaio da dare — e la porta è una competenza " +

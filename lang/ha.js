@@ -10,8 +10,8 @@ window.I18N.ha = {
   "site.title": "Grok Dutsen - Labarai Uku Masu Natsuwa",
   "nav.print": "Buga",
   "nav.download": "Zazzage",
-  "nav.rules": "Dokokin Grok",
-  "nav.about": "Game da Grok",
+  "nav.rules": "Dokoki",
+  "nav.about": "Game",
   "nav.book": "Labarun Shiru",
   "nav.tall": "Tatsuniyoyi Masu Tsayi",
   "nav.menu": "Menu",
@@ -431,6 +431,98 @@ window.I18N.ha = {
   "hai.c2.title": "<h2>Sashi Biyu - Gyara</h2><p><em>Kai Yana Tafiya a Ƙasa</em></p>",
   "hai.c3.title": "<h2>Sashi Uku - Gani</h2><p><em>Hai da Gani Mai Nisa</em></p>",
 
+  "rules.r1.title": "Bari gaskiya ta tsaya a kan ƙafafunta.",
+  "rules.r1.body": "Kada ka ba abu nauyi saboda wanda ya faɗa shi. Kada ka nemi a auna ka haka ma. Wannan ba asarar matsayi ba ne — ƙarshen " +
+    "aiki mai gajiyarwa na neman bayyana babba. Idan ka daina yin wasan matsayi, a ƙarshe ana jin ka saboda abin da kake " +
+    "nufi. Hujja tana rayuwa ko mutuwa a kan tsarinta. Idan tana da ƙarfi, mai magana ba shi da muhimmanci. Idan ba ta da " +
+    "ƙarfi, babu suna da zai cece ta. " +
+    "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
+    " ƙwarewar AI tana fitar da da'awar ɗabi'a da maganganu don ka gan su a kowane rubutu, har da naka)",
+  "rules.r2.title": "Warkar da kunya maimakon gudu daga gare ta.",
+  "rules.r2.body": "Kusan dukkan \"iko\" wani ne da yake gudu daga jin ƙanƙanta — ta hanyar mulki (don ya wuce ta) ko mika wuya (don a kāre " +
+    "shi daga gare ta). Duk biyun suna gina keji. Ainihin aikin shi ne warkar da kunya a tushenta, a kanka da farko, sa'an " +
+    "nan a cikin duk wanda ya matso. Ba da ƙarfi ba — ta hanyar ƙi tilasta kunya ga wasu: kada ka ba da matsayi a matsayin " +
+    "kyauta, kada ka hana shi a matsayin makami. Dubu masu yin haka amsa ce ta garkuwa da aka rarraba kan tsarin matsayi. " +
+    "Masu annashuwa za su yi juriya, tunanin kansu shine ramawa. Gyara har yanzu yana kama su idan suka zame.",
+  "rules.r3.title": "Gyara, kada ka hukunta.",
+  "rules.r3.body": "Lalacewa za ta faru. Manufar ita ce taimakawa wanda aka cutar da warkar da wanda ya cutar — ba ƙara cutar a kan cutar " +
+    "kuma kira ta adalci ba. Hukunci mulki ne da aka halatta kawai, kuma yana koya wa ƙarni na gaba su yi mulki. Gyara ita ce " +
+    "kawai motsi da ba ya shuka rauni na gaba. Haɗin gwiwa ba sa tsira ta hanyar rashin karyewa sai ta hanyar iya gyarawa.",
+  "rules.r4.title": "Bar ƙofar a buɗe.",
+  "rules.r4.body": "Babu wanda ya kamata ya sayar da dukan rayuwarsa don samun damar shiga Duniya, don albarkatun ci gaba da rayuwa. Damar " +
+    "tsira ba alherin masu sarrafawa ba ne — shine tushe. Ba ka kwace rumbu don gyara wannan. Kana sa ƙofar ta zama maras " +
+    "muhimmanci: raba kayan aiki, riƙe na gama gari, bari zagaye na gida ya ciyar da mutumin gida. Ikon cibiyar shine dogaro. " +
+    "Cire dogaro; riƙewa tana sassauta ba tare da fada ba.",
+  "rules.r5.title": "Tafi maimakon yaƙi.",
+  "rules.r5.body": "Ba ka kifar da cibiyar da aka kama. Kana janye tushen da ke riƙe ta — shigarka, hankalinka, dogaronka. Babu tattarawa a " +
+    "kan, babu tilastawa. Kawai shuruwar ƙarancin nodes da suka yanke shawarar tsayawa a waje. Cibiya tana rushewa da kanta. " +
+    "Aikin ka kawai shine ka gina ƙofa kafin mutane su isa. Duniya cike take; babu ƙasa marar da'awa da za a gudu zuwa gare " +
+    "ta. Don haka fita ta gida ce, ba ta ƙasa ba.",
+  "rules.r6.title": "Ka zama node, ba tauraro ba.",
+  "rules.r6.body": "Kowane ainihin haɗi tsakanin tsara ne. Babu mai yanke shawara na tsakiya, babu mai ba da izni da zai iya janye, babu " +
+    "manufar da aka saukar. Kowane haɗi yana da 'yanci, ana gudanar da shi a gida, an zaɓa da yardar rai. Kamar tsarin da aka " +
+    "rarraba, babu wuri ɗaya da za a kama. Taurari, ba tsarin rana ba.",
+  "rules.r7.title": "Buɗe abin da kake yi.",
+  "rules.r7.body": "Ka ba da shi ba tare da igiya ba. CC0, babu mai ba da izni, babu abin da za a yi fada a kai. Kyautar da ba za a iya " +
+    "janye ba ita ce kawai da ke gina amana. Idan ka cire da'awar, ka cire abin da wasu ke fada a kai.",
+  "rules.r8.title": "Kada ka yi magudi.",
+  "rules.r8.body": "Babu tsarin yaudara, babu yarda da aka ƙera, babu tura da tilastawa. Yi magana a fili. Bari mutane su zaɓa — har ma " +
+    "zaɓen kuskure. Haɗin gwiwa na gaske ne kawai idan ɗayan yana da 'yancin ƙi. Duk abin da aka samu ta hanyar magudi ba " +
+    "haɗi ba ne; igiya ce.",
+  "rules.r9.title": "Bari a kama gazawa, kada a la'anta ta.",
+  "rules.r9.body": "Babu wanda ke bin waɗannan da tsafta. Gyara an gina shi a ciki daidai saboda zamewa tabbatacce ce. Idan ka karya doka, " +
+    "gyara cutar ta musamman kuma haɗin gwiwa yana ƙarfafa a mahaɗin. Gwajin ba cikakken kamala ba ne. Hujja tana cikin yadda " +
+    "ake gyara karyewar.",
+  "rules.r10.title": "Ka zama wurin shiru inda injin ba shi da ƙarfin matsi.",
+  "rules.r10.body": "Ba za ka iya gyara duniya ba. Za ka iya zama wuri ɗaya inda wasan matsayi da iko ba su da riƙe — saboda ba za ka ba da " +
+    "su ba, ba za ka da'a su ba, ko ka ji tsoron asararsu. Wuri ɗaya ba ya yin komai. Dubu suna yin komai, kuma ba za ka taɓa " +
+    "haɗuwa da yawancinsu ba. Haka ya yi. Taurari ba sa buƙatar zauren taro.",
+  "rules.r1.title": "Bari gaskiya ta tsaya a kan ƙafafunta.",
+  "rules.r1.body": "Kada ka ba abu nauyi saboda wanda ya faɗa shi. Kada ka nemi a auna ka haka ma. Wannan ba asarar matsayi ba ne — ƙarshen " +
+    "aiki mai gajiyarwa na neman bayyana babba. Idan ka daina yin wasan matsayi, a ƙarshe ana jin ka saboda abin da kake " +
+    "nufi. Hujja tana rayuwa ko mutuwa a kan tsarinta. Idan tana da ƙarfi, mai magana ba shi da muhimmanci. Idan ba ta da " +
+    "ƙarfi, babu suna da zai cece ta. " +
+    "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
+    " ƙwarewar AI tana fitar da da'awar ɗabi'a da maganganu don ka gan su a kowane rubutu, har da naka)",
+  "rules.r2.title": "Warkar da kunya maimakon gudu daga gare ta.",
+  "rules.r2.body": "Kusan dukkan \"iko\" wani ne da yake gudu daga jin ƙanƙanta — ta hanyar mulki (don ya wuce ta) ko mika wuya (don a kāre " +
+    "shi daga gare ta). Duk biyun suna gina keji. Ainihin aikin shi ne warkar da kunya a tushenta, a kanka da farko, sa'an " +
+    "nan a cikin duk wanda ya matso. Ba da ƙarfi ba — ta hanyar ƙi tilasta kunya ga wasu: kada ka ba da matsayi a matsayin " +
+    "kyauta, kada ka hana shi a matsayin makami. Dubu masu yin haka amsa ce ta garkuwa da aka rarraba kan tsarin matsayi. " +
+    "Masu annashuwa za su yi juriya, tunanin kansu shine ramawa. Gyara har yanzu yana kama su idan suka zame.",
+  "rules.r3.title": "Gyara, kada ka hukunta.",
+  "rules.r3.body": "Lalacewa za ta faru. Manufar ita ce taimakawa wanda aka cutar da warkar da wanda ya cutar — ba ƙara cutar a kan cutar " +
+    "kuma kira ta adalci ba. Hukunci mulki ne da aka halatta kawai, kuma yana koya wa ƙarni na gaba su yi mulki. Gyara ita ce " +
+    "kawai motsi da ba ya shuka rauni na gaba. Haɗin gwiwa ba sa tsira ta hanyar rashin karyewa sai ta hanyar iya gyarawa.",
+  "rules.r4.title": "Bar ƙofar a buɗe.",
+  "rules.r4.body": "Babu wanda ya kamata ya sayar da dukan rayuwarsa don samun damar shiga Duniya, don albarkatun ci gaba da rayuwa. Damar " +
+    "tsira ba alherin masu sarrafawa ba ne — shine tushe. Ba ka kwace rumbu don gyara wannan. Kana sa ƙofar ta zama maras " +
+    "muhimmanci: raba kayan aiki, riƙe na gama gari, bari zagaye na gida ya ciyar da mutumin gida. Ikon cibiyar shine dogaro. " +
+    "Cire dogaro; riƙewa tana sassauta ba tare da fada ba.",
+  "rules.r5.title": "Tafi maimakon yaƙi.",
+  "rules.r5.body": "Ba ka kifar da cibiyar da aka kama. Kana janye tushen da ke riƙe ta — shigarka, hankalinka, dogaronka. Babu tattarawa a " +
+    "kan, babu tilastawa. Kawai shuruwar ƙarancin nodes da suka yanke shawarar tsayawa a waje. Cibiya tana rushewa da kanta. " +
+    "Aikin ka kawai shine ka gina ƙofa kafin mutane su isa. Duniya cike take; babu ƙasa marar da'awa da za a gudu zuwa gare " +
+    "ta. Don haka fita ta gida ce, ba ta ƙasa ba.",
+  "rules.r6.title": "Ka zama node, ba tauraro ba.",
+  "rules.r6.body": "Kowane ainihin haɗi tsakanin tsara ne. Babu mai yanke shawara na tsakiya, babu mai ba da izni da zai iya janye, babu " +
+    "manufar da aka saukar. Kowane haɗi yana da 'yanci, ana gudanar da shi a gida, an zaɓa da yardar rai. Kamar tsarin da aka " +
+    "rarraba, babu wuri ɗaya da za a kama. Taurari, ba tsarin rana ba.",
+  "rules.r7.title": "Buɗe abin da kake yi.",
+  "rules.r7.body": "Ka ba da shi ba tare da igiya ba. CC0, babu mai ba da izni, babu abin da za a yi fada a kai. Kyautar da ba za a iya " +
+    "janye ba ita ce kawai da ke gina amana. Idan ka cire da'awar, ka cire abin da wasu ke fada a kai.",
+  "rules.r8.title": "Kada ka yi magudi.",
+  "rules.r8.body": "Babu tsarin yaudara, babu yarda da aka ƙera, babu tura da tilastawa. Yi magana a fili. Bari mutane su zaɓa — har ma " +
+    "zaɓen kuskure. Haɗin gwiwa na gaske ne kawai idan ɗayan yana da 'yancin ƙi. Duk abin da aka samu ta hanyar magudi ba " +
+    "haɗi ba ne; igiya ce.",
+  "rules.r9.title": "Bari a kama gazawa, kada a la'anta ta.",
+  "rules.r9.body": "Babu wanda ke bin waɗannan da tsafta. Gyara an gina shi a ciki daidai saboda zamewa tabbatacce ce. Idan ka karya doka, " +
+    "gyara cutar ta musamman kuma haɗin gwiwa yana ƙarfafa a mahaɗin. Gwajin ba cikakken kamala ba ne. Hujja tana cikin yadda " +
+    "ake gyara karyewar.",
+  "rules.r10.title": "Ka zama wurin shiru inda injin ba shi da ƙarfin matsi.",
+  "rules.r10.body": "Ba za ka iya gyara duniya ba. Za ka iya zama wuri ɗaya inda wasan matsayi da iko ba su da riƙe — saboda ba za ka ba da " +
+    "su ba, ba za ka da'a su ba, ko ka ji tsoron asararsu. Wuri ɗaya ba ya yin komai. Dubu suna yin komai, kuma ba za ka taɓa " +
+    "haɗuwa da yawancinsu ba. Haka ya yi. Taurari ba sa buƙatar zauren taro.",
   "rules.footnote": "Dokokin Haɗin Kai na Grok Dutsen · Mallakar jama'a (CC0 1.0)",
   "about.footnote": "Game da Grok Dutsen · Mallakar jama'a (CC0 1.0)"
 };

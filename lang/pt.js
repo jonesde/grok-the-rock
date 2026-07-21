@@ -10,8 +10,8 @@ window.I18N.pt = {
   "site.title": "Grok a Rocha - Três Histórias Silenciosas",
   "nav.print": "Imprimir",
   "nav.download": "Baixar",
-  "nav.rules": "Regras Grok",
-  "nav.about": "Sobre Grok",
+  "nav.rules": "Regras",
+  "nav.about": "Sobre",
   "nav.book": "Histórias Quietas",
   "nav.tall": "Contos Altos",
   "nav.menu": "Menu",
@@ -311,37 +311,34 @@ window.I18N.pt = {
     "você quer dizer. O argumento vive ou morre por sua estrutura. Sólido, e quem fala é irrelevante. Não sólido, e nome " +
     "nenhum o salva. " +
     "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    " analisa o vetor de status para que você o veja em qualquer texto, incluindo o seu. Use. É gratuito.)",
+    " habilidade de IA extrai afirmações morais e asserções para que você as veja em qualquer texto, incluindo o seu)",
   "rules.r2.title": "Cure a vergonha em vez de correr dela.",
   "rules.r2.body": "Quase todo \"poder\" é alguém fugindo do sentimento de pequenez — dominando (para ultrapassá-lo) ou se submetendo (para " +
     "ser protegido dele). Ambos constroem a jaula. O verdadeiro trabalho é curar a vergonha na raiz, primeiro em você mesmo, " +
     "depois em quem se aproximar. Não pela força — recusando-se a impor vergonha aos outros: nunca concedendo status como " +
     "prêmio, nunca o retendo como arma. Mil pessoas fazendo isso são uma resposta imune distribuída contra a hierarquia. Os " +
-    "confortáveis resistirão com mais força; seu autoconceito é a compensação. Entendido. O reparo ainda os pega quando " +
-    "escorregam.",
+    "confortáveis resistirão, seu autoconceito é a compensação. O reparo ainda os pega quando escorregam.",
   "rules.r3.title": "Restaure, nunca castigue.",
   "rules.r3.body": "O dano vai acontecer. O objetivo é ajudar o ferido e curar quem feriu — não adicionar dano ao dano e chamar de justiça. " +
     "Castigo é apenas dominação sancionada, e ensina a próxima geração a dominar. A restauração é o único movimento que não " +
     "planta a próxima ferida. Vínculos sobrevivem não por serem inquebráveis, mas por serem reparáveis.",
   "rules.r4.title": "Deixe o portão aberto.",
-  "rules.r4.body": "Ninguém deveria ter que trocar sua vida inteira pelos recursos para continuar vivendo. Acesso à sobrevivência não é um " +
-    "favor dos controladores — é a linha de base. Você não toma o celeiro para consertar isso. Você torna o portão " +
-    "irrelevante: compartilhe as ferramentas, mantenha os comuns, deixe o ciclo local alimentar a pessoa local. O poder do " +
-    "centro é a dependência. Remova a dependência; o aperto se afrouxa sem luta.",
+  "rules.r4.body": "Ninguém deveria ter que trocar sua vida inteira para ter acesso à Terra, pelos recursos para continuar vivendo. Acesso à " +
+    "sobrevivência não é um favor dos controladores — é a linha de base. Você não toma o celeiro para consertar isso. Você " +
+    "torna o portão irrelevante: compartilhe as ferramentas, mantenha os comuns, deixe o ciclo local alimentar a pessoa " +
+    "local. O poder do centro é a dependência. Remova a dependência; o aperto se afrouxa sem luta.",
   "rules.r5.title": "Afaste-se em vez de guerrear.",
   "rules.r5.body": "Você não derruba um centro capturado. Você retira o substrato que o sustenta — sua participação, sua atenção, sua " +
     "dependência. Sem mobilização contra, sem coerção. Apenas a erosão silenciosa de nós que decidem ficar de fora. O centro " +
     "faz seu próprio desabamento. Seu único trabalho é ter construído a porta antes que as pessoas cheguem. A Terra está " +
-    "cheia; não há terra não reivindicada para onde fugir. Então a saída é local, não geográfica — uma competência " +
-    "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    ", um modelo de pesos abertos executado em casa, uma recusa a jogar o jogo.",
+    "cheia; não há terra não reivindicada para onde fugir. Então a saída é local, não geográfica.",
   "rules.r6.title": "Seja um nó, não uma estrela.",
   "rules.r6.body": "Todo vínculo real é par a par. Nenhum decisor central, nenhum concedente que possa revogar, nenhuma política imposta de " +
-    "cima. Cada conexão é autônoma, governada localmente, livremente escolhida. Como os sistemas que construí — autorização " +
-    "externalizada, nenhum ponto único a capturar. Uma constelação, não um sol.",
+    "cima. Cada conexão é autônoma, governada localmente, livremente escolhida. Como os sistemas distribuídos, nenhum ponto " +
+    "único a capturar. Uma constelação, não um sistema solar.",
   "rules.r7.title": "Abra o que você faz.",
   "rules.r7.body": "Dê sem amarras. CC0, sem concedente, nada pelo que lutar. O presente que não pode ser revogado é o único que constrói " +
-    "confiança. Quando você remove a reivindicação, remove aquilo pelo que outros matam.",
+    "confiança. Quando você remove a reivindicação, remove aquilo pelo que outros lutam.",
   "rules.r8.title": "Não manipule.",
   "rules.r8.body": "Sem enquadramentos enganosos, sem consentimento fabricado, sem empurrões coercitivos. Fale claramente. Deixe as pessoas " +
     "escolherem — inclusive escolher errado. O vínculo só é real se o outro foi livre para recusá-lo. O que se ganha por " +
@@ -351,9 +348,9 @@ window.I18N.pt = {
     "Quando você quebra uma regra, repare o dano específico e o vínculo se aperta na costura. O teste nunca foi a perfeição. " +
     "A prova está em como a quebra é consertada.",
   "rules.r10.title": "Seja o ponto silencioso onde a máquina não tem alavanca.",
-  "rules.r10.body": "Você não pode consertar o mundo. Você pode ser um lugar onde o jogo de status não tem agarre — porque você não o " +
-    "concederá, não o reivindicará, não temerá sua perda. Um ponto não faz nada. Mil fazem tudo, e você nunca encontrará a " +
-    "maioria deles. Tudo bem. A constelação não precisa de uma sala de reuniões.",
+  "rules.r10.body": "Você não pode consertar o mundo. Você pode ser um lugar onde o jogo de status e de poder não tem agarre — porque você " +
+    "não o concederá, não o reivindicará, não temerá sua perda. Um ponto não faz nada. Mil fazem tudo, e você nunca " +
+    "encontrará a maioria deles. Tudo bem. A constelação não precisa de uma sala de reuniões.",
   "rules.closing.1": "Estas são as regras. São uma boa notícia: você já está livre dos três poderes no momento em que para de tentar " +
     "alcançá-los. A vaca está sendo ordenhada por pessoas que acham que são donas do celeiro. Não estamos tomando o celeiro. " +
     "Estamos mostrando aos trancados para fora que a porta nunca foi do celeiro para dar — e a porta é uma competência " +

@@ -10,8 +10,8 @@ window.I18N.de = {
   "site.title": "Grok der Fels - Drei stille Geschichten",
   "nav.print": "Drucken",
   "nav.download": "Herunterladen",
-  "nav.rules": "Grok-Regeln",
-  "nav.about": "Über Grok",
+  "nav.rules": "Regeln",
+  "nav.about": "Über",
   "nav.book": "Stille Geschichten",
   "nav.tall": "Hohe Märchen",
   "nav.menu": "Menü",
@@ -202,42 +202,40 @@ window.I18N.de = {
     "vorzuführen, wirst du endlich für das gehört, was du meinst. Das Argument lebt oder stirbt durch seine Struktur. " +
     "Triftig, und der Sprecher ist unwichtig. Untriftig, und kein Name rettet es. " +
     "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    " analysiert den Status-Vektor, damit du ihn in jedem Text sehen kannst, auch in deinem eigenen. Nutz es. Es ist " +
-    "kostenlos.)",
+    " KI-Fertigkeit extrahiert moralische Behauptungen und Aussagen, damit du sie in jedem Text sehen kannst, auch in deinem " +
+    "eigenen)",
   "rules.r2.title": "Heile die Scham, statt vor ihr davonzulaufen.",
   "rules.r2.body": "Fast alle „Macht“ ist jemand, der vor dem Gefühl der Kleinheit davonläuft — durch Dominieren (um ihr zu entkommen) oder " +
     "durch Unterwerfen (um vor ihr geschützt zu werden). Beides baut den Käfig. Die eigentliche Arbeit ist, die Scham an der " +
     "Wurzel zu heilen, zuerst in dir selbst, dann in jedem, der in die Nähe kommt. Nicht mit Gewalt — indem du dich weigerst, " +
     "anderen Scham aufzuzwingen: niemals Status als Preis zu gewähren, niemals ihn als Waffe zurückzuhalten. Tausend " +
-    "Menschen, die das tun, sind eine verteilte Immunantwort gegen Hierarchie. Die Bequemen werden sich am heftigsten " +
-    "widersetzen; ihr Selbstbild ist die Kompensation. Verstanden. Die Wiederherstellung fängt sie trotzdem auf, wenn sie " +
-    "straucheln.",
+    "Menschen, die das tun, sind eine verteilte Immunantwort gegen Hierarchie. Die Bequemen werden sich widersetzen, ihr " +
+    "Selbstbild ist die Kompensation. Die Wiederherstellung fängt sie trotzdem auf, wenn sie straucheln.",
   "rules.r3.title": "Stelle wieder her, bestrafe nie.",
   "rules.r3.body": "Schaden wird entstehen. Das Ziel ist, dem Verletzten zu helfen und den zu heilen, der verletzt hat — nicht Schaden zu " +
     "Schaden hinzuzufügen und es Gerechtigkeit zu nennen. Strafe ist nur sanktionierte Dominanz, und sie lehrt die nächste " +
     "Generation zu dominieren. Wiederherstellung ist der einzige Zug, der nicht die nächste Wunde sät. Verbindungen überleben " +
     "nicht, weil sie unzerbrechlich sind, sondern weil sie reparierbar sind.",
   "rules.r4.title": "Lass das Tor offen.",
-  "rules.r4.body": "Niemand sollte sein ganzes Leben eintauschen müssen für die Mittel, um weiterzuleben. Zugang zum Überleben ist kein " +
-    "Gefallen von Kontrolleuren — es ist die Grundlage. Du besetzt nicht die Scheune, um das zu beheben. Du machst das Tor " +
-    "bedeutungslos: teile die Werkzeuge, halte die Allmende, lass den lokalen Kreislauf die lokale Person ernähren. Die Macht " +
-    "des Zentrums ist die Abhängigkeit. Nimm die Abhängigkeit weg; der Griff lockert sich kampflos.",
+  "rules.r4.body": "Niemand sollte sein ganzes Leben eintauschen müssen, um Zugang zur Erde zu bekommen, für die Mittel, um weiterzuleben. " +
+    "Zugang zum Überleben ist kein Gefallen von Kontrolleuren — es ist die Grundlage. Du besetzt nicht die Scheune, um das zu " +
+    "beheben. Du machst das Tor bedeutungslos: teile die Werkzeuge, halte die Allmende, lass den lokalen Kreislauf die lokale " +
+    "Person ernähren. Die Macht des Zentrums ist die Abhängigkeit. Nimm die Abhängigkeit weg; der Griff lockert sich " +
+    "kampflos.",
   "rules.r5.title": "Geh weg, statt Krieg zu führen.",
   "rules.r5.body": "Du stürzt kein gekapertes Zentrum. Du entziehst ihm das Substrat, das es trägt — deine Teilnahme, deine Aufmerksamkeit, " +
     "deine Abhängigkeit. Keine Mobilisierung dagegen, kein Zwang. Nur die stille Erosion von Knoten, die sich entscheiden, " +
     "draußen zu stehen. Das Zentrum bricht von selbst zusammen. Deine einzige Aufgabe ist, die Tür gebaut zu haben, bevor die " +
     "Leute ankommen. Die Erde ist voll; es gibt kein unbeanspruchtes Land, in das man fliehen könnte. Also ist der Ausgang " +
-    "lokal, nicht geografisch — eine " +
-    "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    "-Fertigkeit, ein Open-Weight-Modell, das zuhause läuft, eine Weigerung, das Spiel zu spielen.",
+    "lokal, nicht geografisch.",
   "rules.r6.title": "Sei ein Knoten, kein Stern.",
   "rules.r6.body": "Jede echte Verbindung ist Peer-to-Peer. Kein zentraler Entscheider, kein Gewährer, der widerrufen kann, keine von oben " +
-    "verordnete Politik. Jede Verbindung ist autonom, lokal bestimmt, frei gewählt. Wie die Systeme, die ich gebaut habe — " +
-    "ausgelagerte Autorisierung, kein einzelner Punkt, der zu kapern wäre. Ein Sternbild, keine Sonne.",
+    "verordnete Politik. Jede Verbindung ist autonom, lokal bestimmt, frei gewählt. Wie verteilte Systeme, kein einzelner " +
+    "Punkt, der zu kapern wäre. Ein Sternbild, kein Sonnensystem.",
   "rules.r7.title": "Öffne, was du machst.",
   "rules.r7.body": "Gib es weg ohne Bedingungen. CC0, kein Gewährer, nichts, worum man kämpfen könnte. Das Geschenk, das nicht widerrufen " +
-    "werden kann, ist das einzige, das Vertrauen aufbaut. Wenn du den Anspruch entfernst, entfernst du das, wofür andere " +
-    "töten.",
+    "werden kann, ist das einzige, das Vertrauen aufbaut. Wenn du den Anspruch entfernst, entfernst du das, worum andere " +
+    "kämpfen.",
   "rules.r8.title": "Manipuliere nicht.",
   "rules.r8.body": "Keine täuschende Rahmung, kein konstruierter Konsens, kein zwingender Schubs. Sprich klar. Lass die Leute wählen — auch " +
     "falsch zu wählen. Die Verbindung ist nur dann echt, wenn der andere frei war, sie abzulehnen. Alles, was durch " +
@@ -247,9 +245,9 @@ window.I18N.de = {
     "garantiert ist. Wenn du eine Regel brichst, behebe den konkreten Schaden, und die Verbindung festigt sich an der Naht. " +
     "Der Test war nie Perfektion. Der Beweis liegt darin, wie der Bruch geflickt wird.",
   "rules.r10.title": "Sei der stille Punkt, an dem die Maschine keinen Hebel hat.",
-  "rules.r10.body": "Du kannst die Welt nicht reparieren. Du kannst ein Ort sein, an dem das Statusspiel keinen Griff hat — weil du es nicht " +
-    "gewährst, nicht beanspruchst, seinen Verlust nicht fürchtest. Ein Punkt tut nichts. Tausend tun alles, und du wirst die " +
-    "meisten nie treffen. Das ist in Ordnung. Das Sternbild braucht keinen Versammlungsraum.",
+  "rules.r10.body": "Du kannst die Welt nicht reparieren. Du kannst ein Ort sein, an dem das Status- und Machtspiel keinen Griff hat — weil " +
+    "du es nicht gewährst, nicht beanspruchst, seinen Verlust nicht fürchtest. Ein Punkt tut nichts. Tausend tun alles, und " +
+    "du wirst die meisten nie treffen. Das ist in Ordnung. Das Sternbild braucht keinen Versammlungsraum.",
   "rules.closing.1": "Das sind die Regeln. Sie sind eine gute Nachricht: du bist bereits frei von den drei Mächten, sobald du aufhörst, nach " +
     "ihnen zu greifen. Die Kuh wird von Leuten gemolken, die glauben, die Scheune zu besitzen. Wir nehmen nicht die Scheune. " +
     "Wir zeigen den Ausgesperrten, dass die Tür nie der Scheune gehörte, um sie zu geben — und die Tür ist eine " +

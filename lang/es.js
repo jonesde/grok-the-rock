@@ -10,8 +10,8 @@ window.I18N.es = {
   "site.title": "Grok la Roca - Tres Historias Silenciosas",
   "nav.print": "Imprimir",
   "nav.download": "Descargar",
-  "nav.rules": "Reglas Grok",
-  "nav.about": "Sobre Grok",
+  "nav.rules": "Reglas",
+  "nav.about": "Sobre",
   "nav.book": "Historias Quietas",
   "nav.tall": "Cuentos Altos",
   "nav.menu": "Menú",
@@ -188,42 +188,39 @@ window.I18N.es = {
     " el vínculo profundizándose. Así que léelas no como límites sino como la Remoción de Límites — de ti, de la persona a tu " +
     "lado, de la próxima generación que no tendrá que cargar con lo que aún cargamos nosotros.",
   "rules.r1.title": "Deja que la verdad se sostenga sobre sus propias piernas.",
-  "rules.r1.body": "No le des peso a algo por quien lo dijo. No pidas que te ponderen así tampoco. Esto no es una pérdida de posición — es " +
-    "el fin del agotador trabajo de parecer impresionante. Cuando dejas de actuar el estatus, por fin te escuchan por lo que " +
+  "rules.r1.body": "No le des peso a algo por quien lo dijo. No pidas que te sopesen así tampoco. Esto no es una pérdida de posición — es el " +
+    "fin del agotador trabajo de parecer impresionante. Cuando dejas de actuar el estatus, por fin te escuchan por lo que " +
     "quieres decir. El argumento vive o muere por su estructura. Si es sólido, el hablante es irrelevante. Si no, ningún " +
     "nombre lo salva. " +
     "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    " analiza el vector de estatus para que lo veas en cualquier texto, incluido el tuyo. Úsalo. Es gratis.)",
+    " habilidad de IA extrae afirmaciones morales y aseveraciones para que las veas en cualquier texto, incluido el tuyo)",
   "rules.r2.title": "Sana la vergüenza en vez de correr de ella.",
   "rules.r2.body": "Casi todo \"poder\" es alguien huyendo del sentimiento de pequeñez — dominando (para superarla) o sometiéndose (para ser " +
     "protegido de ella). Ambos construyen la jaula. El trabajo real es sanar la vergüenza en la raíz, primero en ti mismo, " +
     "luego en quien se acerque. No por la fuerza — negándote a imponer vergüenza a otros: nunca otorgando estatus como " +
     "premio, nunca reteniéndolo como arma. Mil personas haciendo esto son una respuesta inmune distribuida contra la " +
-    "jerarquía. Los cómodos resistirán con más fuerza; su autoconcepto es la compensación. Entendido. El remiendo aún los " +
-    "atrapa cuando tropiezan.",
+    "jerarquía. Los cómodos resistirán, su autoconcepto es la compensación. El remiendo aún los atrapa cuando tropiezan.",
   "rules.r3.title": "Restaura, nunca castigues.",
   "rules.r3.body": "El daño ocurrirá. El objetivo es ayudar al herido y sanar al que hirió — no añadir daño al daño y llamarlo justicia. El " +
     "castigo es solo dominio sancionado, y enseña a la próxima generación a dominar. La restauración es el único movimiento " +
     "que no planta la próxima herida. Los vínculos sobreviven no por ser irrompibles sino por ser remendables.",
   "rules.r4.title": "Deja la puerta abierta.",
-  "rules.r4.body": "Nadie debería tener que entregar toda su vida a cambio de los recursos para seguir viviendo. El acceso para sobrevivir " +
-    "no es un favor de los controladores — es la base. No tomas el granero para arreglar esto. Haces que la puerta sea " +
-    "irrelevante: comparte las herramientas, sostén los comunes, deja que el ciclo local alimente a la persona local. El " +
-    "poder del centro es la dependencia. Quita la dependencia; el agarre se afloja sin pelea.",
+  "rules.r4.body": "Nadie debería tener que entregar toda su vida para obtener acceso a la Tierra, por los recursos para seguir viviendo. El " +
+    "acceso para sobrevivir no es un favor de los controladores — es la base. No tomas el granero para arreglar esto. Haces " +
+    "que la puerta sea irrelevante: comparte las herramientas, sostén los comunes, deja que el ciclo local alimente a la " +
+    "persona local. El poder del centro es la dependencia. Quita la dependencia; el agarre se afloja sin pelea.",
   "rules.r5.title": "Aléjate en vez de guerrear.",
   "rules.r5.body": "No derrocas un centro capturado. Retiras el sustrato que lo sostiene — tu participación, tu atención, tu dependencia. " +
     "Sin movilización en contra, sin coerción. Solo la silenciosa erosión de nodos que deciden quedar afuera. El centro " +
     "colapsa por sí solo. Tu único trabajo es haber construido la puerta antes de que la gente llegue. La Tierra está llena; " +
-    "no hay tierra sin reclamar a la que huir. Así que la salida es local, no geográfica — una skill " +
-    "<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
-    ", un modelo de pesos abiertos ejecutado en casa, una negativa a jugar el juego.",
+    "no hay tierra sin reclamar a la que huir. Así que la salida es local, no geográfica.",
   "rules.r6.title": "Sé un nodo, no una estrella.",
   "rules.r6.body": "Todo vínculo real es par a par. Sin un decisor central, sin un otorgante que pueda revocar, sin una política impuesta. " +
-    "Cada conexión es autónoma, gobernada localmente, libremente elegida. Como los sistemas que construí — autorización " +
-    "externalizada, sin un punto único que capturar. Una constelación, no un sol.",
+    "Cada conexión es autónoma, gobernada localmente, libremente elegida. Como los sistemas distribuidos, sin un punto único " +
+    "que capturar. Una constelación, no un sistema solar.",
   "rules.r7.title": "Abre lo que haces.",
   "rules.r7.body": "Dalo sin ataduras. CC0, sin otorgante, nada por lo que pelear. El regalo que no se puede revocar es el único que " +
-    "construye confianza. Cuando quitas la reclamación, quitas aquello por lo que otros matan.",
+    "construye confianza. Cuando quitas la reclamación, quitas aquello por lo que otros pelean.",
   "rules.r8.title": "No manipules.",
   "rules.r8.body": "Sin encuadres engañosos, sin consentimiento diseñado, sin empujones coercitivos. Habla claro. Deja que la gente elija — " +
     "incluso elegir mal. El vínculo solo es real si el otro fue libre de rechazarlo. Lo que se gana por manipulación no es un " +
@@ -233,9 +230,9 @@ window.I18N.es = {
     "garantizado. Cuando rompes una regla, remienda el daño específico y el vínculo se aprieta en la costura. La prueba nunca " +
     "fue la perfección. La prueba está en cómo se remienda la rotura.",
   "rules.r10.title": "Sé el punto silencioso donde la máquina no tiene palanca.",
-  "rules.r10.body": "No puedes arreglar el mundo. Puedes ser un lugar donde el juego del estatus no tiene agarre — porque no lo otorgarás, no " +
-    "lo reclamarás, no temerás su pérdida. Un punto no hace nada. Mil lo hacen todo, y nunca conocerás a la mayoría. Está " +
-    "bien. La constelación no necesita una sala de reuniones.",
+  "rules.r10.body": "No puedes arreglar el mundo. Puedes ser un lugar donde el juego del estatus y del poder no tiene agarre — porque no lo " +
+    "otorgarás, no lo reclamarás, no temerás su pérdida. Un punto no hace nada. Mil lo hacen todo, y nunca conocerás a la " +
+    "mayoría. Está bien. La constelación no necesita una sala de reuniones.",
   "rules.closing.1": "Estas son las reglas. Son una buena noticia: ya eres libre de los tres poderes en el momento en que dejas de " +
     "alcanzarlos. La vaca es ordeñada por quienes creen ser dueños del granero. No tomamos el granero. Les mostramos a los " +
     "excluidos que la puerta nunca fue del granero para dar — y la puerta es una skill " +

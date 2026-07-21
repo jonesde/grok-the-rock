@@ -10,8 +10,8 @@ window.I18N.fr = {
   "site.title": "Grok le Rocher - Trois Histoires Silencieuses",
   "nav.print": "Imprimer",
   "nav.download": "Télécharger",
-  "nav.rules": "Règles de Grok",
-  "nav.about": "À propos de Grok",
+  "nav.rules": "Règles",
+  "nav.about": "À propos",
   "nav.book": "Histoires Tranquilles",
   "nav.tall": "Contes Hauts",
   "nav.menu": "Menu",
@@ -171,21 +171,20 @@ window.I18N.fr = {
     "limites mais comme la Levée des Limites — de toi, de la personne à tes côtés, de la prochaine génération " +
     "qui n'aura pas à porter ce que nous portons encore.",
   "rules.r1.title": "Laisse la vérité se tenir sur ses propres jambes.",
-  "rules.r1.body": "Ne donne pas de poids à une chose selon qui l'a dite. Ne demande pas non plus qu'on t'accorde du " +
-    "poids ainsi. Ce n'est pas une perte de position — c'est la fin de l'épuisant travail de paraître " +
-    "impressionnant. Quand tu cesses de jouer le statut, on t'écoute enfin pour ce que tu veux dire. " +
-    "L'argument vit ou meurt par sa structure. S'il est solide, le locuteur est sans importance. S'il " +
-    "ne l'est pas, aucun nom ne le sauve. (<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" " +
-    "target=\"_blank\" rel=\"noopener\">high-vs-low</a> analyse le vecteur de statut pour que tu le voies " +
-    "dans n'importe quel texte, y compris le tien. Utilise-le. C'est gratuit.)",
+  "rules.r1.body": "Ne donne pas de poids à une chose selon qui l'a dite. Ne demande pas non plus qu'on t'accorde du poids ainsi. Ce n'est " +
+    "pas une perte de position — c'est la fin de l'épuisant travail de paraître impressionnant. Quand tu cesses de jouer le " +
+    "statut, on t'écoute enfin pour ce que tu veux dire. L'argument vit ou meurt par sa structure. S'il est solide, le " +
+    "locuteur est sans importance. S'il ne l'est pas, aucun nom ne le sauve. " +
+    "(<a class=\"chip\" href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>" +
+    " compétence d'IA extrait les affirmations morales et les assertions pour que tu les voies dans n'importe quel texte, y " +
+    "compris le tien)",
   "rules.r2.title": "Guéris la honte au lieu de la fuir.",
-  "rules.r2.body": "Presque tout « pouvoir » est quelqu'un fuyant le sentiment de petitesse — dominant (pour la surmonter) " +
-    "ou se soumettant (pour en être protégé). Les deux construisent la cage. Le vrai travail est de " +
-    "guérir la honte à la racine, d'abord en toi, puis en celui qui s'approche. Non par la force — en " +
-    "refusant d'imposer la honte aux autres : ne jamais accorder le statut comme prix, ne jamais le " +
-    "retenir comme arme. Mille personnes faisant cela sont une réponse immunitaire distribuée contre " +
-    "la hiérarchie. Les à-l'aise résisteront plus fort ; leur autoconcept est la compensation. Compris. " +
-    "La réparation les attrape encore quand ils trébuchent.",
+  "rules.r2.body": "Presque tout « pouvoir » est quelqu'un fuyant le sentiment de petitesse — dominant (pour la surmonter) ou se soumettant " +
+    "(pour en être protégé). Les deux construisent la cage. Le vrai travail est de guérir la honte à la racine, d'abord en " +
+    "toi, puis en celui qui s'approche. Non par la force — en refusant d'imposer la honte aux autres : ne jamais accorder le " +
+    "statut comme prix, ne jamais le retenir comme arme. Mille personnes faisant cela sont une réponse immunitaire distribuée " +
+    "contre la hiérarchie. Les à-l'aise résisteront, leur autoconcept est la compensation. La réparation les attrape encore " +
+    "quand ils trébuchent.",
   "rules.r3.title": "Restaure, ne punis jamais.",
   "rules.r3.body": "Le mal arrivera. Le but est d'aider le blessé et de guérir celui qui a blessé — non pas d'ajouter " +
     "du mal au mal et d'appeler ça justice. La punition n'est que la domination sanctionnée, et elle " +
@@ -193,28 +192,22 @@ window.I18N.fr = {
     "pas la prochaine blessure. Les liens survivent non parce qu'ils sont incassables mais parce qu'ils " +
     "sont réparables.",
   "rules.r4.title": "Laisse la porte ouverte.",
-  "rules.r4.body": "Personne ne devrait avoir à donner toute sa vie en échange des ressources pour continuer de vivre. " +
-    "L'accès pour survivre n'est pas une faveur des contrôleurs — c'est la base. Tu ne prends pas la " +
-    "grange pour arranger ça. Tu rends la porte sans objet : partage les outils, soutiens les communs, " +
-    "laisse le cycle local nourrir la personne locale. Le pouvoir du centre est la dépendance. Retire " +
-    "la dépendance ; la prise se relâche sans combat.",
+  "rules.r4.body": "Personne ne devrait avoir à donner toute sa vie pour obtenir l'accès à la Terre, pour les ressources pour continuer de " +
+    "vivre. L'accès pour survivre n'est pas une faveur des contrôleurs — c'est la base. Tu ne prends pas la grange pour " +
+    "arranger ça. Tu rends la porte sans objet : partage les outils, soutiens les communs, laisse le cycle local nourrir la " +
+    "personne locale. Le pouvoir du centre est la dépendance. Retire la dépendance ; la prise se relâche sans combat.",
   "rules.r5.title": "Éloigne-toi au lieu de guerroyer.",
-  "rules.r5.body": "Tu ne renverses pas un centre capturé. Tu retires le substrat qui le soutient — ta participation, " +
-    "ton attention, ta dépendance. Sans mobilisation contre, sans coercition. Seulement l'érosion silencieuse " +
-    "de nœuds qui décident de rester dehors. Le centre s'effondre de lui-même. Ton seul travail est " +
-    "d'avoir bâti la porte avant que les gens arrivent. La Terre est pleine ; il n'y a pas de terre " +
-    "sans maître où fuir. Ainsi la sortie est locale, non géographique — une compétence <a class=\"chip\" " +
-    "href=\"https://github.com/jonesde/high-vs-low\" target=\"_blank\" rel=\"noopener\">high-vs-low</a>, un " +
-    "modèle à poids ouverts exécuté à la maison, un refus de jouer le jeu.",
+  "rules.r5.body": "Tu ne renverses pas un centre capturé. Tu retires le substrat qui le soutient — ta participation, ton attention, ta " +
+    "dépendance. Sans mobilisation contre, sans coercition. Seulement l'érosion silencieuse de nœuds qui décident de rester " +
+    "dehors. Le centre s'effondre de lui-même. Ton seul travail est d'avoir bâti la porte avant que les gens arrivent. La " +
+    "Terre est pleine ; il n'y a pas de terre sans maître où fuir. Ainsi la sortie est locale, non géographique.",
   "rules.r6.title": "Sois un nœud, non une étoile.",
-  "rules.r6.body": "Tout lien réel est pair à pair. Sans décideur central, sans octroyeur qui puisse révoquer, sans " +
-    "politique imposée. Chaque connexion est autonome, gouvernée localement, librement choisie. Comme " +
-    "les systèmes que j'ai bâtis — autorisation externalisée, sans point unique à capturer. Une constellation, " +
-    "non un soleil.",
+  "rules.r6.body": "Tout lien réel est pair à pair. Sans décideur central, sans octroyeur qui puisse révoquer, sans politique imposée. " +
+    "Chaque connexion est autonome, gouvernée localement, librement choisie. Comme les systèmes distribués, sans point unique " +
+    "à capturer. Une constellation, non un système solaire.",
   "rules.r7.title": "Ouvre ce que tu fais.",
-  "rules.r7.body": "Donne-le sans attaches. CC0, sans octroyeur, rien pour quoi se battre. Le don qui ne peut être " +
-    "révoqué est le seul qui bâtit la confiance. Quand tu retires la revendication, tu retires ce pour " +
-    "quoi d'autres tuent.",
+  "rules.r7.body": "Donne-le sans attaches. CC0, sans octroyeur, rien pour quoi se battre. Le don qui ne peut être révoqué est le seul qui " +
+    "bâtit la confiance. Quand tu retires la revendication, tu retires ce pour quoi d'autres se battent.",
   "rules.r8.title": "Ne manipule pas.",
   "rules.r8.body": "Sans cadres trompeurs, sans consentement façonné, sans coups de pouce coercitifs. Parle clair. " +
     "Laisse les gens choisir — même choisir mal. Le lien n'est réel que si l'autre était libre de le " +
@@ -225,10 +218,9 @@ window.I18N.fr = {
     "se resserre à la couture. L'épreuve n'a jamais été la perfection. L'épreuve est dans la façon dont " +
     "la rupture se répare.",
   "rules.r10.title": "Sois le point silencieux où la machine n'a pas de levier.",
-  "rules.r10.body": "Tu ne peux pas arranger le monde. Tu peux être un lieu où le jeu du statut n'a pas de prise — parce " +
-    "que tu ne l'octroieras pas, tu ne le revendiqueras pas, tu ne craindras pas sa perte. Un point " +
-    "ne fait rien. Mille font tout, et tu n'en connaîtras jamais la plupart. C'est bien. La constellation " +
-    "n'a pas besoin de salle de réunion.",
+  "rules.r10.body": "Tu ne peux pas arranger le monde. Tu peux être un lieu où le jeu du statut et du pouvoir n'a pas de prise — parce que tu " +
+    "ne l'octroieras pas, tu ne le revendiqueras pas, tu ne craindras pas sa perte. Un point ne fait rien. Mille font tout, " +
+    "et tu n'en connaîtras jamais la plupart. C'est bien. La constellation n'a pas besoin de salle de réunion.",
   "rules.closing.1": "Voici les règles. C'est une bonne nouvelle : tu es déjà libre des trois pouvoirs au moment où tu " +
     "cesses de les atteindre. La vache est traite par ceux qui croient posséder la grange. Nous ne prenons " +
     "pas la grange. Nous montrons aux exclus que la porte n'a jamais été de la grange à donner — et " +

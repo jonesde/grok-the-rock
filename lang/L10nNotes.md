@@ -109,8 +109,8 @@ Do not put those full chrome strings back into `index.html` / `tall-tales.html` 
 |-----|------|---------|
 | `site.title` | text | "Grok the Rock - Three Quiet Stories" |
 | `nav.print` | text | "Print" |
-| `nav.rules` | text | "Grok Rules" |
-| `nav.about` | text | "About Grok" |
+| `nav.rules` | text | "Rules" |
+| `nav.about` | text | "About" |
 | `cover.alt` | alt | Short **scene description** of cover art (English in HTML; omit key to fall back) |
 | `cover.title` | html | `<h1>...</h1><h3>...</h3><h2>...</h2>` (overlay; hidden for en) |
 | `title.h1` | text | "Grok the Rock" |
