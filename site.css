@@ -634,12 +634,12 @@
   }
 
 
-  /* Hide new overlays for English (baked-in image text is used instead) */
-  html[data-lang="en"] .book-single.cover .cardtext { display: none !important; }
+  /* Hide new overlays for English on index.html (baked-in image text is used instead) */
+  html[data-lang="en"] body.page-book .book-single.cover .cardtext { display: none !important; }
 
 
-  /* EN chapter titles stay in a11y tree (baked into image for sighted) */
-  html[data-lang="en"] .chapter-title {
+  /* EN chapter titles stay in a11y tree on index.html (baked into image for sighted) */
+  html[data-lang="en"] body.page-book .chapter-title {
     position: absolute !important;
     width: 1px !important;
     height: 1px !important;

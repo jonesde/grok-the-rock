@@ -69,9 +69,7 @@
 
   function init() {
     var page = currentPage();
-    if (page.kind) {
-      document.body.classList.add("page-" + page.kind);
-    }
+    document.body.classList.add("page-" + (page.active || "book"));
     var pageStyle = document.createElement("style");
     pageStyle.setAttribute("data-print-page", "");
     pageStyle.textContent = page.kind === "book"
