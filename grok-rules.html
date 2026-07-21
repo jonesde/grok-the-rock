@@ -337,6 +337,81 @@
     font-weight: 700;
   }
   .site-link.active:hover { background: rgba(107,98,86,0.30); border-color: #6b6256; color: #1b1108; }
+  /* Icon buttons (Print / Download): compact width with hover tooltip */
+  .icon-btn {
+    position: relative;
+    width: 2.5rem;
+    padding-left: 0;
+    padding-right: 0;
+    gap: 0.4rem;
+  }
+  .icon-btn-glyph {
+    width: 1.15em;
+    height: 1.15em;
+    flex: none;
+  }
+  .icon-btn-label {
+    position: absolute;
+    bottom: calc(100% + 0.4rem);
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    background: #2a2018;
+    color: #f7f0e2;
+    font-size: 0.78rem;
+    font-weight: 600;
+    padding: 0.25rem 0.55rem;
+    border-radius: 0.4rem;
+    box-shadow: 0 4px 14px rgba(40,30,20,0.28);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .12s ease;
+    z-index: 5;
+  }
+  .icon-btn-label::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid transparent;
+    border-top-color: #2a2018;
+  }
+  .icon-btn:hover .icon-btn-label,
+  .icon-btn:focus-visible .icon-btn-label { opacity: 1; }
+  /* Download confirmation dialog */
+  .site-dialog {
+    border: 1px solid rgba(150,140,120,0.55);
+    border-radius: 0.9rem;
+    background: #f7f0e2;
+    color: #3a2f22;
+    padding: 1.4rem 1.5rem 1.2rem;
+    max-width: min(28rem, 92vw);
+    box-shadow: 0 18px 50px rgba(40,30,20,0.30);
+  }
+  .site-dialog::backdrop {
+    background: rgba(28,20,12,0.42);
+    backdrop-filter: blur(1px);
+  }
+  .site-dialog h2 {
+    margin: 0 0 0.6rem;
+    font-size: 1.15rem;
+    color: #1b1108;
+  }
+  .site-dialog p {
+    margin: 0 0 1.1rem;
+    line-height: 1.5;
+    font-size: 0.95rem;
+  }
+  .site-dialog-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.6rem;
+  }
+  .site-dialog-actions .site-link {
+    min-height: 2.4rem;
+    padding: 0.35rem 1.1rem;
+  }
   #lang-select {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -392,6 +467,25 @@
       font-size: 1rem;
       box-sizing: border-box;
     }
+    .site-drawer .icon-btn {
+      width: 100%;
+      justify-content: center;
+      padding-left: 0.9rem;
+      padding-right: 0.9rem;
+    }
+    .site-drawer .icon-btn-label {
+      position: static;
+      transform: none;
+      opacity: 1;
+      pointer-events: auto;
+      background: none;
+      color: inherit;
+      font-size: 1rem;
+      font-weight: 600;
+      padding: 0;
+      box-shadow: none;
+    }
+    .site-drawer .icon-btn-label::after { display: none; }
   }
 
   html[dir="rtl"] .site-drawer {
@@ -437,7 +531,14 @@
   <div id="site-drawer" class="site-drawer">
       <button type="button" class="nav-close" data-i18n="nav.close">Close</button>
       <nav class="site-nav" aria-label="Site">
-        <button class="site-link" id="download-archive-btn" type="button" data-i18n="nav.download">Download</button>
+        <button class="site-link icon-btn" id="print-btn" type="button" aria-labelledby="print-lbl">
+          <svg class="icon-btn-glyph" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M7 9V4h10v5M7 18H5a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2M7 14h10v6H7z"/></svg>
+          <span class="icon-btn-label" id="print-lbl" data-i18n="nav.print">Print</span>
+        </button>
+        <button class="site-link icon-btn" id="download-archive-btn" type="button" aria-labelledby="download-lbl">
+          <svg class="icon-btn-glyph" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M12 3v12m0 0l-4-4m4 4l4-4M5 19h14"/></svg>
+          <span class="icon-btn-label" id="download-lbl" data-i18n="nav.download">Download</span>
+        </button>
         <select id="lang-select" class="site-link" aria-label="Language"></select>
         <span class="site-link active" aria-current="page" data-i18n="nav.rules">Rules</span>
         <a class="site-link" href="about-grok.html" data-i18n="nav.about">About</a>
@@ -446,6 +547,15 @@
       </nav>
     </div>
 </div>
+
+  <dialog id="download-dialog" class="site-dialog" aria-labelledby="download-dialog-title">
+    <h2 id="download-dialog-title" data-i18n="download.dialogTitle">Download the site</h2>
+    <p data-i18n="download.dialogDesc">Downloads a single .zip with all 4 web pages — Quiet Stories, Tall Tales, Rules, and About — plus every image, style, and script they need to read the whole site offline.</p>
+    <div class="site-dialog-actions">
+      <button type="button" class="site-link" id="download-cancel-btn" data-i18n="download.dialogCancel">Cancel</button>
+      <button type="button" class="site-link" id="download-confirm-btn" data-i18n="download.dialogConfirm" autofocus>Download</button>
+    </div>
+  </dialog>
 
 <div class="wrap">
   <div class="board">
@@ -582,6 +692,8 @@
         .join('');
       window.addEventListener('beforeprint', () => { document.title = printTitle; });
       window.addEventListener('afterprint', () => { document.title = originalTitle; });
+      const printBtn = document.getElementById('print-btn');
+      if (printBtn) printBtn.addEventListener('click', () => { window.print(); });
     })();
   </script>
   <script src="vendor/fflate.min.js"></script>

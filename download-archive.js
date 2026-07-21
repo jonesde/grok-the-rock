@@ -201,7 +201,31 @@
   function init() {
     var btn = document.getElementById("download-archive-btn");
     if (!btn) return;
+    var dialog = document.getElementById("download-dialog");
+    if (!dialog) {
+      btn.addEventListener("click", function () {
+        run(btn);
+      });
+      return;
+    }
+    var cancelBtn = document.getElementById("download-cancel-btn");
+    var confirmBtn = document.getElementById("download-confirm-btn");
+
+    function closeDialog() {
+      if (typeof dialog.close === "function" && dialog.open) dialog.close();
+    }
+
     btn.addEventListener("click", function () {
+      if (typeof dialog.showModal === "function") dialog.showModal();
+      else run(btn);
+    });
+    if (cancelBtn) cancelBtn.addEventListener("click", closeDialog);
+    dialog.addEventListener("cancel", closeDialog);
+    dialog.addEventListener("click", function (e) {
+      if (e.target === dialog) closeDialog();
+    });
+    if (confirmBtn) confirmBtn.addEventListener("click", function () {
+      closeDialog();
       run(btn);
     });
   }

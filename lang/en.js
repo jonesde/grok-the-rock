@@ -9,6 +9,11 @@ window.I18N.en = {
   "nav.downloadDone": "Downloaded",
   "nav.downloadError": "Download failed. Open the site over http(s), not as a local file.",
 
+  "download.dialogTitle": "Download the site",
+  "download.dialogDesc": "Downloads a single .zip with all 4 web pages — Quiet Stories, Tall Tales, Rules, and About — plus every image, style, and script they need to read the whole site offline.",
+  "download.dialogCancel": "Cancel",
+  "download.dialogConfirm": "Download",
+
   "site.title": "Grok the Rock - Three Quiet Stories",
   "hai.site.title": "Hai Ikthiss - Three Tall Tales",
 
