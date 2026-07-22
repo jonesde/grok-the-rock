@@ -1305,44 +1305,44 @@
 <div id="all-langs-dialog" hidden>
   <div class="al-dialog" role="dialog" aria-labelledby="al-title">
     <div class="al-dialog-head">
-      <h2 id="al-title">Print Options</h2>
-      <button type="button" id="al-close" class="al-close" aria-label="Close">×</button>
+      <h2 id="al-title" data-i18n="print.dialogTitle">Print Options</h2>
+      <button type="button" id="al-close" class="al-close" aria-label="Close" data-i18n-aria="nav.close">×</button>
     </div>
 
     <div class="al-field">
-      <label for="al-layout">Layout</label>
+      <label for="al-layout" data-i18n="print.layout">Layout</label>
       <select id="al-layout">
-        <option value="stacked">One language per page</option>
-        <option value="continuous">Continuous (no page breaks)</option>
+        <option value="stacked" data-i18n="print.layout.stacked">One language per page</option>
+        <option value="continuous" data-i18n="print.layout.continuous">Continuous (no page breaks)</option>
       </select>
     </div>
 
     <div class="al-field">
-      <label><input type="checkbox" id="al-toc"> Table of contents</label>
+      <label><input type="checkbox" id="al-toc"> <span data-i18n="print.toc">Table of contents</span></label>
     </div>
 
     <div class="al-field">
-      <label><input type="checkbox" id="al-bgimg"> Background images</label>
+      <label><input type="checkbox" id="al-bgimg"> <span data-i18n="print.bgimg">Background images</span></label>
     </div>
 
     <div class="al-field">
-      <label><input type="checkbox" id="al-icons" checked> Cover icons</label>
+      <label><input type="checkbox" id="al-icons" checked> <span data-i18n="print.icons">Cover icons</span></label>
     </div>
 
     <div class="al-field">
-      <label><input type="checkbox" id="al-markers"> Structure markers</label>
+      <label><input type="checkbox" id="al-markers"> <span data-i18n="print.markers">Structure markers</span></label>
     </div>
 
     <div class="al-field">
-      <label for="al-font">Fonts</label>
+      <label for="al-font" data-i18n="print.fonts">Fonts</label>
       <select id="al-font">
-        <option value="web">Site fonts (Fraunces + Nunito)</option>
-        <option value="system">System fonts (smaller PDF)</option>
+        <option value="web" data-i18n="print.font.web">Site fonts (Fraunces + Nunito)</option>
+        <option value="system" data-i18n="print.font.system">System fonts (smaller PDF)</option>
       </select>
     </div>
 
     <div class="al-field">
-      <label for="al-scale-range">Scale</label>
+      <label for="al-scale-range" data-i18n="print.scale">Scale</label>
       <div class="al-scale-row">
         <input type="range" id="al-scale-range" min="70" max="100" step="1" value="100">
         <span id="al-scale-val">100%</span>
@@ -1351,18 +1351,18 @@
 
     <div class="al-field">
       <div class="al-lang-head">
-        <span>Languages</span>
+        <span data-i18n="print.languages">Languages</span>
         <span>
-          <button type="button" id="al-select-all" class="al-mini">Select all</button>
-          <button type="button" id="al-deselect-all" class="al-mini">Deselect all</button>
+          <button type="button" id="al-select-all" class="al-mini" data-i18n="print.selectAll">Select all</button>
+          <button type="button" id="al-deselect-all" class="al-mini" data-i18n="print.deselectAll">Deselect all</button>
         </span>
       </div>
       <div id="al-lang-list" class="al-lang-list"></div>
     </div>
 
     <div class="al-actions">
-      <button type="button" id="al-print" class="al-btn" disabled>Print</button>
-      <button type="button" id="al-ok" class="al-btn al-primary">Apply</button>
+      <button type="button" id="al-print" class="al-btn" disabled data-i18n="nav.print">Print</button>
+      <button type="button" id="al-ok" class="al-btn al-primary" data-i18n="print.apply">Apply</button>
     </div>
   </div>
 </div>
@@ -1374,6 +1374,9 @@
   var btn = document.getElementById('marker-toggle');
   if (!btn) return;
   function resolve(key, fallback) {
+    if (window.GrokI18n && typeof window.GrokI18n.t === 'function') {
+      return window.GrokI18n.t(key, fallback);
+    }
     var lang =
       (document.documentElement &&
         document.documentElement.getAttribute('data-lang')) ||
@@ -1388,6 +1391,12 @@
     }
     return fallback;
   }
+  function syncMarkerLabels() {
+    var label = resolve('print.markersToggle', 'Number story markers');
+    btn.setAttribute('aria-label', label);
+    btn.setAttribute('title', label);
+  }
+  syncMarkerLabels();
   function bookList() {
     var lang =
       (document.documentElement &&
@@ -1458,6 +1467,7 @@
   });
   document.addEventListener('i18n:applied', function () {
     btn.disabled = false;
+    syncMarkerLabels();
   });
 })();
 </script>
@@ -1469,10 +1479,21 @@
   var LANGS = I.LANGS;
   var RTL = { ar: 1, fa: 1, he: 1, "he-phon": 1, ur: 1 };
   var allCodes = I.codes();
+  function t(key, fallback) {
+    return I.t ? I.t(key, fallback) : fallback;
+  }
 
   var btn = document.getElementById("print-all-langs-btn");
   var dlg = document.getElementById("all-langs-dialog");
   if (!btn || !dlg) return;
+
+  function syncPrintToggleLabels() {
+    var label = t("print.allLangsToggle", "Print all languages");
+    btn.setAttribute("aria-label", label);
+    btn.setAttribute("title", label);
+  }
+  syncPrintToggleLabels();
+  document.addEventListener("i18n:applied", syncPrintToggleLabels);
 
   var listEl = dlg.querySelector("#al-lang-list");
   var tocChk = dlg.querySelector("#al-toc");
@@ -1578,8 +1599,7 @@
     if (!selected.length) return;
     okBtn.disabled = true;
     if (printBtn) printBtn.disabled = true;
-    var prev = okBtn.textContent;
-    okBtn.textContent = "Applying…";
+    okBtn.textContent = t("print.applying", "Applying…");
     var useSystemFont = fontSel && fontSel.value === "system";
     buildAll(
       selected,
@@ -1591,7 +1611,7 @@
       markersChk.checked
     ).then(function () {
       okBtn.disabled = false;
-      okBtn.textContent = prev;
+      okBtn.textContent = t("print.apply", "Apply");
       if (printBtn) printBtn.disabled = false;
       built = true;
     });
@@ -1772,7 +1792,7 @@
       var toc = document.createElement("nav");
       toc.className = "al-toc";
       var h = document.createElement("h1");
-      h.textContent = "Table of Contents";
+      h.textContent = t("print.tocHeading", "Table of Contents");
       toc.appendChild(h);
       var ul = document.createElement("ul");
       selected.forEach(function (code) {

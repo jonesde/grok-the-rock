@@ -724,6 +724,22 @@
   let selectEl = null;
   let originalTitle = document.title;
 
+  function t(key, fallback) {
+    var lang =
+      (document.documentElement &&
+        document.documentElement.getAttribute("data-lang")) ||
+      "en";
+    var store = window.I18N || {};
+    var dict = store[lang] || store.en || null;
+    if (dict && Object.prototype.hasOwnProperty.call(dict, key) && dict[key] != null) {
+      return String(dict[key]);
+    }
+    if (store.en && Object.prototype.hasOwnProperty.call(store.en, key) && store.en[key] != null) {
+      return String(store.en[key]);
+    }
+    return fallback;
+  }
+
   const LANGS = {
     ar: "العربية",
     de: "Deutsch",
@@ -801,6 +817,11 @@
         el.dataset.i18nAltEn = el.getAttribute("alt") || "";
       }
     });
+    document.querySelectorAll("[data-i18n-aria]").forEach((el) => {
+      if (!("i18nAriaEn" in el.dataset)) {
+        el.dataset.i18nAriaEn = el.getAttribute("aria-label") || "";
+      }
+    });
   }
 
   function applyText(dict, el, key) {
@@ -827,6 +848,15 @@
     el.setAttribute("alt", val == null ? el.dataset.i18nAltEn : val);
   }
 
+  function applyAria(dict, el, key) {
+    let val = null;
+    if (dict && Object.prototype.hasOwnProperty.call(dict, key)) {
+      val = dict[key];
+    }
+    var label = val == null ? el.dataset.i18nAriaEn : val;
+    if (label != null && label !== "") el.setAttribute("aria-label", label);
+  }
+
   // Apply a language dictionary to any subtree. Elements fall back to their
   // captured English original (dataset.i18nEn / i18nAltEn) when a key is
   // missing, so this is safe to call repeatedly on fresh clones.
@@ -839,6 +869,9 @@
     });
     root.querySelectorAll("[data-i18n-alt]").forEach((el) => {
       applyAlt(dict, el, el.getAttribute("data-i18n-alt"));
+    });
+    root.querySelectorAll("[data-i18n-aria]").forEach((el) => {
+      applyAria(dict, el, el.getAttribute("data-i18n-aria"));
     });
   }
 
@@ -952,6 +985,7 @@
     loadLang: loadLang,
     applyLang: applyLang,
     applyDictTo: applyDictTo,
+    t: t,
     codes: function () { return Object.keys(LANGS); }
   };
 })();

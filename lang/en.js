@@ -20,6 +20,27 @@ window.I18N.en = {
 
   "nav.text": "Both",
 
+  "print.dialogTitle": "Print Options",
+  "print.layout": "Layout",
+  "print.layout.stacked": "One language per page",
+  "print.layout.continuous": "Continuous (no page breaks)",
+  "print.toc": "Table of contents",
+  "print.bgimg": "Background images",
+  "print.icons": "Cover icons",
+  "print.markers": "Structure markers",
+  "print.fonts": "Fonts",
+  "print.font.web": "Site fonts (Fraunces + Nunito)",
+  "print.font.system": "System fonts (smaller PDF)",
+  "print.scale": "Scale",
+  "print.languages": "Languages",
+  "print.selectAll": "Select all",
+  "print.deselectAll": "Deselect all",
+  "print.apply": "Apply",
+  "print.applying": "Applying…",
+  "print.tocHeading": "Table of Contents",
+  "print.markersToggle": "Number story markers",
+  "print.allLangsToggle": "Print all languages",
+
   "cover.title":
     "<h1>Grok the Rock</h1><h3>Three Quiet Stories</h3><h2>Being · Mending · Seeing</h2>",
   "hai.cover.title":

@@ -111,6 +111,7 @@ Do not put those full chrome strings back into `quiet-stories.html` / `tall-tale
 | `nav.print` | text | "Print" |
 | `nav.rules` | text | "Rules" |
 | `nav.about` | text | "About" |
+| `nav.text` | text | "Both" (combined book-text view; both books) |
 | `cover.alt` | alt | Short **scene description** of cover art (English in HTML; omit key to fall back) |
 | `cover.title` | html | `<h1>...</h1><h3>...</h3><h2>...</h2>` (overlay; hidden for en) |
 | `title.h1` | text | "Grok the Rock" |
@@ -236,6 +237,46 @@ Hebrew is not a plain phonetic port — names and a few symbols lean on layers i
 | `nav.tall` | text | "Tall Tales" |
 | `nav.menu` | text | "Menu" |
 | `nav.close` | text | "Close" |
+| `nav.text` | text | "Both" |
+| `site.title.text` | text | "Grok the Rock - All Book Text" |
+| `nav.download` | text | "Download" |
+| `nav.downloadProgress` | text | "Fetching… {done}/{total}" (`{done}`/`{total}` placeholders) |
+| `nav.downloadZipping` | text | "Zipping…" |
+| `nav.downloadDone` | text | "Downloaded" |
+| `nav.downloadError` | text | Offline-download failure hint (http(s) required) |
+| `download.dialogTitle` | text | "Download the site" |
+| `download.dialogDesc` | text | Full dialog blurb; align book names with `nav.book` / `nav.tall` |
+| `download.dialogCancel` | text | "Cancel" |
+| `download.dialogConfirm` | text | "Download" |
+
+### book-text.html — Print Options chrome
+
+UI chrome on the combined text page (not story body). Required in every locale.
+
+| Key | Type | Content |
+|-----|------|---------|
+| `print.dialogTitle` | text | "Print Options" |
+| `print.layout` | text | "Layout" |
+| `print.layout.stacked` | text | "One language per page" |
+| `print.layout.continuous` | text | "Continuous (no page breaks)" |
+| `print.toc` | text | "Table of contents" |
+| `print.bgimg` | text | "Background images" |
+| `print.icons` | text | "Cover icons" |
+| `print.markers` | text | "Structure markers" |
+| `print.fonts` | text | "Fonts" |
+| `print.font.web` | text | "Site fonts (Fraunces + Nunito)" — keep family names |
+| `print.font.system` | text | "System fonts (smaller PDF)" |
+| `print.scale` | text | "Scale" |
+| `print.languages` | text | "Languages" |
+| `print.selectAll` | text | "Select all" |
+| `print.deselectAll` | text | "Deselect all" |
+| `print.apply` | text | "Apply" |
+| `print.applying` | text | "Applying…" |
+| `print.tocHeading` | text | "Table of Contents" (generated TOC heading) |
+| `print.markersToggle` | text | "Number story markers" (aria/title) |
+| `print.allLangsToggle` | text | "Print all languages" (aria/title) |
+
+Print dialog **Print** button reuses `nav.print`; close control reuses `nav.close` via `data-i18n-aria`.
 | `about.hero.title` | html | "About Grok the Rock" |
 | `about.hero.essence` | html | Subtitle |
 | `about.intro.1`–`about.intro.4` | html | Intro paragraphs |
