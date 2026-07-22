@@ -54,8 +54,7 @@
   body.all-langs #all-langs { display: block; }
   body.all-langs > main.booktext,
   body.all-langs .site-nav,
-  body.all-langs .marker-toggle,
-  body.all-langs #print-all-langs-btn { display: none !important; }
+  body.all-langs .marker-toggle { display: none !important; }
 
   .al-overlay {
     position: fixed;
@@ -162,7 +161,7 @@
 
     <div class="booktext-grid">
 
-      <article class="text-page tp-solo">
+      <article class="text-page">
         <header class="tp-head"><span class="tp-badge">Cover</span></header>
         <img class="book-cover-icon" src="images/ico/icon-512.png" alt="Three Quiet Stories">
         <div class="tp-body skipc" data-i18n-html="cover.title">
@@ -176,7 +175,7 @@
         </aside>
       </article>
 
-      <article class="text-page tp-solo">
+      <article class="text-page">
         <header class="tp-head"><span class="tp-badge">Title &amp; Credits</span></header>
         <div class="tp-body">
           <h1 data-i18n="title.h1">Grok the Rock</h1>
@@ -694,7 +693,7 @@
 
     <div class="booktext-grid">
 
-      <article class="text-page tp-solo">
+      <article class="text-page">
         <header class="tp-head"><span class="tp-badge">Cover</span></header>
         <img class="book-cover-icon" src="images/ico/icon-hai-512.png" alt="Three Tall Tales">
         <div class="tp-body skipc" data-i18n-html="hai.cover.title">
@@ -708,7 +707,7 @@
         </aside>
       </article>
 
-      <article class="text-page tp-solo">
+      <article class="text-page">
         <header class="tp-head"><span class="tp-badge">Title &amp; Credits</span></header>
         <div class="tp-body">
           <h1 data-i18n="hai.title.h1">Hai Ikthiss</h1>
@@ -1290,7 +1289,7 @@
 
     <div class="al-actions">
       <button type="button" id="al-cancel" class="al-btn">Cancel</button>
-      <button type="button" id="al-ok" class="al-btn al-primary">Build &amp; Print</button>
+      <button type="button" id="al-ok" class="al-btn al-primary">Build</button>
     </div>
   </div>
 </div>
@@ -1446,7 +1445,14 @@
   function openDlg() { dlg.hidden = false; }
   function closeDlg() { dlg.hidden = true; }
 
-  btn.addEventListener("click", openDlg);
+  btn.addEventListener("click", function () {
+    // Once the all-languages view is built, the same button prints it.
+    if (document.body.classList.contains("all-langs")) {
+      window.print();
+    } else {
+      openDlg();
+    }
+  });
   cancelBtn.addEventListener("click", closeDlg);
   dlg.addEventListener("click", function (e) { if (e.target === dlg) closeDlg(); });
   selAll.addEventListener("click", function () {
@@ -1469,7 +1475,6 @@
     buildAll(selected, useToc, layout).then(function () {
       okBtn.disabled = false;
       okBtn.textContent = prev;
-      window.print();
     });
   });
 
