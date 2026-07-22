@@ -126,9 +126,11 @@ Do not put those full chrome strings back into `quiet-stories.html` / `tall-tale
 | `c2.title` | html | Chapter 2 title overlay |
 | `c3.title` | html | Chapter 3 title overlay |
 
-**Alt text notes:** English scene alts live in the HTML `alt` attributes. Missing `*.alt` keys fall back to English via `site.js`. Do not ship stub alts like "Page 2".
+**Alt text notes:** English scene alts live in the HTML `alt` attributes. Missing `*.alt` keys fall back to English via `site.js`. Do not ship stub alts like "Page 2". Full Quiet Stories and Tall Tales alt sets are required in every locale so the translated spine matches body + alts (English fallback would leave English “Grok the Rock” in alts while the body uses `title.h1`).
 
-**Spine name + alts:** The exact two-word surface name (`Grok the Rock` / `Hai Ikthiss`) is a structural marker targeting **32** occurrences per book across story captions, title chrome, and **image alts** (and image prompts in the draft markdown). When a locale translates alts, put the translated two-word spine in the **same alt keys** where English has it (and omit it where English uses only the short name, e.g. `p12.alt` “Grok’s feet”, or Kai-only Tall Tales beats). Hebrew does this: Quiet Stories alts use **גרוק הצור**; Tall Tales alts use **האי איקתיס**. Story-body Hebrew may keep niqqud on the spine (`גְּרוֹק הַצּוּר` / `הָאִי אִיקְתִּיס`); alts and chrome use the unpointed form.
+**Spine name + alts:** The exact two-word surface name (`Grok the Rock` / `Hai Ikthiss`) is a structural marker targeting **32** occurrences per book across story captions, title chrome, and **image alts** (and image prompts in the draft markdown). When a locale translates alts, put the translated two-word spine in the **same alt keys** where English has it (and omit it where English uses only the short name, e.g. `p12.alt` “Grok’s feet”, or Kai-only Tall Tales beats). Hebrew: Quiet Stories alts use **גרוק הצור**; Tall Tales alts use **האי איקתיס**. Story-body Hebrew may keep niqqud on the spine (`גְּרוֹק הַצּוּר` / `הָאִי אִיקְתִּיס`); alts and chrome use the unpointed form. The `book-text.html` marker toggle matches both forms for `he` / `he-phon`.
+
+**Verify:** `python3 scripts/verify_markers.py` — asserts English HTML and every locale hit 32/32 per book (Hebrew niqqud counted as spine).
 
 ### tall-tales.html — Hai keys (`hai.*`)
 

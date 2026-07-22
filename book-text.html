@@ -56,9 +56,9 @@
 
       <article class="text-page tp-solo">
         <header class="tp-head"><span class="tp-badge">Cover</span></header>
-        <img class="book-cover-icon" src="images/ico/icon-512.png" alt="Grok the Rock: Three Quiet Stories">
+        <img class="book-cover-icon" src="images/ico/icon-512.png" alt="Three Quiet Stories">
         <div class="tp-body skipc" data-i18n-html="cover.title">
-          <h1>Grok the Rock</h1>
+          <h1>Grok</h1>
           <h3>Three Quiet Stories</h3>
           <h2>Being · Mending · Seeing</h2>
         </div>
@@ -588,7 +588,7 @@
 
       <article class="text-page tp-solo">
         <header class="tp-head"><span class="tp-badge">Cover</span></header>
-        <img class="book-cover-icon" src="images/ico/icon-hai-512.png" alt="Hai Ikthiss: Three Tall Tales">
+        <img class="book-cover-icon" src="images/ico/icon-hai-512.png" alt="Three Tall Tales">
         <div class="tp-body skipc" data-i18n-html="hai.cover.title">
           <h1>Lord Ikthiss</h1>
           <h3>Three Tall Tales</h3>
@@ -1164,9 +1164,20 @@
     return fallback;
   }
   function bookList() {
+    var lang =
+      (document.documentElement &&
+        document.documentElement.getAttribute('data-lang')) ||
+      'en';
+    var q = [resolve('title.h1', 'Grok the Rock')];
+    var h = [resolve('hai.title.h1', 'Hai Ikthiss')];
+    // Hebrew story body uses niqqud; chrome/alts use unpointed title.h1 forms.
+    if (lang === 'he' || lang === 'he-phon') {
+      q.push('גְּרוֹק הַצּוּר');
+      h.push('הָאִי אִיקְתִּיס');
+    }
     return [
-      { sel: '#quiet-stories', phrases: [resolve('title.h1', 'Grok the Rock')] },
-      { sel: '#tall-tales', phrases: [resolve('hai.title.h1', 'Hai Ikthiss')] }
+      { sel: '#quiet-stories', phrases: q },
+      { sel: '#tall-tales', phrases: h }
     ];
   }
   function escapeRe(s) {
@@ -1176,7 +1187,10 @@
     bookList().forEach(function (book) {
       var root = document.querySelector(book.sel);
       if (!root) return;
-      var re = new RegExp('(' + book.phrases.map(escapeRe).join('|') + ')', 'g');
+      var phrases = book.phrases.filter(Boolean);
+      // Longer phrases first so pointed/unpointed do not double-count overlaps.
+      phrases.sort(function (a, b) { return b.length - a.length; });
+      var re = new RegExp('(' + phrases.map(escapeRe).join('|') + ')', 'g');
       var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
         acceptNode: function (n) {
           if (!n.nodeValue || !n.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
