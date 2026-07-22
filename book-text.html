@@ -45,7 +45,7 @@
     margin-left: .1em;
   }
 
-  /* "All languages" print mode */
+  /* "All languages" print panel — floats over the page; Apply updates in place */
   #print-all-langs-btn {
     right: 1rem;
     bottom: 4.6rem;
@@ -55,114 +55,120 @@
   body.all-langs > main.booktext,
   body.all-langs .site-nav,
   body.all-langs .marker-toggle { display: none !important; }
-  body.all-langs #al-scale-bar { display: flex; }
-  #al-scale-bar {
-    display: none;
-    position: fixed;
-    left: 50%;
-    bottom: 1rem;
-    transform: translateX(-50%);
-    z-index: 350;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 0.55rem 0.9rem;
-    background: #fffdf8;
-    border: 1px solid #6b6256;
-    border-radius: 999px;
-    box-shadow: 0 4px 18px rgba(0,0,0,.2);
-    font-size: 0.9rem;
-    color: #2c2820;
-    white-space: nowrap;
-  }
-  #al-scale-bar label {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.45rem;
-    margin: 0;
-    font-weight: 600;
-  }
-  #al-scale-bar input[type="range"] { width: 9rem; vertical-align: middle; }
-  #al-scale-val { min-width: 2.75rem; font-variant-numeric: tabular-nums; }
-  @media print {
-    #al-scale-bar { display: none !important; }
-  }
 
-  .al-overlay {
+  #all-langs-dialog {
     position: fixed;
-    inset: 0;
+    top: 1rem;
+    right: 1rem;
     z-index: 400;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: rgba(40, 36, 30, .55);
-    padding: 1rem;
-  }
-  .al-overlay[hidden] { display: none; }
-  .al-dialog {
-    width: min(34rem, 100%);
-    max-height: 90vh;
+    width: min(22rem, calc(100vw - 2rem));
+    max-height: calc(100vh - 2rem);
     overflow: auto;
+  }
+  #all-langs-dialog[hidden] { display: none; }
+  .al-dialog {
     background: #fffdf8;
     border: 1px solid #6b6256;
     border-radius: 12px;
-    box-shadow: 0 10px 40px rgba(0,0,0,.3);
-    padding: 1.1rem 1.2rem 1.3rem;
+    box-shadow: 0 10px 40px rgba(0,0,0,.28);
+    padding: 0.9rem 1rem 1rem;
     color: #2c2820;
   }
-  .al-dialog h2 { margin: 0 0 .8rem; font-family: "Fraunces", Georgia, serif; }
-  .al-field { margin: 0 0 .9rem; }
-  .al-field > label { display: block; font-weight: 700; margin-bottom: .35rem; }
+  .al-dialog-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.7rem;
+  }
+  .al-dialog h2 {
+    margin: 0;
+    font-family: "Fraunces", Georgia, serif;
+    font-size: 1.15rem;
+    line-height: 1.25;
+  }
+  .al-close {
+    flex: 0 0 auto;
+    width: 1.85rem;
+    height: 1.85rem;
+    margin: -0.15rem -0.25rem 0 0;
+    border: 0;
+    border-radius: 50%;
+    background: transparent;
+    color: #6b6256;
+    font-size: 1.35rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+  .al-close:hover { background: rgba(107, 98, 86, 0.12); }
+  .al-field { margin: 0 0 0.75rem; }
+  .al-field > label { display: block; font-weight: 700; margin-bottom: .3rem; font-size: 0.92rem; }
   .al-field select {
     width: 100%;
-    padding: .4rem .5rem;
+    padding: .35rem .45rem;
     border: 1px solid #6b6256;
     border-radius: 8px;
     background: #fff;
     font: inherit;
+  }
+  .al-scale-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .al-scale-row input[type="range"] { flex: 1; min-width: 0; }
+  #al-scale-val {
+    min-width: 2.75rem;
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    font-size: 0.9rem;
   }
   .al-lang-head {
     display: flex;
     align-items: center;
     justify-content: space-between;
     font-weight: 700;
-    margin-bottom: .35rem;
+    margin-bottom: .3rem;
+    font-size: 0.92rem;
   }
   .al-mini {
     font: inherit;
-    font-size: .8rem;
-    padding: .15rem .5rem;
+    font-size: .75rem;
+    padding: .12rem .45rem;
     border: 1px solid #6b6256;
     border-radius: 999px;
     background: #fff;
     color: #6b6256;
     cursor: pointer;
   }
-  .al-mini + .al-mini { margin-left: .35rem; }
+  .al-mini + .al-mini { margin-left: .3rem; }
   .al-lang-list {
-    max-height: 16rem;
+    max-height: 11rem;
     overflow: auto;
     border: 1px solid #d8d0c2;
     border-radius: 8px;
-    padding: .35rem .5rem;
+    padding: .3rem .45rem;
     background: #fff;
   }
   .al-lang-item {
     display: flex;
     align-items: center;
-    gap: .45rem;
-    padding: .18rem .15rem;
+    gap: .4rem;
+    padding: .14rem .1rem;
     cursor: pointer;
+    font-size: 0.9rem;
   }
   .al-lang-item small { color: #8a8170; }
   .al-actions {
     display: flex;
     justify-content: flex-end;
-    gap: .6rem;
-    margin-top: .4rem;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin-top: .35rem;
   }
   .al-btn {
     font: inherit;
-    padding: .45rem 1rem;
+    padding: .4rem 0.9rem;
     border: 1px solid #6b6256;
     border-radius: 999px;
     background: #fff;
@@ -171,6 +177,9 @@
   }
   .al-btn:disabled { opacity: .55; cursor: default; }
   .al-primary { background: #6b6256; color: #fffdf8; border-color: #6b6256; }
+  @media print {
+    #all-langs-dialog { display: none !important; }
+  }
 
   .al-toc { font-family: "Fraunces", Georgia, serif; }
   .al-toc ul { list-style: none; padding: 0; margin: .3rem 0 0; }
@@ -1291,9 +1300,12 @@
   </svg>
 </button>
 
-<div id="all-langs-dialog" class="al-overlay" hidden>
-  <div class="al-dialog" role="dialog" aria-modal="true" aria-labelledby="al-title">
-    <h2 id="al-title">Print all languages</h2>
+<div id="all-langs-dialog" hidden>
+  <div class="al-dialog" role="dialog" aria-labelledby="al-title">
+    <div class="al-dialog-head">
+      <h2 id="al-title">Print Options</h2>
+      <button type="button" id="al-close" class="al-close" aria-label="Close">×</button>
+    </div>
 
     <div class="al-field">
       <label for="al-layout">Layout</label>
@@ -1312,6 +1324,14 @@
     </div>
 
     <div class="al-field">
+      <label for="al-scale-range">Scale</label>
+      <div class="al-scale-row">
+        <input type="range" id="al-scale-range" min="70" max="100" step="1" value="100">
+        <span id="al-scale-val">100%</span>
+      </div>
+    </div>
+
+    <div class="al-field">
       <div class="al-lang-head">
         <span>Languages</span>
         <span>
@@ -1323,21 +1343,13 @@
     </div>
 
     <div class="al-actions">
-      <button type="button" id="al-cancel" class="al-btn">Cancel</button>
-      <button type="button" id="al-ok" class="al-btn al-primary">Build</button>
+      <button type="button" id="al-print" class="al-btn" disabled>Print</button>
+      <button type="button" id="al-ok" class="al-btn al-primary">Apply</button>
     </div>
   </div>
 </div>
 
 <div id="all-langs" hidden></div>
-<div id="al-scale-bar" aria-label="Print layout scale">
-  <label>Scale
-    <input type="range" id="al-scale-range" min="70" max="100" step="1" value="100">
-    <span id="al-scale-val">100%</span>
-  </label>
-  <button type="button" id="al-scale-print" class="al-mini">Print</button>
-  <button type="button" id="al-scale-exit" class="al-mini">Exit</button>
-</div>
 
 <script>
 (function () {
@@ -1450,9 +1462,13 @@
   var layoutSel = dlg.querySelector("#al-layout");
   var selAll = dlg.querySelector("#al-select-all");
   var deselAll = dlg.querySelector("#al-deselect-all");
-  var cancelBtn = dlg.querySelector("#al-cancel");
+  var closeBtn = dlg.querySelector("#al-close");
   var okBtn = dlg.querySelector("#al-ok");
+  var printBtn = dlg.querySelector("#al-print");
+  var scaleRange = dlg.querySelector("#al-scale-range");
+  var scaleVal = dlg.querySelector("#al-scale-val");
   var container = document.getElementById("all-langs");
+  var built = false;
 
   // Build the language checkboxes once.
   allCodes.forEach(function (code) {
@@ -1476,7 +1492,9 @@
     langParam.split(",").forEach(function (s) { wanted[s.trim()] = true; });
     checkboxes().forEach(function (cb) { cb.checked = !!wanted[cb.value]; });
   } else {
-    checkboxes().forEach(function (cb) { cb.checked = true; });
+    var curLang =
+      (document.documentElement && document.documentElement.getAttribute("data-lang")) || "en";
+    checkboxes().forEach(function (cb) { cb.checked = cb.value === curLang; });
   }
   if (params.get("toc") === "1" || params.get("toc") === "true") tocChk.checked = true;
   if (params.get("bgimg") === "1" || params.get("bgimg") === "true") bgChk.checked = true;
@@ -1486,41 +1504,58 @@
       if (layoutSel.options[i].value === layParam) { layoutSel.value = layParam; break; }
     }
   }
+  var scaleParam = params.get("scale");
+  if (scaleParam && scaleRange) {
+    var sp = parseInt(scaleParam, 10);
+    if (!isNaN(sp) && sp >= 70 && sp <= 100) scaleRange.value = String(sp);
+  }
+
+  function setScaleLabel() {
+    if (scaleVal && scaleRange) scaleVal.textContent = scaleRange.value + "%";
+  }
+  setScaleLabel();
 
   function openDlg() { dlg.hidden = false; }
-  function closeDlg() { dlg.hidden = true; }
+  function exitAllLangs() {
+    document.body.classList.remove("all-langs");
+    container.innerHTML = "";
+    container.removeAttribute("style");
+    container.hidden = true;
+    built = false;
+    if (printBtn) printBtn.disabled = true;
+  }
+  function closeDlg() {
+    exitAllLangs();
+    dlg.hidden = true;
+  }
 
-  btn.addEventListener("click", function () {
-    // Once the all-languages view is built, the same button prints it.
-    if (document.body.classList.contains("all-langs")) {
-      window.print();
-    } else {
-      openDlg();
-    }
-  });
-  cancelBtn.addEventListener("click", closeDlg);
-  dlg.addEventListener("click", function (e) { if (e.target === dlg) closeDlg(); });
+  btn.addEventListener("click", openDlg);
+  closeBtn.addEventListener("click", closeDlg);
   selAll.addEventListener("click", function () {
     checkboxes().forEach(function (cb) { cb.checked = true; });
   });
   deselAll.addEventListener("click", function () {
     checkboxes().forEach(function (cb) { cb.checked = false; });
   });
+  if (printBtn) {
+    printBtn.addEventListener("click", function () {
+      if (built) window.print();
+    });
+  }
 
   okBtn.addEventListener("click", function () {
     var selected = [];
     checkboxes().forEach(function (cb) { if (cb.checked) selected.push(cb.value); });
-    if (!selected.length) { closeDlg(); return; }
-    var useToc = tocChk.checked;
-    var useBg = bgChk.checked;
-    var layout = layoutSel.value;
-    closeDlg();
+    if (!selected.length) return;
     okBtn.disabled = true;
+    if (printBtn) printBtn.disabled = true;
     var prev = okBtn.textContent;
-    okBtn.textContent = "Building…";
-    buildAll(selected, useToc, useBg, layout).then(function () {
+    okBtn.textContent = "Applying…";
+    buildAll(selected, tocChk.checked, bgChk.checked, layoutSel.value).then(function () {
       okBtn.disabled = false;
       okBtn.textContent = prev;
+      if (printBtn) printBtn.disabled = false;
+      built = true;
     });
   });
 
@@ -1644,6 +1679,7 @@
       });
     });
     return chain.then(function () {
+      container.hidden = false;
       document.body.classList.add("all-langs");
       var fontsReady = (document.fonts && document.fonts.ready) ? document.fonts.ready : Promise.resolve();
       return fontsReady.then(packPages);
@@ -1654,11 +1690,6 @@
   var PAGE_CONTENT_W = "calc(8.5in - 16mm)";
   var PAGE_CONTENT_H = "calc(11in - 20mm)";
 
-  var scaleRange = document.getElementById("al-scale-range");
-  var scaleVal = document.getElementById("al-scale-val");
-  var scalePrint = document.getElementById("al-scale-print");
-  var scaleExit = document.getElementById("al-scale-exit");
-
   function getPrintScale() {
     var pct = scaleRange ? parseInt(scaleRange.value, 10) : 100;
     if (isNaN(pct)) pct = 100;
@@ -1667,14 +1698,9 @@
     return pct / 100;
   }
 
-  function setScaleLabel() {
-    if (scaleVal && scaleRange) scaleVal.textContent = scaleRange.value + "%";
-  }
-
   // Pack into a virtual page of size (letter / scale), then CSS-scale down to the
-  // real letter box. Lower scale => more CSS room => rows pull up from later pages;
-  // flex stretch still fills the virtual box so the scaled page stays full-height.
-  // Use this Scale control (print dialog scale cannot reflow).
+  // real letter box. Lower scale => more CSS room => rows pull up from later pages.
+  // Use the panel Scale control (browser print-dialog scale cannot reflow).
   function packPages() {
     Array.prototype.forEach.call(container.querySelectorAll(".al-print-page"), function (p) {
       p.remove();
@@ -1804,32 +1830,16 @@
     }
   }
 
-  window.addEventListener("afterprint", function () {
-    // Keep preview after print; only exit via the Exit control.
-  });
-
   if (scaleRange) {
     scaleRange.addEventListener("input", function () {
       setScaleLabel();
       schedulePack();
     });
   }
-  if (scalePrint) {
-    scalePrint.addEventListener("click", function () { window.print(); });
-  }
-  if (scaleExit) {
-    scaleExit.addEventListener("click", function () {
-      document.body.classList.remove("all-langs");
-      container.innerHTML = "";
-      container.removeAttribute("style");
-      if (scaleRange) scaleRange.value = "100";
-      setScaleLabel();
-    });
-  }
 
   var resizeTimer = null;
   function schedulePack() {
-    if (!document.body.classList.contains("all-langs")) return;
+    if (!built || !document.body.classList.contains("all-langs")) return;
     if (resizeTimer) clearTimeout(resizeTimer);
     resizeTimer = setTimeout(packPages, 150);
   }

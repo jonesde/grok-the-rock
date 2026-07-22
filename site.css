@@ -1329,7 +1329,7 @@
     body.all-langs .site-nav,
     body.all-langs .marker-toggle,
     body.all-langs #print-all-langs-btn,
-    body.all-langs .al-overlay { display: none !important; }
+    body.all-langs #all-langs-dialog { display: none !important; }
     body.all-langs #all-langs { display: block; }
     #all-langs .booktext { max-width: none; padding: 0; }
     .lang-head { break-before: page; }
@@ -1354,10 +1354,10 @@
   #all-langs.al-with-bg .text-page.has-bg .tp-body,
   #all-langs.al-with-bg .text-page.has-bg .tp-alt-text {
     text-shadow:
-      0 0 3px #fbf4e6, 0 0 3px #fbf4e6,
-      0 0 16px #fbf4e6, 0 0 16px #fbf4e6, 0 0 16px #fbf4e6,
-      0 0 16px #fbf4e6, 0 0 16px #fbf4e6, 0 0 16px #fbf4e6,
-      0 0 16px #fbf4e6, 0 0 16px #fbf4e6;
+      0 0 3px #fff, 0 0 3px #fff,
+      0 0 16px #fff, 0 0 16px #fff, 0 0 16px #fff,
+      0 0 16px #fff, 0 0 16px #fff, 0 0 16px #fff,
+      0 0 16px #fff, 0 0 16px #fff;
   }
 
   /* ===========================================================================
@@ -1374,6 +1374,10 @@
     --al-scale: 1;
     max-width: calc(8.5in - 16mm);
     margin: 0 auto;
+  }
+  /* Keep letter pages clear of the floating panel on screen. */
+  @media screen {
+    body.all-langs { padding-right: min(23rem, 42vw); }
   }
   /* Hidden but laid out at virtual print width (letter / scale) for re-measure. */
   body.all-langs #all-langs .lang-block {
