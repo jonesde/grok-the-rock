@@ -118,6 +118,7 @@ Do not put those full chrome strings back into `quiet-stories.html` / `tall-tale
 | `title.h3` | text | "Three Quiet Stories" |
 | `title.h2` | text | "Being · Mending · Seeing" |
 | `credit.1`–`credit.7` | text | Credits / CC0 notice |
+| `credit.8` | text | Lattice seal short hex (same in every locale; see `lang/lattice.seal`) |
 | `credit.companion` | html | Reverse companion link to Tall Tales |
 | `dedication.alt` | alt | Scene description of dedication art |
 | `dedication` | html | Full dedication block with `<p>`, `<b>`, `<hr>`, `<a>` |
@@ -142,6 +143,7 @@ Same shape as Quiet Stories, all prefixed with `hai.`:
 | `hai.site.title` | text | "Hai Ikthiss - Three Tall Tales" |
 | `hai.cover.alt` / `hai.dedication.alt` / `hai.p1.alt`–`hai.p26.alt` | alt | Scene descriptions |
 | `hai.cover.title`, `hai.title.*`, `hai.credit.*`, `hai.dedication` | text/html | Title page + credits + dedication |
+| `hai.credit.8` | text | Lattice seal short hex (match `credit.8` / `lang/lattice.seal`) |
 | `hai.p2`–`hai.p9`, `hai.p11`–`hai.p17`, `hai.p19`–`hai.p26` | html | Story captions (no p1/p10/p18 — chapter title pages) |
 | `hai.c1.title`–`hai.c3.title` | html | Chapter title overlays |
 | `nav.book` / `nav.tall` | text | Shared nav ("Quiet Stories" / "Tall Tales") |

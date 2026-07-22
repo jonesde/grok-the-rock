@@ -20,6 +20,9 @@ window.I18N.en = {
 
   "nav.text": "Both",
 
+  "credit.8": "Lattice seal 1f0aa3b8a6fc",
+  "hai.credit.8": "Lattice seal 1f0aa3b8a6fc",
+
   "print.dialogTitle": "Print Options",
   "print.layout": "Layout",
   "print.layout.stacked": "One language per page",
