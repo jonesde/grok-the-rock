@@ -601,8 +601,23 @@
       page-break-after: page;
     }
     .page img { width: 100%; height: auto; display: block; transform: none !important; }
-    .caption, .page-num, .chapter-title {
+    .page img.ph,
+    .page img.img-ph {
+      min-height: 0;
+      aspect-ratio: auto;
+      object-fit: fill;
+      background: none;
+    }
+    .img-ph-alt { display: none !important; }
+    /* Keep overlay type as real text (no compositing that rasterizes print PDFs). */
+    .caption, .page-num, .chapter-title, .cardtext {
       text-shadow: none;
+      filter: none !important;
+      transform: none !important;
+      opacity: 1 !important;
+      backdrop-filter: none !important;
+      -webkit-backdrop-filter: none !important;
+      mix-blend-mode: normal !important;
     }
     .book-single {
       display: flex;
@@ -1366,8 +1381,13 @@
      All-languages print-preview typography (BASE, not @media print).
      Defined outside @media print so the on-screen preview matches the printed
      layout exactly. Scale shrinks type/spacing via --al-scale (no CSS transform).
+     Named @page so this does not fight book landscape rules from site.js.
      =========================================================================== */
-  @page { size: letter portrait; margin: 10mm 8mm; }
+  @page all-langs-page { size: letter portrait; margin: 10mm 8mm; }
+
+  body.all-langs {
+    page: all-langs-page;
+  }
 
   body.all-langs #all-langs {
     display: block;
