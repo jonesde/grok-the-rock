@@ -1322,3 +1322,18 @@
     .tp-head { margin-bottom: 0.15rem; }
     .tp-badge { font-size: 0.66rem; padding: 0.12rem 0.5rem; }
   }
+
+  /* "All languages" print mode (book-text.html) */
+  @media print {
+    body.all-langs > main.booktext,
+    body.all-langs .site-nav,
+    body.all-langs .marker-toggle,
+    body.all-langs #print-all-langs-btn,
+    body.all-langs .al-overlay { display: none !important; }
+    body.all-langs #all-langs { display: block; }
+    #all-langs .booktext { max-width: none; padding: 0; }
+    .lang-head { break-before: page; }
+    #all-langs.al-continuous .lang-head { break-before: auto; }
+    .al-toc { break-after: page; }
+    #all-langs.al-continuous .al-toc { break-after: auto; }
+  }

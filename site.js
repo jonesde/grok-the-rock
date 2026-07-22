@@ -448,7 +448,6 @@
       initCoverVideo();
     }
   })();
-})();
 
 
 (function () {
@@ -827,20 +826,32 @@
     el.setAttribute("alt", val == null ? el.dataset.i18nAltEn : val);
   }
 
-  function applyLang(lang) {
+  // Apply a language dictionary to any subtree. Elements fall back to their
+  // captured English original (dataset.i18nEn / i18nAltEn) when a key is
+  // missing, so this is safe to call repeatedly on fresh clones.
+  function applyDictTo(root, dict) {
+    root.querySelectorAll("[data-i18n]").forEach((el) => {
+      applyText(dict, el, el.getAttribute("data-i18n"));
+    });
+    root.querySelectorAll("[data-i18n-html]").forEach((el) => {
+      applyHtml(dict, el, el.getAttribute("data-i18n-html"));
+    });
+    root.querySelectorAll("[data-i18n-alt]").forEach((el) => {
+      applyAlt(dict, el, el.getAttribute("data-i18n-alt"));
+    });
+  }
+
+  function applyLang(lang, root) {
+    root = root || document;
     // English may use lang/en.js for a few display-only overrides (full spine
     // names in chrome) while HTML source keeps alternates for the 32-count gag.
     const dict = window.I18N[lang] || null;
 
-    document.querySelectorAll("[data-i18n]").forEach((el) => {
-      applyText(dict, el, el.getAttribute("data-i18n"));
-    });
-    document.querySelectorAll("[data-i18n-html]").forEach((el) => {
-      applyHtml(dict, el, el.getAttribute("data-i18n-html"));
-    });
-    document.querySelectorAll("[data-i18n-alt]").forEach((el) => {
-      applyAlt(dict, el, el.getAttribute("data-i18n-alt"));
-    });
+    applyDictTo(root, dict);
+
+    // Document-level side effects only apply when translating the whole page,
+    // never when applying to an isolated clone (e.g. all-languages mode).
+    if (root !== document) return;
 
     const html = document.documentElement;
     if (html) {
@@ -932,4 +943,15 @@
   } else {
     init();
   }
+
+  // Minimal bridge for page-level features (e.g. book-text.html's
+  // "all languages" print mode). Uses only already-private helpers.
+  window.GrokI18n = {
+    LANGS: LANGS,
+    loadLang: loadLang,
+    applyLang: applyLang,
+    applyDictTo: applyDictTo,
+    codes: function () { return Object.keys(LANGS); }
+  };
+})();
 })();

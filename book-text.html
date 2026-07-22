@@ -44,6 +44,114 @@
     vertical-align: super;
     margin-left: .1em;
   }
+
+  /* "All languages" print mode */
+  #print-all-langs-btn {
+    right: 1rem;
+    bottom: 4.6rem;
+  }
+  #all-langs { display: none; }
+  body.all-langs #all-langs { display: block; }
+  body.all-langs > main.booktext,
+  body.all-langs .site-nav,
+  body.all-langs .marker-toggle,
+  body.all-langs #print-all-langs-btn { display: none !important; }
+
+  .al-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 400;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(40, 36, 30, .55);
+    padding: 1rem;
+  }
+  .al-overlay[hidden] { display: none; }
+  .al-dialog {
+    width: min(34rem, 100%);
+    max-height: 90vh;
+    overflow: auto;
+    background: #fffdf8;
+    border: 1px solid #6b6256;
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0,0,0,.3);
+    padding: 1.1rem 1.2rem 1.3rem;
+    color: #2c2820;
+  }
+  .al-dialog h2 { margin: 0 0 .8rem; font-family: "Fraunces", Georgia, serif; }
+  .al-field { margin: 0 0 .9rem; }
+  .al-field > label { display: block; font-weight: 700; margin-bottom: .35rem; }
+  .al-field select {
+    width: 100%;
+    padding: .4rem .5rem;
+    border: 1px solid #6b6256;
+    border-radius: 8px;
+    background: #fff;
+    font: inherit;
+  }
+  .al-lang-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 700;
+    margin-bottom: .35rem;
+  }
+  .al-mini {
+    font: inherit;
+    font-size: .8rem;
+    padding: .15rem .5rem;
+    border: 1px solid #6b6256;
+    border-radius: 999px;
+    background: #fff;
+    color: #6b6256;
+    cursor: pointer;
+  }
+  .al-mini + .al-mini { margin-left: .35rem; }
+  .al-lang-list {
+    max-height: 16rem;
+    overflow: auto;
+    border: 1px solid #d8d0c2;
+    border-radius: 8px;
+    padding: .35rem .5rem;
+    background: #fff;
+  }
+  .al-lang-item {
+    display: flex;
+    align-items: center;
+    gap: .45rem;
+    padding: .18rem .15rem;
+    cursor: pointer;
+  }
+  .al-lang-item small { color: #8a8170; }
+  .al-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: .6rem;
+    margin-top: .4rem;
+  }
+  .al-btn {
+    font: inherit;
+    padding: .45rem 1rem;
+    border: 1px solid #6b6256;
+    border-radius: 999px;
+    background: #fff;
+    color: #6b6256;
+    cursor: pointer;
+  }
+  .al-btn:disabled { opacity: .55; cursor: default; }
+  .al-primary { background: #6b6256; color: #fffdf8; border-color: #6b6256; }
+
+  .al-toc { font-family: "Fraunces", Georgia, serif; }
+  .al-toc ul { list-style: none; padding: 0; margin: .3rem 0 0; }
+  .al-toc li { padding: .12rem 0; }
+  .al-toc a { color: #2c2820; text-decoration: none; }
+  .lang-head {
+    font-family: "Fraunces", Georgia, serif;
+    margin: 0 0 .6rem;
+    padding-bottom: .25rem;
+    border-bottom: 2px solid #6b6256;
+  }
 </style>
 </head>
 <body>
@@ -1144,6 +1252,51 @@
     <path d="M4.5 6.2v2.6M4.5 11.8v2.6M4.5 17.2v2.6"/>
   </svg>
 </button>
+
+<button id="print-all-langs-btn" class="marker-toggle" type="button" aria-label="Print all languages" title="Print all languages">
+  <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+    <circle cx="12" cy="12" r="9"/>
+    <path d="M3 12h18"/>
+    <path d="M12 3c2.5 2.6 2.5 15.4 0 18M12 3c-2.5 2.6-2.5 15.4 0 18"/>
+  </svg>
+</button>
+
+<div id="all-langs-dialog" class="al-overlay" hidden>
+  <div class="al-dialog" role="dialog" aria-modal="true" aria-labelledby="al-title">
+    <h2 id="al-title">Print all languages</h2>
+
+    <div class="al-field">
+      <label for="al-layout">Layout</label>
+      <select id="al-layout">
+        <option value="stacked">One language per page</option>
+        <option value="continuous">Continuous (no page breaks)</option>
+      </select>
+    </div>
+
+    <div class="al-field">
+      <label><input type="checkbox" id="al-toc"> Table of contents</label>
+    </div>
+
+    <div class="al-field">
+      <div class="al-lang-head">
+        <span>Languages</span>
+        <span>
+          <button type="button" id="al-select-all" class="al-mini">Select all</button>
+          <button type="button" id="al-deselect-all" class="al-mini">Deselect all</button>
+        </span>
+      </div>
+      <div id="al-lang-list" class="al-lang-list"></div>
+    </div>
+
+    <div class="al-actions">
+      <button type="button" id="al-cancel" class="al-btn">Cancel</button>
+      <button type="button" id="al-ok" class="al-btn al-primary">Build &amp; Print</button>
+    </div>
+  </div>
+</div>
+
+<div id="all-langs" hidden></div>
+
 <script>
 (function () {
   var btn = document.getElementById('marker-toggle');
@@ -1233,6 +1386,143 @@
   });
   document.addEventListener('i18n:applied', function () {
     btn.disabled = false;
+  });
+})();
+</script>
+
+<script>
+(function () {
+  if (!window.GrokI18n) return;
+  var I = window.GrokI18n;
+  var LANGS = I.LANGS;
+  var RTL = { ar: 1, fa: 1, he: 1, "he-phon": 1, ur: 1 };
+  var allCodes = I.codes();
+
+  var btn = document.getElementById("print-all-langs-btn");
+  var dlg = document.getElementById("all-langs-dialog");
+  if (!btn || !dlg) return;
+
+  var listEl = dlg.querySelector("#al-lang-list");
+  var tocChk = dlg.querySelector("#al-toc");
+  var layoutSel = dlg.querySelector("#al-layout");
+  var selAll = dlg.querySelector("#al-select-all");
+  var deselAll = dlg.querySelector("#al-deselect-all");
+  var cancelBtn = dlg.querySelector("#al-cancel");
+  var okBtn = dlg.querySelector("#al-ok");
+  var container = document.getElementById("all-langs");
+
+  // Build the language checkboxes once.
+  allCodes.forEach(function (code) {
+    var label = document.createElement("label");
+    label.className = "al-lang-item";
+    var name = LANGS[code] || code;
+    label.innerHTML =
+      '<input type="checkbox" value="' + code + '"> <span>' +
+      name + ' <small>(' + code + ')</small></span>';
+    listEl.appendChild(label);
+  });
+  var checkboxes = function () {
+    return listEl.querySelectorAll('input[type="checkbox"]');
+  };
+
+  // Pre-configure from URL params: ?langs=en,es,fr  ?toc=1  ?layout=continuous
+  var params = new URLSearchParams(location.search);
+  var langParam = params.get("langs");
+  if (langParam) {
+    var wanted = {};
+    langParam.split(",").forEach(function (s) { wanted[s.trim()] = true; });
+    checkboxes().forEach(function (cb) { cb.checked = !!wanted[cb.value]; });
+  } else {
+    checkboxes().forEach(function (cb) { cb.checked = true; });
+  }
+  if (params.get("toc") === "1" || params.get("toc") === "true") tocChk.checked = true;
+  var layParam = params.get("layout");
+  if (layParam) {
+    for (var i = 0; i < layoutSel.options.length; i++) {
+      if (layoutSel.options[i].value === layParam) { layoutSel.value = layParam; break; }
+    }
+  }
+
+  function openDlg() { dlg.hidden = false; }
+  function closeDlg() { dlg.hidden = true; }
+
+  btn.addEventListener("click", openDlg);
+  cancelBtn.addEventListener("click", closeDlg);
+  dlg.addEventListener("click", function (e) { if (e.target === dlg) closeDlg(); });
+  selAll.addEventListener("click", function () {
+    checkboxes().forEach(function (cb) { cb.checked = true; });
+  });
+  deselAll.addEventListener("click", function () {
+    checkboxes().forEach(function (cb) { cb.checked = false; });
+  });
+
+  okBtn.addEventListener("click", function () {
+    var selected = [];
+    checkboxes().forEach(function (cb) { if (cb.checked) selected.push(cb.value); });
+    if (!selected.length) { closeDlg(); return; }
+    var useToc = tocChk.checked;
+    var layout = layoutSel.value;
+    closeDlg();
+    okBtn.disabled = true;
+    var prev = okBtn.textContent;
+    okBtn.textContent = "Building…";
+    buildAll(selected, useToc, layout).then(function () {
+      okBtn.disabled = false;
+      okBtn.textContent = prev;
+      window.print();
+    });
+  });
+
+  function buildAll(selected, useToc, layout) {
+    var src = document.querySelector("main.booktext");
+    container.innerHTML = "";
+    container.className = "booktext-all" + (layout === "continuous" ? " al-continuous" : "");
+
+    if (useToc) {
+      var toc = document.createElement("nav");
+      toc.className = "al-toc";
+      var h = document.createElement("h1");
+      h.textContent = "Table of Contents";
+      toc.appendChild(h);
+      var ul = document.createElement("ul");
+      selected.forEach(function (code) {
+        var li = document.createElement("li");
+        var a = document.createElement("a");
+        a.href = "#lang-" + code;
+        a.textContent = (LANGS[code] || code) + " (" + code + ")";
+        li.appendChild(a);
+        ul.appendChild(li);
+      });
+      toc.appendChild(ul);
+      container.appendChild(toc);
+    }
+
+    // Load every needed dictionary, then stack a translated clone per language.
+    var chain = Promise.resolve();
+    selected.forEach(function (code) {
+      chain = chain.then(function () { return I.loadLang(code); }).then(function () {
+        var clone = src.cloneNode(true);
+        I.applyDictTo(clone, window.I18N[code]);
+        var sec = document.createElement("section");
+        sec.className = "lang-block";
+        sec.id = "lang-" + code;
+        sec.lang = code;
+        if (RTL[code]) sec.dir = "rtl";
+        var head = document.createElement("h2");
+        head.className = "lang-head";
+        head.textContent = (LANGS[code] || code) + " (" + code + ")";
+        sec.appendChild(head);
+        sec.appendChild(clone);
+        container.appendChild(sec);
+      });
+    });
+    return chain.then(function () {
+      document.body.classList.add("all-langs");
+    });
+  }
+
+  window.addEventListener("afterprint", function () {
+    document.body.classList.remove("all-langs");
   });
 })();
 </script>
