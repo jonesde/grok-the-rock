@@ -1551,7 +1551,8 @@
     container.innerHTML = "";
     container.className = "booktext-all" +
       (layout === "continuous" ? " al-continuous" : "") +
-      (useBg ? " al-with-bg" : "");
+      (useBg ? " al-with-bg" : "") +
+      " al-pagefill";
 
     if (useToc) {
       var toc = document.createElement("nav");
@@ -1594,17 +1595,117 @@
         sec.id = "lang-" + code;
         sec.lang = code;
         if (RTL[code]) sec.dir = "rtl";
-        var head = document.createElement("h2");
-        head.className = "lang-head";
-        head.textContent = (LANGS[code] || code) + " (" + code + ")";
-        sec.appendChild(head);
+        // Per-language header (and its underline rule) omitted from the print build.
+        // var head = document.createElement("h2");
+        // head.className = "lang-head";
+        // head.textContent = (LANGS[code] || code) + " (" + code + ")";
+        // sec.appendChild(head);
         sec.appendChild(clone);
         container.appendChild(sec);
       });
     });
     return chain.then(function () {
       document.body.classList.add("all-langs");
+      var fontsReady = (document.fonts && document.fonts.ready) ? document.fonts.ready : Promise.resolve();
+      return fontsReady.then(packPages);
     });
+  }
+
+  // Group the built cards into fixed-height per-page grids so each printed
+  // page fills its height (rows stretch via 1fr). Heads are full-width rows;
+  // the stacked layout forces a head onto a fresh page, continuous lets a head
+  // share a page and cards flow across languages.
+  function packPages() {
+    var MM2PX = 96 / 25.4;
+    var pageH = (297 - 10 - 10) * MM2PX;   // A4 content height (mm -> px)
+    var renderHeight = pageH * 0.90;       // fixed page-box height (~90% fill)
+    var budget = renderHeight - 30;        // packing threshold: keep content safely under the box
+    var headForcesBreak = !container.classList.contains("al-continuous");
+
+    // Collect heads + cards in document order, measuring natural heights.
+    container.classList.add("measuring");
+    var items = [];
+    var clones = [];
+    var langBlocks = Array.prototype.slice.call(container.querySelectorAll(".lang-block"));
+    Array.prototype.forEach.call(langBlocks, function (lb) {
+      var head = lb.querySelector(".lang-head");
+      var clone = lb.querySelector("main.booktext");
+      if (!clone) return;
+      clones.push(clone);
+      var cards = [];
+      Array.prototype.forEach.call(clone.querySelectorAll(".text-page"), function (c) {
+        c._h = c.offsetHeight;
+        cards.push(c);
+      });
+      if (head) { head._h = head.offsetHeight; items.push({ type: "head", node: head }); }
+      cards.forEach(function (c) { items.push({ type: "card", node: c, _h: c._h }); });
+    });
+    container.classList.remove("measuring");
+
+    var gap = 6;
+    var sample = container.querySelector(".booktext-grid");
+    if (sample) {
+      var cs = getComputedStyle(sample);
+      if (cs.rowGap) { var gv = parseFloat(cs.rowGap); if (!isNaN(gv)) gap = gv; }
+    }
+
+    // Greedy bin-pack into page plans. Cards are paired 2-per-row; a head is
+    // its own full-width row (and, for stacked, forces a fresh page).
+    var pages = [];
+    var cur = null, used = 0, pending = null, lastPage = null;
+    function newPage() { cur = { rows: [] }; pages.push(cur); used = 0; }
+    function flushPending() {
+      if (!pending) return;
+      if (used + pending._h + gap > budget) { newPage(); }
+      cur.rows.push({ cards: [pending] });
+      used += pending._h + gap;
+      pending = null;
+    }
+    newPage();
+    items.forEach(function (item) {
+      if (item.type === "head") {
+        flushPending();
+        if (headForcesBreak && cur.rows.length) newPage();
+        cur.rows.push({ head: item.node, h: item.node._h });
+        used += item.node._h + gap;
+      } else {
+        if (pending) {
+          var rowH = Math.max(pending._h, item._h);
+          if (used + rowH + gap > budget) newPage();
+          cur.rows.push({ cards: [pending, item.node] });
+          used += rowH + gap;
+          pending = null;
+        } else {
+          pending = item.node;
+          pending._h = item._h;
+        }
+      }
+    });
+    flushPending();
+
+    // Build the per-page DOM from the plan and drop the original clones.
+    pages.forEach(function (pg) {
+      var pageEl = document.createElement("div");
+      pageEl.className = "al-print-page";
+      pageEl.style.height = renderHeight + "px";
+      var gridEl = document.createElement("div");
+      gridEl.className = "al-page-grid";
+      pg.rows.forEach(function (row) {
+        if (row.head) gridEl.appendChild(row.head);
+        else row.cards.forEach(function (card) {
+          if (row.cards.length === 1) card.classList.add("lone");
+          gridEl.appendChild(card);
+        });
+      });
+      pageEl.appendChild(gridEl);
+      container.appendChild(pageEl);
+      lastPage = pageEl;
+    });
+    clones.forEach(function (c) { c.remove(); });
+    langBlocks.forEach(function (lb) { lb.remove(); });
+
+    // Avoid a trailing blank page from the final break-after: page.
+    if (lastPage) lastPage.style.breakAfter = "auto";
   }
 
   window.addEventListener("afterprint", function () {
