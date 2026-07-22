@@ -1,3 +1,18 @@
+/* =============================================================================
+   SITE CSS — TABLE OF CONTENTS
+   1. Tokens / base document
+   2. Picture-book pages (quiet-stories / tall-tales)
+   3. Site chrome (header, nav drawer, icon buttons, download dialog)
+   4. Shared prose (links, print defaults)
+   5. English overlay rules (baked cover/chapter text)
+   6. Article pages (about / rules)
+   7. Home
+   8. book-text.html (text layout + all-langs print pack)
+   9. book-text.html screen UI (marker toggles + Print Options dialog)
+   ============================================================================= */
+
+/* --- 1. Tokens / base document --- */
+
 
   :root { color-scheme: light; }
 
@@ -96,6 +111,7 @@
   .book-single .cover-img { display: none; }
 
 
+  /* --- 2. Picture-book pages --- */
   /* Cover title overlay (screen only; printed JPG keeps its own baked text) */
   .book-single.cover .page {
       display: flex;
@@ -208,6 +224,7 @@
 
 
 
+  /* --- 3. Site chrome --- */
   .site-chrome {
     position: sticky;
     top: 0;
@@ -566,6 +583,7 @@
 
 
 
+  /* --- 4. Shared prose helpers --- */
   /* Inline see-also links: dark, slightly off-color, wrap-friendly */
   .seelink {
     color: #4a3a26;
@@ -660,6 +678,7 @@
   }
 
 
+  /* --- 5. English overlay / a11y rules --- */
   /* Hide new overlays for English on index.html (baked-in image text is used instead) */
   html[data-lang="en"] body.page-book .book-single.cover .cardtext { display: none !important; }
 
@@ -879,6 +898,7 @@
 
 
 
+  /* --- 6–7. Article pages + home --- */
   /* Hero */
   .hero { text-align: center; padding: clamp(1.8rem, 4vw, 3.2rem) clamp(1rem,4vw,2.5rem); }
 
@@ -1183,6 +1203,7 @@
   }
 
 
+  /* --- 8. book-text.html layout + all-langs pack --- */
   /* ===== All-book text page (book-text.html) ===== */
   .booktext {
     max-width: 1180px;
@@ -1529,4 +1550,188 @@
   body.all-langs #all-langs.al-pagefill .al-page-grid.is-packing .al-page-row > .text-page {
     height: auto;
     overflow: visible;
+  }
+
+
+/* --- 9. book-text.html screen UI (marker toggles + Print Options) --- */
+
+.marker-toggle {
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    z-index: 300;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 50%;
+    border: 1px solid #6b6256;
+    background: #fff;
+    color: #6b6256;
+    box-shadow: 0 2px 8px rgba(0,0,0,.18);
+    cursor: pointer;
+  }
+  .marker-toggle:hover { background: #f3efe7; }
+  .marker-toggle:disabled { opacity: .5; cursor: default; }
+  .marker-hl {
+    background: #fff3b0;
+    border-radius: 2px;
+    padding: 0 .04em;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .marker-num {
+    font-size: .62em;
+    font-weight: 700;
+    color: #6b6256;
+    vertical-align: super;
+    margin-left: .1em;
+  }
+
+  /* "All languages" print panel — floats over the page; Apply updates in place */
+  #print-all-langs-btn {
+    right: 1rem;
+    bottom: 4.6rem;
+  }
+  #all-langs { display: none; }
+  body.all-langs #all-langs { display: block; }
+  body.all-langs > main.booktext,
+  body.all-langs .site-nav,
+  body.all-langs .marker-toggle { display: none !important; }
+
+  #all-langs-dialog {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 400;
+    width: min(22rem, calc(100vw - 2rem));
+    max-height: calc(100vh - 2rem);
+    overflow: auto;
+  }
+  #all-langs-dialog[hidden] { display: none; }
+  .al-dialog {
+    background: #fffdf8;
+    border: 1px solid #6b6256;
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0,0,0,.28);
+    padding: 0.9rem 1rem 1rem;
+    color: #2c2820;
+  }
+  .al-dialog-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.7rem;
+  }
+  .al-dialog h2 {
+    margin: 0;
+    font-family: "Fraunces", Georgia, serif;
+    font-size: 1.15rem;
+    line-height: 1.25;
+  }
+  .al-close {
+    flex: 0 0 auto;
+    width: 1.85rem;
+    height: 1.85rem;
+    margin: -0.15rem -0.25rem 0 0;
+    border: 0;
+    border-radius: 50%;
+    background: transparent;
+    color: #6b6256;
+    font-size: 1.35rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+  .al-close:hover { background: rgba(107, 98, 86, 0.12); }
+  .al-field { margin: 0 0 0.75rem; }
+  .al-field > label { display: block; font-weight: 700; margin-bottom: .3rem; font-size: 0.92rem; }
+  .al-field select {
+    width: 100%;
+    padding: .35rem .45rem;
+    border: 1px solid #6b6256;
+    border-radius: 8px;
+    background: #fff;
+    font: inherit;
+  }
+  .al-scale-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .al-scale-row input[type="range"] { flex: 1; min-width: 0; }
+  #al-scale-val {
+    min-width: 2.75rem;
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  .al-lang-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 700;
+    margin-bottom: .3rem;
+    font-size: 0.92rem;
+  }
+  .al-mini {
+    font: inherit;
+    font-size: .75rem;
+    padding: .12rem .45rem;
+    border: 1px solid #6b6256;
+    border-radius: 999px;
+    background: #fff;
+    color: #6b6256;
+    cursor: pointer;
+  }
+  .al-mini + .al-mini { margin-left: .3rem; }
+  .al-lang-list {
+    max-height: 11rem;
+    overflow: auto;
+    border: 1px solid #d8d0c2;
+    border-radius: 8px;
+    padding: .3rem .45rem;
+    background: #fff;
+  }
+  .al-lang-item {
+    display: flex;
+    align-items: center;
+    gap: .4rem;
+    padding: .14rem .1rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  .al-lang-item small { color: #8a8170; }
+  .al-actions {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin-top: .35rem;
+  }
+  .al-btn {
+    font: inherit;
+    padding: .4rem 0.9rem;
+    border: 1px solid #6b6256;
+    border-radius: 999px;
+    background: #fff;
+    color: #6b6256;
+    cursor: pointer;
+  }
+  .al-btn:disabled { opacity: .55; cursor: default; }
+  .al-primary { background: #6b6256; color: #fffdf8; border-color: #6b6256; }
+  @media print {
+    #all-langs-dialog { display: none !important; }
+  }
+
+  .al-toc { font-family: "Fraunces", Georgia, serif; }
+  .al-toc ul { list-style: none; padding: 0; margin: .3rem 0 0; }
+  .al-toc li { padding: .12rem 0; }
+  .al-toc a { color: #2c2820; text-decoration: none; }
+  .lang-head {
+    font-family: "Fraunces", Georgia, serif;
+    margin: 0 0 .6rem;
+    padding-bottom: .25rem;
+    border-bottom: 2px solid #6b6256;
   }

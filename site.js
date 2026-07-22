@@ -1,3 +1,8 @@
+/* =============================================================================
+   site.js — site-wide behavior (sibling modules; load after lang/en.js)
+   Order: chrome → image-desc → print/cover → download-zip → i18n / GrokI18n
+   ============================================================================= */
+
 (function () {
   "use strict";
 
@@ -184,6 +189,7 @@
 })();
 
 
+/* --- Image descriptions (alt panels + missing-art placeholders) --- */
 (function () {
   "use strict";
 
@@ -351,6 +357,7 @@
 })();
 
 
+/* --- Print button, print title, cover video --- */
 (function () {
   "use strict";
 
@@ -449,7 +456,10 @@
     }
   })();
 
+})();
 
+
+/* --- Offline site zip download --- */
 (function () {
   "use strict";
 
@@ -466,6 +476,7 @@
     "tall-tales.html",
     "book-text.html",
     "site.js",
+    "book-text.js",
     "site.css",
     "vendor/fflate.min.js",
     "lang/ar.js",
@@ -714,6 +725,7 @@
 })();
 
 
+/* --- i18n loader + GrokI18n bridge --- */
 (function () {
   "use strict";
 
@@ -989,4 +1001,4 @@
     codes: function () { return Object.keys(LANGS); }
   };
 })();
-})();
+

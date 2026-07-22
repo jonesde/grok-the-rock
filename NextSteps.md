@@ -95,7 +95,7 @@ HTML source keeps short chrome (`Grok`, `Lord Ikthiss`); `lang/en.js` restores f
 
 Download zip and i18n/`GrokI18n` live nested inside the print-related IIFE stack. A careless brace edit can take down more than print.
 
-- [ ] Un-nest: top-level sibling IIFEs for chrome, print, download, i18n
+- [x] Un-nest: top-level sibling IIFEs for chrome, print, download, i18n
 - [ ] Keep `GrokI18n` API stable (`LANGS`, `loadLang`, `applyLang`, `applyDictTo`, `t`, `codes`)
 - [ ] After refactor: smoke print, download zip, language switch, book-text all-langs
 
