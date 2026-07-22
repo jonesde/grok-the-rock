@@ -1366,9 +1366,25 @@
      layout exactly. The page-packing script measures real card heights here
      before stretching rows to fill each printed page.
      =========================================================================== */
-  @page { size: A4 portrait; margin: 10mm 8mm; }
+  @page { size: letter portrait; margin: 10mm 8mm; }
 
-  body.all-langs #all-langs { display: block; }
+  body.all-langs #all-langs {
+    display: block;
+    position: relative;
+    --al-scale: 1;
+    max-width: calc(8.5in - 16mm);
+    margin: 0 auto;
+  }
+  /* Hidden but laid out at virtual print width (letter / scale) for re-measure. */
+  body.all-langs #all-langs .lang-block {
+    position: absolute;
+    left: -99999px;
+    top: 0;
+    width: calc((8.5in - 16mm) / var(--al-scale));
+    margin: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
   body.all-langs .booktext { max-width: none; padding: 0; }
   body.all-langs .booktext-grid {
     display: grid;
@@ -1407,26 +1423,58 @@
   body.all-langs .tp-head { margin-bottom: 0.15rem; }
   body.all-langs .tp-badge { font-size: 0.66rem; padding: 0.12rem 0.5rem; }
 
-  /* Page-fill: each printed page is a fixed-height flex column; the card grid
-     inside uses 1fr rows that stretch to consume any leftover space. */
+  /* Page-fill: fixed US Letter box; content laid out larger then scaled down. */
   body.all-langs #all-langs.al-pagefill .al-print-page {
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    break-after: page;
+    page-break-after: always;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  body.all-langs #all-langs.al-pagefill .al-page-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    transform-origin: top left;
+  }
+  body.all-langs #all-langs.al-pagefill .al-page-grid {
     display: flex;
     flex-direction: column;
     gap: 0.35rem;
-    break-after: page;
+    box-sizing: border-box;
+    height: 100%;
   }
-  body.all-langs #all-langs.al-pagefill .al-page-grid {
+  body.all-langs #all-langs.al-pagefill .al-page-row {
+    /* Grow into leftover space; never shrink below content (min-height:auto). */
+    flex: 1 1 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-auto-rows: 1fr;
     gap: 0.35rem;
-    flex: 1;
-    min-height: 0;
+    align-content: stretch;
   }
-  body.all-langs #all-langs.al-pagefill .al-page-grid > .lang-head {
+  body.all-langs #all-langs.al-pagefill .al-page-row-head {
+    grid-template-columns: 1fr;
+    flex: 0 0 auto;
+  }
+  body.all-langs #all-langs.al-pagefill .al-page-row > .text-page {
+    height: 100%;
+  }
+  body.all-langs #all-langs.al-pagefill .al-page-row > .text-page.lone {
     grid-column: 1 / -1;
   }
   body.all-langs #all-langs.al-pagefill .lang-head { break-before: auto; }
-  body.all-langs #all-langs.al-pagefill .text-page.lone { grid-column: 1 / -1; }
-  /* During measurement, stop grid stretch so each card reports its natural height */
-  body.all-langs #all-langs.measuring .text-page { align-self: start; }
+  /* While packing, use natural row heights so overflow checks are real. */
+  body.all-langs #all-langs.al-pagefill .al-page-grid.is-packing {
+    height: auto;
+  }
+  body.all-langs #all-langs.al-pagefill .al-page-grid.is-packing .al-page-row {
+    flex: 0 0 auto;
+    min-height: min-content;
+  }
+  body.all-langs #all-langs.al-pagefill .al-page-grid.is-packing .al-page-row > .text-page {
+    height: auto;
+    overflow: visible;
+  }
