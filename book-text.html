@@ -36,6 +36,8 @@
     background: #fff3b0;
     border-radius: 2px;
     padding: 0 .04em;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
   .marker-num {
     font-size: .62em;
@@ -1324,6 +1326,22 @@
     </div>
 
     <div class="al-field">
+      <label><input type="checkbox" id="al-icons" checked> Cover icons</label>
+    </div>
+
+    <div class="al-field">
+      <label><input type="checkbox" id="al-markers"> Structure markers</label>
+    </div>
+
+    <div class="al-field">
+      <label for="al-font">Fonts</label>
+      <select id="al-font">
+        <option value="web">Site fonts (Fraunces + Nunito)</option>
+        <option value="system">System fonts (smaller PDF)</option>
+      </select>
+    </div>
+
+    <div class="al-field">
       <label for="al-scale-range">Scale</label>
       <div class="al-scale-row">
         <input type="range" id="al-scale-range" min="70" max="100" step="1" value="100">
@@ -1459,6 +1477,9 @@
   var listEl = dlg.querySelector("#al-lang-list");
   var tocChk = dlg.querySelector("#al-toc");
   var bgChk = dlg.querySelector("#al-bgimg");
+  var iconsChk = dlg.querySelector("#al-icons");
+  var markersChk = dlg.querySelector("#al-markers");
+  var fontSel = dlg.querySelector("#al-font");
   var layoutSel = dlg.querySelector("#al-layout");
   var selAll = dlg.querySelector("#al-select-all");
   var deselAll = dlg.querySelector("#al-deselect-all");
@@ -1469,6 +1490,8 @@
   var scaleVal = dlg.querySelector("#al-scale-val");
   var container = document.getElementById("all-langs");
   var built = false;
+  var PRINT_ICON_GROK = "images/ico/icon-192.png";
+  var PRINT_ICON_HAI = "images/ico/icon-hai-192.png";
 
   // Build the language checkboxes once.
   allCodes.forEach(function (code) {
@@ -1498,12 +1521,17 @@
   }
   if (params.get("toc") === "1" || params.get("toc") === "true") tocChk.checked = true;
   if (params.get("bgimg") === "1" || params.get("bgimg") === "true") bgChk.checked = true;
+  if (params.get("icons") === "0" || params.get("icons") === "false") iconsChk.checked = false;
+  if (params.get("icons") === "1" || params.get("icons") === "true") iconsChk.checked = true;
+  if (params.get("markers") === "1" || params.get("markers") === "true") markersChk.checked = true;
   var layParam = params.get("layout");
   if (layParam) {
     for (var i = 0; i < layoutSel.options.length; i++) {
       if (layoutSel.options[i].value === layParam) { layoutSel.value = layParam; break; }
     }
   }
+  var fontParam = params.get("font");
+  if (fontSel && (fontParam === "system" || fontParam === "web")) fontSel.value = fontParam;
   var scaleParam = params.get("scale");
   if (scaleParam && scaleRange) {
     var sp = parseInt(scaleParam, 10);
@@ -1517,9 +1545,10 @@
 
   function openDlg() { dlg.hidden = false; }
   function exitAllLangs() {
-    document.body.classList.remove("all-langs");
+    document.body.classList.remove("all-langs", "al-font-system");
     container.innerHTML = "";
     container.removeAttribute("style");
+    container.className = "";
     container.hidden = true;
     built = false;
     if (printBtn) printBtn.disabled = true;
@@ -1551,7 +1580,16 @@
     if (printBtn) printBtn.disabled = true;
     var prev = okBtn.textContent;
     okBtn.textContent = "Applying…";
-    buildAll(selected, tocChk.checked, bgChk.checked, layoutSel.value).then(function () {
+    var useSystemFont = fontSel && fontSel.value === "system";
+    buildAll(
+      selected,
+      tocChk.checked,
+      bgChk.checked,
+      layoutSel.value,
+      useSystemFont,
+      iconsChk.checked,
+      markersChk.checked
+    ).then(function () {
       okBtn.disabled = false;
       okBtn.textContent = prev;
       if (printBtn) printBtn.disabled = false;
@@ -1620,13 +1658,115 @@
     "hai.p26": "images/hai/page-26.jpg"
   };
 
-  function buildAll(selected, useToc, useBg, layout) {
+  function shrinkPrintIcons(root) {
+    Array.prototype.forEach.call(root.querySelectorAll("img.book-cover-icon"), function (img) {
+      var src = img.getAttribute("src") || "";
+      if (src.indexOf("icon-hai-") !== -1) {
+        img.setAttribute("src", PRINT_ICON_HAI);
+        img.setAttribute("width", "192");
+        img.setAttribute("height", "291");
+      } else if (src.indexOf("icon-") !== -1) {
+        img.setAttribute("src", PRINT_ICON_GROK);
+        img.setAttribute("width", "192");
+        img.setAttribute("height", "192");
+      }
+    });
+  }
+
+  function removePrintIcons(root) {
+    Array.prototype.forEach.call(root.querySelectorAll("img.book-cover-icon"), function (img) {
+      if (img.parentNode) img.parentNode.removeChild(img);
+    });
+  }
+
+  function escapeRe(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+
+  function resolveInDict(dict, key, fallback) {
+    if (dict && Object.prototype.hasOwnProperty.call(dict, key) && dict[key] != null) {
+      return String(dict[key]);
+    }
+    return fallback;
+  }
+
+  function markerBooksForLang(code) {
+    var dict = (window.I18N && window.I18N[code]) || null;
+    var en = (window.I18N && window.I18N.en) || null;
+    function r(key, fb) {
+      var v = resolveInDict(dict, key, null);
+      if (v != null) return v;
+      return resolveInDict(en, key, fb);
+    }
+    var q = [r("title.h1", "Grok the Rock")];
+    var h = [r("hai.title.h1", "Hai Ikthiss")];
+    if (code === "he" || code === "he-phon") {
+      q.push("גְּרוֹק הַצּוּר");
+      h.push("הָאִי אִיקְתִּיס");
+    }
+    return [
+      { sel: "#quiet-stories", phrases: q },
+      { sel: "#tall-tales", phrases: h }
+    ];
+  }
+
+  function applyStructureMarkers(root, code) {
+    markerBooksForLang(code).forEach(function (book) {
+      var bookRoot = root.querySelector(book.sel);
+      if (!bookRoot) return;
+      var phrases = book.phrases.filter(Boolean);
+      phrases.sort(function (a, b) { return b.length - a.length; });
+      if (!phrases.length) return;
+      var re = new RegExp("(" + phrases.map(escapeRe).join("|") + ")", "g");
+      var walker = document.createTreeWalker(bookRoot, NodeFilter.SHOW_TEXT, {
+        acceptNode: function (n) {
+          if (!n.nodeValue || !n.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+          var p = n.parentElement;
+          if (!p) return NodeFilter.FILTER_REJECT;
+          var tag = p.tagName;
+          if (tag === "SCRIPT" || tag === "STYLE" || tag === "NOSCRIPT") return NodeFilter.FILTER_REJECT;
+          if (p.closest("button")) return NodeFilter.FILTER_REJECT;
+          if (p.closest(".skipc")) return NodeFilter.FILTER_REJECT;
+          if (p.closest("mark.marker-hl") || p.closest("sup.marker-num")) return NodeFilter.FILTER_REJECT;
+          re.lastIndex = 0;
+          return re.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+        }
+      });
+      var nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      var counter = 0;
+      nodes.forEach(function (node) {
+        re.lastIndex = 0;
+        var text = node.nodeValue;
+        var frag = document.createDocumentFragment();
+        var last = 0, m;
+        while ((m = re.exec(text))) {
+          if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+          counter++;
+          var mark = document.createElement("mark");
+          mark.className = "marker-hl";
+          mark.textContent = m[0];
+          frag.appendChild(mark);
+          var sup = document.createElement("sup");
+          sup.className = "marker-num";
+          sup.textContent = String(counter);
+          frag.appendChild(sup);
+          last = m.index + m[0].length;
+        }
+        if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+        node.parentNode.replaceChild(frag, node);
+      });
+    });
+  }
+
+  function buildAll(selected, useToc, useBg, layout, useSystemFont, useIcons, useMarkers) {
     var src = document.querySelector("main.booktext");
     container.innerHTML = "";
     container.className = "booktext-all" +
       (layout === "continuous" ? " al-continuous" : "") +
       (useBg ? " al-with-bg" : "") +
       " al-pagefill";
+    document.body.classList.toggle("al-font-system", !!useSystemFont);
 
     if (useToc) {
       var toc = document.createElement("nav");
@@ -1653,6 +1793,9 @@
       chain = chain.then(function () { return I.loadLang(code); }).then(function () {
         var clone = src.cloneNode(true);
         I.applyDictTo(clone, window.I18N[code]);
+        if (useIcons) shrinkPrintIcons(clone);
+        else removePrintIcons(clone);
+        if (useMarkers) applyStructureMarkers(clone, code);
         if (useBg) {
           clone.querySelectorAll(".text-page").forEach(function (page) {
             var body = page.querySelector(".tp-body");
@@ -1698,9 +1841,8 @@
     return pct / 100;
   }
 
-  // Pack into a virtual page of size (letter / scale), then CSS-scale down to the
-  // real letter box. Lower scale => more CSS room => rows pull up from later pages.
-  // Use the panel Scale control (browser print-dialog scale cannot reflow).
+  // Pack into the real letter content box. Scale shrinks type/spacing via --al-scale
+  // (no CSS transform — keeps text vector in print PDFs, especially Firefox).
   function packPages() {
     Array.prototype.forEach.call(container.querySelectorAll(".al-print-page"), function (p) {
       p.remove();
@@ -1711,10 +1853,8 @@
     setScaleLabel();
 
     var headForcesBreak = !container.classList.contains("al-continuous");
-    var virtW = "calc((8.5in - 16mm) / " + scale + ")";
-    var virtH = "calc((11in - 20mm) / " + scale + ")";
 
-    // Build row plans from the hidden print-width source (pair cards 2-up).
+    // Build row plans from template clones (pair cards 2-up). Templates stay display:none.
     var rowPlans = [];
     var pending = null;
     var langBlocks = Array.prototype.slice.call(container.querySelectorAll(".lang-block"));
@@ -1742,22 +1882,16 @@
       pageEl.className = "al-print-page";
       pageEl.style.width = PAGE_CONTENT_W;
       pageEl.style.height = PAGE_CONTENT_H;
-      var inner = document.createElement("div");
-      inner.className = "al-page-inner";
-      inner.style.width = virtW;
-      inner.style.height = virtH;
-      inner.style.transform = "scale(" + scale + ")";
       var gridEl = document.createElement("div");
       gridEl.className = "al-page-grid is-packing";
-      inner.appendChild(gridEl);
-      pageEl.appendChild(inner);
+      pageEl.appendChild(gridEl);
       container.appendChild(pageEl);
-      void inner.offsetHeight;
-      return { pageEl: pageEl, inner: inner, gridEl: gridEl };
+      void pageEl.offsetHeight;
+      return { pageEl: pageEl, gridEl: gridEl };
     }
 
     function overflows(page) {
-      return page.inner.scrollHeight > page.inner.clientHeight + 0.5;
+      return page.gridEl.scrollHeight > page.pageEl.clientHeight + 0.5;
     }
 
     function buildRowEl(plan) {
@@ -1778,7 +1912,7 @@
     function tryAppend(page, plan) {
       var rowEl = buildRowEl(plan);
       page.gridEl.appendChild(rowEl);
-      void page.inner.offsetHeight;
+      void page.pageEl.offsetHeight;
       if (page.gridEl.childNodes.length > 1 && overflows(page)) {
         page.gridEl.removeChild(rowEl);
         return false;
@@ -1807,7 +1941,7 @@
       while (src.gridEl.firstChild) {
         var move = src.gridEl.firstChild;
         dst.gridEl.appendChild(move);
-        void dst.inner.offsetHeight;
+        void dst.pageEl.offsetHeight;
         if (overflows(dst)) {
           src.gridEl.insertBefore(move, src.gridEl.firstChild);
           break;

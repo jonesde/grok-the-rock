@@ -495,6 +495,7 @@
     "images/ico/favicon.ico",
     "images/ico/icon-192.png",
     "images/ico/icon-512.png",
+    "images/ico/icon-hai-192.png",
     "images/ico/icon-hai-512.png",
     "images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg",
     "images/dedication-grok-4d644bb0-0b15-4fa8-9b89-b78964cd7026.jpg",

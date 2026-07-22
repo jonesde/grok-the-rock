@@ -1350,6 +1350,8 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
   #all-langs.al-with-bg .text-page.has-bg .tp-body,
   #all-langs.al-with-bg .text-page.has-bg .tp-alt-text {
@@ -1363,8 +1365,7 @@
   /* ===========================================================================
      All-languages print-preview typography (BASE, not @media print).
      Defined outside @media print so the on-screen preview matches the printed
-     layout exactly. The page-packing script measures real card heights here
-     before stretching rows to fill each printed page.
+     layout exactly. Scale shrinks type/spacing via --al-scale (no CSS transform).
      =========================================================================== */
   @page { size: letter portrait; margin: 10mm 8mm; }
 
@@ -1372,6 +1373,13 @@
     display: block;
     position: relative;
     --al-scale: 1;
+    --al-gap: calc(0.35rem * var(--al-scale));
+    --al-pad-y: calc(0.5rem * var(--al-scale));
+    --al-pad-x: calc(0.6rem * var(--al-scale));
+    --al-body-fs: calc(0.72rem * var(--al-scale));
+    --al-alt-fs: calc(0.68rem * var(--al-scale));
+    --al-badge-fs: calc(0.66rem * var(--al-scale));
+    --al-icon: calc(80px * var(--al-scale));
     max-width: calc(8.5in - 16mm);
     margin: 0 auto;
   }
@@ -1379,55 +1387,82 @@
   @media screen {
     body.all-langs { padding-right: min(23rem, 42vw); }
   }
-  /* Hidden but laid out at virtual print width (letter / scale) for re-measure. */
+  /* Template clones only — packed pages are the printable content. */
   body.all-langs #all-langs .lang-block {
-    position: absolute;
-    left: -99999px;
-    top: 0;
-    width: calc((8.5in - 16mm) / var(--al-scale));
-    margin: 0;
-    visibility: hidden;
-    pointer-events: none;
+    display: none !important;
   }
   body.all-langs .booktext { max-width: none; padding: 0; }
   body.all-langs .booktext-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 0.35rem;
+    gap: var(--al-gap);
     max-width: none;
   }
   body.all-langs .text-page {
-    padding: 0.5rem 0.6rem 0.6rem;
+    padding: var(--al-pad-y) var(--al-pad-x) calc(0.6rem * var(--al-scale));
     box-shadow: none;
     border: 1px solid rgba(107, 98, 86, 0.18);
-    border-radius: 16px;
+    border-radius: calc(16px * var(--al-scale));
     break-inside: avoid;
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
+    gap: calc(0.7rem * var(--al-scale));
+    transform: none;
+    transition: none;
+  }
+  body.all-langs .text-page:hover {
+    transform: none;
+    box-shadow: none;
   }
   body.all-langs .text-page.tp-solo {
     grid-column: auto;
     max-width: none;
     margin: 0;
   }
-  body.all-langs .book-cover-icon { width: 80px; margin-bottom: 0.25rem; box-shadow: none; }
-  body.all-langs .tp-body { font-size: 0.72rem; line-height: 1.35; color: #000; }
+  body.all-langs .book-cover-icon {
+    width: var(--al-icon);
+    max-width: 100%;
+    height: auto;
+    margin-bottom: calc(0.25rem * var(--al-scale));
+    box-shadow: none;
+  }
+  body.all-langs .tp-body { font-size: var(--al-body-fs); line-height: 1.35; color: #000; }
   body.all-langs .tp-body h1,
   body.all-langs .tp-body h2,
   body.all-langs .tp-body h3 { color: #000; }
   body.all-langs .tp-alt {
-    padding: 0.4rem 0.55rem;
+    padding: calc(0.4rem * var(--al-scale)) calc(0.55rem * var(--al-scale));
     background: rgba(107, 98, 86, 0.10);
     border: 1px solid rgba(107, 98, 86, 0.5);
-    border-left: 3px solid #6b6256;
+    border-left: calc(3px * var(--al-scale)) solid #6b6256;
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }
-  body.all-langs .tp-alt-text { font-size: 0.68rem; line-height: 1.3; color: #000; }
-  body.all-langs .tp-head { margin-bottom: 0.15rem; }
-  body.all-langs .tp-badge { font-size: 0.66rem; padding: 0.12rem 0.5rem; }
+  body.all-langs .tp-alt-text { font-size: var(--al-alt-fs); line-height: 1.3; color: #000; }
+  body.all-langs .tp-alt-glyph {
+    width: calc(13px * var(--al-scale));
+    height: calc(13px * var(--al-scale));
+  }
+  body.all-langs .tp-head { margin-bottom: calc(0.15rem * var(--al-scale)); }
+  body.all-langs .tp-badge {
+    font-size: var(--al-badge-fs);
+    padding: calc(0.12rem * var(--al-scale)) calc(0.5rem * var(--al-scale));
+  }
 
-  /* Page-fill: fixed US Letter box; content laid out larger then scaled down. */
+  /* Optional system fonts — smaller embedded PDF, slightly different look. */
+  body.all-langs.al-font-system #all-langs,
+  body.all-langs.al-font-system #all-langs .tp-body,
+  body.all-langs.al-font-system #all-langs .tp-body h1,
+  body.all-langs.al-font-system #all-langs .tp-body h2,
+  body.all-langs.al-font-system #all-langs .tp-body h3,
+  body.all-langs.al-font-system #all-langs .lang-head,
+  body.all-langs.al-font-system #all-langs .al-toc {
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  body.all-langs.al-font-system #all-langs .tp-badge,
+  body.all-langs.al-font-system #all-langs .tp-alt-text {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+
+  /* Page-fill: fixed US Letter box; type scale via --al-scale (vector-safe). */
   body.all-langs #all-langs.al-pagefill .al-print-page {
     position: relative;
     box-sizing: border-box;
@@ -1437,17 +1472,10 @@
     break-inside: avoid;
     page-break-inside: avoid;
   }
-  body.all-langs #all-langs.al-pagefill .al-page-inner {
-    position: absolute;
-    top: 0;
-    left: 0;
-    box-sizing: border-box;
-    transform-origin: top left;
-  }
   body.all-langs #all-langs.al-pagefill .al-page-grid {
     display: flex;
     flex-direction: column;
-    gap: 0.35rem;
+    gap: var(--al-gap);
     box-sizing: border-box;
     height: 100%;
   }
@@ -1456,7 +1484,7 @@
     flex: 1 1 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 0.35rem;
+    gap: var(--al-gap);
     align-content: stretch;
   }
   body.all-langs #all-langs.al-pagefill .al-page-row-head {
