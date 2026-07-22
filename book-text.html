@@ -1277,6 +1277,10 @@
     </div>
 
     <div class="al-field">
+      <label><input type="checkbox" id="al-bgimg"> Background images</label>
+    </div>
+
+    <div class="al-field">
       <div class="al-lang-head">
         <span>Languages</span>
         <span>
@@ -1403,6 +1407,7 @@
 
   var listEl = dlg.querySelector("#al-lang-list");
   var tocChk = dlg.querySelector("#al-toc");
+  var bgChk = dlg.querySelector("#al-bgimg");
   var layoutSel = dlg.querySelector("#al-layout");
   var selAll = dlg.querySelector("#al-select-all");
   var deselAll = dlg.querySelector("#al-deselect-all");
@@ -1435,6 +1440,7 @@
     checkboxes().forEach(function (cb) { cb.checked = true; });
   }
   if (params.get("toc") === "1" || params.get("toc") === "true") tocChk.checked = true;
+  if (params.get("bgimg") === "1" || params.get("bgimg") === "true") bgChk.checked = true;
   var layParam = params.get("layout");
   if (layParam) {
     for (var i = 0; i < layoutSel.options.length; i++) {
@@ -1467,21 +1473,85 @@
     checkboxes().forEach(function (cb) { if (cb.checked) selected.push(cb.value); });
     if (!selected.length) { closeDlg(); return; }
     var useToc = tocChk.checked;
+    var useBg = bgChk.checked;
     var layout = layoutSel.value;
     closeDlg();
     okBtn.disabled = true;
     var prev = okBtn.textContent;
     okBtn.textContent = "Building…";
-    buildAll(selected, useToc, layout).then(function () {
+    buildAll(selected, useToc, useBg, layout).then(function () {
       okBtn.disabled = false;
       okBtn.textContent = prev;
     });
   });
 
-  function buildAll(selected, useToc, layout) {
+  // Map each page's data-i18n-html key to its illustration image.
+  // Missing files (most hai pages) simply render no background.
+  var PAGE_BG = {
+    "cover.title": "images/cover-grok-2e32b43d-6ffc-4214-8e76-5c2fef65b815.jpg",
+    "dedication": "images/dedication-grok-4d644bb0-0b15-4fa8-9b89-b78964cd7026.jpg",
+    "c1.title": "images/page-1-grok-66371264-365e-4572-8b05-f6e03851fcf5.jpg",
+    "p2": "images/page-2-grok-481c406f-3f25-4f6b-a120-8b8dad85d359.jpg",
+    "p3": "images/page-3-grok-028c42fe-70ae-419c-a0ed-0392bafb3fbf.jpg",
+    "p4": "images/page-4-grok-f7706229-5e89-4b5f-8828-0865b16eda73.jpg",
+    "p5": "images/page-5-grok-8baaf8c8-a887-4764-9205-0f1a03a6f4b8.jpg",
+    "p6": "images/page-6-grok-adad39e7-2558-4183-a800-33c1b77419fb.jpg",
+    "p7": "images/page-7-grok-7d296a89-a7ac-47d8-abc7-a7cc53a43c97.jpg",
+    "p8": "images/page-8-grok-445d26bc-85af-4c13-a44c-26a82f396432.jpg",
+    "p9": "images/page-9-grok-432d18f1-c276-4586-8ff8-0b018446122b.jpg",
+    "c2.title": "images/page-10-grok-de70e122-f5b5-431e-80ad-bc7e4b341433.jpg",
+    "p11": "images/page-11-grok-48e25567-dcf9-4d3c-bc0e-8ba593f47153.jpg",
+    "p12": "images/page-12-grok-835f3c58-81fd-4f81-9008-d3add76efeef.jpg",
+    "p13": "images/page-13-grok-4df8bae2-ed14-4cfd-8d0e-e0c5257bbc6c.jpg",
+    "p14": "images/page-14-grok-99d5188c-864d-4e1e-879e-05cc2c517c5d.jpg",
+    "p15": "images/page-15-grok-ceda4f0d-cc29-4021-a249-910129a9c2b2.jpg",
+    "p16": "images/page-16-grok-12a7f0b9-63ce-4452-bab1-1e4770ba5fd1.jpg",
+    "p17": "images/page-17-grok-a26b509b-7c9a-48ae-a2c6-7410304c7edd.jpg",
+    "c3.title": "images/page-18-grok-d333eb0c-afc6-432b-b077-5b89349bd1e4.jpg",
+    "p19": "images/page-19-grok-c132c2f7-6323-48cf-b26d-66930226112f.jpg",
+    "p20": "images/page-20-grok-a30da3ef-d6ca-4557-88ab-8b959191cf01.jpg",
+    "p21": "images/page-21-grok-f3245d42-a912-4596-a2a0-d06d942dc045.jpg",
+    "p22": "images/page-22-grok-4ee31946-396e-48fe-8029-2f0107c33f17.jpg",
+    "p23": "images/page-23-grok-6894716c-2983-479e-b89d-9c2894f9db2b.jpg",
+    "p24": "images/page-24-grok-9d3c9424-bcd3-4089-b277-e1e870dfbd20.jpg",
+    "p25": "images/page-25-grok-87bf0bc3-52ea-4af3-ac9b-f89a5ec3f06c.jpg",
+    "p26": "images/page-26-grok-97985439-fb8c-40bb-ab0c-2acc180954f9.jpg",
+    "hai.cover.title": "images/hai/cover-grok-bffd8ee1-7934-4ec3-94dc-205a63ee3959.jpg",
+    "hai.dedication": "images/hai/dedication-grok-03af8e53-3392-4e53-8910-53349a26558e_up.jpg",
+    "hai.c1.title": "images/hai/page-1-grok-80969c94-4844-49d1-9022-6475dd08e143.jpg",
+    "hai.p2": "images/hai/page-2-grok-37485c9d-64c3-4fca-b2ed-7f7244a42d77_up.jpg",
+    "hai.c2.title": "images/hai/page-10-grok-19ea08e8-7651-494a-b944-08b19abf9b9d.jpg",
+    "hai.c3.title": "images/hai/page-18-grok-f139627d-9eb2-4b69-98df-402e1bea6633.jpg",
+    "hai.p3": "images/hai/page-3.jpg",
+    "hai.p4": "images/hai/page-4.jpg",
+    "hai.p5": "images/hai/page-5.jpg",
+    "hai.p6": "images/hai/page-6.jpg",
+    "hai.p7": "images/hai/page-7.jpg",
+    "hai.p8": "images/hai/page-8.jpg",
+    "hai.p9": "images/hai/page-9.jpg",
+    "hai.p11": "images/hai/page-11.jpg",
+    "hai.p12": "images/hai/page-12.jpg",
+    "hai.p13": "images/hai/page-13.jpg",
+    "hai.p14": "images/hai/page-14.jpg",
+    "hai.p15": "images/hai/page-15.jpg",
+    "hai.p16": "images/hai/page-16.jpg",
+    "hai.p17": "images/hai/page-17.jpg",
+    "hai.p19": "images/hai/page-19.jpg",
+    "hai.p20": "images/hai/page-20.jpg",
+    "hai.p21": "images/hai/page-21.jpg",
+    "hai.p22": "images/hai/page-22.jpg",
+    "hai.p23": "images/hai/page-23.jpg",
+    "hai.p24": "images/hai/page-24.jpg",
+    "hai.p25": "images/hai/page-25.jpg",
+    "hai.p26": "images/hai/page-26.jpg"
+  };
+
+  function buildAll(selected, useToc, useBg, layout) {
     var src = document.querySelector("main.booktext");
     container.innerHTML = "";
-    container.className = "booktext-all" + (layout === "continuous" ? " al-continuous" : "");
+    container.className = "booktext-all" +
+      (layout === "continuous" ? " al-continuous" : "") +
+      (useBg ? " al-with-bg" : "");
 
     if (useToc) {
       var toc = document.createElement("nav");
@@ -1508,6 +1578,17 @@
       chain = chain.then(function () { return I.loadLang(code); }).then(function () {
         var clone = src.cloneNode(true);
         I.applyDictTo(clone, window.I18N[code]);
+        if (useBg) {
+          clone.querySelectorAll(".text-page").forEach(function (page) {
+            var body = page.querySelector(".tp-body");
+            var key = body && body.getAttribute("data-i18n-html");
+            var url = key && PAGE_BG[key];
+            if (url) {
+              page.style.backgroundImage = 'url("' + url + '")';
+              page.classList.add("has-bg");
+            }
+          });
+        }
         var sec = document.createElement("section");
         sec.className = "lang-block";
         sec.id = "lang-" + code;

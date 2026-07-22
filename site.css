@@ -1336,4 +1336,26 @@
     #all-langs.al-continuous .lang-head { break-before: auto; }
     .al-toc { break-after: page; }
     #all-langs.al-continuous .al-toc { break-after: auto; }
+    #all-langs.al-with-bg .text-page.has-bg,
+    #all-langs.al-with-bg .text-page.has-bg .tp-body,
+    #all-langs.al-with-bg .text-page.has-bg .tp-alt-text {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+  }
+
+  /* Background images + near-white text halo (book-text.html print-all-langs) */
+  #all-langs.al-with-bg .text-page.has-bg {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  #all-langs.al-with-bg .text-page.has-bg .tp-body,
+  #all-langs.al-with-bg .text-page.has-bg .tp-alt-text {
+    text-shadow:
+      0 0 3px #fbf4e6, 0 0 3px #fbf4e6,
+      0 0 16px #fbf4e6, 0 0 16px #fbf4e6, 0 0 16px #fbf4e6,
+      0 0 16px #fbf4e6, 0 0 16px #fbf4e6, 0 0 16px #fbf4e6,
+      0 0 16px #fbf4e6, 0 0 16px #fbf4e6;
   }
