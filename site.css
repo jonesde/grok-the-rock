@@ -1112,14 +1112,16 @@
     .span8  { grid-column: span 8; }
     .span4  { grid-column: span 4; }
     .span6  { grid-column: span 6; }
-    .card {
-      background: none !important;
-      box-shadow: none !important;
-      border-color: #6b6256;
-      color: #000;
-      -webkit-print-color-adjust: exact;
-      print-color-adjust: exact;
-    }
+.card {
+       background: none !important;
+       box-shadow: none !important;
+       border-color: #6b6256;
+       color: #000;
+       -webkit-print-color-adjust: exact;
+       print-color-adjust: exact;
+       break-inside: avoid;
+       page-break-inside: avoid;
+     }
     .card * { color: #000 !important; }
     .tint, .rule.feature { background: none !important; }
   }
