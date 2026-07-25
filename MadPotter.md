@@ -7,6 +7,8 @@ dust·water·clay, and a self-bootstrapping loop. Not a 32-path walk; a looser
 Inspired by `ThePotter.md`, and by the companion books
 `GrokTheRock-ThreeQuietStories.md` and `HaiIkthiss-ThreeTallTales.md`.
 
+Author's Note: The solution to the brittle absence of water in the finished pot is to never fully "finish" it, just like this midrash is left unfinished. The rigid structure of the shards is kept in motion by the very water that keeps the clay between the shards from drying out and becoming rigid. This is the dual function of the water of life.
+
 ---
 
 ## Form counts
@@ -30,20 +32,20 @@ Inspired by `ThePotter.md`, and by the companion books
 ═══════════════════════════════════════════════════════════
  C01  The Mad Potter sat at his bench,
         and watched the work of his hands.
- C02  The wiggle-dee-wee one wiggle-dee-weed,
-        and the wiggle-dee-woo one woo-ed.
+ C02  The widdle-dee-wee one widdle-dee-weed,
+        and the widdle-dee-woo one woo-ed.
 
 ═══════════════════════════════════════════════════════════
  S2   POT = COPY                                 [1 couplet]
 ═══════════════════════════════════════════════════════════
- C03  The pot they were wiggle-dee wiggling through,
-        was same as the wiggle-dee-dee one just drew.
+ C03  The pot they were widdle-dee widdling through,
+        was same as the widdle-dee-dee one just drew.
 
 ═══════════════════════════════════════════════════════════
  S3   NOTHING NEW / NOTHING WON                  [1 couplet]
 ═══════════════════════════════════════════════════════════
- C04  Nothing was new under wiggle-dee sun,
-        why bother when nothing was wiggle-dee won?
+ C04  Nothing was new under widdle-dee sun,
+        why bother when nothing was widdle-dee won?
 
 ═══════════════════════════════════════════════════════════
  S4   THESIS: POT = SHARD                        [2 couplets]
@@ -72,7 +74,7 @@ Inspired by `ThePotter.md`, and by the companion books
 ═══════════════════════════════════════════════════════════
  S7   THE QUESTION (glue)                        [2 couplets]
 ═══════════════════════════════════════════════════════════
- C11  But how would the wiggle-
+ C11  But how would the widdle-
         dee parts come to woo?
  C12  And wow would they walk,
         what would be the glue?
@@ -149,14 +151,14 @@ Inspired by `ThePotter.md`, and by the companion books
 ```
 The Mad Potter sat at his bench,
   and watched the work of his hands.
-The wiggle-dee-wee one wiggle-dee-weed,
-  and the wiggle-dee-woo one woo-ed.
+The widdle-dee-wee one widdle-dee-weed,
+  and the widdle-dee-woo one woo-ed.
 
-The pot they were wiggle-dee wiggling through,
-  was same as the wiggle-dee-dee one just drew.
+The pot they were widdle-dee widdling through,
+  was same as the widdle-dee-dee one just drew.
 
-Nothing was new under wiggle-dee sun,
-  why bother when nothing was wiggle-dee won?
+Nothing was new under widdle-dee sun,
+  why bother when nothing was widdle-dee won?
 
 So the Mad Potter plotted,
   and thought on it hard.
@@ -173,7 +175,7 @@ so why leave it split,
 The Mad Lion Potter
   was off for a score!
 
-But how would the wiggle-
+But how would the widdle-
   dee parts come to woo?
 And wow would they walk,
   what would be the glue?
@@ -303,8 +305,8 @@ get room; nursery exit stays light. That’s craft, not a broken chiasm.
 
 | Lattice beat | Poem echo |
 |---|---|
-| Dual hands (near/far) | wiggle-dee-**wee** / wiggle-dee-**woo** |
-| Vessel / work | pot they “wiggle through” |
+| Dual hands (near/far) | widdle-dee-**wee** / widdle-dee-**woo** |
+| Vessel / work | pot they “widdle through” |
 | Break → mend | pot-as-shard; “stronger the mend” |
 | Dust + water + clay | named straight in S11 |
 | Join / weather | S10 cloud of hearts |
