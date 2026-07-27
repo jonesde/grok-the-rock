@@ -402,7 +402,7 @@
     function initCoverVideo() {
       var video = document.getElementById("cover-video");
       if (!video) return;
-      var coverImg = document.querySelector(".book-single.cover .cover-img");
+      var coverImg = document.querySelector(".book.cover .cover-img");
       var delayBetweenLoops = 5000;
 
       function showImage() {

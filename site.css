@@ -108,19 +108,27 @@
   }
 
 
-  .book-single .cover-img { display: none; }
-
-
   /* --- 2. Picture-book pages --- */
+  /* Cover: hide static img while video is present; show when no video */
+  .page:has(#cover-video) .cover-img { display: none; }
+
+
   /* Cover title overlay (screen only; printed JPG keeps its own baked text) */
-  .book-single.cover .page {
+  .book.cover > .page:first-child {
       display: flex;
       align-items: center;
       justify-content: center;
   }
 
 
-  .book-single.cover .cardtext { position: absolute; left: 0; right: 0; top: 0; bottom: 30%; z-index: 3; display: flex; flex-direction: column; justify-content: center; padding: 4% 10%; line-height: 0.75; color: #1b1108; text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4); }
+  .book.cover > .page:first-child > video {
+      display: block;
+      width: 100%;
+      height: auto;
+  }
+
+
+  .book.cover > .page:first-child > .cardtext { position: absolute; left: 0; right: 0; top: 0; bottom: 30%; z-index: 3; display: flex; flex-direction: column; justify-content: center; padding: 4% 10%; line-height: 0.75; color: #1b1108; text-shadow: 0 0 4px rgba(255,255,255,0.95), 0 0 9px rgba(255,255,255,0.85), 0 1px 3px rgba(40,30,20,0.4); }
 
 
   /* Chapter title page overlays sit over the upper image area */
@@ -665,7 +673,9 @@
       height: auto;
       object-fit: contain;
     }
-    .book-single .page video { display: none; }
+    .book-single .page video,
+    .book.cover video,
+    #cover-video { display: none; }
     .cover-img { display: block !important; }
     .textpage { min-height: 0; }
   }
@@ -680,7 +690,7 @@
 
   /* --- 5. English overlay / a11y rules --- */
   /* Hide new overlays for English on index.html (baked-in image text is used instead) */
-  html[data-lang="en"] body.page-book .book-single.cover .cardtext { display: none !important; }
+  html[data-lang="en"] body.page-book .book.cover > .page:first-child > .cardtext { display: none !important; }
 
 
   /* EN chapter titles stay in a11y tree on index.html (baked into image for sighted) */
@@ -1151,18 +1161,7 @@
   }
 
 
-  /* Cover: show static image on screen only when there is no video cover */
-  .book-single.cover:not(:has(#cover-video)) .cover-img { display: block; }
-
-
-  .book-single.cover .page {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-  }
-
-
-  .book-single.cover .page h1 {
+  .book.cover > .page:first-child h1 {
       font-size: clamp(3.5rem, 7vw, 6.5rem);
   }
 
