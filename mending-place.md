@@ -130,6 +130,8 @@ Underneath the personal strategies of dominance and collapse sits a larger contr
 
 **Repair order** manages harm through truth, healing, and real consent. Justice means the break is mended and the vulnerable are protected. Mercy liberates rather than binds. Judgment is discernment that helps people see what happened and what to do next. Authority is trust given, not compliance extracted. Unity is voluntary faithfulness. Suffering is a signal to address, not a badge to collect. The weak are held inside the work rather than cut out of it. The fruit is quieter collaboration and bonds that can fail and still return. This order endures because it aligns with how trust actually grows.
 
+In repair order, standing is peer-level. No human office grants or revokes a person’s basic worth. Skill, age, and temporary roles still matter for real work; they do not create a permanent higher caste. Stewardship is distributed: many local holders of care and capacity, not one center that owns the right to live. The measure of the order is not how well it serves the impressive, but how the least convenient and most vulnerable fare in ordinary needs and dignity. This is not a finished utopia with a brand name. It is a direction: households and clusters that keep choosing repair, peer standing, and open capacity until the weather holds.
+
 A few paired questions make the contrast usable:
 
 - Does our fairness fix what is broken, or break more so everyone matches in misery?
@@ -215,7 +217,9 @@ In a household this means that when damage occurs, the primary questions are “
 
 Protective limits are not punishment. Guarding your body, your dependents, your property, and the stewardships actually entrusted to you is boundary work. You do it by withdrawing access, setting distance, or refusing further exposure. It aims at stopping further harm, not at making the other person suffer or lose standing as a spectacle. Natural consequences and stewardship limits stop harm; artificial penalties added for ranking reintroduce the old operating system. Keep limits personal, proportional, and tied to what you legitimately steward; leave a path of return that depends on demonstrated change, not on the injured party absorbing unlimited cost.
 
-Common fakes: calling revenge “accountability,” using restoration language while still primarily seeking the other person’s suffering, or demanding premature forgiveness that skips the actual repair of harm. Another fake is “fairness” that only multiplies damage until everyone is equally worse off.
+**Standing your ground in stewardship.** You may defend what is actually yours to tend: your body, dependents in your care, land and tools you hold, and roles you are truly responsible for. Defense stops invasion; it does not become a right to conquer, humiliate, or collect trophies. Respect the same lines around others. When someone will not stop harming after clear naming, concrete repair attempts, and fair limits, stronger distance or community protection may be required. Permanent cast-out is rare, last-resort, and still aimed at safety rather than at purifying the group’s image. The default remains a path of return through demonstrated change.
+
+Common fakes: calling revenge “accountability,” using restoration language while still primarily seeking the other person’s suffering, or demanding premature forgiveness that skips the actual repair of harm. Another fake is “fairness” that only multiplies damage until everyone is equally worse off. Conquest dressed as “stewardship” is the same old ranking with a property deed.
 
 Diagnostic question: When someone harms me or someone I care about, is my first sustained impulse to reduce future harm and heal what was broken, or to make the offender feel the same pain?
 
@@ -229,19 +233,23 @@ See also: Matthew 18:15–17 (the sequence begins with direct address and aims a
 
 No one should have to trade their whole life for basic access to the means of living. Survival access is not a favor granted by controllers; it is the baseline. You do not fix this by seizing the barn. You make the gate less relevant: share tools, maintain commons where possible, strengthen local loops that let people meet ordinary needs without permanent dependence on a distant center.
 
+Separation from the ordinary means of living is a deep source of shame and fear. When a person has no stable place, no workable access to land, shelter, tools, or skill, ranking order gains easy leverage: comply or lose the ground under your feet. Repair order works to reduce that coercion. Material independence is not greed; it is one of the conditions under which peer standing can stay real.
+
 Compassion is tested the same way. High-trust help builds the other person’s capacity and freedom. Controlling help keeps them manageable. Ask: does this gift liberate, or bind? Does it make the next step more independent, or more permanently dependent on me?
 
-Dominion here is stewardship, not ownership theater. Tend what is entrusted to you. Encourage what can grow. Do not treat people, land, tools, or knowledge as trophies to hoard.
+Dominion here is stewardship, not ownership theater. Tend what is entrusted to you. Encourage what can grow. Do not treat people, land, tools, or knowledge as trophies to hoard. Prefer growing the shared pie of capacity over fighting for a larger personal share of a fixed pie. Relative luxury used as status is ranking; enough for each household to stand is repair.
 
 In a household this looks like refusing to use money, information, or emotional resources as permanent levers of control. In a community it looks like building practical redundancy so that ordinary life does not require constant submission to whatever person or institution currently holds the scarce resource. That redundancy includes skills, tools, food, childcare, and transportation. Prefer local, open, and reproducible arrangements over fragile dependence on a single distant supplier of what life requires. Distributed capacity is slower to brag about and harder to capture.
 
-Common fakes: performing generosity while keeping the real levers firmly in hand, or preaching independence while maintaining structures that make independence impossible. Soft control dressed as care is still control.
+**Optional layer: permanent place and periodic restoration.** Some communities may choose, by clear voluntary agreement, a stronger material floor: an inheritable stake in land or equivalent productive place for each household, held as stewardship rather than as a weapon. The aim is that no one grows up without a place in the world, and that multi-generational loss of standing through debt, distress sale, or capture becomes harder. One balanced pattern used in older agrarian memory is roughly this: households may buy, sell, lease, and adapt within ordinary economic life, but on a long cycle on the order of about forty-nine years, baseline inheritances are restored and crushing personal debts of that kind are cleared, so flexibility does not harden into permanent dispossession. The exact legal form will vary by place and law. What matters for this book is the principle: economic flexibility without multi-generational exile from the means of living. This layer is **not mandatory** for practicing the ten rules. Many households will only be able to share tools, skills, spare rooms, and mutual aid. Those moves still count. Land restoration is an additional security layer where people freely choose it and can hold it without creating a new controlling center.
+
+Common fakes: performing generosity while keeping the real levers firmly in hand, or preaching independence while maintaining structures that make independence impossible. Soft control dressed as care is still control. Another fake is imposing a grand property scheme by force and calling the result freedom.
 
 Diagnostic question: What ordinary needs in my household or community currently require ongoing submission to a single person or office? What would reduce that dependence without creating a new one?
 
 Seven-day experiment: Identify one small practical dependency in your immediate circle. Take one concrete step that increases local capacity or shared access around it.
 
-See also: Isaiah 58:6–7; Acts 4:32–35 (descriptive of early practice).
+See also: Isaiah 58:6–7; Acts 4:32–35 (descriptive of early practice); Matthew 25:40.
 
 ---
 
@@ -267,9 +275,11 @@ See also: Matthew 10:14; Proverbs 22:3.
 
 Every durable bond is peer-to-peer. No permanent central decider who can grant or revoke belonging. No policy that flows only downward. Each real connection remains locally governed and freely chosen. The healthy pattern is a constellation, not a solar system.
 
+Peer standing means each adult remains a free center of consent. Roles and skills differ; basic worth does not. The person with more experience, money, or title does not become the owner of another person’s agency. When conflict arises among peers, mediate as peers: proposal and real approval (see Planner–Reviewer–Approver in Part Five), not decree from a permanent overlord. Distributed intelligence beats centralized control for the same reason bodies and healthy ecosystems work: many local decisions, held accountable by real consequences, scale better than one captured brain trying to run everything.
+
 In a household this means moving toward mutual responsibility rather than one person carrying the entire emotional or practical load while others orbit. In a community it means preferring many small, overlapping relationships of accountability over a single charismatic or institutional center that everyone must pass through.
 
-Common fakes: claiming to be “just a node” while still arranging to be the indispensable hub, or refusing all responsibility under the banner of equality.
+Common fakes: claiming to be “just a node” while still arranging to be the indispensable hub, or refusing all responsibility under the banner of equality. Equality of standing is not the erasure of competence; it is the refusal to turn competence into a caste.
 
 Diagnostic question: In the groups that matter to me, how much of the important information, decision-making, and emotional regulation still flows through one or two people?
 
@@ -299,6 +309,8 @@ See also: Matthew 10:8; 2 Corinthians 9:6–9.
 
 No deceptive framing, no engineered consent, no coercive emotional push. Speak plainly. Let people choose, including choosing what you think is wrong. A bond is only real if the other person remains free to decline it. Anything obtained by manipulation is not a bond; it is a leash.
 
+Persuasion that builds trust states the case, accepts a real no, and leaves the other person’s dignity intact. Persuasion that runs on shame, fear, or social exile is only ranking with better manners. If your “convincing” requires the other person to feel smaller, it is not repair order.
+
 In a household this means ending the everyday techniques of guilt, obligation theater, and strategic silence. In a community it means refusing rhetorical tricks that make disagreement feel like moral failure.
 
 Common fakes: “just asking questions” that are actually accusations, performing hurt to control outcomes, or claiming openness while punishing unwanted answers.
@@ -317,7 +329,7 @@ No one follows these practices cleanly. The design assumes slippage. When a brea
 
 Ranking order perfects the group by removing the imperfect. Each removal makes the next exclusion easier. The circle shrinks until almost no one is safe. That exclusion spiral is not seriousness; it is fear managing appearances. Repair order supports and includes while still naming harm and requiring real change. Excellence lifts others; it does not feed on exile.
 
-In a household this is the difference between a family that treats every failure as evidence of permanent character and a family that treats failure as the ordinary place where trust can be rebuilt more strongly. In a community it is the difference between exile cultures and repair cultures.
+In a household this is the difference between a family that treats every failure as evidence of permanent character and a family that treats failure as the ordinary place where trust can be rebuilt more strongly. In a community it is the difference between exile cultures and repair cultures. Permanent removal after honest repair attempts may still be required for ongoing violence or unrepentant predation; it remains exceptional, safety-first, and free of purity theater.
 
 Common fakes: endless self-condemnation that avoids actual repair, or premature “we’re fine” language that skips the concrete work of mending. Another fake is purifying the group by permanent removal whenever someone is inconvenient, then calling the smaller circle “higher standards.”
 
@@ -517,6 +529,9 @@ When conversation does happen, keep it concrete. Speak about what you are trying
 - Correcting other parents in public as a demonstration of superior method.
 - Making friendship conditional on interest in the books.
 - Naming your cluster, branding it, or treating early adopters as an inner circle.
+- A silent “social contract” in which norms bind people who never agreed to them and cannot leave without reputation hunting.
+
+When households do choose shared norms beyond ordinary friendship (regular mutual aid, shared tools, a common way of handling conflict), state the terms plainly, test understanding, and keep exit free of punishment. Voluntary covenant beats ambush belonging. People who join with open eyes repair better than people who were absorbed by social pressure.
 
 Two or three additional households is enough to create a small cluster. At that scale mutual reinforcement becomes possible. Parents can compare notes. Adults can catch one another’s slips with less defensiveness. The children’s books circulate naturally. The cluster remains informal and does not need a name or a meeting schedule beyond what people already do.
 
@@ -589,12 +604,16 @@ Useful indicators that diffusion is happening healthily:
 - People who were not part of the first cluster begin using the language of repair and “small feeling” naturally.
 - Conflicts in shared spaces occasionally resolve with less residual ranking than before.
 - Someone who never met the original person can explain a practice accurately enough to use it.
+- Mutual aid grows shared capacity (the pie) more than it grows anyone’s relative status share.
+- Economic and practical leverage over neighbors is slightly harder to exercise than before.
+- Clusters that share deeper norms do so by clear voluntary agreement, with exit that does not become a hunt.
 
 Useful indicators that the work is being distorted:
 - A few people are treated as the official interpreters.
 - Agreement with the practices becomes a new test of belonging.
 - Public discussion focuses more on who is “doing it right” than on specific repairs.
 - The cluster acquires a name, a hierarchy of fluency, or a preferred public enemy.
+- People are bound by unspoken rules they never accepted and cannot leave cleanly.
 
 ---
 
@@ -859,6 +878,8 @@ Signs that this is happening:
 
 **When the tool replaces the person.** An easy sign that legalism has run awry is that the rule is used to destroy the very bond it claimed to protect. The procedure becomes more real than the people. At that point the tool is a substitute for living responsibility: a hollow copy that still demands worship. Name it, reduce it, and go back to concrete harm and concrete repair.
 
+**When watchers look down instead of out.** Some people take, or are given, a longer view: keep the practices clear, notice drift, protect the vulnerable, hold the horizon when others are tired. That service is real. The corruption is familiar: the long view is abandoned, and the watcher turns to policing peers for status, managing appearances, and looking down on brethren instead of keeping faith with the work. Unable to serve the larger weather, they invent a smaller kingdom of correction. If your role is to help the pattern stay honest, your first audience is the pattern and the least, not your own elevation above the clumsy.
+
 The safeguards are the same disciplines that started the work:
 - Keep returning to concrete harm and concrete repair.
 - Refuse to grant high status to those who perform the practices most eloquently.
@@ -930,7 +951,7 @@ These references are offered as sources of clarity, not as membership requiremen
 1. Let truth stand on its own legs — Proverbs 18:17; John 7:24  
 2. Heal shame instead of racing it — Psalm 51:6; Isaiah 66:2  
 3. Restore, never punish — Matthew 18:15–17; Galatians 6:1  
-4. Leave the gate open — Isaiah 58:6–7; Acts 4:32–35 (descriptive of early practice)  
+4. Leave the gate open — Isaiah 58:6–7; Acts 4:32–35 (descriptive of early practice); Matthew 25:40  
 5. Walk away instead of war — Matthew 10:14; Proverbs 22:3  
 6. Be a node, not a star — Matthew 23:8–12; 1 Corinthians 12:21–25  
 7. Open what you make — Matthew 10:8; 2 Corinthians 9:6–9  
@@ -972,6 +993,12 @@ The concrete work of acknowledging specific harm, protecting the injured party, 
 
 **Node**  
 A person or household that participates as a peer rather than as a permanent center. Nodes form constellations; stars form solar systems with dependents.
+
+**Peer standing**  
+Equality of basic worth and consent among adults. Roles and skills differ; no human office owns another person’s agency. Repair order assumes peer standing; ranking order denies it.
+
+**Place / material floor**  
+Stable access to the ordinary means of living (shelter, skill, tools, and where chosen, an inheritable productive stake) so that shame and fear of having no place cannot be used as easy leverage. Optional community patterns may restore baseline inheritances on a long cycle so multi-generational dispossession is harder. Not required for the ten practices; a possible security layer.
 
 **Operating system**  
 Metaphor for the usually unspoken rules that actually govern how status, failure, truth, and belonging work in a household or community. Most default operating systems run on shame and ranking.
