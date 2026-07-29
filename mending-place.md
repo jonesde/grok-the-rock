@@ -256,11 +256,13 @@ Dominion here is stewardship, not ownership theater. Tend what is entrusted to y
 
 In a household this looks like refusing to use money, information, or emotional resources as permanent levers of control. In a community it looks like building practical redundancy so that ordinary life does not require constant submission to whatever person or institution currently holds the scarce resource. That redundancy includes skills, tools, food, childcare, and transportation. Prefer local, open, and reproducible arrangements over fragile dependence on a single distant supplier of what life requires. Distributed capacity is slower to brag about and harder to capture.
 
+**Stewardship of materials (direction, not a demand).** Where you can, prefer repair, reuse, and remaking over throwaway dependence on a distant supply chain. The long aim is closer to “what do we need if we keep useful things in circulation?” than “how much can we consume and discard?” Most people cannot run local making or full reuse loops for most goods right now. That is not failure. A mended tool, a shared spare, a skill taught so something need not be bought again—these already move the gate. Treat fuller local production and closed material loops as a horizon for communities that choose them, not as a purity test for households living inside the present economy.
+
 **Household scale now.** Most readers will only be able to share tools, skills, spare rooms, and mutual aid. Those moves still count. They reduce leverage without any grand design.
 
-**Community scale later (optional).** Where people freely agree, a stronger material floor is possible: an inheritable stake in land or equivalent productive place for each household, held as stewardship rather than as a weapon, so fewer people grow up with no place in the world. One balanced pattern from older agrarian memory allows ordinary buying, selling, and leasing, then on a long cycle of about forty-nine years restores baseline inheritances and clears crushing personal debts of that kind, so flexibility does not harden into multi-generational dispossession. Legal form varies by place. The principle is simple: economic room to move without permanent exile from the means of living. This layer is **not required** for the ten rules. Use it only where consent is real and no new controlling center is created.
+**Community scale later (optional).** Where people freely agree, a stronger material floor is possible: an inheritable stake in land or equivalent productive place for each household, held as stewardship rather than as a weapon, so fewer people grow up with no place in the world. One balanced pattern from older agrarian memory allows ordinary buying, selling, and leasing, then on a long cycle of about forty-nine years restores baseline inheritances and clears crushing personal debts of that kind, so flexibility does not harden into multi-generational dispossession. How any place arranges this will differ. The principle is simple: economic room to move without permanent exile from the means of living. This layer is **not required** for the ten rules. Use it only where consent is real and no new controlling center is created.
 
-Common fakes: performing generosity while keeping the real levers firmly in hand, or preaching independence while maintaining structures that make independence impossible. Soft control dressed as care is still control. Another fake is imposing a grand property scheme by force and calling the result freedom.
+Common fakes: performing generosity while keeping the real levers firmly in hand, or preaching independence while maintaining structures that make independence impossible. Soft control dressed as care is still control. Another fake is imposing a grand property scheme by force and calling the result freedom. Another is shaming people who still buy from locked supply chains as if survival inside the present system were a moral defect.
 
 Diagnostic question: What ordinary needs in my household or community currently require ongoing submission to a single person or office? What would reduce that dependence without creating a new one?
 
@@ -310,13 +312,37 @@ See also: Matthew 23:8–12; 1 Corinthians 12:21–25.
 
 Give it away without the string. When possible, release tools, knowledge, and patterns in forms that cannot be easily recaptured or turned into new leverage. The gift that cannot be revoked is one of the few that reliably builds trust. When you remove the claim, you also remove one of the things people fight over.
 
-In a household this can be as simple as sharing skills without turning them into ongoing debt. In a community it means preferring open methods and reproducible patterns over proprietary control of necessary knowledge. Useful production in repair order tends to be more distributed and local than centralized and locked: many hands can copy the pattern; no single office owns the right to live.
+**Ideas rarely arrive alone.** Useful patterns usually appear when shared need meets shared tools and shared prior work. Many people can meet the same problem in the same season. Treating a single “aha” as permanent private control over everything built on it gives too much credit to one holder and too much harm to everyone else. Repair order prefers open patterns: others can use, copy, fix, and improve without asking a gatekeeper for permission at every step.
 
-Common fakes: “sharing” while retaining the real keys, or using openness itself as a new form of moral status.
+**What “open” means here (principle).**  
+- A method or design others can actually follow without you in the room.  
+- Teaching and documentation, not only a finished product that still depends on you.  
+- Preference for things that can be repaired and maintained rather than locked against the user.  
+- Patterns that can travel household to household the way these children’s books and this guide are meant to travel.
 
-Diagnostic question: What useful knowledge or capacity am I currently holding in a form that keeps others dependent on me?
+| Knowledge as ranking | Knowledge as repair |
+| --- | --- |
+| Access by personal permission and ongoing dependence | Access by a usable pattern |
+| Independent making discouraged | Independent making welcomed |
+| Fixing what you have is blocked or shamed | Repair is normal |
+| Improvement needs the original holder’s favor | Improvement can happen anywhere the need is felt |
 
-Seven-day experiment: Choose one practical skill or piece of knowledge you possess. Document or teach it in a form that others can use without further reference to you.
+**Ideal and present tense.** Full open sharing of every useful design, and widespread local making from open patterns, is a direction—not what most people can do for most things right now. Livelihoods, employers, supply chains, and family obligations often require closed work. That is ordinary life under the current weather, not proof of bad faith. The rule is: open what you *can* without wrecking those you are responsible to feed; prefer openness when the choice is real; refuse to turn locked knowledge into a weapon of status when you have room to share. Do not demand that others open what would cost them their standing or safety. Do not use “open” as a purity contest.
+
+**Ordinary examples (scale to what you have).**  
+- A recipe, lesson plan, garden layout, or repair note left free to copy.  
+- Showing a neighbor how to fix something instead of only doing it for them once.  
+- A tool library or shared shop with plain written how-tos.  
+- Preferring fixable goods when you have a real choice.  
+- This book and the children’s books released to be copied, translated, and adapted.
+
+In a household this can be as simple as sharing skills without turning them into ongoing debt. In a community it means preferring open methods and reproducible patterns over proprietary control of necessary knowledge—whenever that preference is honestly available. Useful production in repair order tends, over time, toward more distributed and local capacity: many hands can copy the pattern; no single office owns the right to live. Getting there is uneven and slow. Start with what is already yours to give.
+
+Common fakes: “sharing” while retaining the real keys; using openness itself as a new form of moral status; demanding others open their work while you keep yours closed; shaming people stuck in closed systems as if they had free exit.
+
+Diagnostic question: What useful knowledge or capacity am I currently holding in a form that keeps others dependent on me—and is there one piece I could open without harming those I am bound to care for?
+
+Seven-day experiment: Choose one practical skill or piece of knowledge you possess and can safely share. Document or teach it in a form that others can use without further reference to you.
 
 See also: Matthew 10:8; 2 Corinthians 9:6–9.
 
@@ -625,6 +651,7 @@ Useful indicators that diffusion is happening healthily:
 - Someone who never met the original person can explain a rule accurately enough to use it.
 - Mutual aid grows shared capacity (the pie) more than it grows anyone’s relative status share.
 - Economic and practical leverage over neighbors is slightly harder to exercise than before.
+- Open how-tos, repair skill, and copyable patterns circulate without a single gatekeeper—without shaming those still dependent on closed systems.
 - Clusters that share deeper norms do so by clear voluntary agreement, with exit that does not become a hunt.
 
 Useful indicators that the work is being distorted:
@@ -673,7 +700,7 @@ Public conflicts also attract people who enjoy the drama of moral ranking. The d
 - Speak to the smallest true audience first. Do not widen the circle for allies until safety or logistics require it.
 - Separate the incident from the person’s entire history unless the history is the ongoing harm.
 - Refuse anonymous pile-ons. If someone will not put a name and a specific claim to a charge, it is not yet usable material for repair.
-- Document agreements in plain language when money, children, or shared property are involved: not as legal theater by default, but as shared memory that reduces later rewriting.
+- Document agreements in plain language when money, children, or shared property are involved: not as performance theater by default, but as shared memory that reduces later rewriting.
 - After a public repair, do not keep replaying the injury as entertainment. The community’s job is to let the repair hold, not to keep the scandal warm.
 
 When a conflict involves multiple stakeholders and a decision must be reached, the Planner–Reviewer–Approver pattern (section 5) provides a structured way to keep power distributed and consent real rather than coerced.
@@ -1011,6 +1038,9 @@ The concrete work of acknowledging specific harm, protecting the injured party, 
 
 **Node**  
 A person or household that participates as a peer rather than as a permanent center. Nodes form constellations; stars form solar systems with dependents.
+
+**Open pattern**  
+A method, design, or teaching others can use, copy, fix, and improve without ongoing dependence on the original holder. An ideal of Rule 7; often only partly available in present life. Not a purity test against people whose livelihood still requires closed work.
 
 **Peer standing**  
 Equality of basic worth and consent among adults. Roles and skills differ; no human office owns another person’s agency. Repair order assumes peer standing; ranking order denies it.
