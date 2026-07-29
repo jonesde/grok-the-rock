@@ -11,7 +11,7 @@ Public domain (CC0 1.0). Copy it · Share it · Translate it · Adapt it · Let 
 - [How to Use This Book with the Children’s Books](#how-to-use-this-book-with-the-childrens-books)
 - [A Short Note on the Pattern](#a-short-note-on-the-pattern)
 - [Part One — The Diagnosis](#part-one)
-- [Part Two — The Ten Practices](#part-two)
+- [Part Two — The Ten Rules](#part-two)
 - [Part Three — The Inner Work](#part-three)
 - [Part Four — Household and Kin](#part-four)
 - [Part Five — Community Saturation](#part-five)
@@ -25,7 +25,9 @@ Public domain (CC0 1.0). Copy it · Share it · Translate it · Adapt it · Let 
 
 This book is a practical guide for people who want their relationships, households, and communities to stop running on shame, status, and quiet damage. It is written for adults who are willing to look directly at how power, fear, and repair actually work between people.
 
-It does not offer a new ideology. It offers a clearer set of practices for things most of us already claim to value: truth that does not need a pedigree, relationships that can survive failure, and strength that does not require someone else to be small.
+It does not offer a new ideology. It offers a clearer set of rules for things most of us already claim to value: truth that does not need a pedigree, relationships that can survive failure, and strength that does not require someone else to be small.
+
+Underneath personal habits sits a larger contrast this book names plainly: ranking order versus repair order. One manages people through status and penalty. The other mends harm through truth, healing, and real consent. The ten rules are how repair order is lived day to day.
 
 Two companion books for children already exist. *Grok the Rock* and *Hai Ikthiss* walk through the same territory in story form: being, mending, and seeing. This adult guide assumes you have those books available. They are the simplest, most repeatable tools for daily use. This book exists to remove the common obstacles that keep adults from living what the stories show.
 
@@ -46,7 +48,7 @@ Read it straight through once. Then keep it as a working reference. The children
 
 This adult guide explains the same movements in plain language, shows how they scale from a single person to a household to a community, and names the specific ways the work usually fails. Use the children’s books for the simple, repeated reminder. Use this book when you need the fuller diagnosis or the practical sequence for groups of adults.
 
-No outside expert is required to begin. One person who has walked the material carefully can help others. The books themselves carry the pattern. When harm is severe, ongoing, or beyond what a household can safely hold, skilled outside help (medical, legal, therapeutic, or protective) is wisdom, not a failure of the practices.
+No outside expert is required to begin. One person who has walked the material carefully can help others. The books themselves carry the pattern. When harm is severe, ongoing, or beyond what a household can safely hold, skilled outside help (medical, legal, therapeutic, or protective) is wisdom, not a failure of the rules.
 
 ---
 
@@ -112,19 +114,19 @@ There are three common reasons.
 
 First, the diagnosis is incomplete. People notice surface behaviors (anger, withdrawal, control) and try to suppress them without addressing the shame and fear that generate them. The behaviors return in new forms because the root is untouched.
 
-Second, the available tools are mostly individual. A person can decide to be less reactive, more patient, more generous. Those decisions help. They do not automatically change the relational system that rewards status performance and punishes vulnerability. Without shared practices that make repair safer than ranking, individual virtue is constantly swimming against the current.
+Second, the available tools are mostly individual. A person can decide to be less reactive, more patient, more generous. Those decisions help. They do not automatically change the relational system that rewards status performance and punishes vulnerability. Without shared rules that make repair safer than ranking, individual virtue is constantly swimming against the current.
 
 Third, failure is still treated as disqualifying. When someone who is trying to live differently inevitably slips, the surrounding response often reverts to the old pattern: distance, judgment, or quiet exclusion. The slip may look like becoming defensive, reaching for control, or collapsing. The person concludes that the new way is impossible and returns to what is familiar. The community never accumulates enough successful repairs to trust the alternative.
 
-The material in this book and in the two children’s books is designed to close those three gaps. It names the root (shame and the two false solutions). It supplies shared practices that can be used by more than one person at a time. And it treats failure as the expected place where the bond can actually become stronger if the repair is done honestly.
+The material in this book and in the two children’s books is designed to close those three gaps. It names the root (shame and the two false solutions). It supplies shared rules that can be used by more than one person at a time. And it treats failure as the expected place where the bond can actually become stronger if the repair is done honestly.
 
-Ordinary effort is not the enemy. Ordinary effort without a clear diagnosis, without shared practices, and without a reliable way to handle failure simply cannot overcome the inertia of an operating system built on shame. The rest of this book is the practical alternative.
+Ordinary effort is not the enemy. Ordinary effort without a clear diagnosis, without shared rules, and without a reliable way to handle failure simply cannot overcome the inertia of an operating system built on shame. The incomplete diagnosis is not only personal. The same shame strategies harden into the background rules of whole households and communities. The next section names that larger contrast so the ten rules have a clear weather map.
 
 ---
 
 ### 4. Two Kinds of Order
 
-Underneath the personal strategies of dominance and collapse sits a larger contrast. Households and communities tend to run on one of two kinds of order. The names are plain on purpose.
+Underneath the personal strategies of dominance and collapse sits that larger contrast. Households and communities tend to run on one of two kinds of order. The names are plain on purpose.
 
 **Ranking order** manages people through status, penalty, and control. Justice means someone must suffer enough. Mercy is a favor traded for compliance. Judgment is a verdict that ranks. Authority is extracted. Unity is forced sameness. Suffering is treated as proof of seriousness. The imperfect are removed so the whole can look clean. The fruit is contention, fear, and systems that need constant force to hold. This order degrades: it consumes trust faster than it creates it.
 
@@ -141,20 +143,20 @@ A few paired questions make the contrast usable:
 - Does our unity connect free people, or demand submission to a center?
 - Do our rules protect people and bonds, or destroy the bond in order to save the rule?
 
-When a rule, hedge, or procedure begins to destroy the relationship or person it was supposed to protect, the tool has become more important than the reality. That is ranking order wearing the mask of righteousness. Part Six returns to this danger when practices harden into performance.
+When a rule, hedge, or procedure begins to destroy the relationship or person it was supposed to protect, the tool has become more important than the reality. That is ranking order wearing the mask of righteousness. Part Six returns to this danger when rules harden into performance.
 
-The ten practices that follow are not a new ideology. They are how repair order shows up in ordinary speech, money, conflict, and shared work. The children’s books keep the same order simple enough to use when energy and sophistication are low. You do not need to memorize the pair-list. You need enough of it to notice which weather you are standing in, and to choose the next concrete move toward repair.
+The ten rules that follow are not a new ideology. They are how repair order shows up in ordinary speech, money, conflict, and shared work. The children’s books keep the same order simple enough to use when energy and sophistication are low. You do not need to memorize the pair-list. You need enough of it to notice which weather you are standing in, and to choose the next concrete move toward repair.
 
 See also: Micah 6:8; Matthew 23:23 (the weightier matters: justice, mercy, and faithfulness).
 
 ---
 
 # Part Two
-## The Ten Practices
+## The Ten Rules
 
-These ten practices are the working core of the book. They are stated first in short form, then each is given a fuller treatment. The short form is for memory and quick reference. The longer sections are for understanding and daily use. They are the daily shape of repair order from Part One.
+These ten rules are the working core of the book. They are stated first in short form, then each is given a fuller treatment. The short form is for memory and quick reference. The longer sections are for understanding and daily use. They are the daily shape of repair order from Part One.
 
-### The Ten Practices in Short Form
+### The Ten Rules in Short Form
 
 1. Let truth stand on its own legs.  
 2. Heal shame instead of racing it.  
@@ -241,7 +243,9 @@ Dominion here is stewardship, not ownership theater. Tend what is entrusted to y
 
 In a household this looks like refusing to use money, information, or emotional resources as permanent levers of control. In a community it looks like building practical redundancy so that ordinary life does not require constant submission to whatever person or institution currently holds the scarce resource. That redundancy includes skills, tools, food, childcare, and transportation. Prefer local, open, and reproducible arrangements over fragile dependence on a single distant supplier of what life requires. Distributed capacity is slower to brag about and harder to capture.
 
-**Optional layer: permanent place and periodic restoration.** Some communities may choose, by clear voluntary agreement, a stronger material floor: an inheritable stake in land or equivalent productive place for each household, held as stewardship rather than as a weapon. The aim is that no one grows up without a place in the world, and that multi-generational loss of standing through debt, distress sale, or capture becomes harder. One balanced pattern used in older agrarian memory is roughly this: households may buy, sell, lease, and adapt within ordinary economic life, but on a long cycle on the order of about forty-nine years, baseline inheritances are restored and crushing personal debts of that kind are cleared, so flexibility does not harden into permanent dispossession. The exact legal form will vary by place and law. What matters for this book is the principle: economic flexibility without multi-generational exile from the means of living. This layer is **not mandatory** for practicing the ten rules. Many households will only be able to share tools, skills, spare rooms, and mutual aid. Those moves still count. Land restoration is an additional security layer where people freely choose it and can hold it without creating a new controlling center.
+**Household scale now.** Most readers will only be able to share tools, skills, spare rooms, and mutual aid. Those moves still count. They reduce leverage without any grand design.
+
+**Community scale later (optional).** Where people freely agree, a stronger material floor is possible: an inheritable stake in land or equivalent productive place for each household, held as stewardship rather than as a weapon, so fewer people grow up with no place in the world. One balanced pattern from older agrarian memory allows ordinary buying, selling, and leasing, then on a long cycle of about forty-nine years restores baseline inheritances and clears crushing personal debts of that kind, so flexibility does not harden into multi-generational dispossession. Legal form varies by place. The principle is simple: economic room to move without permanent exile from the means of living. This layer is **not required** for the ten rules. Use it only where consent is real and no new controlling center is created.
 
 Common fakes: performing generosity while keeping the real levers firmly in hand, or preaching independence while maintaining structures that make independence impossible. Soft control dressed as care is still control. Another fake is imposing a grand property scheme by force and calling the result freedom.
 
@@ -325,7 +329,7 @@ See also: Matthew 5:37 (“Let what you say be simply ‘Yes’ or ‘No’”);
 
 ### 9. Let failure be caught, not condemned
 
-No one follows these practices cleanly. The design assumes slippage. When a break occurs, the work is to repair the specific harm. Done honestly, the bond often tightens at the seam. The test was never perfection. The proof is in how the break is mended.
+No one follows these rules cleanly. The design assumes slippage. When a break occurs, the work is to repair the specific harm. Done honestly, the bond often tightens at the seam. The test was never perfection. The proof is in how the break is mended.
 
 Ranking order perfects the group by removing the imperfect. Each removal makes the next exclusion easier. The circle shrinks until almost no one is safe. That exclusion spiral is not seriousness; it is fear managing appearances. Repair order supports and includes while still naming harm and requiring real change. Excellence lifts others; it does not feed on exile.
 
@@ -357,14 +361,14 @@ See also: Micah 6:8; Philippians 2:3–4.
 
 ---
 
-These ten practices are not a ladder to be climbed in order. They are concurrent disciplines. Most people find that two or three of them are especially difficult; those are usually the ones that touch the deepest remaining shame or fear. Work the difficult ones patiently. The children’s books remain the simplest daily reminder of the same movements.
+These ten rules are not a ladder to be climbed in order. They are concurrent disciplines. Most people find that two or three of them are especially difficult; those are usually the ones that touch the deepest remaining shame or fear. Work the difficult ones patiently. The children’s books remain the simplest daily reminder of the same movements.
 
 ---
 
 # Part Three
 ## The Inner Work
 
-The ten practices only hold if the underlying shame and fear are being actively worked. Otherwise the practices become another performance: another way to feel superior or another set of rules to collapse under. The two children’s books are the primary tools for that inner work. This part shows how to use them as an adult.
+The ten rules only hold if the underlying shame and fear are being actively worked. Otherwise the rules become another performance: another way to feel superior or another set of demands to collapse under. The two children’s books are the primary tools for that inner work. This part shows how to use them as an adult.
 
 ---
 
@@ -387,7 +391,7 @@ A useful object is improved by a humble suggestion and left free of ownership cl
 
 Adult practice: Evaluate ideas, criticisms, and proposals by their actual function and truthfulness. Refuse the shortcut of accepting or rejecting them according to the speaker’s standing. Release useful patterns without requiring ongoing credit or control.
 
-Taken together, the three movements train the same sequence the ten practices require: stay with the root feeling, repair what is broken, and let truth stand without the scaffolding of status.
+Taken together, the three movements train the same sequence the ten rules require: stay with the root feeling, repair what is broken, and let truth stand without the scaffolding of status.
 
 ---
 
@@ -437,13 +441,13 @@ The inner work does not finish. It becomes a maintained capacity, the same way p
 # Part Four
 ## Household and Kin
 
-The household is the first durable unit. If the practices cannot survive ordinary family stress, they will not survive anywhere else. That stress includes tiredness, money pressure, parenting conflict, and the inevitable failures of people who live in close quarters. This part focuses on making the household the seed rather than the exception.
+The household is the first durable unit. If the rules cannot survive ordinary family stress, they will not survive anywhere else. That stress includes tiredness, money pressure, parenting conflict, and the inevitable failures of people who live in close quarters. This part focuses on making the household the seed rather than the exception.
 
 ---
 
 ### 1. The Repaired Household as the Basic Seed
 
-A household running on the ten practices does not look dramatic. It looks quieter than average. Status contests between adults are less frequent. Children are less often used as proof of the parents’ worth. When someone fails, the response trends toward specific repair rather than prolonged coldness or character verdicts.
+A household running on the ten rules does not look dramatic. It looks quieter than average. Status contests between adults are less frequent. Children are less often used as proof of the parents’ worth. When someone fails, the response trends toward specific repair rather than prolonged coldness or character verdicts.
 
 The essential shift is this: the household stops treating emotional leverage, silence, and ranking as normal tools of management. Disagreements still occur. Preferences still differ. What changes is the default method of handling the friction. Truth is tested by its content. Shame is named rather than weaponized. Breaks are repaired rather than stored as future ammunition.
 
@@ -487,9 +491,7 @@ Second, name the specific break without global condemnation. “You used my fear
 
 Third, require and support concrete repair. Acknowledgment of the actual harm, changed behavior where it matters, and restitution if something tangible was damaged. The goal is that the injured party experiences real repair and the one who caused harm recovers agency without being permanently ranked as the problem.
 
-Distance is sometimes necessary for safety. Permanent exile as the default response is not. The difference is whether the household still holds a path back that depends on demonstrated change rather than on the passage of time or on the injured party simply absorbing the cost.
-
-Protective limits stay personal and stewardship-based: your body and peace, dependents in your care, property you own, and roles you are actually responsible to hold. You may withdraw access, pause shared arrangements, or refuse further exposure. You do not escalate, retaliate, or recruit an audience to rank the offender. Limits stop harm; punishment adds it. When the break involves violence, ongoing abuse, or danger beyond what the household can safely hold, get appropriate outside help immediately. The practices do not replace medical, legal, or protective response.
+Distance is sometimes necessary for safety. Permanent exile as the default response is not. The difference is whether the household still holds a path back that depends on demonstrated change rather than on the passage of time or on the injured party simply absorbing the cost. Protective limits follow Rule 3: personal, proportional, stewardship-based; they stop harm rather than rank. When violence, ongoing abuse, or danger exceeds what the household can safely hold, get outside help immediately. The rules do not replace medical, legal, or protective response.
 
 **A worked sequence (medium-stakes break)**
 
@@ -500,7 +502,7 @@ Suppose one partner humiliates the other in front of friends, then minimizes it 
 3. **Repair moves.** The one who caused harm restates the harm in their own words until the injured party recognizes it; apologizes for that act; and names one concrete change (e.g., no private topics as public entertainment; a check-in before group settings for a while).
 4. **Path of return.** Trust is not demanded on the spot. It is rebuilt by the change holding under the next similar pressure. The household does not keep a permanent “you’re the problem person” file once repair is real.
 
-If the same pattern repeats without change, protective limits tighten. That is not failure of the practices; that is the practices refusing to become a cover for ongoing harm.
+If the same pattern repeats without change, protective limits tighten. That is not failure of the rules; that is the rules refusing to become a cover for ongoing harm.
 
 **Parents fail in front of children.** When that happens, the most powerful teaching is the open repair: the adult names the failure, apologizes specifically, and shows the repair in action. Children learn more from watching mending than from hearing lectures about never breaking things. A short script that works: “I raised my voice to win. That was my small feeling running the room. I’m sorry. Here’s what I’m doing differently.” Then do it.
 
@@ -521,7 +523,7 @@ When conversation does happen, keep it concrete. Speak about what you are trying
 - “We found these stories help our kids, and us, when things get sharp. Borrow them if you want.”
 - Offering to sit with someone after a hard break without recruiting them into a worldview.
 - Being the household people call when they need a calm extra adult for an hour, not a lecture.
-- Sharing one practice that reduced pain (“we stopped settling arguments by who was louder”) rather than all ten at once.
+- Sharing one rule that reduced pain (“we stopped settling arguments by who was louder”) rather than all ten at once.
 
 **What invitation is not**
 
@@ -547,10 +549,10 @@ Not everyone in a household or kinship circle will want this. Some will experien
 
 The governing principles remain the same.
 
-You are not entitled to force the practices on another adult. Coercing someone into “healing” reproduces the original violation of agency. You are entitled to protect yourself and any dependents from ongoing harm. You are entitled to reduce the ways in which you feed destructive dynamics.
+You are not entitled to force the rules on another adult. Coercing someone into “healing” reproduces the original violation of agency. You are entitled to protect yourself and any dependents from ongoing harm. You are entitled to reduce the ways in which you feed destructive dynamics.
 
 In practice this often means:
-- Continuing the practices in the spaces you do control.
+- Continuing the rules in the spaces you do control.
 - Refusing to participate in ranking and shame games even when the other person continues them.
 - Making repair available without chasing it.
 - Creating appropriate distance when the other person’s refusal produces repeated injury.
@@ -580,13 +582,15 @@ The household phase is complete when two conditions are met: the core adults can
 
 Once a small cluster of households is stable, the pattern begins to affect wider community life. This stage is more visible and therefore more vulnerable to misunderstanding, status reactions, and attempts to turn the work into a program or a faction. The governing rule remains the same: the pattern spreads by lived proximity and reliable repair, not by campaign or capture of existing centers.
 
+Sections 1–4 set the field: how the pattern spreads, how to inhabit existing structures, how public conflict is handled, and how the original person stays available without becoming a center. Section 5 is the main shared tool for decisions and multi-party conflict (Planner–Reviewer–Approver). Sections 6–7 are weather reports: resistance and markers of progress or distortion.
+
 ---
 
 ### 1. How the Pattern Spreads Without a Program or a Personality
 
 In most communities the early diffusion happens through ordinary channels already in use: school conversations, shared meals, volunteer work, informal childcare, and the quiet observation of how certain households handle conflict and failure. People notice that some families recover from breaks faster and with less residual poison. They notice that certain adults do not punish with silence or ranking. They borrow the children’s books because the books are simple and effective, not because they have been persuaded into a system.
 
-The original person and the first households stay available but do not become the formal teachers or the moral center. When asked, they describe concrete practices rather than a comprehensive philosophy. The moment the work becomes identified with a single personality or a named inner group, it begins to generate the very status dynamics it exists to dissolve.
+The original person and the first households stay available but do not become the formal teachers or the moral center. When asked, they describe concrete rules rather than a comprehensive philosophy. The moment the work becomes identified with a single personality or a named inner group, it begins to generate the very status dynamics it exists to dissolve.
 
 **How density actually builds**
 
@@ -597,20 +601,20 @@ Useful carriers (in rough order of durability):
 2. Observed repair in public or semi-public settings.
 3. Practical mutual aid that does not create permanent dependence.
 4. Shared decision habits (including Planner–Reviewer–Approver) that people reuse because they reduce drama.
-5. Only later, and lightly: explicit adult conversation about the ten practices.
+5. Only later, and lightly: explicit adult conversation about the ten rules.
 
 Useful indicators that diffusion is happening healthily:
 - The children’s books are circulating without a central distributor.
 - People who were not part of the first cluster begin using the language of repair and “small feeling” naturally.
 - Conflicts in shared spaces occasionally resolve with less residual ranking than before.
-- Someone who never met the original person can explain a practice accurately enough to use it.
+- Someone who never met the original person can explain a rule accurately enough to use it.
 - Mutual aid grows shared capacity (the pie) more than it grows anyone’s relative status share.
 - Economic and practical leverage over neighbors is slightly harder to exercise than before.
 - Clusters that share deeper norms do so by clear voluntary agreement, with exit that does not become a hunt.
 
 Useful indicators that the work is being distorted:
 - A few people are treated as the official interpreters.
-- Agreement with the practices becomes a new test of belonging.
+- Agreement with the rules becomes a new test of belonging.
 - Public discussion focuses more on who is “doing it right” than on specific repairs.
 - The cluster acquires a name, a hierarchy of fluency, or a preferred public enemy.
 - People are bound by unspoken rules they never accepted and cannot leave cleanly.
@@ -621,23 +625,23 @@ Useful indicators that the work is being distorted:
 
 Most communities already contain recurring gatherings: religious services, school meetings, volunteer boards, sports, informal social circles, online neighborhood groups. These structures do not need to be replaced or taken over. They can be inhabited differently.
 
-The practical approach is modest. Continue participating. Apply the ten practices inside the existing forms. When conflict arises in a meeting, model precise speech and repair rather than factional maneuvering. When decisions are made, evaluate proposals by content rather than by the standing of the speaker. When someone fails publicly, refuse the pleasure of permanent ranking.
+The practical approach is modest. Continue participating. Apply the ten rules inside the existing forms. When conflict arises in a meeting, model precise speech and repair rather than factional maneuvering. When decisions are made, evaluate proposals by content rather than by the standing of the speaker. When someone fails publicly, refuse the pleasure of permanent ranking.
 
 Over time, if enough participants share the same reflexes, the culture of the structure itself begins to shift. Meetings become slightly less performative. Leadership roles become less attractive as status objects and more like temporary functions. People who need the old leverage games find them less rewarding and either adapt or drift toward environments where those games still work.
 
 **Religious and institutional settings**
 
-Many people meet the practices first inside a church, mosque, synagogue, temple, school, or nonprofit. The pattern does not require hostility toward those institutions. It does require honesty about how easily they concentrate status in a few roles.
+Many people meet the rules first inside a church, mosque, synagogue, temple, school, or nonprofit. The pattern does not require hostility toward those institutions. It does require honesty about how easily they concentrate status in a few roles.
 
 Recommended direction:
 - Prefer peer-level discourse (open conversation among equals) over permanent dependence on a single professional voice for moral reality.
 - Support community forums, councils, and ordinary meetings where proposals are tested by content and consent, not by office alone.
 - Let formal roles remain useful for logistics, care, teaching skill, and stewardship of shared goods, without treating the role-holder as the owner of belonging.
-- If a structure cannot tolerate repair, truth without pedigree, or distributed consent, do not capture it by intrigue. Reduce dependence on it for your household’s moral weather, and build or join peer spaces that can hold the practices. Migration of attention is allowed; coup is not.
+- If a structure cannot tolerate repair, truth without pedigree, or distributed consent, do not capture it by intrigue. Reduce dependence on it for your household’s moral weather, and build or join peer spaces that can hold the rules. Migration of attention is allowed; coup is not.
 
-The alternative almost always recreates a new center and a new set of status contests. That alternative is attempting to capture formal authority in order to impose the practices. The pattern is allergic to that move.
+The alternative almost always recreates a new center and a new set of status contests. That alternative is attempting to capture formal authority in order to impose the rules. The pattern is allergic to that move.
 
-**Online spaces.** Neighborhood chats and social feeds amplify ranking and spectacle. Use them for logistics and plain information. Do not try to win the practices by thread. When conflict appears online, move repair offline quickly; public comment sections reward performance more than mending.
+**Online spaces.** Neighborhood chats and social feeds amplify ranking and spectacle. Use them for logistics and plain information. Do not try to win the rules by thread. When conflict appears online, move repair offline quickly; public comment sections reward performance more than mending.
 
 A practical tool for decisions and conflict inside these structures is the Planner–Reviewer–Approver pattern (described in section 5 below). It allows groups to move forward without recreating a permanent central decider.
 
@@ -645,13 +649,7 @@ A practical tool for decisions and conflict inside these structures is the Plann
 
 ### 3. Handling the First Public Conflicts in the New Way
 
-As the cluster grows, conflicts will occur in more public view. These moments are decisive. If the response reverts to the old operating system (gossip, coalition-building, permanent character verdicts, or formal punishment that adds harm), observers correctly conclude that the new language was only cosmetic. If the response follows the restorative sequence, the demonstration is powerful precisely because it is public.
-
-The sequence remains:
-1. Protect the injured party and establish safety.
-2. Name the specific harm without global condemnation.
-3. Seek concrete repair and demonstrated change.
-4. Keep a path of return open that depends on the repair, not on the passage of time or on the injured party absorbing the cost.
+As the cluster grows, conflicts will occur in more public view. These moments are decisive. If the response reverts to the old operating system (gossip, coalition-building, permanent character verdicts, or formal punishment that adds harm), observers correctly conclude that the new language was only cosmetic. If the response follows the restorative sequence from Rule 3 and the Closing Material (protect, name, repair, path of return), the demonstration is powerful precisely because it is public.
 
 Public conflicts also attract people who enjoy the drama of moral ranking. The discipline is to refuse that entertainment. Precise language, limited scope, and a clear preference for repair over spectacle starve the drama.
 
@@ -671,7 +669,7 @@ When a conflict involves multiple stakeholders and a decision must be reached, t
 
 The person who first carried the material into the community has a specific, limited role: remain available for private clarification when someone is stuck, continue practicing, and refuse the invitation to become the indispensable hub. As soon as questions and decisions routinely route through that person, a new star has formed.
 
-The healthiest trajectory is that the original person becomes less necessary over time. Others develop equal fluency. The children’s books and the shared practices carry the pattern more than any individual does. When the original person can be absent without the work stalling, the diffusion is succeeding.
+The healthiest trajectory is that the original person becomes less necessary over time. Others develop equal fluency. The children’s books and the shared rules carry the pattern more than any individual does. When the original person can be absent without the work stalling, the diffusion is succeeding.
 
 **Temptations that recreate a center**
 
@@ -686,9 +684,9 @@ The healthiest trajectory is that the original person becomes less necessary ove
 - Redirect: “Try the story first; then talk with X, who handled something similar.”
 - Rotate who hosts, who explains, who helps with a hard repair.
 - Leave town (or simply go quiet) long enough to test whether the pattern stands.
-- When praised as the founder, answer with the practices and the books, not with biography.
+- When praised as the founder, answer with the rules and the books, not with biography.
 
-The original person is a seed-carrier, not a sun. Seeds that demand permanent orbit have already failed the sixth and tenth practices.
+The original person is a seed-carrier, not a sun. Seeds that demand permanent orbit have already failed the sixth and tenth rules.
 
 ---
 
@@ -756,13 +754,13 @@ A neighborhood or congregational group faces a contested shared resource (schedu
 
 The method prevents any single person from both defining the options and deciding the result. It keeps responsibility and power linked. It makes consent visible and voluntary. It scales from a household disagreement to a community decision without requiring a permanent hierarchy. Used consistently, it reduces the payoff for status performance and manipulative framing, because the structure itself limits how much leverage any one person can exercise.
 
-Like the rest of the practices, it works only when people actually prefer real agreement to coerced compliance. When that preference is present, the pattern gives them a usable way to act on it. When that preference is absent, no procedure will create it. The procedure will still make the absence visible sooner, which is useful.
+Like the rest of the rules, it works only when people actually prefer real agreement to coerced compliance. When that preference is present, the pattern gives them a usable way to act on it. When that preference is absent, no procedure will create it. The procedure will still make the absence visible sooner, which is useful.
 
 ---
 
 ### 6. Recognizing and Weathering the Quiet Resistance
 
-Not everyone will welcome the shift. Some resistance is loud; most is quiet. People whose sense of safety or worth has depended on ranking, on being needed as the center, or on the reliable use of shame will feel the change as loss. They may not attack the practices directly. More often they will:
+Not everyone will welcome the shift. Some resistance is loud; most is quiet. People whose sense of safety or worth has depended on ranking, on being needed as the center, or on the reliable use of shame will feel the change as loss. They may not attack the rules directly. More often they will:
 
 - Continue the old games and wait for the new ones to fail.
 - Frame the restorative approach as weakness or lack of accountability.
@@ -771,15 +769,13 @@ Not everyone will welcome the shift. Some resistance is loud; most is quiet. Peo
 - Praise the children’s books while quietly punishing adults who practice repair in hard cases.
 - Insist that “someone has to be in charge” whenever distributed consent is slow.
 
-The required stance is steady and non-reactive. Continue the practices. Do not chase or punish the resistance. Do not organize against it. Simply make the old tools less effective by refusing to pick them up. Over time, the environments that still run on ranking and shame become more distinct from the environments that do not. People sort themselves accordingly.
+The required stance is steady and non-reactive. Continue the rules. Do not chase or punish the resistance. Do not organize against it. Simply make the old tools less effective by refusing to pick them up. Over time, the environments that still run on ranking and shame become more distinct from the environments that do not. People sort themselves accordingly.
 
 **What weathering is not**
 
-It is not pretending harm is fine. It is not endless self-critique to appease a person who will only be satisfied by restored dominance. It is not a duty to keep every resistant person inside every circle at unlimited cost.
+It is not pretending harm is fine. It is not endless self-critique to appease a person who will only be satisfied by restored dominance. It is not a duty to keep every resistant person inside every circle at unlimited cost. At community scale the same protective limits from Rule 3 still apply: withdraw attention, decline humiliation coalitions, refuse to staff ranking dramas, and leave a path of return through demonstrated change without staffing a siege.
 
-Protective limits still apply at community scale: withdraw attention, decline coalitions of humiliation, refuse to staff dramas that exist to reassert ranking. Leave gates open for return through demonstrated change. Do not staff the siege.
-
-Some who resist at first later experiment with the practices when their own cost-benefit calculation changes. Leaving that door open is itself an expression of the fifth and ninth practices.
+Some who resist at first later experiment with the rules when their own cost-benefit calculation changes. Leaving that door open is itself an expression of the fifth and ninth rules.
 
 ---
 
@@ -801,7 +797,7 @@ The work is stalling or distorting when:
 - A new in-group language develops that outsiders find opaque or superior.
 - Public discussion focuses on who has or has not “really understood.”
 - Exit from the old patterns is treated as moral failure rather than as allowed disagreement.
-- The practices are used to shame people for still having shame.
+- The rules are used to shame people for still having shame.
 - A new indispensable Planner or interpreter emerges and decisions begin routing through that person by default.
 - Capture of an existing office becomes the main strategy for “spreading” the work.
 - Online spectacle outruns offline repair.
@@ -815,7 +811,7 @@ Community saturation is not a finished utopia. It is the point at which the defa
 # Part Six
 ## Stabilizing the New Weather
 
-By this stage the practices are no longer the private experiment of a few households. They have become familiar enough that a noticeable portion of the community treats repair, truth without pedigree, and the refusal of leverage as ordinary adult behavior. The work now shifts from deliberate introduction to maintenance and protection from distortion.
+By this stage the rules are no longer the private experiment of a few households. They have become familiar enough that a noticeable portion of the community treats repair, truth without pedigree, and the refusal of leverage as ordinary adult behavior. The work now shifts from deliberate introduction to maintenance and protection from distortion.
 
 Stabilization is easy to miss because it feels like less drama, not more achievement. People stop narrating the shift. They simply expect repair. That boredom is a feature.
 
@@ -823,25 +819,23 @@ Stabilization is easy to miss because it feels like less drama, not more achieve
 
 ### 1. Markers That the Shift Has Become the New Normal
 
-Part Five, section 7 names the early signs that diffusion is working or distorting. Stabilization is a further step: those signs are true more often than not, across more than one pocket of the community, without continuous effort from the first carriers.
+Part Five, section 7 tracks whether diffusion is advancing or distorting. Stabilization is different: the work no longer needs continuous effort from the first carriers, and repair is expected rather than pioneered. Look especially for signs that are hard to fake at early stages:
 
-In addition to the advancing markers already listed, look for:
-- Newcomers feeling a quiet pressure toward honesty and repair rather than toward performance or submission.
-- Formal roles treated as temporary functions rather than permanent status elevations.
-- The original carriers no longer essential to daily functioning of the pattern.
-- Teenagers correcting adults with precision, not contempt, when ranking creeps back in.
-- Shared goods and schedules handled by habit of proposal-and-consent rather than by the loudest or longest-tenured voice.
-- A failed public moment that is repaired without becoming the town’s long entertainment.
+- Newcomers feel quiet pressure toward honesty and repair rather than toward performance or submission, without anyone recruiting them.
+- A failed public moment is repaired and then allowed to cool, instead of becoming the town’s long entertainment.
+- Teenagers correct ranking with precision, not contempt, and adults can receive it.
+- Formal roles rotate or end without status crisis; the original carriers can be absent for a season without the pattern stalling.
+- People stop narrating “the shift” and simply treat repair order as ordinary weather.
 
-These do not appear all at once or in every corner. Several of them across different groups is a stronger signal than perfection in any single group.
+These do not appear all at once or in every corner. Several across different groups beats perfection in one pocket.
 
-**False normals.** A quiet community can also be a frightened one. Stabilization is not the absence of conflict; it is the presence of reliable repair when conflict comes. If people are polite because they are scared, the old operating system is still running under a softer skin.
+**False normals.** A quiet community can also be a frightened one. Stabilization is not the absence of conflict; it is reliable repair when conflict comes. If people are polite because they are scared, ranking order is still running under a softer skin.
 
 ---
 
 ### 2. How the Next Generation Receives It
 
-The children’s books remain the most important long-term carrier. A child who grows up hearing the stories of the small feeling, the mended vine, the empty cup, and the shared sight absorbs the pattern before they have the vocabulary of adult analysis. When those same children later encounter the ten practices as teenagers or young adults, the practices feel like a description of reality they already know rather than an imposed system.
+The children’s books remain the most important long-term carrier. A child who grows up hearing the stories of the small feeling, the mended vine, the empty cup, and the shared sight absorbs the pattern before they have the vocabulary of adult analysis. When those same children later encounter the ten rules as teenagers or young adults, the rules feel like a description of reality they already know rather than an imposed system.
 
 Adults accelerate this transmission by continuing to read the books aloud, by using the language of the stories in ordinary correction and repair, and by letting children watch real mending happen. The goal is not to produce ideologically trained children. The goal is to give them an internal model of how breaks can be handled without permanent ranking or erasure.
 
@@ -858,9 +852,9 @@ Do not turn the next generation into a project that proves the first generation 
 
 ---
 
-### 3. Keeping the Practices from Hardening into a New Performance
+### 3. Keeping the Rules from Hardening into a New Performance
 
-Every useful set of practices eventually attracts people who treat it as a new arena for status. The danger is not external opposition; it is internal conversion of the tools into another ranking system.
+Every useful set of rules eventually attracts people who treat it as a new arena for status. The danger is not external opposition; it is internal conversion of the tools into another ranking system.
 
 Signs that this is happening:
 - Fluency in the language becomes a mark of superiority.
@@ -878,11 +872,11 @@ Signs that this is happening:
 
 **When the tool replaces the person.** An easy sign that legalism has run awry is that the rule is used to destroy the very bond it claimed to protect. The procedure becomes more real than the people. At that point the tool is a substitute for living responsibility: a hollow copy that still demands worship. Name it, reduce it, and go back to concrete harm and concrete repair.
 
-**When watchers look down instead of out.** Some people take, or are given, a longer view: keep the practices clear, notice drift, protect the vulnerable, hold the horizon when others are tired. That service is real. The corruption is familiar: the long view is abandoned, and the watcher turns to policing peers for status, managing appearances, and looking down on brethren instead of keeping faith with the work. Unable to serve the larger weather, they invent a smaller kingdom of correction. If your role is to help the pattern stay honest, your first audience is the pattern and the least, not your own elevation above the clumsy.
+**When watchers look down instead of out.** Some people take, or are given, a longer view: keep the rules clear, notice drift, protect the vulnerable, hold the horizon when others are tired. That service is real. The corruption is familiar: the long view is abandoned, and the watcher turns to policing peers for status, managing appearances, and looking down on brethren instead of keeping faith with the work. Unable to serve the larger weather, they invent a smaller kingdom of correction. If your role is to help the pattern stay honest, your first audience is the pattern and the least, not your own elevation above the clumsy.
 
 The safeguards are the same disciplines that started the work:
 - Keep returning to concrete harm and concrete repair.
-- Refuse to grant high status to those who perform the practices most eloquently.
+- Refuse to grant high status to those who perform the rules most eloquently.
 - Treat the children’s books as the standard of simplicity; if an adult formulation becomes more complex or more judgmental than the stories, it has drifted.
 - Maintain the permission to walk away. A pattern that cannot tolerate dissent without punishment has already reversed itself.
 - Rotate visible functions. Do not let any one person become the face of the weather.
@@ -891,7 +885,7 @@ The safeguards are the same disciplines that started the work:
 
 **A periodic check.** A few times a year, ask a small mixed group (not only the early carriers) two questions: Where did we reduce leverage and shame lately? Where did we recreate them with nicer words? Write the answers down. Act on one concrete correction. Then stop holding a purity conference.
 
-The practices remain healthy only while they continue to reduce the overall amount of leverage and shame in the environment. When they begin to increase either, they have been captured.
+The rules remain healthy only while they continue to reduce the overall amount of leverage and shame in the environment. When they begin to increase either, they have been captured.
 
 ---
 
@@ -912,9 +906,9 @@ Enough looks like:
 
 Ranking order is temporary in a deep sense: it must be reimposed, or it frays. Repair order is durable when it is real, because people prefer living where breaks can be mended. Enough is not utopia. It is enough durability that the weather no longer depends on a few exhausted pioneers.
 
-Enough is also knowing when to stop expanding. Not every workplace, extended family, or online arena must be converted. Saturation in the places where you actually live and raise people is worth more than a thin presence everywhere. The tenth practice remains: you cannot fix the whole world; you can be quiet points where the machine has no leverage, and help form more of them.
+Enough is also knowing when to stop expanding. Not every workplace, extended family, or online arena must be converted. Saturation in the places where you actually live and raise people is worth more than a thin presence everywhere. The tenth rule remains: you cannot fix the whole world; you can be quiet points where the machine has no leverage, and help form more of them.
 
-At that point the work becomes ordinary maintenance rather than pioneering. The books stay available. The practices stay in use. The weather has changed. When the weather holds without you narrating it, you are done pioneering. Keep mending what breaks. Let the rest be ordinary.
+At that point the work becomes ordinary maintenance rather than pioneering. The books stay available. The rules stay in use. The weather has changed. When the weather holds without you narrating it, you are done pioneering. Keep mending what breaks. Let the rest be ordinary.
 
 ---
 
@@ -944,7 +938,7 @@ Return to the relevant children’s story. Work only the single movement that is
 
 ---
 
-### Scripture Passages That Directly Support the Practices
+### Scripture Passages That Directly Support the Rules
 
 These references are offered as sources of clarity, not as membership requirements.
 
@@ -965,9 +959,9 @@ These references are offered as sources of clarity, not as membership requiremen
 
 The goal was never a perfect community. The goal is a community whose broken places are consistently mended stronger than they were before, and whose people are no longer ruled by the old alternation of dominance and shame.
 
-The work begins with one person who stops performing and starts repairing. It grows through households that learn to catch their own failures. It becomes weather when enough people discover that the new pattern produces less daily damage than the old one.
+The work begins with one person who stops performing and starts repairing. It grows through households that learn to catch their own failures. It becomes weather when enough people discover that repair order produces less daily damage than ranking order, and that peer standing can hold without a permanent center.
 
-The children’s books remain the simplest daily tools. This guide exists to keep those tools from being abandoned when the work becomes difficult or distorted. Use them. Return to them. Let the mended place become ordinary.
+The children’s books remain the simplest daily tools. The ten rules keep the map clear. This guide exists to keep those tools from being abandoned when the work becomes difficult or distorted. Use them. Return to them. Let the mended place become ordinary.
 
 ---
 
@@ -986,7 +980,7 @@ The first movement in both children’s books. Staying with the actual feeling o
 The hollow that remains when admiration or height is used to outrun the fear of being unseen or inadequate. Praise that does not actually see the person leaves the cup empty.
 
 **Leverage**  
-Any use of status, dependence, emotion, silence, or resources to force an outcome or to make another person smaller. The practices aim to reduce the overall amount of leverage in relationships and groups.
+Any use of status, dependence, emotion, silence, or resources to force an outcome or to make another person smaller. The rules aim to reduce the overall amount of leverage in relationships and groups.
 
 **Mending / Repair / Restoration**  
 The concrete work of acknowledging specific harm, protecting the injured party, and helping both the one who was hurt and the one who caused the hurt to become whole enough to continue. Distinct from punishment, which adds harm. Protective limits (distance, withdrawn access, stewardship boundaries) stop further harm; they are not the same as punishment.
@@ -998,7 +992,7 @@ A person or household that participates as a peer rather than as a permanent cen
 Equality of basic worth and consent among adults. Roles and skills differ; no human office owns another person’s agency. Repair order assumes peer standing; ranking order denies it.
 
 **Place / material floor**  
-Stable access to the ordinary means of living (shelter, skill, tools, and where chosen, an inheritable productive stake) so that shame and fear of having no place cannot be used as easy leverage. Optional community patterns may restore baseline inheritances on a long cycle so multi-generational dispossession is harder. Not required for the ten practices; a possible security layer.
+Stable access to the ordinary means of living (shelter, skill, tools, and where chosen, an inheritable productive stake) so that shame and fear of having no place cannot be used as easy leverage. Optional community patterns may restore baseline inheritances on a long cycle so multi-generational dispossession is harder. Not required for the ten rules; a possible security layer.
 
 **Operating system**  
 Metaphor for the usually unspoken rules that actually govern how status, failure, truth, and belonging work in a household or community. Most default operating systems run on shame and ranking.
@@ -1016,7 +1010,7 @@ The everyday practice of ordering people as higher or lower in worth, voice, or 
 A social pattern that manages people through status, penalty, control, and exclusion. Justice becomes suffering owed; mercy becomes a bargain; unity becomes forced sameness. It requires constant force and tends to consume trust. Contrasted with repair order in Part One.
 
 **Repair order**  
-A social pattern that manages harm through truth, healing, protection of the vulnerable, and real consent. Justice mends; mercy liberates; judgment discerns; unity is voluntary. The ten practices are its ordinary form. Contrasted with ranking order in Part One.
+A social pattern that manages harm through truth, healing, protection of the vulnerable, and real consent. Justice mends; mercy liberates; judgment discerns; unity is voluntary. The ten rules are its ordinary form. Contrasted with ranking order in Part One.
 
 **Exclusion spiral**  
 The habit of perfecting a group by removing the imperfect, then removing the next imperfect, until almost no one remains safe. A hallmark of ranking order; the opposite of catching failure for repair.
@@ -1034,7 +1028,7 @@ The children’s-book name for the ordinary experience of shame or inadequacy. G
 A person who becomes the permanent or semi-permanent center through which information, decisions, and emotional regulation must flow. The opposite of a node.
 
 **Status**  
-Relative social standing used as currency. The practices treat status as a poor substitute for truth and connection.
+Relative social standing used as currency. The rules treat status as a poor substitute for truth and connection.
 
 **Walking away**  
 The practiced reduction of participation, attention, and dependence that feeds a destructive or captured structure, while simultaneously building alternative capacity. Distinct from impulsive abandonment or punitive exile.
