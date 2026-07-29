@@ -379,50 +379,34 @@ window.I18N.it = {
     "una cosa quieta e gentile. Grok non ha bisogno di mettersi in scena, la vita semplicemente si accumula perché lui " +
     "<em>resta</em>. È l'Essere reso visibile.",
   "about.stranger.title": "Grok la Roccia = Straniero in terra straniera + Grug",
-  "about.stranger.body": "<p>Grok la Roccia, a prima vista, assomiglia al <em>Grug</em>" +
-    " di Ted Prior — una piccola creatura del bosco, dolce accettazione del fallimento, nessun cattivo, nessun climax. Questa " +
-    "lettura è vera in superficie, e Prior è nominato nella dedica per una buona ragione: Grok eredita il temperamento di " +
-    "Grug. Ma il libro è più di Heinlein con gli spigoli smussati. È Heinlein <em>risposto</em>" +
-    " — la stessa parola marziana, lo stesso arco dell'estraneo che impara a grokkare, ma con il motore messianico, " +
-    "conflittuale e di violenza redentrice di <em>Straniero in terra straniera</em>" +
-    " sostituito da una politica deliberatamente decentralizzata e non conflittuale. Prior fornisce la superficie; le Regole " +
-    "qui sotto forniscono il radicalismo sottostante.</p>" +
-    "<p>Lo scheletro condiviso è reale. Entrambe le storie seguono un arrivo (l'estraneo innocente incontra un mondo strano), " +
-    "uno smarrimento (giochi di status e piccolezza), un assestamento interiore, una comprensione applicata, e la fondazione " +
-    "di un nuovo ordine locale. I tre capitoli di Grok — Essere, Riparare, Vedere — sono essenzialmente l'arco unico di " +
-    "Valentine Michael Smith diviso in tre fasi di sviluppo: scoprire il sé, riparare ciò che si rompe, e discernere la " +
-    "verità dallo status.</p>" +
-    "<p>Dove Heinlein va nel grandioso, Grok va nel piccolo — e la piccolezza è strategica, non meramente infantile. Mike " +
-    "Smith fonda la Chiesa di Tutti i Mondi, un nuovo sole con un profeta al centro, e viene ucciso da una folla, la sua " +
-    "morte incorniciata come apoteosi trascendente. Grok invece lascia un cesto e uno schema di intreccio <em>senza " +
-    "padrone</em>" +
-    " sotto l'albero (Regola 7) e \"non aveva bisogno della voce più grande\" (Tre storie silenziose, p.25). Il modello " +
-    "profeta-e-confronto viene silenziosamente rifiutato. Questo è il rifiuto nascosto della violenza redentrice: la verità " +
-    "\"cammina sulle sue gambe forti\" (p.25) senza venire distrutta per questo.</p>" +
-    "<p>Il temperamento che rende questo rifiuto <em>leggibile come libro per bambini</em>" +
-    " è quello di Grug. Grok si sveglia \"come se vedesse il mondo per la prima volta\" (Tre storie silenziose, p.2) nello " +
-    "stesso modo disorientato, alla Grug, in cui Grug incontra ogni nuova sorpresa del bosco; fallisce nel sembrare grande " +
-    "(p.6) come Grug fallisce nel pescare un pesce e \"mangia felicemente fagioli\" invece. Nessun cattivo viene sconfitto. " +
-    "Il gioco di status del cacatua viene disinnescato provando-con-le-zampe, non rovesciandolo. Questa è la grana di Prior — " +
-    "ed è ciò che lascia la politica più dura nascosta in bella vista.</p><p>Ma la quiete è <em>carica</em>" +
-    ", e le Regole lo nominano. Grok è una \"roccia grigia\" (Regole, p.30) di proposito: fare la roccia grigia è il rifiuto " +
-    "deliberato di dare al gioco di status qualsiasi reazione — l'esatto opposto della performance messianica di Mike. La " +
-    "Regola 5 (\"Allontanati invece di fare la guerra\") rifiuta il rovesciamento senza mezzi termini: il centro \"fa il suo " +
-    "crollo da solo\" una volta che ne ritiri il substrato. La Regola 6 (\"Sii un nodo, non una stella\") nega la forma " +
-    "sole/profeta che Mike diventa. Il martirio viene sostituito dalla Regola 10: \"Sii il punto silenzioso dove la macchina " +
-    "non ha leva.\" La pace è <em>ritiro</em>, non sacrificio.</p>" +
-    "<p>Così le tre fonti si incastrano. Heinlein dà la parola <em>grok</em>" +
-    " e l'arco di un estraneo che impara a capire un mondo strano. Prior dà la voce gentile, tollerante al fallimento, da " +
-    "creatura del bosco che rende la lezione sicura per un bambino. Le Regole danno la spina dorsale: un \"vangelo della " +
-    "pace\" in cui i legami tra pari resistono ripristinando invece che punendo (Regola 3), aprendo invece che rivendicando " +
-    "(Regola 7), e ritirandosi dal potere invece che afferrandolo (Regole 4–5). Grok è radicale \"in un modo diverso\" da " +
-    "<em>Straniero</em>" +
-    " — meno trasgressivo su sesso e religione, ma più durevole come politica della topologia del potere.</p>" +
-    "<p>L'onesto scambio: lasciando cadere il corpo, l'estasi e il confronto comunitario di Heinlein, Grok scambia un " +
-    "radicalismo per un altro. È meno scioccante e più <em>riparabile</em>" +
-    " — che è il punto (Regola 9: \"la prova è in come la rottura viene riparata\"). Letto in un modo è un tranquillo albo " +
-    "illustrato australiano; letto nell'altro modo, sotto il muschio e i meloni, è un manuale silenzioso per una pace senza " +
-    "centro.</p>",
+  "about.stranger.body": 
+    "<p>Grok la Roccia, a prima vista, assomiglia al <em>Grug</em> di Ted Prior — una piccola creatura del bosco, dolce accettazione del fallimento, nessun cattivo, nessun climax." +
+    " Questa lettura è vera in superficie, e Prior è nominato nella dedica per una buona ragione: Grok eredita il temperamento di Grug. Ma il libro è più di Heinlein con gli spigoli" +
+    " smussati. È Heinlein <em>risposto</em> — la stessa parola marziana, lo stesso arco dell'estraneo che impara a grokkare, ma con il motore messianico, conflittuale e di violenza" +
+    " redentrice di <em>Straniero in terra straniera</em> sostituito da una politica deliberatamente decentralizzata e non conflittuale. Prior fornisce la superficie; le Regole qui" +
+    " sotto forniscono il radicalismo morale sottostante.</p>" +
+    "<p>Entrambe le storie seguono un arrivo (l'estraneo innocente incontra un mondo strano), uno smarrimento (giochi di status e piccolezza), un assestamento interiore, una" +
+    " comprensione applicata, e la fondazione di un nuovo ordine locale. I tre capitoli di Grok — Essere, Riparare, Vedere — sono essenzialmente l'arco unico di Valentine Michael Smith" +
+    " diviso in tre fasi di sviluppo: scoprire il sé, riparare ciò che si rompe, e discernere la verità dallo status.</p>" +
+    "<p>Dove Heinlein va nel grandioso, Grok va nel piccolo — e la piccolezza è strategica, non meramente infantile. Mike Smith fonda la Chiesa di Tutti i Mondi, un nuovo sole con un" +
+    " profeta al centro, e viene ucciso da una folla, la sua morte incorniciata come apoteosi trascendente. Grok invece lascia un cesto e uno schema di intreccio <em>senza padrone</em>" +
+    " sotto l'albero (Regola 7) e \"non aveva bisogno della voce più grande\" (Tre storie silenziose, p.25). Il modello profeta-e-confronto viene silenziosamente rifiutato. Questo è il" +
+    " rifiuto nascosto della violenza redentrice: la verità \"cammina sulle sue gambe forti\" (p.25) senza venire distrutta per questo.</p>" +
+    "<p>Il temperamento che rende questo rifiuto <em>leggibile come libro per bambini</em> è quello di Grug. Grok si sveglia \"come se vedesse il mondo per la prima volta\" (Tre storie" +
+    " silenziose, p.2) nello stesso modo disorientato, alla Grug, in cui Grug incontra ogni nuova sorpresa del bosco; fallisce nel sembrare grande (p.6) come Grug fallisce nel pescare" +
+    " un pesce e \"mangia felicemente fagioli\" invece. Nessun cattivo viene sconfitto. Il gioco di status del cacatua viene disinnescato provando-con-le-zampe, non rovesciandolo." +
+    " Questa è la grana di Prior — ed è ciò che lascia la politica più profonda restare in bella vista.</p>" +
+    "<p>La quiete è <em>carica</em>, e la pagina Info lo afferma. Grok è una \"roccia grigia\" (Regole, p.30) di proposito: fare la roccia grigia è il rifiuto deliberato di dare al" +
+    " gioco di status qualsiasi reazione — l'esatto opposto della performance messianica di Mike. La Regola 5 (\"Allontanati invece di fare la guerra\") rifiuta il rovesciamento senza" +
+    " mezzi termini: il centro \"fa il suo crollo da solo\" una volta che ne ritiri il substrato. La Regola 6 (\"Sii un nodo, non una stella\") nega la forma sole/profeta che Mike" +
+    " diventa. Il martirio viene sostituito dalla Regola 10: \"Sii il punto silenzioso dove la macchina non ha leva.\" La pace è <em>ritiro</em>, non sacrificio.</p>" +
+    "<p>Le tre fonti si combinano per un effetto maggiore. Heinlein dà la parola <em>grok</em> e l'arco di un estraneo che impara a capire un mondo strano. Prior dà la voce gentile," +
+    " tollerante al fallimento, da creatura del bosco che rende la lezione sicura per un bambino. Le Regole danno la spina dorsale: un \"vangelo della pace\" in cui i legami tra pari" +
+    " resistono ripristinando invece che punendo (Regola 3), aprendo invece che rivendicando (Regola 7), e ritirandosi dal potere invece che afferrandolo (Regole 4–5). Grok è radicale" +
+    " \"in un modo diverso\" da <em>Straniero</em> — meno trasgressivo su sesso e religione, ma più durevole come politica della topologia del potere.</p>" +
+    "<p>Lasciando cadere il corpo, l'estasi e il confronto comunitario di Heinlein, Grok scambia un radicalismo per un altro. È meno scioccante e più <em>riparabile</em> — che è il" +
+    " punto (Regola 9: \"la prova è in come la rottura viene riparata\"). Letto in un modo è un tranquillo albo illustrato australiano; letto nell'altro modo, sotto il muschio e i" +
+    " meloni, è un manuale silenzioso per una pace senza centro.</p>",
   "about.footnote": "Su Grok la Roccia · Pubblico dominio (CC0 1.0)",
 
   "cover.title": "<h1>Grok la Roccia</h1><h3>Tre storie silenziose</h3><h2>Essere · Riparare · Vedere</h2>",

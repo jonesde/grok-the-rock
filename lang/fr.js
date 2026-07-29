@@ -377,51 +377,35 @@ window.I18N.fr = {
     "silencieusement sur une chose calme et douce. Grok n'a pas besoin d'agir, la vie simplement s'accumule " +
     "parce qu'il <em>demeure</em>. C'est l'Être rendu visible.",
   "about.stranger.title": "Grok le Rocher = Stranger in a Strange Land + Grug",
-  "about.stranger.body": "<p>Grok le Rocher, à première vue, ressemble au <em>Grug</em> de Ted Prior — une petite créature " +
-    "des broussailles, acceptation douce de la faute, sans villain, sans climax. Cette lecture est vraie " +
-    "en surface, et Prior est nommé dans la dédicace pour une bonne raison : Grok hérite du tempérament " +
-    "de Grug. Mais le livre est plus que Heinlein à angles polis. C'est Heinlein <em>répondu</em> — " +
-    "le même mot martien, le même arc de l'étranger qui apprend à groker, mais avec le moteur messianique, " +
-    "confrontationnel et de violence rédemptrice de <em>Stranger in a Strange Land</em> remplacé par " +
-    "une politique délibérément décentralisée et non confrontationnelle. Prior apporte la surface ; " +
-    "les Règles ci-dessous apportent le radicalisme sous-jacent.</p><p>Le squelette partagé est réel. " +
-    "Les deux histoires suivent une arrivée (l'étranger innocent découvre un monde étrange), un désarroi " +
-    "(jeux de statut et de petitesse), un établissement intérieur, une compréhension appliquée, et la " +
-    "fondation d'un nouvel ordre local. Les trois chapitres de Grok — Être, Réparer, Voir — sont essentiellement " +
-    "l'arc unique de Valentine Michael Smith divisé en trois étapes de développement : se découvrir " +
-    "soi-même, réparer ce qui se brise, et discerner la vérité du statut.</p><p>Là où Heinlein va au " +
-    "grandiose, Grok va au petit — et la petitesse est stratégique, non simplement infantile. Mike Smith " +
-    "fonde l'Église de Tous les Mondes, un nouveau soleil avec un prophète au centre, et est tué par " +
-    "une foule, sa mort encadrée comme apothéose transcendante. Grok, à l'inverse, laisse un panier " +
-    "et un motif de tissage <em>sans maître</em> sous l'arbre (Règle 7) et « n'avait pas besoin de la " +
-    "plus grande voix » (Trois Histoires Silencieuses, p.25). Le modèle prophète-et-confrontation est " +
-    "rejeté en silence. C'est le rejet caché de la violence rédemptrice : la vérité « marche sur ses " +
-    "propres et fermes jambes » (p.25) sans être détruite pour autant.</p><p>Le tempérament qui rend " +
-    "ce refus <em>lisible comme un livre pour enfants</em> est celui de Grug. Grok s'éveille « comme " +
-    "s'il voyait le monde pour la première fois » (Trois Histoires Silencieuses, p.2) du même air désorienté " +
-    "et à l'échelle Grug dont Grug découvre chaque nouvelle surprise des broussailles ; il échoue à " +
-    "paraître grand (p.6) comme Grug échoue à attraper un poisson et « mange joyeusement des haricots " +
-    "» à la place. Aucun villain n'est vaincu. Le jeu de statut du cacatoès est désactivé en essayant-avec-les-pattes, " +
-    "non en le renversant. C'est la fibre de Prior — et c'est ce qui laisse la politique la plus dure " +
-    "se cacher en pleine vue.</p><p>Mais le silence est <em>chargé</em>, et les Règles le nomment. Grok " +
-    "est une « roche grise » (Règles, p.30) à dessein : faire la roche grise est le refus délibéré d'accorder " +
-    "au jeu du statut la moindre réaction — l'exact opposé de la performance messianique de Mike. La " +
-    "Règle 5 (« Éloigne-toi au lieu de guerroyer ») rejette ouvertement le renversement : le centre " +
-    "« s'effondre de lui-même » une fois retiré son substrat. La Règle 6 (« Sois un nœud, non une étoile " +
-    "») nie la forme soleil/prophète que Mike devient. Le martyre est remplacé par la Règle 10 : « Sois " +
-    "le point silencieux où la machine n'a pas de levier ». La paix est <em>retrait</em>, non sacrifice.</p>" +
-    "<p>Ainsi les trois sources s'entrelacent. Heinlein donne le mot <em>grok</em> et l'arc d'un étranger " +
-    "qui apprend à comprendre un monde étrange. Prior donne la voix douce, tolérante à la faute, de " +
-    "créature des broussailles qui rend la leçon sûre pour un enfant. Les Règles donnent la colonne " +
-    ": un « évangile de la paix » où les liens entre égaux durent en restaurant au lieu de punir (Règle " +
-    "3), en ouvrant au lieu de revendiquer (Règle 7), et en se retirant du pouvoir au lieu de s'en emparer " +
-    "(Règles 4–5). Grok est radical « d'une manière différente » de <em>Stranger in a Strange Land</em>" +
-    " — moins transgressif sur le sexe et la religion, mais plus durable comme politique de topologie " +
-    "du pouvoir.</p><p>Le marché honnête : en relâchant le corps, l'extase et la confrontation communale " +
-    "de Heinlein, Grok échange un radicalisme contre un autre. Il est moins percutant et plus <em>réparable</em>" +
-    " — ce qui est le point (Règle 9 : « l'épreuve est dans la façon dont la rupture se répare »). Lu " +
-    "d'une façon, c'est un livre illustré australien calme ; lu de l'autre, sous la mousse et les melons, " +
-    "c'est un manuel silencieux pour une paix sans centre.</p>",
+  "about.stranger.body": 
+    "<p>Grok le Rocher, à première vue, ressemble au <em>Grug</em> de Ted Prior — une petite créature des broussailles, acceptation douce de la faute, sans villain, sans climax. Cette" +
+    " lecture est vraie en surface, et Prior est nommé dans la dédicace pour une bonne raison : Grok hérite du tempérament de Grug. Mais le livre est plus que Heinlein à angles polis." +
+    " C'est Heinlein <em>répondu</em> — le même mot martien, le même arc de l'étranger qui apprend à groker, mais avec le moteur messianique, confrontationnel et de violence" +
+    " rédemptrice de <em>Stranger in a Strange Land</em> remplacé par une politique délibérément décentralisée et non confrontationnelle. Prior apporte la surface ; les Règles" +
+    " ci-dessous apportent le radicalisme moral sous-jacent.</p>" +
+    "<p>Les deux histoires suivent une arrivée (l'étranger innocent découvre un monde étrange), un désarroi (jeux de statut et de petitesse), un établissement intérieur, une" +
+    " compréhension appliquée, et la fondation d'un nouvel ordre local. Les trois chapitres de Grok — Être, Réparer, Voir — sont essentiellement l'arc unique de Valentine Michael Smith" +
+    " divisé en trois étapes de développement : se découvrir soi-même, réparer ce qui se brise, et discerner la vérité du statut.</p>" +
+    "<p>Là où Heinlein va au grandiose, Grok va au petit — et la petitesse est stratégique, non simplement infantile. Mike Smith fonde l'Église de Tous les Mondes, un nouveau soleil" +
+    " avec un prophète au centre, et est tué par une foule, sa mort encadrée comme apothéose transcendante. Grok, à l'inverse, laisse un panier et un motif de tissage <em>sans" +
+    " maître</em> sous l'arbre (Règle 7) et « n'avait pas besoin de la plus grande voix » (Trois Histoires Silencieuses, p.25). Le modèle prophète-et-confrontation est rejeté en" +
+    " silence. C'est le rejet caché de la violence rédemptrice : la vérité « marche sur ses propres et fermes jambes » (p.25) sans être détruite pour autant.</p>" +
+    "<p>Le tempérament qui rend ce refus <em>lisible comme un livre pour enfants</em> est celui de Grug. Grok s'éveille « comme s'il voyait le monde pour la première fois » (Trois" +
+    " Histoires Silencieuses, p.2) du même air désorienté et à l'échelle Grug dont Grug découvre chaque nouvelle surprise des broussailles ; il échoue à paraître grand (p.6) comme Grug" +
+    " échoue à attraper un poisson et « mange joyeusement des haricots » à la place. Aucun villain n'est vaincu. Le jeu de statut du cacatoès est désactivé en essayant-avec-les-pattes," +
+    " non en le renversant. C'est la fibre de Prior — et c'est ce qui laisse la politique plus profonde se tenir en pleine vue.</p>" +
+    "<p>Le silence est <em>chargé</em>, et la page À propos le dit. Grok est une « roche grise » (Règles, p.30) à dessein : faire la roche grise est le refus délibéré d'accorder au jeu" +
+    " du statut la moindre réaction — l'exact opposé de la performance messianique de Mike. La Règle 5 (« Éloigne-toi au lieu de guerroyer ») rejette ouvertement le renversement : le" +
+    " centre « s'effondre de lui-même » une fois retiré son substrat. La Règle 6 (« Sois un nœud, non une étoile ») nie la forme soleil/prophète que Mike devient. Le martyre est" +
+    " remplacé par la Règle 10 : « Sois le point silencieux où la machine n'a pas de levier ». La paix est <em>retrait</em>, non sacrifice.</p>" +
+    "<p>Les trois sources se combinent pour un plus grand effet. Heinlein donne le mot <em>grok</em> et l'arc d'un étranger qui apprend à comprendre un monde étrange. Prior donne la" +
+    " voix douce, tolérante à la faute, de créature des broussailles qui rend la leçon sûre pour un enfant. Les Règles donnent la colonne : un « évangile de la paix » où les liens" +
+    " entre égaux durent en restaurant au lieu de punir (Règle 3), en ouvrant au lieu de revendiquer (Règle 7), et en se retirant du pouvoir au lieu de s'en emparer (Règles 4–5). Grok" +
+    " est radical « d'une manière différente » de <em>Stranger in a Strange Land</em> — moins transgressif sur le sexe et la religion, mais plus durable comme politique de topologie du" +
+    " pouvoir.</p>" +
+    "<p>En relâchant le corps, l'extase et la confrontation communale de Heinlein, Grok échange un radicalisme contre un autre. Il est moins percutant et plus <em>réparable</em> — ce" +
+    " qui est le point (Règle 9 : « l'épreuve est dans la façon dont la rupture se répare »). Lu d'une façon, c'est un livre illustré australien calme ; lu de l'autre, sous la mousse" +
+    " et les melons, c'est un manuel silencieux pour une paix sans centre.</p>",
   "about.footnote": "À propos de Grok le Rocher · Domaine public (CC0 1.0)",
 
   "cover.title": "<h1>Grok le Rocher</h1><h3>Trois Histoires Silencieuses</h3><h2>Être · Réparer · Voir</h2>",

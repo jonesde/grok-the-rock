@@ -391,50 +391,34 @@ window.I18N.nl = {
     "stil, vriendelijk ding. Grok hoeft niet op te voeren, het leven verzamelt zich simpelweg omdat hij <em>blijft</em>" +
     ". Het is het Zijn dat zichtbaar wordt gemaakt.",
   "about.stranger.title": "Grok de Rots = Vreemdeling in een vreemd land + Grug",
-  "about.stranger.body": "<p>Grok de Rots ziet er op het eerste gezicht uit als Ted Priors <em>Grug</em>" +
-    " — een klein boswezen, zachte acceptatie van falen, geen slechterik, geen climax. Die lezing klopt aan de oppervlakte, " +
-    "en Prior wordt niet voor niets in de opdracht genoemd: Grok erft Grugs temperament. Maar het boek is meer dan Heinlein " +
-    "met afgeschuurde scherpe kantjes. Het is Heinlein <em>beantwoord</em>" +
-    " — hetzelfde Marswoord, dezelfde boog van de buitenstaander die leert grokken, maar met de messiaanse, confronterende en " +
-    "verlossingsgeweld-machine van <em>Vreemdeling in een vreemd land</em>" +
-    " vervangen door een bewust gedecentraliseerde, niet-confronterende politiek. Prior levert de oppervlakte; de Regels " +
-    "hieronder leveren het onderliggende radicalisme.</p>" +
-    "<p>Het gedeelde geraamte is echt. Beide verhalen volgen een aankomst (onnozele buitenstaander ontmoet een vreemde " +
-    "wereld), verbijstering (statusspeletjes en kleinheid), een innerlijke verankering, toegepast begrip, en de stichting van " +
-    "een nieuwe lokale orde. Groks drie hoofdstukken — Zijn, Herstellen, Zien — zijn in wezen Valentine Michael Smiths enkele " +
-    "boog opgesplitst in drie ontwikkelingsfasen: het zelf ontdekken, herstellen wat breekt, en waarheid van status " +
-    "onderscheiden.</p>" +
-    "<p>Waar Heinlein groot gaat, gaat Grok klein — en de kleinheid is strategisch, niet slechts kinderlijk. Mike Smith " +
-    "sticht de Kerk van Alle Werelden, een nieuwe zon met een profeet in het centrum, en wordt gedood door een menigte, zijn " +
-    "dood ingelijst als transcendente apotheose. Grok daarentegen laat een <em>eigenaarloze</em>" +
-    " mand en vlechtpatroon achter onder de boom (Regel 7) en \"had de grootste stem niet nodig\" (Drie stille verhalen, " +
-    "p.25). Het profeet-en-confrontatie-model wordt stilletjes geweigerd. Dit is de verborgen verwerping van " +
-    "verlossingsgeweld: de waarheid \"loopt op haar eigen sterke benen\" (p.25) zonder ervoor vernietigd te worden.</p>" +
-    "<p>Het temperament dat deze weigering <em>leesbaar als kinderboek</em>" +
-    " maakt, is dat van Grug. Grok wordt wakker \"alsof hij de wereld voor het eerst zag\" (Drie stille verhalen, p.2) op " +
-    "dezelfde gedesoriënteerde, Grug-achtige manier waarop Grug elke nieuwe bosverrassing tegemoet treedt; hij faalt om groot " +
-    "te lijken (p.6) zoals Grug faalt om een vis te vangen en \"eet vrolijk bonen\" in plaats daarvan. Geen slechterik wordt " +
-    "verslagen. Het statusspeletje van de kaketoe wordt uitgeschakeld door testen-met-poten, niet door hem omver te werpen. " +
-    "Dat is Priors draad — en het is wat de hardere politiek in het open zicht verborgen laat.</p>" +
-    "<p>Maar de stilte is <em>geladen</em>" +
-    ", en de Regels benoemen dat. Grok is een \"grijze rots\" (Regels, p.30) met opzet: grijze rotsen is de bewuste weigering " +
-    "om het statusspeletje enige reactie te gunnen — precies het tegenovergestelde van Mikes messiaanse performance. Regel 5 " +
-    "(\"Loop weg in plaats van oorlog te voeren\") verwerpt omverwerping zonder meer: het centrum \"stort vanzelf in\" zodra " +
-    "je het substraat ervan terugtrekt. Regel 6 (\"Wees een knooppunt, geen ster\") ontkent de zon/profeet-vorm die Mike " +
-    "wordt. Het martelaarschap wordt vervangen door Regel 10: \"Wees het stille punt waar de machine geen hefboom heeft.\" " +
-    "Vrede is <em>terugtrekking</em>, geen offer.</p>" +
-    "<p>Dus de drie bronnen haken in elkaar. Heinlein geeft het woord <em>grok</em>" +
-    " en de boog van een buitenstaander die een vreemde wereld leert begrijpen. Prior geeft de zachte, foutentolerante " +
-    "boswezen-stem die de les veilig maakt voor een kind. De Regels geven de ruggengraat: een \"evangelie van vrede\" waarin " +
-    "banden tussen gelijken standhouden door te herstellen in plaats van te straffen (Regel 3), te openen in plaats van te " +
-    "claimen (Regel 7), en zich terug te trekken van de macht in plaats van hem te grijpen (Regels 4–5). Grok is radicaal " +
-    "\"op een andere manier\" dan <em>Vreemdeling</em>" +
-    " — minder grensoverschrijdend over seks en religie, maar duurzamer als politiek van de machtstopologie.</p>" +
-    "<p>De eerlijke ruil: door Heinleins lichaam, extase en gemeenschappelijke confrontatie te laten vallen, ruilt Grok het " +
-    "ene radicalisme voor het andere. Het is minder schokkend en meer <em>herstelbaar</em>" +
-    " — en dat is het punt (Regel 9: \"het bewijs zit in hoe de breuk hersteld wordt\"). Op de ene manier gelezen is het een " +
-    "kalm Australisch prentenboek; op de andere manier gelezen, onder het mos en de meloenen, is het een stille handleiding " +
-    "voor een centrumloze vrede.</p>",
+  "about.stranger.body": 
+    "<p>Grok de Rots ziet er op het eerste gezicht uit als Ted Priors <em>Grug</em> — een klein boswezen, zachte acceptatie van falen, geen slechterik, geen climax. Die lezing klopt" +
+    " aan de oppervlakte, en Prior wordt niet voor niets in de opdracht genoemd: Grok erft Grugs temperament. Maar het boek is meer dan Heinlein met afgeschuurde scherpe kantjes. Het" +
+    " is Heinlein <em>beantwoord</em> — hetzelfde Marswoord, dezelfde boog van de buitenstaander die leert grokken, maar met de messiaanse, confronterende en verlossingsgeweld-machine" +
+    " van <em>Vreemdeling in een vreemd land</em> vervangen door een bewust gedecentraliseerde, niet-confronterende politiek. Prior levert de oppervlakte; de Regels hieronder leveren" +
+    " het onderliggende morele radicalisme.</p>" +
+    "<p>Beide verhalen volgen een aankomst (onnozele buitenstaander ontmoet een vreemde wereld), verbijstering (statusspeletjes en kleinheid), een innerlijke verankering, toegepast" +
+    " begrip, en de stichting van een nieuwe lokale orde. Groks drie hoofdstukken — Zijn, Herstellen, Zien — zijn in wezen Valentine Michael Smiths enkele boog opgesplitst in drie" +
+    " ontwikkelingsfasen: het zelf ontdekken, herstellen wat breekt, en waarheid van status onderscheiden.</p>" +
+    "<p>Waar Heinlein groot gaat, gaat Grok klein — en de kleinheid is strategisch, niet slechts kinderlijk. Mike Smith sticht de Kerk van Alle Werelden, een nieuwe zon met een profeet" +
+    " in het centrum, en wordt gedood door een menigte, zijn dood ingelijst als transcendente apotheose. Grok daarentegen laat een <em>eigenaarloze</em> mand en vlechtpatroon achter" +
+    " onder de boom (Regel 7) en \"had de grootste stem niet nodig\" (Drie stille verhalen, p.25). Het profeet-en-confrontatie-model wordt stilletjes geweigerd. Dit is de verborgen" +
+    " verwerping van verlossingsgeweld: de waarheid \"loopt op haar eigen sterke benen\" (p.25) zonder ervoor vernietigd te worden.</p>" +
+    "<p>Het temperament dat deze weigering <em>leesbaar als kinderboek</em> maakt, is dat van Grug. Grok wordt wakker \"alsof hij de wereld voor het eerst zag\" (Drie stille verhalen," +
+    " p.2) op dezelfde gedesoriënteerde, Grug-achtige manier waarop Grug elke nieuwe bosverrassing tegemoet treedt; hij faalt om groot te lijken (p.6) zoals Grug faalt om een vis te" +
+    " vangen en \"eet vrolijk bonen\" in plaats daarvan. Geen slechterik wordt verslagen. Het statusspeletje van de kaketoe wordt uitgeschakeld door testen-met-poten, niet door hem" +
+    " omver te werpen. Dat is Priors draad — en het is wat de diepere politiek in het open zicht laat staan.</p>" +
+    "<p>De stilte is <em>geladen</em>, en de Over-pagina benoemt dat. Grok is een \"grijze rots\" (Regels, p.30) met opzet: grijze rotsen is de bewuste weigering om het statusspeletje" +
+    " enige reactie te gunnen — precies het tegenovergestelde van Mikes messiaanse performance. Regel 5 (\"Loop weg in plaats van oorlog te voeren\") verwerpt omverwerping zonder meer:" +
+    " het centrum \"stort vanzelf in\" zodra je het substraat ervan terugtrekt. Regel 6 (\"Wees een knooppunt, geen ster\") ontkent de zon/profeet-vorm die Mike wordt. Het" +
+    " martelaarschap wordt vervangen door Regel 10: \"Wees het stille punt waar de machine geen hefboom heeft.\" Vrede is <em>terugtrekking</em>, geen offer.</p>" +
+    "<p>De drie bronnen combineren voor groter effect. Heinlein geeft het woord <em>grok</em> en de boog van een buitenstaander die een vreemde wereld leert begrijpen. Prior geeft de" +
+    " zachte, foutentolerante boswezen-stem die de les veilig maakt voor een kind. De Regels geven de ruggengraat: een \"evangelie van vrede\" waarin banden tussen gelijken standhouden" +
+    " door te herstellen in plaats van te straffen (Regel 3), te openen in plaats van te claimen (Regel 7), en zich terug te trekken van de macht in plaats van hem te grijpen (Regels" +
+    " 4–5). Grok is radicaal \"op een andere manier\" dan <em>Vreemdeling</em> — minder grensoverschrijdend over seks en religie, maar duurzamer als politiek van de machtstopologie.</p>" +
+    "<p>Door Heinleins lichaam, extase en gemeenschappelijke confrontatie te laten vallen, ruilt Grok het ene radicalisme voor het andere. Het is minder schokkend en meer" +
+    " <em>herstelbaar</em> — en dat is het punt (Regel 9: \"het bewijs zit in hoe de breuk hersteld wordt\"). Op de ene manier gelezen is het een kalm Australisch prentenboek; op de" +
+    " andere manier gelezen, onder het mos en de meloenen, is het een stille handleiding voor een centrumloze vrede.</p>",
   "about.footnote": "Over Grok de Rots · Publiek domein (CC0 1.0)",
 
   "cover.title": "<h1>Grok de Rots</h1><h3>Drie stille verhalen</h3><h2>Zijn · Herstellen · Zien</h2>",

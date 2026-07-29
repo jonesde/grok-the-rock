@@ -393,49 +393,35 @@ window.I18N.de = {
     "freundlichen Ding niederlässt. Grok muss nichts aufführen, das Leben sammelt sich einfach an, weil er <em>bleibt</em>" +
     ". Es ist das Sein, sichtbar gemacht.",
   "about.stranger.title": "Grok der Fels = Fremder in einer fremden Welt + Grug",
-  "about.stranger.body": "<p>Grok der Fels sieht auf den ersten Blick aus wie Ted Priors <em>Grug</em>" +
-    " — ein kleines Buschwesen, sanfte Akzeptanz von Misserfolg, kein Bösewicht, kein Höhepunkt. Diese Lesart stimmt an der " +
-    "Oberfläche, und Prior wird aus gutem Grund in der Widmung genannt: Grok erbt Grugs Temperament. Aber das Buch ist mehr " +
-    "als Heinlein mit abgeschliffenen Kanten. Es ist Heinlein <em>beantwortet</em>" +
-    " — dasselbe marsianische Wort, derselbe Bogen des Außenseiters, der zu grokken lernt, aber die messianische, " +
-    "konfrontative und erlösende-Gewalt-Maschinerie von <em>Fremder in einer fremden Welt</em>" +
-    " ersetzt durch eine bewusst dezentralisierte, nicht-konfrontative Politik. Prior liefert die Oberfläche; die Regeln " +
-    "unten liefern den zugrundeliegenden Radikalismus.</p>" +
-    "<p>Das gemeinsame Skelett ist real. Beide Geschichten folgen einer Ankunft (unschuldiger Außenseiter trifft eine fremde " +
-    "Welt), einer Verwirrung (Statusspiele und Kleinheit), einer inneren Beruhigung, einem angewandten Verständnis und der " +
-    "Gründung einer neuen lokalen Ordnung. Groks drei Kapitel — Sein, Heilen, Sehen — sind im Wesentlichen Valentine Michael " +
-    "Smiths einzelner Bogen, aufgeteilt in drei Entwicklungsstufen: das Selbst entdecken, reparieren, was bricht, und " +
-    "Wahrheit von Status unterscheiden.</p>" +
-    "<p>Wo Heinlein ins Große geht, geht Grok ins Kleine — und die Kleinheit ist strategisch, nicht bloß kindlich. Mike Smith " +
-    "gründet die Kirche aller Welten, eine neue Sonne mit einem Propheten im Zentrum, und wird von einer Meute getötet, sein " +
-    "Tod als transzendente Apotheose dargestellt. Grok hingegen hinterlässt einen <em>besitzerlosen</em>" +
-    " Korb und ein Flechtmuster unter dem Baum (Regel 7) und „brauchte nicht die größte Stimme“ (Drei stille Geschichten, " +
-    "S.25). Das Propheten-und-Konfrontation-Modell wird stillschweigend abgelehnt. Dies ist die verdeckte Zurückweisung " +
-    "erlösender Gewalt: die Wahrheit „geht auf ihren eigenen starken Beinen“ (S.25), ohne dafür zerstört zu werden.</p>" +
-    "<p>Das Temperament, das diese Ablehnung <em>als Kinderbuch lesbar</em>" +
-    " macht, ist Grugs. Grok erwacht „als sähe er die Welt zum ersten Mal“ (Drei stille Geschichten, S.2) auf dieselbe " +
-    "desorientierte, Grug-hafte Weise, wie Grug jeder neuen Buschüberraschung begegnet; er scheitert daran, groß auszusehen " +
-    "(S.6), so wie Grug daran scheitert, einen Fisch zu fangen, und „fröhlich Bohnen isst“ stattdessen. Kein Bösewicht wird " +
-    "besiegt. Das Statusspiel des Kakadus wird durch Prüfen-mit-Pfoten entschärft, nicht indem man ihn stürzt. Das ist Priors " +
-    "Korn — und es ist das, was die härtere Politik im Verborgenen lässt.</p><p>Aber die Stille ist <em>geladen</em>" +
-    ", und die Regeln benennen es. Grok ist ein „grauer Fels“ (Regeln, S.30) mit Absicht: Graues Felsen ist die bewusste " +
-    "Weigerung, dem Statusspiel irgendeine Reaktion zu geben — das genaue Gegenteil von Mikes messianischer Darbietung. Regel " +
-    "5 („Geh weg, statt Krieg zu führen“) lehnt Umsturz rundheraus ab: das Zentrum „bricht von selbst zusammen“, sobald du " +
-    "ihm das Substrat entziehst. Regel 6 („Sei ein Knoten, kein Stern“) verweigert die Sonne/Prophet-Gestalt, zu der Mike " +
-    "wird. Das Martyrium wird durch Regel 10 ersetzt: „Sei der stille Punkt, an dem die Maschine keinen Hebel hat.“ Frieden " +
-    "ist <em>Rückzug</em>, nicht Opfer.</p>" +
-    "<p>So greifen die drei Quellen ineinander. Heinlein gibt das Wort <em>grok</em>" +
-    " und den Bogen eines Außenseiters, der lernt, eine fremde Welt zu verstehen. Prior gibt die sanfte, fehlertolerante " +
-    "Buschwesen-Stimme, die die Lektion kindertauglich macht. Die Regeln geben das Rückgrat: ein „Evangelium des Friedens“, " +
-    "in dem Verbindungen zwischen Gleichen bestehen, indem sie wiederherstellen statt bestrafen (Regel 3), öffnen statt " +
-    "beanspruchen (Regel 7) und sich von der Macht zurückziehen statt sie zu ergreifen (Regeln 4–5). Grok ist radikal „auf " +
-    "andere Weise“ als <em>Fremder</em>" +
-    " — weniger transgressiv in Bezug auf Sex und Religion, aber haltbarer als eine Politik der Machttopologie.</p>" +
-    "<p>Der ehrliche Handel: indem Grok Heinleins Körper, Ekstase und gemeinschaftliche Konfrontation fallen lässt, tauscht " +
-    "er einen Radikalismus gegen einen anderen. Er ist weniger schockierend und mehr <em>reparierbar</em>" +
-    " — und das ist der Punkt (Regel 9: „Der Beweis liegt darin, wie der Bruch geflickt wird“). Auf eine Weise gelesen ist es " +
-    "ein ruhiges australisches Bilderbuch; auf die andere Weise gelesen, unter dem Moos und den Melonen, ist es ein stilles " +
-    "Handbuch für einen Frieden ohne Zentrum.</p>",
+  "about.stranger.body": 
+    "<p>Grok der Fels sieht auf den ersten Blick aus wie Ted Priors <em>Grug</em> — ein kleines Buschwesen, sanfte Akzeptanz von Misserfolg, kein Bösewicht, kein Höhepunkt. Diese" +
+    " Lesart stimmt an der Oberfläche, und Prior wird aus gutem Grund in der Widmung genannt: Grok erbt Grugs Temperament. Aber das Buch ist mehr als Heinlein mit abgeschliffenen" +
+    " Kanten. Es ist Heinlein <em>beantwortet</em> — dasselbe marsianische Wort, derselbe Bogen des Außenseiters, der zu grokken lernt, aber die messianische, konfrontative und" +
+    " erlösende-Gewalt-Maschinerie von <em>Fremder in einer fremden Welt</em> ersetzt durch eine bewusst dezentralisierte, nicht-konfrontative Politik. Prior liefert die Oberfläche;" +
+    " die Regeln unten liefern den zugrundeliegenden moralischen Radikalismus.</p>" +
+    "<p>Beide Geschichten folgen einer Ankunft (unschuldiger Außenseiter trifft eine fremde Welt), einer Verwirrung (Statusspiele und Kleinheit), einer inneren Beruhigung, einem" +
+    " angewandten Verständnis und der Gründung einer neuen lokalen Ordnung. Groks drei Kapitel — Sein, Heilen, Sehen — sind im Wesentlichen Valentine Michael Smiths einzelner Bogen," +
+    " aufgeteilt in drei Entwicklungsstufen: das Selbst entdecken, reparieren, was bricht, und Wahrheit von Status unterscheiden.</p>" +
+    "<p>Wo Heinlein ins Große geht, geht Grok ins Kleine — und die Kleinheit ist strategisch, nicht bloß kindlich. Mike Smith gründet die Kirche aller Welten, eine neue Sonne mit einem" +
+    " Propheten im Zentrum, und wird von einer Meute getötet, sein Tod als transzendente Apotheose dargestellt. Grok hingegen hinterlässt einen <em>besitzerlosen</em> Korb und ein" +
+    " Flechtmuster unter dem Baum (Regel 7) und „brauchte nicht die größte Stimme“ (Drei stille Geschichten, S.25). Das Propheten-und-Konfrontation-Modell wird stillschweigend" +
+    " abgelehnt. Dies ist die verdeckte Zurückweisung erlösender Gewalt: die Wahrheit „geht auf ihren eigenen starken Beinen“ (S.25), ohne dafür zerstört zu werden.</p>" +
+    "<p>Das Temperament, das diese Ablehnung <em>als Kinderbuch lesbar</em> macht, ist Grugs. Grok erwacht „als sähe er die Welt zum ersten Mal“ (Drei stille Geschichten, S.2) auf" +
+    " dieselbe desorientierte, Grug-hafte Weise, wie Grug jeder neuen Buschüberraschung begegnet; er scheitert daran, groß auszusehen (S.6), so wie Grug daran scheitert, einen Fisch zu" +
+    " fangen, und „fröhlich Bohnen isst“ stattdessen. Kein Bösewicht wird besiegt. Das Statusspiel des Kakadus wird durch Prüfen-mit-Pfoten entschärft, nicht indem man ihn stürzt. Das" +
+    " ist Priors Korn — und es ist das, was die tiefere Politik offen stehen lässt.</p>" +
+    "<p>Die Stille ist <em>geladen</em>, und die Seite „Über“ benennt es. Grok ist ein „grauer Fels“ (Regeln, S.30) mit Absicht: Graues Felsen ist die bewusste Weigerung, dem" +
+    " Statusspiel irgendeine Reaktion zu geben — das genaue Gegenteil von Mikes messianischer Darbietung. Regel 5 („Geh weg, statt Krieg zu führen“) lehnt Umsturz rundheraus ab: das" +
+    " Zentrum „bricht von selbst zusammen“, sobald du ihm das Substrat entziehst. Regel 6 („Sei ein Knoten, kein Stern“) verweigert die Sonne/Prophet-Gestalt, zu der Mike wird. Das" +
+    " Martyrium wird durch Regel 10 ersetzt: „Sei der stille Punkt, an dem die Maschine keinen Hebel hat.“ Frieden ist <em>Rückzug</em>, nicht Opfer.</p>" +
+    "<p>Die drei Quellen wirken zusammen und verstärken einander. Heinlein gibt das Wort <em>grok</em> und den Bogen eines Außenseiters, der lernt, eine fremde Welt zu verstehen. Prior" +
+    " gibt die sanfte, fehlertolerante Buschwesen-Stimme, die die Lektion kindertauglich macht. Die Regeln geben das Rückgrat: ein „Evangelium des Friedens“, in dem Verbindungen" +
+    " zwischen Gleichen bestehen, indem sie wiederherstellen statt bestrafen (Regel 3), öffnen statt beanspruchen (Regel 7) und sich von der Macht zurückziehen statt sie zu ergreifen" +
+    " (Regeln 4–5). Grok ist radikal „auf andere Weise“ als <em>Fremder</em> — weniger transgressiv in Bezug auf Sex und Religion, aber haltbarer als eine Politik der" +
+    " Machttopologie.</p>" +
+    "<p>Indem Grok Heinleins Körper, Ekstase und gemeinschaftliche Konfrontation fallen lässt, tauscht er einen Radikalismus gegen einen anderen. Er ist weniger schockierend und mehr" +
+    " <em>reparierbar</em> — und das ist der Punkt (Regel 9: „Der Beweis liegt darin, wie der Bruch geflickt wird“). Auf eine Weise gelesen ist es ein ruhiges australisches Bilderbuch;" +
+    " auf die andere Weise gelesen, unter dem Moos und den Melonen, ist es ein stilles Handbuch für einen Frieden ohne Zentrum.</p>",
   "about.footnote": "Über Grok der Fels · Gemeinfrei (CC0 1.0)",
 
   "cover.title": "<h1>Grok der Fels</h1><h3>Drei stille Geschichten</h3><h2>Sein · Flicken · Sehen</h2>",

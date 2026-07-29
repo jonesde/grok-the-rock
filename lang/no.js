@@ -455,47 +455,33 @@ window.I18N.no = {
     "rolig, snill ting. Grok trenger ikke å fremføre, liv samler seg rett og slett fordi han <em>forblir</em>" +
     ". Det er Væren gjort synlig.",
   "about.stranger.title": "Grok Steinen = Fremmed i en fremmed verden + Grug",
-  "about.stranger.body": "<p>Grok Steinen ser ved første øyekast ut som Ted Priors <em>Grug</em>" +
-    " — en liten busk-skapning, mild aksept av feil, ingen skurk, intet klimaks. Den lesningen er sann på overflaten, og " +
-    "Prior er nevnt i dedikasjonen av god grunn: Grok arver Grugs temperament. Men boken er mer enn Heinlein med kantene " +
-    "pusset ned. Det er Heinlein <em>besvart</em>" +
-    " — det samme marsianske ordet, den samme buen av en utenforstående som lærer å grokke, men med den messianske, " +
-    "konfronterende og forløsende voldsmotoren i <em>Fremmed i en fremmed verden</em>" +
-    " erstattet av en bevisst desentralisert, ikke-konfronterende politikk. Prior leverer overflaten; Reglene nedenfor " +
-    "leverer den underliggende radikalismen.</p>" +
-    "<p>Det delte skjelettet er ekte. Begge historiene følger en ankomst (uskyldig utenforstående møter en fremmed verden), " +
-    "en forvirring (statusspeil og litenhet), en indre tilsetning, en anvendt forståelse, og grunnleggelsen av en ny lokal " +
-    "orden. Groks tre kapitler — Være, Reparere, Se — er i essensen Valentine Michael Smiths ene bue delt i tre " +
-    "utviklingsstadier: å oppdage selvet, reparere det som brekker, og skjelne sannhet fra status.</p>" +
-    "<p>Der Heinlein går stort, går Grok smått — og småheten er strategisk, ikke bare barnslig. Mike Smith grunnlegger Alle " +
-    "Verdeners Kirke, en ny sol med en profet i sentrum, og blir drept av en mobb, hans død innrammet som transcendent " +
-    "apoteose. Grok etterlater i stedet en <em>eierløs</em>" +
-    " kurv og et vevemønster under treet (Regel 7) og \"trengte ikke den største stemmen\" (Tre stille historier, s.25). " +
-    "Profet-og-konfrontasjon-modellen blir stilltiende avvist. Dette er den skjulte forkastelsen av forløsende vold: " +
-    "sannheten \"går på sine egne sterke bein\" (s.25) uten å bli ødelagt for det.</p>" +
-    "<p>Temperamentet som gjør denne nektelsen <em>leselig som en barnebok</em>" +
-    " er Grugs. Grok våkner \"som om han så den for aller første gang\" (Tre stille historier, s.2) på den samme " +
-    "desorienterte, Grug-aktige måten Grug møter hver ny busk-overraskelse; han mislykkes i å se stor ut (s.6) slik Grug " +
-    "mislykkes i å fange en fisk og \"spiser glad bønner\" i stedet. Ingen skurk blir beseiret. Kakaduens statusspeil " +
-    "uskadeliggjøres ved å teste-med-labber, ikke ved å velte ham. Det er Priors korn — og det er det som lar den hardere " +
-    "politikken skjule seg midt foran øynene.</p><p>Men stillheten er <em>ladet</em>" +
-    ", og Reglene navngir det. Grok er en \"grå stein\" (Reglene, s.30) med hensikt: å spille grå stein er den bevisste " +
-    "nektelsen av å gi statusspelet noen reaksjon — den rake motsetningen til Mikes messianske opptreden. Regel 5 (\"Gå bort " +
-    "i stedet for å krige\") avviser å velte rett ut: senteret \"kollapser av seg selv\" når du først trekker bort " +
-    "underlaget. Regel 6 (\"Vær en node, ikke en stjerne\") benekter sol/profet-formen Mike blir til. Martyriet blir " +
-    "erstattet av Regel 10: \"Vær det stille punktet der maskinen ikke har noe vektstangsfeste.\" Fred er " +
-    "<em>tilbaketrekning</em>, ikke offer.</p>" +
-    "<p>Slik låser de tre kildene seg sammen. Heinlein gir ordet <em>grok</em>" +
-    " og buen av en utenforstående som lærer å forstå en fremmed verden. Prior gir den milde, feiltolerante " +
-    "busk-skapning-stemmen som gjør leksen trygg for et barn. Reglene gir ryggraden: et \"fredens evangelium\" der bånd " +
-    "mellom likemenn varer ved å gjenopprette heller enn å straffe (Regel 3), åpne heller enn å kreve (Regel 7), og trekke " +
-    "seg tilbake fra makten heller enn å gripe den (Regler 4–5). Grok er radikal \"på en annen måte\" enn <em>Fremmed</em>" +
-    " — mindre overskridende om sex og religion, men mer holdbar som en maktens topologi-politikk.</p>" +
-    "<p>Det ærlige byttet: ved å droppe Heinleins kropp, ekstase og felles konfrontasjon, bytter Grok én radikalisme mot en " +
-    "annen. Den er mindre sjokkerende og mer <em>reparerbar</em>" +
-    " — og det er poenget (Regel 9: \"beviset ligger i hvordan bruddet blir reparert\"). Lest på én måte er det en rolig " +
-    "australsk bildebok; lest på den andre måten, under mosen og melonene, er det en stille håndbok for en sentrumsløs " +
-    "fred.</p>",
+  "about.stranger.body": 
+    "<p>Grok Steinen ser ved første øyekast ut som Ted Priors <em>Grug</em> — en liten busk-skapning, mild aksept av feil, ingen skurk, intet klimaks. Den lesningen er sann på" +
+    " overflaten, og Prior er nevnt i dedikasjonen av god grunn: Grok arver Grugs temperament. Men boken er mer enn Heinlein med kantene pusset ned. Det er Heinlein <em>besvart</em> —" +
+    " det samme marsianske ordet, den samme buen av en utenforstående som lærer å grokke, men med den messianske, konfronterende og forløsende voldsmotoren i <em>Fremmed i en fremmed" +
+    " verden</em> erstattet av en bevisst desentralisert, ikke-konfronterende politikk. Prior leverer overflaten; Reglene nedenfor leverer den underliggende moralske radikalismen.</p>" +
+    "<p>Begge historiene følger en ankomst (uskyldig utenforstående møter en fremmed verden), en forvirring (statusspeil og litenhet), en indre tilsetning, en anvendt forståelse, og" +
+    " grunnleggelsen av en ny lokal orden. Groks tre kapitler — Være, Reparere, Se — er i essensen Valentine Michael Smiths ene bue delt i tre utviklingsstadier: å oppdage selvet," +
+    " reparere det som brekker, og skjelne sannhet fra status.</p>" +
+    "<p>Der Heinlein går stort, går Grok smått — og småheten er strategisk, ikke bare barnslig. Mike Smith grunnlegger Alle Verdeners Kirke, en ny sol med en profet i sentrum, og blir" +
+    " drept av en mobb, hans død innrammet som transcendent apoteose. Grok etterlater i stedet en <em>eierløs</em> kurv og et vevemønster under treet (Regel 7) og \"trengte ikke den" +
+    " største stemmen\" (Tre stille historier, s.25). Profet-og-konfrontasjon-modellen blir stilltiende avvist. Dette er den skjulte forkastelsen av forløsende vold: sannheten \"går på" +
+    " sine egne sterke bein\" (s.25) uten å bli ødelagt for det.</p>" +
+    "<p>Temperamentet som gjør denne nektelsen <em>leselig som en barnebok</em> er Grugs. Grok våkner \"som om han så den for aller første gang\" (Tre stille historier, s.2) på den" +
+    " samme desorienterte, Grug-aktige måten Grug møter hver ny busk-overraskelse; han mislykkes i å se stor ut (s.6) slik Grug mislykkes i å fange en fisk og \"spiser glad bønner\" i" +
+    " stedet. Ingen skurk blir beseiret. Kakaduens statusspeil uskadeliggjøres ved å teste-med-labber, ikke ved å velte ham. Det er Priors korn — og det er det som lar den dypere" +
+    " politikken stå midt foran øynene.</p>" +
+    "<p>Stillheten er <em>ladet</em>, og Om-siden sier det. Grok er en \"grå stein\" (Reglene, s.30) med hensikt: å spille grå stein er den bevisste nektelsen av å gi statusspelet noen" +
+    " reaksjon — den rake motsetningen til Mikes messianske opptreden. Regel 5 (\"Gå bort i stedet for å krige\") avviser å velte rett ut: senteret \"kollapser av seg selv\" når du" +
+    " først trekker bort underlaget. Regel 6 (\"Vær en node, ikke en stjerne\") benekter sol/profet-formen Mike blir til. Martyriet blir erstattet av Regel 10: \"Vær det stille punktet" +
+    " der maskinen ikke har noe vektstangsfeste.\" Fred er <em>tilbaketrekning</em>, ikke offer.</p>" +
+    "<p>De tre kildene kombineres for større virkning. Heinlein gir ordet <em>grok</em> og buen av en utenforstående som lærer å forstå en fremmed verden. Prior gir den milde," +
+    " feiltolerante busk-skapning-stemmen som gjør leksen trygg for et barn. Reglene gir ryggraden: et \"fredens evangelium\" der bånd mellom likemenn varer ved å gjenopprette heller" +
+    " enn å straffe (Regel 3), åpne heller enn å kreve (Regel 7), og trekke seg tilbake fra makten heller enn å gripe den (Regler 4–5). Grok er radikal \"på en annen måte\" enn" +
+    " <em>Fremmed</em> — mindre overskridende om sex og religion, men mer holdbar som en maktens topologi-politikk.</p>" +
+    "<p>Ved å droppe Heinleins kropp, ekstase og felles konfrontasjon, bytter Grok én radikalisme mot en annen. Den er mindre sjokkerende og mer <em>reparerbar</em> — og det er poenget" +
+    " (Regel 9: \"beviset ligger i hvordan bruddet blir reparert\"). Lest på én måte er det en rolig australsk bildebok; lest på den andre måten, under mosen og melonene, er det en" +
+    " stille håndbok for en sentrumsløs fred.</p>",
   "about.footnote": "Om Grok Steinen · Offentlig eiendom (CC0 1.0)",
 
   "cover.title": "<h1>Grok Steinen</h1><h3>Tre stille historier</h3><h2>Være · Lappe · Se</h2>",
