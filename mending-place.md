@@ -181,15 +181,15 @@ These ten rules are the working core of the book. They are stated first in short
 
 ### The Ten Rules in Short Form
 
-1. Let truth stand on its own legs.  
-2. Heal shame instead of racing it.  
-3. Restore, never punish.  
-4. Leave the gate open.  
-5. Walk away instead of war.  
-6. Be a node, not a star.  
-7. Open what you make.  
-8. Do not manipulate.  
-9. Let failure be caught, not condemned.  
+1. Let truth stand on its own legs.
+2. Heal shame instead of racing it.
+3. Restore, never punish.
+4. Leave the gate open.
+5. Walk away instead of war.
+6. Be a node, not a star.
+7. Open what you make.
+8. Do not manipulate.
+9. Let failure be caught, not condemned.
 10. Be the quiet point where the machine has no leverage.
 
 ---
@@ -462,18 +462,18 @@ The ten rules only hold if the underlying shame and fear are being actively work
 
 *Grok the Rock: Three Quiet Stories* moves through Being, Mending, and Seeing. For a child the stories are gentle and sufficient. For an adult they function as a precise diagnostic and practice manual.
 
-**Being – “Grok and the Small Feeling”**  
-The small feeling is shame. Grok does not outrun it by becoming impressive, nor does he erase himself to avoid it. He sits with it until it softens and he can act from his actual size.  
+**Being – “Grok and the Small Feeling”**
+The small feeling is shame. Grok does not outrun it by becoming impressive, nor does he erase himself to avoid it. He sits with it until it softens and he can act from his actual size.
 
 Adult practice: When the familiar heat or cold of inadequacy appears, do not immediately manage the room or disappear from it. Name the feeling privately (“this is the small feeling”). Stay with it for a measured amount of time—often about ninety seconds—**if you are safe enough to stay**. If you are flooded, frozen, fleeing, or appeasing, reduce threat first (Part One); do not turn “sitting with it” into another performance demand. Stand is holding a real limit without racing into fight—still not the same as open connection. The goal is not to romanticize shame. The goal is to stop letting threat mode drive the next move, and to return toward connection when the body can.
 
-**Mending – “Grok Tends It”**  
-A break occurs. The surrounding voices suggest punishment or distance. Grok invites the one who caused the break to repair it with him. The vine grows back stronger at the join.  
+**Mending – “Grok Tends It”**
+A break occurs. The surrounding voices suggest punishment or distance. Grok invites the one who caused the break to repair it with him. The vine grows back stronger at the join.
 
 Adult practice: When harm happens, the first sustained question is “What exactly was broken and how do we repair it?” Protecting the injured party is non-negotiable. At the same time, the one who caused the harm is not treated as permanently disqualified. The repair is concrete: acknowledgment, changed behavior, restitution where possible. Bonds that survive honest repair are usually more trustworthy afterward than bonds that have never been tested.
 
-**Seeing – “Grok and the True Word”**  
-A useful object is improved by a humble suggestion and left free of ownership claims. Status is irrelevant to the test.  
+**Seeing – “Grok and the True Word”**
+A useful object is improved by a humble suggestion and left free of ownership claims. Status is irrelevant to the test.
 
 Adult practice: Evaluate ideas, criticisms, and proposals by their actual function and truthfulness. Refuse the shortcut of accepting or rejecting them according to the speaker’s standing. Release useful patterns without requiring ongoing credit or control.
 
@@ -485,18 +485,18 @@ Taken together, the three movements train the same sequence the ten rules requir
 
 *Hai Ikthiss: Three Tall Tales* works the complementary problem: empty pride, the hollow that forms when praise and height are used to outrun fear, and the descent required for real connection.
 
-**Being – “Hai and the Empty Praise”**  
-Hai receives admiration that does not actually see him. The cup remains empty. The high place does not solve the loneliness of being unseen.  
+**Being – “Hai and the Empty Praise”**
+Hai receives admiration that does not actually see him. The cup remains empty. The high place does not solve the loneliness of being unseen.
 
 Adult practice: Notice when you are performing for applause or respect that never quite satisfies. The emptiness is diagnostic. It signals that the self is still trying to outrun shame or fear by collecting external reflections. The practice is to stop demanding that others fill the cup and to begin the slower work of becoming visible in ordinary, non-performative ways.
 
-**Mending – “Kai Walks Below”**  
-Hai descends in humble form; the animals call him Kai. He becomes small enough to work at the root level and mends a break through shared labor rather than from above.  
+**Mending – “Kai Walks Below”**
+Hai descends in humble form; the animals call him Kai. He becomes small enough to work at the root level and mends a break through shared labor rather than from above.
 
 Adult practice: When you hold relative height (age, skill, resources, moral credibility), the default temptation is to manage the situation from that height. The story insists on the descent: the willingness to work at the same level as the break, without the protection of status. This is one of the hardest movements for people who have learned to stay safe by remaining above the mess.
 
-**Seeing – “Hai and the Far Sight”**  
-Fear isolates. Shared height, freely offered, allows others to see what they could not see alone. The lift is temporary and relational, not a new permanent ranking.  
+**Seeing – “Hai and the Far Sight”**
+Fear isolates. Shared height, freely offered, allows others to see what they could not see alone. The lift is temporary and relational, not a new permanent ranking.
 
 Adult practice: When fear is running (fear of blame, fear of being controlled, fear of being irrelevant), the common responses are preemptive attack or withdrawal. The alternative is to risk eye-level connection and, when you have capacity, to offer temporary perspective without turning it into a permanent position of superiority.
 
@@ -508,17 +508,17 @@ The two books together cover the full cycle: the small feeling and the empty hig
 
 Insight fades. Practices erode under ordinary stress. The following habits are deliberately small. Their power is in repetition.
 
-**Daily**  
-- Notice one instance of the small feeling or the empty high place. Stay with it briefly instead of racing it.  
-- Make at least one statement of preference, boundary, or observation without padding or dominance.  
+**Daily**
+- Notice one instance of the small feeling or the empty high place. Stay with it briefly instead of racing it.
+- Make at least one statement of preference, boundary, or observation without padding or dominance.
 - If a break occurred, take one concrete step toward naming or repairing it.
 
-**Weekly**  
-- Review unresolved breaks. Choose one for repair or deliberate release.  
-- Check where status was granted, sought, or feared. Reduce one instance.  
+**Weekly**
+- Review unresolved breaks. Choose one for repair or deliberate release.
+- Check where status was granted, sought, or feared. Reduce one instance.
 - If children are present, read one of the stories aloud. Reading them to a child is itself practice of the same movements; adults almost always hear what they need while reading.
 
-**When stuck**  
+**When stuck**
 If flooded or frozen: safety and regulation first (see How to Use This Book)—then the story. Work only the single movement most needed: Being when shame is loud, Mending when a break is fresh, Seeing when status or fear of blame is distorting perception.
 
 The inner work does not finish. It becomes a maintained capacity, the same way physical strength is maintained. The children’s books keep the language simple enough that the work can continue even when energy and sophistication are low. The same daily and weekly moves appear as a one-page card under Closing Material.
@@ -777,13 +777,13 @@ This pattern is a simple way to handle planning, moderation, and conflict withou
 
 **The roles**
 
-- **Planner**  
+- **Planner**
   The person who proposes a plan, names the concern, or offers a possible solution. In a two-person situation this is the one who “cuts the cake.” Because the Planner chooses last (or has no special claim on the outcome), they have a strong incentive to propose something fair.
 
-- **Reviewers**  
+- **Reviewers**
   The people who examine the proposal from their own angles, bring relevant information, and test it for real-world effects. In a conflict, the Reviewers are often those who understand the harm from lived experience.
 
-- **Approvers**  
+- **Approvers**
   The people whose genuine consent is required for the plan to move forward. Approval is shown by clear willingness (relief, agreement, or earnest request), not by pressured compliance. Reviewers may also be Approvers, or may only advise. If the aim is real consensus, every stakeholder who must live with the result should hold Approver power (or be the temporary Planner), even when others only review.
 
 **Basic application**
@@ -997,26 +997,26 @@ At that point the work becomes ordinary maintenance rather than pioneering. The 
 ### Order of Practice
 *A short daily and weekly reference (fuller notes in Part Three)*
 
-**Daily**  
-- Notice one instance of the small feeling or the empty high place. Stay with it briefly instead of racing it.  
-- Make at least one statement of preference, boundary, or observation without padding or dominance.  
+**Daily**
+- Notice one instance of the small feeling or the empty high place. Stay with it briefly instead of racing it.
+- Make at least one statement of preference, boundary, or observation without padding or dominance.
 - If a break occurred, take one concrete step toward naming or repairing it.
 
-**Weekly**  
-- Review unresolved breaks. Choose one for repair or deliberate release.  
-- Check where status was granted, sought, or feared. Reduce one instance.  
+**Weekly**
+- Review unresolved breaks. Choose one for repair or deliberate release.
+- Check where status was granted, sought, or feared. Reduce one instance.
 - If children are present, read one of the stories aloud.
 
-**When conflict arises**  
-1. Protect the injured.  
-2. Name the specific harm.  
-3. Seek concrete repair.  
+**When conflict arises**
+1. Protect the injured.
+2. Name the specific harm.
+3. Seek concrete repair.
 4. Use Planner–Reviewer–Approver when a decision must be made among several people.
 
-**When stuck**  
+**When stuck**
 If flooded or frozen: safety and regulation first (see How to Use This Book)—then the story. Work only the single movement most needed: Being, Mending, or Seeing.
 
-**When someone else is in threat mode**  
+**When someone else is in threat mode**
 Protect the injured. Reduce spectacle. Do not demand perfect rule language from a body that is still fighting, fleeing, shut down, or appeasing. Hold real limits (Rule 3 / stand). Invite repair when connection is possible again.
 
 ---
@@ -1025,15 +1025,15 @@ Protect the injured. Reduce spectacle. Do not demand perfect rule language from 
 
 These references are offered as sources of clarity, not as membership requirements.
 
-1. Let truth stand on its own legs — Proverbs 18:17; John 7:24  
-2. Heal shame instead of racing it — Psalm 51:6; Isaiah 66:2  
-3. Restore, never punish — Matthew 18:15–17; Galatians 6:1  
-4. Leave the gate open — Isaiah 58:6–7; Acts 4:32–35 (descriptive of early practice); Matthew 25:40  
-5. Walk away instead of war — Matthew 10:14; Proverbs 22:3  
-6. Be a node, not a star — Matthew 23:8–12; 1 Corinthians 12:21–25  
-7. Open what you make — Matthew 10:8; 2 Corinthians 9:6–9  
-8. Do not manipulate — Matthew 5:37; 2 Corinthians 4:2  
-9. Let failure be caught, not condemned — Luke 17:3–4; James 5:19–20  
+1. Let truth stand on its own legs — Proverbs 18:17; John 7:24
+2. Heal shame instead of racing it — Psalm 51:6; Isaiah 66:2
+3. Restore, never punish — Matthew 18:15–17; Galatians 6:1
+4. Leave the gate open — Isaiah 58:6–7; Acts 4:32–35 (descriptive of early practice); Matthew 25:40
+5. Walk away instead of war — Matthew 10:14; Proverbs 22:3
+6. Be a node, not a star — Matthew 23:8–12; 1 Corinthians 12:21–25
+7. Open what you make — Matthew 10:8; 2 Corinthians 9:6–9
+8. Do not manipulate — Matthew 5:37; 2 Corinthians 4:2
+9. Let failure be caught, not condemned — Luke 17:3–4; James 5:19–20
 10. Be the quiet point where the machine has no leverage — Micah 6:8; Philippians 2:3–4
 
 ---
@@ -1050,96 +1050,96 @@ The children’s books remain the simplest daily tools. The ten rules keep the m
 
 # Glossary of Terms
 
-**Agency**  
+**Agency**
 The capacity to act from one’s own center, to choose, and to have those choices matter. Violation of agency (control, humiliation, erasure) is the most common root of lasting shame.
 
-**Approver**  
+**Approver**
 In the Planner–Reviewer–Approver pattern, the person or people whose genuine consent is required for a plan to move forward. Approval is real willingness, not pressured compliance.
 
-**Being**  
+**Being**
 The first movement in both children’s books. Staying with the actual feeling or condition (the small feeling, the empty cup) instead of immediately racing into dominance or disappearance. Assumes or rebuilds enough safety for the nervous system to come toward connection.
 
-**Connection**  
+**Connection**
 The return state in which a person is present enough for curiosity, openness, and repair—not one of the four defensive postures. Contrasted with fight, flight, freeze/fawn, and stand. The ten rules are learnable here; in pure threat weather they are mostly unreachable until safety returns. Stand can hold a limit before full connection is available.
 
-**Empty cup / Empty praise**  
+**Empty cup / Empty praise**
 The hollow that remains when admiration or height is used to outrun the fear of being unseen or inadequate. Praise that does not actually see the person leaves the cup empty.
 
-**Exclusion spiral**  
+**Exclusion spiral**
 The habit of perfecting a group by removing the imperfect, then removing the next imperfect, until almost no one remains safe. A hallmark of ranking order; the opposite of catching failure for repair. See Rule 9.
 
-**Fight / flight / freeze/fawn / stand**  
+**Fight / flight / freeze/fawn / stand**
 Four defensive postures on two axes (active/passive × avoid/confront). See the grid in Part One.
 
-- **Fight** — active confrontation  
-- **Flight** — active avoidance  
-- **Freeze/fawn** — passive avoidance (shutdown or early appeasement)  
+- **Fight** — active confrontation
+- **Flight** — active avoidance
+- **Freeze/fawn** — passive avoidance (shutdown or early appeasement)
 - **Stand** — passive confrontation (stable defense without chase or conquest)
 
 Protective in origin; harmful when fight, flight, or freeze/fawn become the only available weather. Stand is the stable edge; connection is a separate return state. Not free moral programs. Stand at scale under Rule 3.
 
-**Hedge**  
+**Hedge**
 A protective habit or precaution (for example: don’t raise voices after nine; don’t discuss money in front of kids). Many hedges are wise. Corruption begins when the hedge is enforced as if it were the whole of justice while real harm to a person or bond is ignored. See Part Six.
 
-**Leverage**  
+**Leverage**
 Any use of status, dependence, emotion, silence, or resources to force an outcome or to make another person smaller. The rules aim to reduce the overall amount of leverage in relationships and groups.
 
-**Mending / Repair / Restoration**  
+**Mending / Repair / Restoration**
 The concrete work of acknowledging specific harm, protecting the injured party, and helping both the one who was hurt and the one who caused the hurt to become whole enough to continue. Distinct from punishment, which adds harm. See also protective limit.
 
-**Node**  
+**Node**
 A person or household that participates as a peer rather than as a permanent center. Nodes form constellations; stars form solar systems with dependents.
 
-**Open pattern**  
+**Open pattern**
 A method, design, or teaching others can use, copy, fix, and improve without ongoing dependence on the original holder. An ideal of Rule 7; often only partly available in present life. Not a purity test against people whose livelihood still requires closed work.
 
-**Operating system**  
+**Operating system**
 Metaphor for the usually unspoken rules that actually govern how status, failure, truth, and belonging work in a household or community. Most default operating systems run on shame and ranking.
 
-**Peer standing**  
+**Peer standing**
 Equality of basic worth and consent among adults. Roles and skills differ; no human office owns another person’s agency. Repair order assumes peer standing; ranking order denies it.
 
-**Place / material floor**  
+**Place / material floor**
 Stable access to the ordinary means of living (shelter, skill, tools, and where chosen, an inheritable productive stake) so that shame and fear of having no place cannot be used as easy leverage. Optional community patterns may restore baseline inheritances on a long cycle so multi-generational dispossession is harder. Not required for the ten rules; a possible security layer.
 
-**Planner**  
+**Planner**
 In the Planner–Reviewer–Approver pattern, the person who proposes a plan or names a possible solution. The Planner does not get unilateral power to decide the outcome.
 
-**Protective limit**  
+**Protective limit**
 A boundary drawn from what you legitimately steward (self, dependents, property, entrusted roles), aimed at stopping further harm rather than at ranking or retaliating. Distinct from punishment and from punitive exile. Full treatment under Rule 3.
 
-**Ranking**  
+**Ranking**
 The everyday practice of ordering people as higher or lower in worth, voice, or belonging. Ranking is the primary social expression of unhealed shame.
 
-**Ranking order**  
+**Ranking order**
 A social pattern that manages people through status, penalty, control, and exclusion. Justice becomes suffering owed; mercy becomes a bargain; unity becomes forced sameness. It requires constant force and tends to consume trust. Contrasted with repair order in Part One.
 
-**Repair order**  
+**Repair order**
 A social pattern that manages harm through truth, healing, protection of the vulnerable, and real consent. Justice mends; mercy liberates; judgment discerns; unity is voluntary. The ten rules are its ordinary form. Contrasted with ranking order in Part One.
 
-**Reviewer**  
+**Reviewer**
 In the Planner–Reviewer–Approver pattern, the people who examine a proposal from their lived perspective, bring relevant information, and test its real effects. Reviewers may also hold Approver power, or may only advise.
 
-**Shame**  
+**Shame**
 The painful sense that one is inadequate, unwanted, or fundamentally at risk of losing belonging. Distinct from guilt (which concerns an action). Shame is the root fuel for both dominance and collapse, and often rides with fight, flight, or freeze/fawn.
 
-**Small feeling**  
+**Small feeling**
 The children’s-book name for the ordinary experience of shame or inadequacy. Grok sits with the small feeling instead of racing it.
 
-**Stand**  
+**Stand**
 Passive confrontation: hold the line on what you legitimately steward without chase, conquer, or trophy. The fourth defensive posture (with fight, flight, freeze/fawn)—the passive/confront cell of the Part One grid. Not connection, and not fight wearing boundary clothes. Craft under Rule 3.
 
-**Star**  
+**Star**
 A person who becomes the permanent or semi-permanent center through which information, decisions, and emotional regulation must flow. The opposite of a node.
 
-**Status**  
+**Status**
 Relative social standing used as currency. The rules treat status as a poor substitute for truth and connection.
 
-**Threat mode**  
+**Threat mode**
 When the body is in fight, flight, or freeze/fawn (and sometimes a rigid stand that is not yet open connection). Learning and full use of the ten rules are mostly unreachable until safety returns. Demanding perfect insight or apology shape in threat mode is ranking dressed as seriousness. See Part One.
 
-**Walking away**  
+**Walking away**
 The practiced reduction of participation, attention, and dependence that feeds a destructive or captured structure, while simultaneously building alternative capacity. Distinct from impulsive abandonment or punitive exile.
 
-**Weather**  
+**Weather**
 Metaphor for the ordinary relational climate of a household or community—what people come to expect about status, failure, truth, and repair. Ranking weather runs on leverage and shame; repair weather makes mending ordinary. The book’s later parts ask when repair has become the default weather rather than a pioneer project.
