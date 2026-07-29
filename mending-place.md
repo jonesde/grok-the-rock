@@ -27,7 +27,7 @@ This book is a practical guide for people who want their relationships, househol
 
 It does not offer a new ideology. It offers a clearer set of practices for things most of us already claim to value: truth that does not need a pedigree, relationships that can survive failure, and strength that does not require someone else to be small.
 
-Two companion books for children already exist. *Grok the Rock* and *Hai Ikthiss* walk through the same territory in story form—being, mending, and seeing. This adult guide assumes you have those books available. They are the simplest, most repeatable tools for daily use. This book exists to remove the common obstacles that keep adults from living what the stories show.
+Two companion books for children already exist. *Grok the Rock* and *Hai Ikthiss* walk through the same territory in story form: being, mending, and seeing. This adult guide assumes you have those books available. They are the simplest, most repeatable tools for daily use. This book exists to remove the common obstacles that keep adults from living what the stories show.
 
 The work begins with one person who is willing to stop performing and start repairing. It spreads through households. Under the right conditions it can become the ordinary weather of a whole community. The sequence is not theoretical. It has been observed in the small, quiet ways people actually change how they treat each other when they decide the old patterns cost too much.
 
@@ -54,7 +54,7 @@ No outside expert is required to begin. One person who has walked the material c
 
 Across older wisdom traditions there is a recurring shape: something is broken or scattered; a quiet, patient work of re-forming begins from inside the damage; the work does not rely on status or force; eventually what was broken becomes capable of standing and holding more than it could before. The mended place is often stronger than the original.
 
-This book stays with that shape. It does not require agreement on larger theological or historical claims. It only requires willingness to test whether the same logic—heal the root, restore rather than punish, refuse both false height and collapse—produces better results in ordinary life than the alternatives most of us default to.
+This book stays with that shape. It does not require agreement on larger theological or historical claims. It only requires willingness to test whether the same logic produces better results in ordinary life than the alternatives most of us default to. That logic is simple: heal the root, restore rather than punish, and refuse both false height and collapse.
 
 Scripture references appear where they directly illuminate the practice. They are offered as sources of clarity, not as membership tests.
 
@@ -67,7 +67,7 @@ Scripture references appear where they directly illuminate the practice. They ar
 
 Shame is the feeling that something essential in us has been exposed as inadequate, unwanted, or wrong. It is not the same as guilt. Guilt says “I did something bad.” Shame says “I am something bad,” or at least “I am not enough to belong here without performing.”
 
-When agency has been violated—when a person has been treated as an object, controlled, humiliated, or made invisible—shame is the common result. The nervous system records the loss of standing and begins scanning for ways to never feel that small again.
+When agency has been violated, shame is the common result. That violation includes being treated as an object, controlled, humiliated, or made invisible. The nervous system records the loss of standing and begins scanning for ways to never feel that small again.
 
 Two primary strategies appear.
 
@@ -114,7 +114,7 @@ First, the diagnosis is incomplete. People notice surface behaviors (anger, with
 
 Second, the available tools are mostly individual. A person can decide to be less reactive, more patient, more generous. Those decisions help. They do not automatically change the relational system that rewards status performance and punishes vulnerability. Without shared practices that make repair safer than ranking, individual virtue is constantly swimming against the current.
 
-Third, failure is still treated as disqualifying. When someone who is trying to live differently inevitably slips—becomes defensive, reaches for control, or collapses—the surrounding response often reverts to the old pattern: distance, judgment, or quiet exclusion. The person concludes that the new way is impossible and returns to what is familiar. The community never accumulates enough successful repairs to trust the alternative.
+Third, failure is still treated as disqualifying. When someone who is trying to live differently inevitably slips, the surrounding response often reverts to the old pattern: distance, judgment, or quiet exclusion. The slip may look like becoming defensive, reaching for control, or collapsing. The person concludes that the new way is impossible and returns to what is familiar. The community never accumulates enough successful repairs to trust the alternative.
 
 The material in this book and in the two children’s books is designed to close those three gaps. It names the root (shame and the two false solutions). It supplies shared practices that can be used by more than one person at a time. And it treats failure as the expected place where the bond can actually become stronger if the repair is done honestly.
 
@@ -160,7 +160,7 @@ See also: Proverbs 18:17; John 7:24 (“Do not judge by appearances, but judge w
 
 ### 2. Heal shame instead of racing it
 
-Almost all compulsive power behavior is someone running from the feeling of smallness—either by dominating (to outrun it) or by submitting (to be shielded from it). Both build the cage. The real work is to heal the shame at the root, first in yourself, then by refusing to enforce shame on others. Never grant status as a prize. Never withhold it as a weapon.
+Almost all compulsive power behavior is someone running from the feeling of smallness, either by dominating (to outrun it) or by submitting (to be shielded from it). Both build the cage. The real work is to heal the shame at the root, first in yourself, then by refusing to enforce shame on others. Never grant status as a prize. Never withhold it as a weapon.
 
 In a household this means noticing when a child or partner is being driven by the need to feel bigger or safer, and addressing the underlying smallness instead of only managing the behavior. In a community it means refusing to participate in the everyday ranking that keeps people managing their image rather than telling the truth.
 
@@ -176,11 +176,11 @@ See also: Psalm 51:6; Isaiah 66:2.
 
 ### 3. Restore, never punish
 
-Harm will happen. The goal is to help the one who was hurt and to heal the one who did the hurting—not to add more harm and call it justice. Punishment is sanctioned dominance. It teaches the next generation that power is the right to hurt in return. Restoration is the only move that does not plant the next wound. Bonds survive not by being unbreakable but by being repairable.
+Harm will happen. The goal is to help the one who was hurt and to heal the one who did the hurting. It is not to add more harm and call it justice. Punishment is sanctioned dominance. It teaches the next generation that power is the right to hurt in return. Restoration is the only move that does not plant the next wound. Bonds survive not by being unbreakable but by being repairable.
 
 In a household this means that when damage occurs, the primary questions are “What was broken?” and “How do we repair it?” rather than “What penalty is owed?” In a community it means designing responses to failure that protect the vulnerable while still aiming at the restoration of the person who caused harm.
 
-Protective limits are not punishment. Guarding your body, your dependents, your property, and the stewardships actually entrusted to you—by withdrawing access, setting distance, or refusing further exposure—is boundary work. It aims at stopping further harm, not at making the other person suffer or lose standing as a spectacle. Escalation, retaliation, and public ranking dressed up as “consequences” reintroduce the old operating system. Keep limits personal, proportional, and tied to what you legitimately steward; leave a path of return that depends on demonstrated change, not on the injured party absorbing unlimited cost.
+Protective limits are not punishment. Guarding your body, your dependents, your property, and the stewardships actually entrusted to you is boundary work. You do it by withdrawing access, setting distance, or refusing further exposure. It aims at stopping further harm, not at making the other person suffer or lose standing as a spectacle. Escalation, retaliation, and public ranking dressed up as “consequences” reintroduce the old operating system. Keep limits personal, proportional, and tied to what you legitimately steward; leave a path of return that depends on demonstrated change, not on the injured party absorbing unlimited cost.
 
 Common fakes: calling revenge “accountability,” using restoration language while still primarily seeking the other person’s suffering, or demanding premature forgiveness that skips the actual repair of harm.
 
@@ -196,7 +196,7 @@ See also: Matthew 18:15–17 (the sequence begins with direct address and aims a
 
 No one should have to trade their whole life for basic access to the means of living. Survival access is not a favor granted by controllers; it is the baseline. You do not fix this by seizing the barn. You make the gate less relevant: share tools, maintain commons where possible, strengthen local loops that let people meet ordinary needs without permanent dependence on a distant center.
 
-In a household this looks like refusing to use money, information, or emotional resources as permanent levers of control. In a community it looks like building practical redundancy—skills, tools, food, childcare, transportation—so that ordinary life does not require constant submission to whatever person or institution currently holds the scarce resource.
+In a household this looks like refusing to use money, information, or emotional resources as permanent levers of control. In a community it looks like building practical redundancy so that ordinary life does not require constant submission to whatever person or institution currently holds the scarce resource. That redundancy includes skills, tools, food, childcare, and transportation.
 
 Common fakes: performing generosity while keeping the real levers firmly in hand, or preaching independence while maintaining structures that make independence impossible.
 
@@ -210,7 +210,7 @@ See also: Isaiah 58:6–7; Acts 4:32–35 (descriptive of early practice).
 
 ### 5. Walk away instead of war
 
-You rarely overthrow a captured center by direct assault. More often you withdraw the substrate that holds it up—your participation, your attention, your dependence. No dramatic mobilization against. No coercion. Just the steady attrition of people deciding they can stand outside. The center does much of its own collapsing once the necessary attention and compliance are gone. Your responsibility is to have built the alternative capacity before people need the exit.
+You rarely overthrow a captured center by direct assault. More often you withdraw the substrate that holds it up: your participation, your attention, your dependence. No dramatic mobilization against. No coercion. Just the steady attrition of people deciding they can stand outside. The center does much of its own collapsing once the necessary attention and compliance are gone. Your responsibility is to have built the alternative capacity before people need the exit.
 
 In a household this can mean refusing to keep feeding a destructive dynamic by constant engagement on its terms. In a community it means building working alternatives so that exit is possible without catastrophe.
 
@@ -218,7 +218,7 @@ Common fakes: performing “walking away” while still obsessively monitoring a
 
 Diagnostic question: Where am I still giving attention, compliance, or emotional energy to a structure that reliably produces harm, and what concrete capacity would make that contribution less necessary?
 
-Seven-day experiment: Choose one low-stakes arena where you habitually feed a status or control game. Reduce your contribution by half for a week and observe what happens—both in the system and in yourself.
+Seven-day experiment: Choose one low-stakes arena where you habitually feed a status or control game. Reduce your contribution by half for a week and observe what happens, both in the system and in yourself.
 
 See also: Matthew 10:14; Proverbs 22:3.
 
@@ -234,7 +234,7 @@ Common fakes: claiming to be “just a node” while still arranging to be the i
 
 Diagnostic question: In the groups that matter to me, how much of the important information, decision-making, and emotional regulation still flows through one or two people?
 
-Seven-day experiment: In one ongoing group or relationship, deliberately route a piece of information or a small decision through a peer rather than through the usual center. Notice the resistance—yours and others’.
+Seven-day experiment: In one ongoing group or relationship, deliberately route a piece of information or a small decision through a peer rather than through the usual center. Notice the resistance, yours and others’.
 
 See also: Matthew 23:8–12; 1 Corinthians 12:21–25.
 
@@ -258,7 +258,7 @@ See also: Matthew 10:8; 2 Corinthians 9:6–9.
 
 ### 8. Don’t manipulate
 
-No deceptive framing, no engineered consent, no coercive emotional push. Speak plainly. Let people choose—including choosing what you think is wrong. A bond is only real if the other person remains free to decline it. Anything obtained by manipulation is not a bond; it is a leash.
+No deceptive framing, no engineered consent, no coercive emotional push. Speak plainly. Let people choose, including choosing what you think is wrong. A bond is only real if the other person remains free to decline it. Anything obtained by manipulation is not a bond; it is a leash.
 
 In a household this means ending the everyday techniques of guilt, obligation theater, and strategic silence. In a community it means refusing rhetorical tricks that make disagreement feel like moral failure.
 
@@ -282,7 +282,7 @@ Common fakes: endless self-condemnation that avoids actual repair, or premature 
 
 Diagnostic question: When I or someone else fails in a way that matters, is the surrounding response primarily oriented toward permanent ranking or toward specific repair?
 
-Seven-day experiment: Identify one recent failure (yours or someone else’s) that is still carrying residual distance or judgment. Make one concrete repair move—acknowledgment, restitution, or changed behavior—and note the effect on the relationship.
+Seven-day experiment: Identify one recent failure (yours or someone else’s) that is still carrying residual distance or judgment. Make one concrete repair move (acknowledgment, restitution, or changed behavior) and note the effect on the relationship.
 
 See also: Luke 17:3–4; James 5:19–20.
 
@@ -290,7 +290,7 @@ See also: Luke 17:3–4; James 5:19–20.
 
 ### 10. Be the quiet point where the machine has no leverage
 
-You cannot fix the whole world. You can become one location where the status-and-power game has no reliable grip—because you will not grant status as a prize, claim it as a right, or fear its loss. One such point does little. Many such points, mostly unknown to each other, change the weather. The constellation does not need a headquarters.
+You cannot fix the whole world. You can become one location where the status-and-power game has no reliable grip, because you will not grant status as a prize, claim it as a right, or fear its loss. One such point does little. Many such points, mostly unknown to each other, change the weather. The constellation does not need a headquarters.
 
 In a household this means one or two adults who have simply stopped playing the old leverage games, creating a zone where those games produce diminishing returns. In a community it means enough people who have made the same decision that the old incentives begin to weaken.
 
@@ -311,7 +311,7 @@ These ten practices are not a ladder to be climbed in order. They are concurrent
 # Part Three
 ## The Inner Work
 
-The ten practices only hold if the underlying shame and fear are being actively worked. Otherwise the practices become another performance—another way to feel superior or another set of rules to collapse under. The two children’s books are the primary tools for that inner work. This part shows how to use them as an adult.
+The ten practices only hold if the underlying shame and fear are being actively worked. Otherwise the practices become another performance: another way to feel superior or another set of rules to collapse under. The two children’s books are the primary tools for that inner work. This part shows how to use them as an adult.
 
 ---
 
@@ -322,7 +322,7 @@ The ten practices only hold if the underlying shame and fear are being actively 
 **Being – “Grok and the Small Feeling”**  
 The small feeling is shame. Grok does not outrun it by becoming impressive, nor does he erase himself to avoid it. He sits with it until it softens and he can act from his actual size.  
 
-Adult practice: When the familiar heat or cold of inadequacy appears, do not immediately manage the room or disappear from it. Name the feeling privately (“this is the small feeling”). Stay with it for a measured amount of time—ninety seconds is often enough to interrupt the automatic race. Only then decide what, if anything, needs to be done. The goal is not to romanticize shame. The goal is to stop letting it drive the next move.
+Adult practice: When the familiar heat or cold of inadequacy appears, do not immediately manage the room or disappear from it. Name the feeling privately (“this is the small feeling”). Stay with it for a measured amount of time. Ninety seconds is often enough to interrupt the automatic race. Only then decide what, if anything, needs to be done. The goal is not to romanticize shame. The goal is to stop letting it drive the next move.
 
 **Mending – “Grok Tends It”**  
 A break occurs. The surrounding voices suggest punishment or distance. Grok invites the one who caused the break to repair it with him. The vine grows back stronger at the join.  
@@ -340,7 +340,7 @@ Taken together, the three movements train the same sequence the ten practices re
 
 ### 2. How to Read *Hai Ikthiss* as an Adult
 
-*Hai Ikthiss: Three Tall Tales* works the complementary problem—empty pride, the hollow that forms when praise and height are used to outrun fear, and the descent required for real connection.
+*Hai Ikthiss: Three Tall Tales* works the complementary problem: empty pride, the hollow that forms when praise and height are used to outrun fear, and the descent required for real connection.
 
 **Being – “Hai and the Empty Praise”**  
 Hai receives admiration that does not actually see him. The cup remains empty. The high place does not solve the loneliness of being unseen.  
@@ -350,7 +350,7 @@ Adult practice: Notice when you are performing for applause or respect that neve
 **Mending – “Kai Walks Below”**  
 The tall one descends, becomes small enough to work at the root level, and mends a break through shared labor rather than from above.  
 
-Adult practice: When you hold relative height—age, skill, resources, moral credibility—the default temptation is to manage the situation from that height. The story insists on the descent: the willingness to work at the same level as the break, without the protection of status. This is one of the hardest movements for people who have learned to stay safe by remaining above the mess.
+Adult practice: When you hold relative height (age, skill, resources, moral credibility), the default temptation is to manage the situation from that height. The story insists on the descent: the willingness to work at the same level as the break, without the protection of status. This is one of the hardest movements for people who have learned to stay safe by remaining above the mess.
 
 **Seeing – “Hai and the Far Sight”**  
 Fear isolates. Shared height, freely offered, allows others to see what they could not see alone. The lift is temporary and relational, not a new permanent ranking.  
@@ -375,7 +375,7 @@ Insight fades. Practices erode under ordinary stress. The following habits are d
 - Shared reading: If children are present, read one of the quiet stories or tall tales aloud. The act of reading them to a child is itself a practice of the same movements; adults almost always hear what they need to hear while reading.
 
 **When stuck**  
-Return to the specific story that addresses the current difficulty. Do not try to solve the entire personality at once. Work the single movement that is most relevant—Being when shame is loud, Mending when a break is fresh, Seeing when status or fear of blame is distorting perception.
+Return to the specific story that addresses the current difficulty. Do not try to solve the entire personality at once. Work the single movement that is most relevant: Being when shame is loud, Mending when a break is fresh, Seeing when status or fear of blame is distorting perception.
 
 The inner work does not finish. It becomes a maintained capacity, the same way physical strength is maintained. The children’s books keep the language simple enough that the work can continue even when energy and sophistication are low. That is their advantage over purely adult formulations. A one-page card of the same daily and weekly moves appears under Closing Material for quick reference.
 
@@ -384,7 +384,7 @@ The inner work does not finish. It becomes a maintained capacity, the same way p
 # Part Four
 ## Household and Kin
 
-The household is the first durable unit. If the practices cannot survive ordinary family stress—tiredness, money pressure, parenting conflict, the inevitable failures of people who live in close quarters—they will not survive anywhere else. This part focuses on making the household the seed rather than the exception.
+The household is the first durable unit. If the practices cannot survive ordinary family stress, they will not survive anywhere else. That stress includes tiredness, money pressure, parenting conflict, and the inevitable failures of people who live in close quarters. This part focuses on making the household the seed rather than the exception.
 
 ---
 
@@ -401,7 +401,7 @@ This kind of household becomes a living demonstration. Other people feel the dif
 - Money stress is named as a shared problem rather than turned into a contest over who is more responsible or more suffering.
 - A child’s public embarrassment is not treated as a referendum on the parent’s worth.
 - One adult can say “I was wrong about that” without the other treating it as permanent leverage.
-- Bedtime, chores, and screens are negotiated with plain requests and real “no” options where safety allows—not with guilt theater or volume.
+- Bedtime, chores, and screens are negotiated with plain requests and real “no” options where safety allows, not with guilt theater or volume.
 - After a sharp exchange, someone usually comes back the same day with a specific repair, not a vague “sorry you feel that way.”
 
 **What it does not require**
@@ -416,7 +416,7 @@ It does not require equal temperament, identical politics, or a household free o
 - Pick one recurring friction (morning rush, money talk, screen time, in-law visits) and practice the repair sequence there until it becomes boring. Boring is success.
 - When you catch yourself storing a grievance for later ammunition, name it that day or deliberately release it. Stored ammunition is the old operating system on delay.
 
-A useful household test: if a visitor stayed a week, would they notice less ranking and faster repair—or only nicer slogans on the wall? The seed is the lived weather, not the language.
+A useful household test: if a visitor stayed a week, would they notice less ranking and faster repair, or only nicer slogans on the wall? The seed is the lived weather, not the language.
 
 ---
 
@@ -434,7 +434,7 @@ Third, require and support concrete repair. Acknowledgment of the actual harm, c
 
 Distance is sometimes necessary for safety. Permanent exile as the default response is not. The difference is whether the household still holds a path back that depends on demonstrated change rather than on the passage of time or on the injured party simply absorbing the cost.
 
-Protective limits stay personal and stewardship-based: your body and peace, dependents in your care, property you own, and roles you are actually responsible to hold. You may withdraw access, pause shared arrangements, or refuse further exposure. You do not escalate, retaliate, or recruit an audience to rank the offender. Limits stop harm; punishment adds it. When the break involves violence, ongoing abuse, or danger beyond what the household can safely hold, get appropriate outside help immediately—the practices do not replace medical, legal, or protective response.
+Protective limits stay personal and stewardship-based: your body and peace, dependents in your care, property you own, and roles you are actually responsible to hold. You may withdraw access, pause shared arrangements, or refuse further exposure. You do not escalate, retaliate, or recruit an audience to rank the offender. Limits stop harm; punishment adds it. When the break involves violence, ongoing abuse, or danger beyond what the household can safely hold, get appropriate outside help immediately. The practices do not replace medical, legal, or protective response.
 
 **A worked sequence (medium-stakes break)**
 
@@ -457,13 +457,13 @@ If the same pattern repeats without change, protective limits tighten. That is n
 
 The pattern spreads most reliably through ordinary proximity and observed fruit, not through persuasion campaigns. Once one household is stably practicing, the next steps are modest.
 
-Lend the children’s books without commentary when it feels natural. Answer questions when asked. Invite another household into ordinary shared activities where the different relational weather is simply present—meals, childcare swaps, practical help. Let the difference be felt before it is explained.
+Lend the children’s books without commentary when it feels natural. Answer questions when asked. Invite another household into ordinary shared activities where the different relational weather is simply present: meals, childcare swaps, practical help. Let the difference be felt before it is explained.
 
 When conversation does happen, keep it concrete. Speak about what you are trying to stop doing (using shame as leverage, treating failure as permanent ranking) and what you are trying to do instead (specific repair, truth without status). Avoid framing it as an advanced spiritual or psychological system. Most people respond better to usable reductions in daily pain than to comprehensive worldviews.
 
 **What invitation is**
 
-- “We found these stories help our kids—and us—when things get sharp. Borrow them if you want.”
+- “We found these stories help our kids, and us, when things get sharp. Borrow them if you want.”
 - Offering to sit with someone after a hard break without recruiting them into a worldview.
 - Being the household people call when they need a calm extra adult for an hour, not a lecture.
 - Sharing one practice that reduced pain (“we stopped settling arguments by who was louder”) rather than all ten at once.
@@ -479,7 +479,7 @@ Two or three additional households is enough to create a small cluster. At that 
 
 Resistance to campaigning is deliberate. As soon as the pattern becomes a program with recruiters, it begins to generate its own status games and its own shame dynamics. The quiet invitation through lived proximity is slower at first and more durable later.
 
-If no nearby household is ready, do not force it. Keep practicing. One solid household is already a seed. Density comes when the weather is real enough that others want the same relief—not when someone is skilled at persuasion.
+If no nearby household is ready, do not force it. Keep practicing. One solid household is already a seed. Density comes when the weather is real enough that others want the same relief, not when someone is skilled at persuasion.
 
 ---
 
@@ -507,7 +507,7 @@ In practice this often means:
 
 Some relationships will adapt over time as the new weather becomes ordinary. Some will not. The work does not require every kinship tie to convert. It requires that the converting households remain clear and steady enough to serve as living alternatives.
 
-**Children in mixed situations** need special care. They should not be used as messengers or as proof. They should see at least one adult consistently practicing repair and refusing leverage. That single steady point is often enough to give them a usable internal model later. Do not coach children to diagnose the refusing adult. Do not make them choose sides in a philosophy contest. Give them plain safety, plain apology when you fail, and the stories as ordinary comfort—not as coded weapons against the other parent or relative.
+**Children in mixed situations** need special care. They should not be used as messengers or as proof. They should see at least one adult consistently practicing repair and refusing leverage. That single steady point is often enough to give them a usable internal model later. Do not coach children to diagnose the refusing adult. Do not make them choose sides in a philosophy contest. Give them plain safety, plain apology when you fail, and the stories as ordinary comfort, not as coded weapons against the other parent or relative.
 
 **Extended kin.** Holidays and family systems often run on old ranking scripts. You can attend without converting the table. Reduce the fuel you add: fewer status comparisons, fewer gossip alliances, one clear exit when humiliation starts. Walking away from a scene is allowed. Burning the bridge for sport is the old system wearing new clothes.
 
@@ -539,7 +539,7 @@ Useful carriers (in rough order of durability):
 2. Observed repair in public or semi-public settings.
 3. Practical mutual aid that does not create permanent dependence.
 4. Shared decision habits (including Planner–Reviewer–Approver) that people reuse because they reduce drama.
-5. Only later—and lightly—explicit adult conversation about the ten practices.
+5. Only later, and lightly: explicit adult conversation about the ten practices.
 
 Useful indicators that diffusion is happening healthily:
 - The children’s books are circulating without a central distributor.
@@ -568,12 +568,12 @@ Over time, if enough participants share the same reflexes, the culture of the st
 Many people meet the practices first inside a church, mosque, synagogue, temple, school, or nonprofit. The pattern does not require hostility toward those institutions. It does require honesty about how easily they concentrate status in a few roles.
 
 Recommended direction:
-- Prefer peer-level discourse—open conversation among equals—over permanent dependence on a single professional voice for moral reality.
+- Prefer peer-level discourse (open conversation among equals) over permanent dependence on a single professional voice for moral reality.
 - Support community forums, councils, and ordinary meetings where proposals are tested by content and consent, not by office alone.
-- Let formal roles remain useful for logistics, care, teaching skill, and stewardship of shared goods—without treating the role-holder as the owner of belonging.
+- Let formal roles remain useful for logistics, care, teaching skill, and stewardship of shared goods, without treating the role-holder as the owner of belonging.
 - If a structure cannot tolerate repair, truth without pedigree, or distributed consent, do not capture it by intrigue. Reduce dependence on it for your household’s moral weather, and build or join peer spaces that can hold the practices. Migration of attention is allowed; coup is not.
 
-The alternative—attempting to capture formal authority in order to impose the practices—almost always recreates a new center and a new set of status contests. The pattern is allergic to that move.
+The alternative almost always recreates a new center and a new set of status contests. That alternative is attempting to capture formal authority in order to impose the practices. The pattern is allergic to that move.
 
 **Online spaces.** Neighborhood chats and social feeds amplify ranking and spectacle. Use them for logistics and plain information. Do not try to win the practices by thread. When conflict appears online, move repair offline quickly; public comment sections reward performance more than mending.
 
@@ -598,7 +598,7 @@ Public conflicts also attract people who enjoy the drama of moral ranking. The d
 - Speak to the smallest true audience first. Do not widen the circle for allies until safety or logistics require it.
 - Separate the incident from the person’s entire history unless the history is the ongoing harm.
 - Refuse anonymous pile-ons. If someone will not put a name and a specific claim to a charge, it is not yet usable material for repair.
-- Document agreements in plain language when money, children, or shared property are involved—not as legal theater by default, but as shared memory that reduces later rewriting.
+- Document agreements in plain language when money, children, or shared property are involved: not as legal theater by default, but as shared memory that reduces later rewriting.
 - After a public repair, do not keep replaying the injury as entertainment. The community’s job is to let the repair hold, not to keep the scandal warm.
 
 When a conflict involves multiple stakeholders and a decision must be reached, the Planner–Reviewer–Approver pattern (section 5) provides a structured way to keep power distributed and consent real rather than coerced.
@@ -644,7 +644,7 @@ This pattern is a simple way to handle planning, moderation, and conflict withou
   The people who examine the proposal from their own angles, bring relevant information, and test it for real-world effects. In a conflict, the Reviewers are often those who understand the harm from lived experience.
 
 - **Approvers**  
-  The people whose genuine consent is required for the plan to move forward. Approval is shown by clear willingness—relief, agreement, or earnest request—not by pressured compliance. If the aim is real consensus, every stakeholder should hold either Planner or Approver power on the matter.
+  The people whose genuine consent is required for the plan to move forward. Approval is shown by clear willingness (relief, agreement, or earnest request), not by pressured compliance. If the aim is real consensus, every stakeholder should hold either Planner or Approver power on the matter.
 
 **Basic application**
 
@@ -669,18 +669,18 @@ A volunteer team must decide how to handle a member who dropped responsibilities
 
 1. Someone not at the center of the injury drafts a proposal (Planner): what repair looks like, what temporary reassignment covers the gap, what path of return exists.
 2. People who carried the extra load review for accuracy and feasibility.
-3. Approvers include those whose ongoing work and trust are required for any path forward—often both the injured teammates and, where safe, the person who failed, if they are still in relationship.
+3. Approvers include those whose ongoing work and trust are required for any path forward. That often means both the injured teammates and, where safe, the person who failed, if they are still in relationship.
 4. Approval means willing consent to the plan, not a vote that steamrolls a minority who must still live with the result. If consent is missing, the Planner revises; they do not lecture the Approvers into compliance.
 
 **Community-forum walkthrough**
 
 A neighborhood or congregational group faces a contested shared resource (schedule, space, money, public statement).
 
-1. Appoint a temporary Planner who will not gain special status from the outcome—or rotate the role.
+1. Appoint a temporary Planner who will not gain special status from the outcome, or rotate the role.
 2. Planner publishes a plain proposal and the problem it addresses.
 3. Open review period: affected people add facts, costs, and unintended effects. Review is not a pile-on; personal attacks are out of bounds.
 4. Approvers are the stakeholders who must live with the result. Consent can be signalled in a meeting, by written assent, or by another transparent method the group trusts.
-5. If the group is too large for full consensus, define in advance who holds Approver power for this class of decision—and keep that definition narrow, temporary, and revisable. Do not let “Approver” become a new permanent office that collects all future power.
+5. If the group is too large for full consensus, define in advance who holds Approver power for this class of decision, and keep that definition narrow, temporary, and revisable. Do not let “Approver” become a new permanent office that collects all future power.
 
 **Failure modes of the pattern**
 
@@ -694,7 +694,7 @@ A neighborhood or congregational group faces a contested shared resource (schedu
 
 The method prevents any single person from both defining the options and deciding the result. It keeps responsibility and power linked. It makes consent visible and voluntary. It scales from a household disagreement to a community decision without requiring a permanent hierarchy. Used consistently, it reduces the payoff for status performance and manipulative framing, because the structure itself limits how much leverage any one person can exercise.
 
-Like the rest of the practices, it works only when people actually prefer real agreement to coerced compliance. When that preference is present, the pattern gives them a usable way to act on it. When that preference is absent, no procedure will create it—but the procedure will make the absence visible sooner, which is still useful.
+Like the rest of the practices, it works only when people actually prefer real agreement to coerced compliance. When that preference is present, the pattern gives them a usable way to act on it. When that preference is absent, no procedure will create it. The procedure will still make the absence visible sooner, which is useful.
 
 ---
 
@@ -763,7 +763,7 @@ In addition to the advancing markers already listed, look for:
 - Newcomers feeling a quiet pressure toward honesty and repair rather than toward performance or submission.
 - Formal roles treated as temporary functions rather than permanent status elevations.
 - The original carriers no longer essential to daily functioning of the pattern.
-- Teenagers correcting adults—with precision, not contempt—when ranking creeps back in.
+- Teenagers correcting adults with precision, not contempt, when ranking creeps back in.
 - Shared goods and schedules handled by habit of proposal-and-consent rather than by the loudest or longest-tenured voice.
 - A failed public moment that is repaired without becoming the town’s long entertainment.
 
@@ -813,7 +813,7 @@ The safeguards are the same disciplines that started the work:
 - Rotate visible functions. Do not let any one person become the face of the weather.
 - Prefer boring successful repairs over impressive public analyses of other people’s motives.
 
-**A periodic check.** A few times a year, ask a small mixed group—not only the early carriers—two questions: Where did we reduce leverage and shame lately? Where did we recreate them with nicer words? Write the answers down. Act on one concrete correction. Then stop holding a purity conference.
+**A periodic check.** A few times a year, ask a small mixed group (not only the early carriers) two questions: Where did we reduce leverage and shame lately? Where did we recreate them with nicer words? Write the answers down. Act on one concrete correction. Then stop holding a purity conference.
 
 The practices remain healthy only while they continue to reduce the overall amount of leverage and shame in the environment. When they begin to increase either, they have been captured.
 
@@ -832,7 +832,7 @@ Enough looks like:
 - Decisions that matter handled by distributed proposal and real consent often enough that single-person decree feels strange.
 - People free to leave a circle without being hunted by reputation.
 
-Enough is also knowing when to stop expanding. Not every workplace, extended family, or online arena must be converted. Saturation in the places where you actually live and raise people is worth more than a thin presence everywhere. The tenth practice remains: you cannot fix the whole world; you can be—and help form—quiet points where the machine has no leverage.
+Enough is also knowing when to stop expanding. Not every workplace, extended family, or online arena must be converted. Saturation in the places where you actually live and raise people is worth more than a thin presence everywhere. The tenth practice remains: you cannot fix the whole world; you can be quiet points where the machine has no leverage, and help form more of them.
 
 At that point the work becomes ordinary maintenance rather than pioneering. The books stay available. The practices stay in use. The weather has changed. When the weather holds without you narrating it, you are done pioneering. Keep mending what breaks. Let the rest be ordinary.
 
@@ -921,7 +921,7 @@ Metaphor for the usually unspoken rules that actually govern how status, failure
 In the Planner–Reviewer–Approver pattern, the person who proposes a plan or names a possible solution. The Planner does not get unilateral power to decide the outcome.
 
 **Protective limit**  
-A boundary drawn from what you legitimately steward—self, dependents, property, entrusted roles—aimed at stopping further harm rather than at ranking or retaliating. Distinct from punishment and from punitive exile.
+A boundary drawn from what you legitimately steward (self, dependents, property, entrusted roles), aimed at stopping further harm rather than at ranking or retaliating. Distinct from punishment and from punitive exile.
 
 **Ranking**  
 The everyday practice of ordering people as higher or lower in worth, voice, or belonging. Ranking is the primary social expression of unhealed shame.
