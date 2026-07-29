@@ -396,10 +396,27 @@ The essential shift is this: the household stops treating emotional leverage, si
 
 This kind of household becomes a living demonstration. Other people feel the difference even if they cannot immediately name it. Children raised in it carry a different baseline into their own future relationships. The seed is not a perfect family. The seed is a family that has a reliable way of mending itself.
 
-Practical starting points:
+**What it looks like on ordinary days**
+
+- Money stress is named as a shared problem rather than turned into a contest over who is more responsible or more suffering.
+- A child’s public embarrassment is not treated as a referendum on the parent’s worth.
+- One adult can say “I was wrong about that” without the other treating it as permanent leverage.
+- Bedtime, chores, and screens are negotiated with plain requests and real “no” options where safety allows—not with guilt theater or volume.
+- After a sharp exchange, someone usually comes back the same day with a specific repair, not a vague “sorry you feel that way.”
+
+**What it does not require**
+
+It does not require equal temperament, identical politics, or a household free of conflict. It does not require every relative to agree. It requires that the people who share the roof have at least one shared method for catching breaks before they harden into long cold wars.
+
+**Practical starting points**
+
 - Agree explicitly, even if only between two adults, that ranking and emotional punishment are off the table as ordinary tools.
 - Keep the children’s books visible and in use. They normalize the language for everyone, including the adults.
 - Treat small daily repairs as more important than occasional large conversations about “how we communicate.”
+- Pick one recurring friction (morning rush, money talk, screen time, in-law visits) and practice the repair sequence there until it becomes boring. Boring is success.
+- When you catch yourself storing a grievance for later ammunition, name it that day or deliberately release it. Stored ammunition is the old operating system on delay.
+
+A useful household test: if a visitor stayed a week, would they notice less ranking and faster repair—or only nicer slogans on the wall? The seed is the lived weather, not the language.
 
 ---
 
@@ -419,7 +436,20 @@ Distance is sometimes necessary for safety. Permanent exile as the default respo
 
 Protective limits stay personal and stewardship-based: your body and peace, dependents in your care, property you own, and roles you are actually responsible to hold. You may withdraw access, pause shared arrangements, or refuse further exposure. You do not escalate, retaliate, or recruit an audience to rank the offender. Limits stop harm; punishment adds it. When the break involves violence, ongoing abuse, or danger beyond what the household can safely hold, get appropriate outside help immediately—the practices do not replace medical, legal, or protective response.
 
-Parents fail in front of children. When that happens, the most powerful teaching is the open repair: the adult names the failure, apologizes specifically, and shows the repair in action. Children learn more from watching mending than from hearing lectures about never breaking things.
+**A worked sequence (medium-stakes break)**
+
+Suppose one partner humiliates the other in front of friends, then minimizes it afterward (“You’re too sensitive”).
+
+1. **Safety and acknowledgment.** The injured partner names the injury without immediately accepting the minimize. A third party who saw it does not pile on for sport; they confirm what happened if asked.
+2. **Specific harm.** Not “you always disrespect me,” but “you made a joke of something I asked you to keep private, and then denied it mattered.”
+3. **Repair moves.** The one who caused harm restates the harm in their own words until the injured party recognizes it; apologizes for that act; and names one concrete change (e.g., no private topics as public entertainment; a check-in before group settings for a while).
+4. **Path of return.** Trust is not demanded on the spot. It is rebuilt by the change holding under the next similar pressure. The household does not keep a permanent “you’re the problem person” file once repair is real.
+
+If the same pattern repeats without change, protective limits tighten. That is not failure of the practices; that is the practices refusing to become a cover for ongoing harm.
+
+**Parents fail in front of children.** When that happens, the most powerful teaching is the open repair: the adult names the failure, apologizes specifically, and shows the repair in action. Children learn more from watching mending than from hearing lectures about never breaking things. A short script that works: “I raised my voice to win. That was my small feeling running the room. I’m sorry. Here’s what I’m doing differently.” Then do it.
+
+**When both people are injured.** Simultaneous harm is common. Do not hold a contest over who suffered more. Sequence the repairs: stabilize safety first, then address each specific break in turn, or use a brief Planner–Reviewer–Approver swap (Part Five, section 5) so neither person both defines the options and declares the winner.
 
 ---
 
@@ -431,9 +461,25 @@ Lend the children’s books without commentary when it feels natural. Answer que
 
 When conversation does happen, keep it concrete. Speak about what you are trying to stop doing (using shame as leverage, treating failure as permanent ranking) and what you are trying to do instead (specific repair, truth without status). Avoid framing it as an advanced spiritual or psychological system. Most people respond better to usable reductions in daily pain than to comprehensive worldviews.
 
+**What invitation is**
+
+- “We found these stories help our kids—and us—when things get sharp. Borrow them if you want.”
+- Offering to sit with someone after a hard break without recruiting them into a worldview.
+- Being the household people call when they need a calm extra adult for an hour, not a lecture.
+- Sharing one practice that reduced pain (“we stopped settling arguments by who was louder”) rather than all ten at once.
+
+**What invitation is not**
+
+- A study group with attendance pressure.
+- Correcting other parents in public as a demonstration of superior method.
+- Making friendship conditional on interest in the books.
+- Naming your cluster, branding it, or treating early adopters as an inner circle.
+
 Two or three additional households is enough to create a small cluster. At that scale mutual reinforcement becomes possible. Parents can compare notes. Adults can catch one another’s slips with less defensiveness. The children’s books circulate naturally. The cluster remains informal and does not need a name or a meeting schedule beyond what people already do.
 
 Resistance to campaigning is deliberate. As soon as the pattern becomes a program with recruiters, it begins to generate its own status games and its own shame dynamics. The quiet invitation through lived proximity is slower at first and more durable later.
+
+If no nearby household is ready, do not force it. Keep practicing. One solid household is already a seed. Density comes when the weather is real enough that others want the same relief—not when someone is skilled at persuasion.
 
 ---
 
@@ -452,9 +498,18 @@ In practice this often means:
 - Creating appropriate distance when the other person’s refusal produces repeated injury.
 - Avoiding the twin errors of self-erasure (staying and absorbing unlimited cost) and punitive exile (turning the refusal itself into a permanent moral verdict).
 
+**Common refusal patterns**
+
+- **Mockery.** The language of small feeling or repair is treated as soft or ridiculous. Response: do not defend the vocabulary; keep the behavior. Mockery loses fuel when it gets no performance back.
+- **Weaponized nostalgia.** “We never needed this before.” Response: name the cost of the old way in specific incidents, once, without a campaign. Then return to practice.
+- **Selective buy-in.** They want others to stop ranking them, but keep ranking others. Response: hold the same standard both directions; do not accept a one-way truce that only protects the dominant person.
+- **Crisis only.** Interest appears during acute pain and vanishes when comfort returns. Response: welcome the temporary honesty; do not build the household’s stability on someone else’s crisis cycle.
+
 Some relationships will adapt over time as the new weather becomes ordinary. Some will not. The work does not require every kinship tie to convert. It requires that the converting households remain clear and steady enough to serve as living alternatives.
 
-Children in mixed situations need special care. They should not be used as messengers or as proof. They should see at least one adult consistently practicing repair and refusing leverage. That single steady point is often enough to give them a usable internal model later.
+**Children in mixed situations** need special care. They should not be used as messengers or as proof. They should see at least one adult consistently practicing repair and refusing leverage. That single steady point is often enough to give them a usable internal model later. Do not coach children to diagnose the refusing adult. Do not make them choose sides in a philosophy contest. Give them plain safety, plain apology when you fail, and the stories as ordinary comfort—not as coded weapons against the other parent or relative.
+
+**Extended kin.** Holidays and family systems often run on old ranking scripts. You can attend without converting the table. Reduce the fuel you add: fewer status comparisons, fewer gossip alliances, one clear exit when humiliation starts. Walking away from a scene is allowed. Burning the bridge for sport is the old system wearing new clothes.
 
 ---
 
@@ -475,27 +530,52 @@ In most communities the early diffusion happens through ordinary channels alread
 
 The original person and the first households stay available but do not become the formal teachers or the moral center. When asked, they describe concrete practices rather than a comprehensive philosophy. The moment the work becomes identified with a single personality or a named inner group, it begins to generate the very status dynamics it exists to dissolve.
 
+**How density actually builds**
+
+Diffusion is usually uneven. One school grade, one street, one volunteer crew, one corner of a congregation may shift while the rest of the town looks unchanged. That is normal. Do not wait for a community-wide conversion story. Strengthen the pockets that already work. Let people move between pockets by choice. The goal is overlapping zones of repair weather, not a single branded map.
+
+Useful carriers (in rough order of durability):
+1. Children’s books passed hand to hand.
+2. Observed repair in public or semi-public settings.
+3. Practical mutual aid that does not create permanent dependence.
+4. Shared decision habits (including Planner–Reviewer–Approver) that people reuse because they reduce drama.
+5. Only later—and lightly—explicit adult conversation about the ten practices.
+
 Useful indicators that diffusion is happening healthily:
 - The children’s books are circulating without a central distributor.
 - People who were not part of the first cluster begin using the language of repair and “small feeling” naturally.
 - Conflicts in shared spaces occasionally resolve with less residual ranking than before.
+- Someone who never met the original person can explain a practice accurately enough to use it.
 
 Useful indicators that the work is being distorted:
 - A few people are treated as the official interpreters.
 - Agreement with the practices becomes a new test of belonging.
 - Public discussion focuses more on who is “doing it right” than on specific repairs.
+- The cluster acquires a name, a hierarchy of fluency, or a preferred public enemy.
 
 ---
 
 ### 2. Using Existing Structures Without Capturing Them
 
-Most communities already contain recurring gatherings: religious services, school meetings, volunteer boards, sports, informal social circles. These structures do not need to be replaced or taken over. They can be inhabited differently.
+Most communities already contain recurring gatherings: religious services, school meetings, volunteer boards, sports, informal social circles, online neighborhood groups. These structures do not need to be replaced or taken over. They can be inhabited differently.
 
 The practical approach is modest. Continue participating. Apply the ten practices inside the existing forms. When conflict arises in a meeting, model precise speech and repair rather than factional maneuvering. When decisions are made, evaluate proposals by content rather than by the standing of the speaker. When someone fails publicly, refuse the pleasure of permanent ranking.
 
 Over time, if enough participants share the same reflexes, the culture of the structure itself begins to shift. Meetings become slightly less performative. Leadership roles become less attractive as status objects and more like temporary functions. People who need the old leverage games find them less rewarding and either adapt or drift toward environments where those games still work.
 
+**Religious and institutional settings**
+
+Many people meet the practices first inside a church, mosque, synagogue, temple, school, or nonprofit. The pattern does not require hostility toward those institutions. It does require honesty about how easily they concentrate status in a few roles.
+
+Recommended direction:
+- Prefer peer-level discourse—open conversation among equals—over permanent dependence on a single professional voice for moral reality.
+- Support community forums, councils, and ordinary meetings where proposals are tested by content and consent, not by office alone.
+- Let formal roles remain useful for logistics, care, teaching skill, and stewardship of shared goods—without treating the role-holder as the owner of belonging.
+- If a structure cannot tolerate repair, truth without pedigree, or distributed consent, do not capture it by intrigue. Reduce dependence on it for your household’s moral weather, and build or join peer spaces that can hold the practices. Migration of attention is allowed; coup is not.
+
 The alternative—attempting to capture formal authority in order to impose the practices—almost always recreates a new center and a new set of status contests. The pattern is allergic to that move.
+
+**Online spaces.** Neighborhood chats and social feeds amplify ranking and spectacle. Use them for logistics and plain information. Do not try to win the practices by thread. When conflict appears online, move repair offline quickly; public comment sections reward performance more than mending.
 
 A practical tool for decisions and conflict inside these structures is the Planner–Reviewer–Approver pattern (described in section 5 below). It allows groups to move forward without recreating a permanent central decider.
 
@@ -513,6 +593,14 @@ The sequence remains:
 
 Public conflicts also attract people who enjoy the drama of moral ranking. The discipline is to refuse that entertainment. Precise language, limited scope, and a clear preference for repair over spectacle starve the drama.
 
+**Practical public-conflict habits**
+
+- Speak to the smallest true audience first. Do not widen the circle for allies until safety or logistics require it.
+- Separate the incident from the person’s entire history unless the history is the ongoing harm.
+- Refuse anonymous pile-ons. If someone will not put a name and a specific claim to a charge, it is not yet usable material for repair.
+- Document agreements in plain language when money, children, or shared property are involved—not as legal theater by default, but as shared memory that reduces later rewriting.
+- After a public repair, do not keep replaying the injury as entertainment. The community’s job is to let the repair hold, not to keep the scandal warm.
+
 When a conflict involves multiple stakeholders and a decision must be reached, the Planner–Reviewer–Approver pattern (section 5) provides a structured way to keep power distributed and consent real rather than coerced.
 
 ---
@@ -522,6 +610,23 @@ When a conflict involves multiple stakeholders and a decision must be reached, t
 The person who first carried the material into the community has a specific, limited role: remain available for private clarification when someone is stuck, continue practicing, and refuse the invitation to become the indispensable hub. As soon as questions and decisions routinely route through that person, a new star has formed.
 
 The healthiest trajectory is that the original person becomes less necessary over time. Others develop equal fluency. The children’s books and the shared practices carry the pattern more than any individual does. When the original person can be absent without the work stalling, the diffusion is succeeding.
+
+**Temptations that recreate a center**
+
+- Becoming the default mediator for every conflict.
+- Holding the only copies of the books or the only “correct” explanation.
+- Enjoying being the one who “gets it” while others are still clumsy.
+- Speaking for the cluster in public without being asked by the people affected.
+- Collecting gratitude as a substitute for status that was supposedly refused.
+
+**Useful counter-habits**
+
+- Redirect: “Try the story first; then talk with X, who handled something similar.”
+- Rotate who hosts, who explains, who helps with a hard repair.
+- Leave town (or simply go quiet) long enough to test whether the pattern stands.
+- When praised as the founder, answer with the practices and the books, not with biography.
+
+The original person is a seed-carrier, not a sun. Seeds that demand permanent orbit have already failed the sixth and tenth practices.
 
 ---
 
@@ -547,11 +652,49 @@ In a two-person disagreement, one person frames the possible solutions (Planner)
 
 In a larger group, one person (or a temporary pair) serves as Planner and puts a concrete proposal on the table. The rest serve as Reviewers and Approvers. The Planner does not get to declare the decision; the Approvers do. For very large or high-stakes matters it is sometimes useful to appoint a Planner who is not personally entangled in the outcome, so that all directly affected people remain free to review and approve.
 
+**Household walkthrough**
+
+Two adults disagree about weekend time with extended family.
+
+1. One agrees to be Planner and writes two or three concrete options (not a speech): e.g., full visit Saturday; shorter visit plus separate recovery time; skip this month and host a smaller meal later.
+2. The other is Approver and may ask clarifying questions (light Reviewer function) before choosing.
+3. If children are old enough to be affected in a real way, they review for impact (“I’ll miss the game”) without being forced to break a tie that belongs to the adults.
+4. The chosen option is tried once. If it fails, roles can swap next time so the same person is not always cutting the cake.
+
+This is faster than a three-hour fight about who cares more, and cleaner than one person simply declaring the plan.
+
+**Small-group walkthrough**
+
+A volunteer team must decide how to handle a member who dropped responsibilities and left others overloaded.
+
+1. Someone not at the center of the injury drafts a proposal (Planner): what repair looks like, what temporary reassignment covers the gap, what path of return exists.
+2. People who carried the extra load review for accuracy and feasibility.
+3. Approvers include those whose ongoing work and trust are required for any path forward—often both the injured teammates and, where safe, the person who failed, if they are still in relationship.
+4. Approval means willing consent to the plan, not a vote that steamrolls a minority who must still live with the result. If consent is missing, the Planner revises; they do not lecture the Approvers into compliance.
+
+**Community-forum walkthrough**
+
+A neighborhood or congregational group faces a contested shared resource (schedule, space, money, public statement).
+
+1. Appoint a temporary Planner who will not gain special status from the outcome—or rotate the role.
+2. Planner publishes a plain proposal and the problem it addresses.
+3. Open review period: affected people add facts, costs, and unintended effects. Review is not a pile-on; personal attacks are out of bounds.
+4. Approvers are the stakeholders who must live with the result. Consent can be signalled in a meeting, by written assent, or by another transparent method the group trusts.
+5. If the group is too large for full consensus, define in advance who holds Approver power for this class of decision—and keep that definition narrow, temporary, and revisable. Do not let “Approver” become a new permanent office that collects all future power.
+
+**Failure modes of the pattern**
+
+- **Fake consent.** Silence, exhaustion, or fear counted as yes. Fix: require affirmative willingness; “no objection” is not enough on high-stakes harm.
+- **Planner capture.** The same person always plans and slowly steers every outcome. Fix: rotate; or require that high-stakes Planners are not primary beneficiaries.
+- **Reviewer theater.** Endless critique with no path to a decision. Fix: time-box review; demand concrete amendments, not pure veto by fog.
+- **Approver blockade as revenge.** Withholding consent to punish rather than to protect a real interest. Fix: name the interest; if none appears, the group may treat the blockade as ranking behavior and redesign who must approve.
+- **Bypass.** A charismatic person announces the decision outside the structure. Fix: do not honor bypasses; restart the process without shaming theater.
+
 **Why this fits the larger pattern**
 
 The method prevents any single person from both defining the options and deciding the result. It keeps responsibility and power linked. It makes consent visible and voluntary. It scales from a household disagreement to a community decision without requiring a permanent hierarchy. Used consistently, it reduces the payoff for status performance and manipulative framing, because the structure itself limits how much leverage any one person can exercise.
 
-Like the rest of the practices, it works only when people actually prefer real agreement to coerced compliance. When that preference is present, the pattern gives them a usable way to act on it.
+Like the rest of the practices, it works only when people actually prefer real agreement to coerced compliance. When that preference is present, the pattern gives them a usable way to act on it. When that preference is absent, no procedure will create it—but the procedure will make the absence visible sooner, which is still useful.
 
 ---
 
@@ -563,8 +706,16 @@ Not everyone will welcome the shift. Some resistance is loud; most is quiet. Peo
 - Frame the restorative approach as weakness or lack of accountability.
 - Create small alternative circles where the previous leverage still functions.
 - Test the new cluster by provoking conflict and watching whether the response stays clean.
+- Praise the children’s books while quietly punishing adults who practice repair in hard cases.
+- Insist that “someone has to be in charge” whenever distributed consent is slow.
 
 The required stance is steady and non-reactive. Continue the practices. Do not chase or punish the resistance. Do not organize against it. Simply make the old tools less effective by refusing to pick them up. Over time, the environments that still run on ranking and shame become more distinct from the environments that do not. People sort themselves accordingly.
+
+**What weathering is not**
+
+It is not pretending harm is fine. It is not endless self-critique to appease a person who will only be satisfied by restored dominance. It is not a duty to keep every resistant person inside every circle at unlimited cost.
+
+Protective limits still apply at community scale: withdraw attention, decline coalitions of humiliation, refuse to staff dramas that exist to reassert ranking. Leave gates open for return through demonstrated change. Do not staff the siege.
 
 Some who resist at first later experiment with the practices when their own cost-benefit calculation changes. Leaving that door open is itself an expression of the fifth and ninth practices.
 
@@ -579,6 +730,8 @@ The work is advancing when:
 - People who fail can return through demonstrated change without theatrical penance or permanent probation.
 - Decisions of any importance increasingly use some form of distributed proposal and consent rather than single-person decree.
 - The original cluster is no longer the sole carrier.
+- Peer forums and ordinary meetings can hold hard topics without immediate factionalization.
+- Mutual aid increases local capacity without creating a new permanent patron.
 
 The work is stalling or distorting when:
 - A new in-group language develops that outsiders find opaque or superior.
@@ -586,6 +739,8 @@ The work is stalling or distorting when:
 - Exit from the old patterns is treated as moral failure rather than as allowed disagreement.
 - The practices are used to shame people for still having shame.
 - A new indispensable Planner or interpreter emerges and decisions begin routing through that person by default.
+- Capture of an existing office becomes the main strategy for “spreading” the work.
+- Online spectacle outruns offline repair.
 
 Community saturation is not a finished utopia. It is the point at which the default weather of a significant portion of the community has shifted toward repair, truth without pedigree, distributed consent, and the refusal of leverage games. From that point the pattern becomes self-reinforcing enough that it no longer depends on the continuous effort of the first few households. Part Six asks when that shift has become ordinary enough to maintain rather than pioneer.
 
@@ -595,6 +750,8 @@ Community saturation is not a finished utopia. It is the point at which the defa
 ## Stabilizing the New Weather
 
 By this stage the practices are no longer the private experiment of a few households. They have become familiar enough that a noticeable portion of the community treats repair, truth without pedigree, and the refusal of leverage as ordinary adult behavior. The work now shifts from deliberate introduction to maintenance and protection from distortion.
+
+Stabilization is easy to miss because it feels like less drama, not more achievement. People stop narrating the shift. They simply expect repair. That boredom is a feature.
 
 ---
 
@@ -606,8 +763,13 @@ In addition to the advancing markers already listed, look for:
 - Newcomers feeling a quiet pressure toward honesty and repair rather than toward performance or submission.
 - Formal roles treated as temporary functions rather than permanent status elevations.
 - The original carriers no longer essential to daily functioning of the pattern.
+- Teenagers correcting adults—with precision, not contempt—when ranking creeps back in.
+- Shared goods and schedules handled by habit of proposal-and-consent rather than by the loudest or longest-tenured voice.
+- A failed public moment that is repaired without becoming the town’s long entertainment.
 
 These do not appear all at once or in every corner. Several of them across different groups is a stronger signal than perfection in any single group.
+
+**False normals.** A quiet community can also be a frightened one. Stabilization is not the absence of conflict; it is the presence of reliable repair when conflict comes. If people are polite because they are scared, the old operating system is still running under a softer skin.
 
 ---
 
@@ -617,7 +779,16 @@ The children’s books remain the most important long-term carrier. A child who 
 
 Adults accelerate this transmission by continuing to read the books aloud, by using the language of the stories in ordinary correction and repair, and by letting children watch real mending happen. The goal is not to produce ideologically trained children. The goal is to give them an internal model of how breaks can be handled without permanent ranking or erasure.
 
-When the next generation begins forming its own households, the presence or absence of the pattern becomes visible again. Households that carry it forward do so with less effort than the first generation required, because the baseline has already shifted.
+**Age-shaped contact**
+
+- **Young children:** stories, simple repair language, adults who apologize specifically.
+- **Older children:** small real responsibilities, truth weighed by content, failure caught without character assassination.
+- **Teenagers:** invitation into Planner–Reviewer–Approver on decisions that affect them; refusal to use them as status proof; honest talk about shame and empty praise without turning them into case studies.
+- **Young adults forming households:** the books and this guide available without pressure; mentorship as peer availability, not supervision.
+
+When the next generation begins forming its own households, the presence or absence of the pattern becomes visible again. Households that carry it forward do so with less effort than the first generation required, because the baseline has already shifted. Households that drop it often rediscover the cost later; leave the door open without “we told you so.”
+
+Do not turn the next generation into a project that proves the first generation right. That is ranking with a longer horizon. Give them the tools. Let them own the weather.
 
 ---
 
@@ -631,12 +802,18 @@ Signs that this is happening:
 - Failure to use the preferred vocabulary is treated as moral defect.
 - The Planner–Reviewer–Approver pattern is weaponized to control outcomes while preserving the appearance of consent.
 - A new in-group develops that is more concerned with correct practice than with actual repair of harm.
+- “Walking away” becomes a stylish abandonment of duty rather than a careful reduction of fuel to a harmful structure.
+- Openness becomes a brand while real keys stay hidden.
 
 The safeguards are the same disciplines that started the work:
 - Keep returning to concrete harm and concrete repair.
 - Refuse to grant high status to those who perform the practices most eloquently.
 - Treat the children’s books as the standard of simplicity; if an adult formulation becomes more complex or more judgmental than the stories, it has drifted.
 - Maintain the permission to walk away. A pattern that cannot tolerate dissent without punishment has already reversed itself.
+- Rotate visible functions. Do not let any one person become the face of the weather.
+- Prefer boring successful repairs over impressive public analyses of other people’s motives.
+
+**A periodic check.** A few times a year, ask a small mixed group—not only the early carriers—two questions: Where did we reduce leverage and shame lately? Where did we recreate them with nicer words? Write the answers down. Act on one concrete correction. Then stop holding a purity conference.
 
 The practices remain healthy only while they continue to reduce the overall amount of leverage and shame in the environment. When they begin to increase either, they have been captured.
 
@@ -652,8 +829,12 @@ Enough looks like:
 - Children who expect repair and are surprised by permanent ranking.
 - The ability of the community to absorb ordinary human failure without generating long-term exile classes.
 - A low requirement for heroes or continuous external input.
+- Decisions that matter handled by distributed proposal and real consent often enough that single-person decree feels strange.
+- People free to leave a circle without being hunted by reputation.
 
-At that point the work becomes ordinary maintenance rather than pioneering. The books stay available. The practices stay in use. The weather has changed.
+Enough is also knowing when to stop expanding. Not every workplace, extended family, or online arena must be converted. Saturation in the places where you actually live and raise people is worth more than a thin presence everywhere. The tenth practice remains: you cannot fix the whole world; you can be—and help form—quiet points where the machine has no leverage.
+
+At that point the work becomes ordinary maintenance rather than pioneering. The books stay available. The practices stay in use. The weather has changed. When the weather holds without you narrating it, you are done pioneering. Keep mending what breaks. Let the rest be ordinary.
 
 ---
 
