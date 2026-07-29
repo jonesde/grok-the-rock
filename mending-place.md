@@ -28,6 +28,8 @@ Companion children’s books: *Grok the Rock* and *Hai Ikthiss*.
 
 This book is a practical guide for people who want their relationships, households, and communities to stop running on shame, status, and quiet damage. It is written for adults who are willing to look directly at how power, fear, and repair actually work between people.
 
+If you are reading this in a hard moment, start with the children’s books; this guide is the map that waits until you can pause and ponder, and it will still be here when you need it.
+
 It does not offer a new ideology. It offers a clearer set of rules for things most of us already claim to value: truth that does not need a pedigree, relationships that can survive failure, and strength that does not require someone else to be small.
 
 Underneath personal habits sits a larger contrast this book names plainly: ranking order versus repair order. One manages people through status and penalty. The other mends harm through truth, healing, and real consent. The ten rules are how repair order is lived day to day.
@@ -237,6 +239,8 @@ See also: Psalm 51:6; Isaiah 66:2.
 ---
 
 ### 3. Restore, never punish
+
+*If anyone in the room is in threat mode (fight, flight, or freeze/fawn), safety and regulation come first; the limit work below assumes the body can receive it. See How to Use This Book.*
 
 Harm will happen. The goal is to help the one who was hurt and to heal the one who did the hurting. It is not to add more harm and call it justice. Punishment is sanctioned dominance. It teaches the next generation that power is the right to hurt in return. Restoration is the only move that does not plant the next wound. Bonds survive not by being unbreakable but by being repairable.
 
@@ -604,6 +608,15 @@ If the same pattern repeats without change, protective limits tighten. That is n
 
 Name the state without ranking the child (or yourself) as permanently broken. Then do the concrete change when repair is needed.
 
+**Scripts for threat-mode moments.** When you or someone close is in fight, flight, freeze/fawn, or a rigid stand, plain words that name the state and protect the next move. These are not repairs yet; they are the moves that make repair possible later.
+
+- (When you are flooded) “I’m flooded right now. I can’t hear you well from here. I’m going to step out for a while and come back when my body is steadier. This isn’t your fault and I’m not leaving.”
+- (When your partner is flooded) “I can see you’re in fight — or shut down, or gone. I’m not going to chase or push. I’ll be nearby. When you can, tell me you’re back, and we’ll pick it up from there.”
+- (When a child is in threat mode) “You’re safe. I’m not going to hurt you or make you do anything. We don’t have to figure this out right now. I’ll stay close by.”
+- (When you need to hold a limit without tipping into fight) “I’m holding this line. It isn’t a contest and I'm not trying to push you back, just to mark where my own line is for now. When you’re ready, here’s what I need to talk about.”
+
+The shared shape: name the state, name safety, do not rank, leave a path of return. In threat weather the body cannot do the fuller repair work; it can only stop making things worse. That is enough for the moment.
+
 **When both people are injured.** Simultaneous harm is common. Do not hold a contest over who suffered more. Sequence the repairs: stabilize safety first, then address each specific break in turn, or use a brief Planner–Reviewer–Approver swap (Part Five, section 5) so neither person both defines the options and declares the winner.
 
 ---
@@ -732,6 +745,8 @@ A practical tool for decisions and conflict inside these structures is the Plann
 ---
 
 ### 3. Handling the First Public Conflicts in the New Way
+
+*If anyone involved is in threat mode, stabilize safety before engaging publicly; public spectacle compounds harm. See How to Use This Book.*
 
 As the cluster grows, conflicts will occur in more public view. These moments are decisive. If the response reverts to the old operating system (gossip, coalition-building, permanent character verdicts, or formal punishment that adds harm), observers correctly conclude that the new language was only cosmetic. If the response follows the restorative sequence from Rule 3 and the Closing Material (protect, name, repair, path of return), the demonstration is powerful precisely because it is public.
 
