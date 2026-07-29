@@ -48,7 +48,7 @@ Read it straight through once. Then keep it as a working reference. The children
 
 This adult guide explains the same movements in plain language, shows how they scale from a single person to a household to a community, and names the specific ways the work usually fails. Use the children’s books for the simple, repeated reminder. Use this book when you need the fuller diagnosis or the practical sequence for groups of adults.
 
-No outside expert is required to begin. One person who has walked the material carefully can help others. The books themselves carry the pattern. When harm is severe, ongoing, or beyond what a household can safely hold, skilled outside help (medical, legal, therapeutic, or protective) is wisdom, not a failure of the rules.
+No outside expert is required to begin. One person who has walked the material carefully can help others. The books themselves carry the pattern. When harm is severe, ongoing, or beyond what a household can safely hold, skilled outside help (medical, legal, therapeutic, or protective) is wisdom, not a failure of the rules. The same is true when someone’s nervous system is flooded or shut down by old or present threat: this guide is not a substitute for trauma-informed care. Safety and regulation come before rule-keeping.
 
 ---
 
@@ -79,7 +79,18 @@ The second strategy is to become smaller than the shame. Disappear. Submit early
 
 Most people who carry significant shame oscillate between the two. In some relationships they dominate; in others they collapse. Both moves are attempts to find solid ground. Both keep the original wound unhealed. Both train the next generation in the same alternation.
 
-The alternative is not a third performance. It is the slower work of staying with the small feeling long enough to understand it, refusing to outsource its relief to control or disappearance, and recovering the ability to act from one’s own center without needing someone else to be beneath it. That recovery is what the first children’s book means by “being.”
+**Threat responses underneath the strategies.** When the body registers danger—real or remembered—it tends toward a small set of automatic states. These are not first of all moral failures. They are survival moves.
+
+- **Fight:** move toward the threat with force—rage, control, attack, the need to win or make someone flinch.
+- **Flight:** move away—panic, endless exit, worry that never lands, the urge to escape the room or the relationship.
+- **Freeze:** shut down—numbness, blankness, helplessness, collapse, the sense of being trapped or already gone.
+- **Connection:** when safety is real enough—presence, curiosity, openness, the capacity to stay with another person and with the facts.
+
+The two false solutions are often long patterns built on these states: fight and ranking as “become larger”; freeze and flight as “become smaller.” People switch among them. Naming the state does not excuse harm. It stops the cruel habit of treating a flooded or frozen person as if they were freely choosing a philosophy.
+
+**Connection is where the rules can be learned.** In fight, flight, or freeze, the body is busy surviving. Demanding perfect insight, perfect apology shape, or perfect rule fluency in that moment is ranking dressed as seriousness. Empathy is not permissiveness: you still protect the injured and hold limits. You simply do not pretend that threat mode is the same as willing conversation. Enough safety—space, time, a calm presence, reduced spectacle—is often the first repair move. The children’s “being” is one path back toward connection without racing into fight or freeze.
+
+The alternative to the two false solutions is not a third performance. It is the slower work of staying with the small feeling long enough to understand it, refusing to outsource its relief to control or disappearance, and recovering the ability to act from one’s own center without needing someone else to be beneath it. That recovery is what the first children’s book means by “being.” It assumes, or gently rebuilds, enough safety for the nervous system to come back online.
 
 See also: Psalm 51:6 (“Behold, you delight in truth in the inward being”); Isaiah 66:2 (the one to whom the Lord looks is the one who is humble and contrite in spirit).
 
@@ -191,13 +202,15 @@ See also: Proverbs 18:17; John 7:24 (“Do not judge by appearances, but judge w
 
 ### 2. Heal shame instead of racing it
 
-Almost all compulsive power behavior is someone running from the feeling of smallness, either by dominating (to outrun it) or by submitting (to be shielded from it). Both build the cage. The real work is to heal the shame at the root, first in yourself, then by refusing to enforce shame on others. Never grant status as a prize. Never withhold it as a weapon.
+Almost all compulsive power behavior is someone running from the feeling of smallness, either by dominating (to outrun it) or by submitting (to be shielded from it). Both build the cage. Underneath, the body may be in fight, flight, or freeze. The real work is to heal the shame at the root, first in yourself, then by refusing to enforce shame on others. Never grant status as a prize. Never withhold it as a weapon.
+
+Healing is not only insight. It includes enough safety for the nervous system to leave threat mode and return to connection—where learning, repair, and the ten rules are actually possible. You cannot think someone out of freeze with a lecture. You cannot punish someone out of fight into trust. Reduce unnecessary threat, hold real limits, and invite return when the body can receive it.
 
 Suffering is often present in this work. It is an indicator that something needs healing, protection, or change. It is not inherently virtuous, and collecting it does not make a person more serious or more holy. Ranking order glorifies pain; repair order addresses it.
 
-In a household this means noticing when a child or partner is being driven by the need to feel bigger or safer, and addressing the underlying smallness instead of only managing the behavior. In a community it means refusing to participate in the everyday ranking that keeps people managing their image rather than telling the truth.
+In a household this means noticing when a child or partner is being driven by the need to feel bigger or safer, and addressing the underlying smallness—and the threat state—instead of only managing the behavior. In a community it means refusing to participate in the everyday ranking that keeps people managing their image rather than telling the truth.
 
-Common fakes: spiritualized dominance (“I’m only correcting you for your own good”), competitive humility, or using vulnerability itself as a new status move. Another frequent fake is demanding that others heal so you do not have to feel the discomfort of their shame. Praising endurance while blocking actual relief is the same pattern with a solemn face.
+Common fakes: spiritualized dominance (“I’m only correcting you for your own good”), competitive humility, or using vulnerability itself as a new status move. Another frequent fake is demanding that others heal so you do not have to feel the discomfort of their shame. Praising endurance while blocking actual relief is the same pattern with a solemn face. Diagnosing someone’s “trauma response” in public to win an argument is fight wearing clinical clothes.
 
 Diagnostic question: When I feel the sudden need to control a room or to disappear from it, what smallness am I trying not to feel?
 
@@ -217,7 +230,7 @@ Fairness fails when it only equalizes pain (“now you’ve suffered too”). Fa
 
 In a household this means that when damage occurs, the primary questions are “What was broken?” and “How do we repair it?” rather than “What penalty is owed?” In a community it means designing responses to failure that protect the vulnerable while still aiming at the restoration of the person who caused harm.
 
-Protective limits are not punishment. Guarding your body, your dependents, your property, and the stewardships actually entrusted to you is boundary work. You do it by withdrawing access, setting distance, or refusing further exposure. It aims at stopping further harm, not at making the other person suffer or lose standing as a spectacle. Natural consequences and stewardship limits stop harm; artificial penalties added for ranking reintroduce the old operating system. Keep limits personal, proportional, and tied to what you legitimately steward; leave a path of return that depends on demonstrated change, not on the injured party absorbing unlimited cost.
+Protective limits are not punishment. Guarding your body, your dependents, your property, and the stewardships actually entrusted to you is boundary work. You do it by withdrawing access, setting distance, or refusing further exposure. It aims at stopping further harm, not at making the other person suffer or lose standing as a spectacle. Natural consequences and stewardship limits stop harm; artificial penalties added for ranking reintroduce the old operating system. Compulsion, humiliation, and spectacle keep bodies in fight, flight, or freeze, which blocks the very learning repair needs. Limits that reduce real danger without adding theater make return to connection more possible. Keep limits personal, proportional, and tied to what you legitimately steward; leave a path of return that depends on demonstrated change, not on the injured party absorbing unlimited cost.
 
 **Standing your ground in stewardship.** You may defend what is actually yours to tend: your body, dependents in your care, land and tools you hold, and roles you are truly responsible for. Defense stops invasion; it does not become a right to conquer, humiliate, or collect trophies. Respect the same lines around others. When someone will not stop harming after clear naming, concrete repair attempts, and fair limits, stronger distance or community protection may be required. Permanent cast-out is rare, last-resort, and still aimed at safety rather than at purifying the group’s image. The default remains a path of return through demonstrated change.
 
@@ -315,6 +328,8 @@ No deceptive framing, no engineered consent, no coercive emotional push. Speak p
 
 Persuasion that builds trust states the case, accepts a real no, and leaves the other person’s dignity intact. Persuasion that runs on shame, fear, or social exile is only ranking with better manners. If your “convincing” requires the other person to feel smaller, it is not repair order.
 
+Forced processing is not consent. Cornering someone into “doing the work,” performing vulnerability on demand, or reopening wounds for your timetable can retraumatize. Choice includes the right to pause, to get skilled help, and to say not now—without being ranked as refusing repair forever.
+
 In a household this means ending the everyday techniques of guilt, obligation theater, and strategic silence. In a community it means refusing rhetorical tricks that make disagreement feel like moral failure.
 
 Common fakes: “just asking questions” that are actually accusations, performing hurt to control outcomes, or claiming openness while punishing unwanted answers.
@@ -379,7 +394,7 @@ The ten rules only hold if the underlying shame and fear are being actively work
 **Being – “Grok and the Small Feeling”**  
 The small feeling is shame. Grok does not outrun it by becoming impressive, nor does he erase himself to avoid it. He sits with it until it softens and he can act from his actual size.  
 
-Adult practice: When the familiar heat or cold of inadequacy appears, do not immediately manage the room or disappear from it. Name the feeling privately (“this is the small feeling”). Stay with it for a measured amount of time. Ninety seconds is often enough to interrupt the automatic race. Only then decide what, if anything, needs to be done. The goal is not to romanticize shame. The goal is to stop letting it drive the next move.
+Adult practice: When the familiar heat or cold of inadequacy appears, do not immediately manage the room or disappear from it. Name the feeling privately (“this is the small feeling”). Stay with it for a measured amount of time. Ninety seconds is often enough to interrupt the automatic race—**if you are safe enough to stay**. If you are flooded (fight or flight) or shut down (freeze), do not turn “sitting with it” into another performance demand. Reduce threat first: leave the room if needed, breathe, find a trusted person, lower the spectacle, get body-level help. Only then decide what, if anything, needs to be done. The goal is not to romanticize shame. The goal is to stop letting threat mode drive the next move, and to return toward connection when the body can.
 
 **Mending – “Grok Tends It”**  
 A break occurs. The surrounding voices suggest punishment or distance. Grok invites the one who caused the break to repair it with him. The vine grows back stronger at the join.  
@@ -432,7 +447,7 @@ Insight fades. Practices erode under ordinary stress. The following habits are d
 - Shared reading: If children are present, read one of the quiet stories or tall tales aloud. The act of reading them to a child is itself a practice of the same movements; adults almost always hear what they need to hear while reading.
 
 **When stuck**  
-Return to the specific story that addresses the current difficulty. Do not try to solve the entire personality at once. Work the single movement that is most relevant: Being when shame is loud, Mending when a break is fresh, Seeing when status or fear of blame is distorting perception.
+If you are flooded or frozen, prioritize safety and regulation before any rule inventory or deep review. Then return to the specific story that addresses the current difficulty. Do not try to solve the entire personality at once. Work the single movement that is most relevant: Being when shame is loud, Mending when a break is fresh, Seeing when status or fear of blame is distorting perception.
 
 The inner work does not finish. It becomes a maintained capacity, the same way physical strength is maintained. The children’s books keep the language simple enough that the work can continue even when energy and sophistication are low. That is their advantage over purely adult formulations. A one-page card of the same daily and weekly moves appears under Closing Material for quick reference.
 
@@ -504,7 +519,7 @@ Suppose one partner humiliates the other in front of friends, then minimizes it 
 
 If the same pattern repeats without change, protective limits tighten. That is not failure of the rules; that is the rules refusing to become a cover for ongoing harm.
 
-**Parents fail in front of children.** When that happens, the most powerful teaching is the open repair: the adult names the failure, apologizes specifically, and shows the repair in action. Children learn more from watching mending than from hearing lectures about never breaking things. A short script that works: “I raised my voice to win. That was my small feeling running the room. I’m sorry. Here’s what I’m doing differently.” Then do it.
+**Parents fail in front of children.** When that happens, the most powerful teaching is the open repair: the adult names the failure, apologizes specifically, and shows the repair in action. Children learn more from watching mending than from hearing lectures about never breaking things. Short scripts that work: “I raised my voice to win. That was fight running the room. I’m sorry. Here’s what I’m doing differently.” Or: “I went blank and shut you out. That was freeze, not your fault. I’m sorry. Here’s my repair.” Or: “I left the hard talk and ran. That was flight. I’m back to finish the repair.” Name the state without ranking the child—or yourself—as permanently broken. Then do the concrete change.
 
 **When both people are injured.** Simultaneous harm is common. Do not hold a contest over who suffered more. Sequence the repairs: stabilize safety first, then address each specific break in turn, or use a brief Planner–Reviewer–Approver swap (Part Five, section 5) so neither person both defines the options and declares the winner.
 
@@ -769,7 +784,7 @@ Not everyone will welcome the shift. Some resistance is loud; most is quiet. Peo
 - Praise the children’s books while quietly punishing adults who practice repair in hard cases.
 - Insist that “someone has to be in charge” whenever distributed consent is slow.
 
-The required stance is steady and non-reactive. Continue the rules. Do not chase or punish the resistance. Do not organize against it. Simply make the old tools less effective by refusing to pick them up. Over time, the environments that still run on ranking and shame become more distinct from the environments that do not. People sort themselves accordingly.
+The required stance is steady and non-reactive. Continue the rules. Do not chase or punish the resistance. Do not organize against it. Simply make the old tools less effective by refusing to pick them up. Some of what looks like ideological resistance is freeze or flight: a body that cannot yet risk connection. Do not shame that state into a moral verdict. Keep the door open; keep limits real; do not staff a siege. Over time, the environments that still run on ranking and shame become more distinct from the environments that do not. People sort themselves accordingly.
 
 **What weathering is not**
 
@@ -934,7 +949,10 @@ At that point the work becomes ordinary maintenance rather than pioneering. The 
 4. Use Planner–Reviewer–Approver when a decision must be made among several people.
 
 **When stuck**  
-Return to the relevant children’s story. Work only the single movement that is most needed.
+If flooded or frozen: safety and regulation first—then the story. Return to the relevant children’s story. Work only the single movement that is most needed.
+
+**When someone else is in threat mode**  
+Protect the injured. Reduce spectacle. Do not demand perfect rule language from a body that is still fighting, fleeing, or shut down. Invite repair when connection is possible again.
 
 ---
 
@@ -974,10 +992,16 @@ The capacity to act from one’s own center, to choose, and to have those choice
 In the Planner–Reviewer–Approver pattern, the person or people whose genuine consent is required for a plan to move forward. Approval is real willingness, not pressured compliance.
 
 **Being**  
-The first movement in both children’s books. Staying with the actual feeling or condition (the small feeling, the empty cup) instead of immediately racing into dominance or disappearance.
+The first movement in both children’s books. Staying with the actual feeling or condition (the small feeling, the empty cup) instead of immediately racing into dominance or disappearance. Assumes or rebuilds enough safety for the nervous system to come toward connection.
+
+**Connection**  
+The state in which a person is present enough for curiosity, openness, and repair. Contrasted with fight, flight, and freeze. The ten rules are learnable here; in pure threat mode they are mostly unreachable until safety returns.
 
 **Empty cup / Empty praise**  
 The hollow that remains when admiration or height is used to outrun the fear of being unseen or inadequate. Praise that does not actually see the person leaves the cup empty.
+
+**Fight / flight / freeze**  
+Automatic body responses to threat: confront and control (fight), escape (flight), or shut down (freeze). Protective in origin; harmful when they become the only available weather. Not the same as a free moral program. See Part One.
 
 **Leverage**  
 Any use of status, dependence, emotion, silence, or resources to force an outcome or to make another person smaller. The rules aim to reduce the overall amount of leverage in relationships and groups.
@@ -1019,7 +1043,7 @@ The habit of perfecting a group by removing the imperfect, then removing the nex
 In the Planner–Reviewer–Approver pattern, the people who examine a proposal from their lived perspective, bring relevant information, and test its real effects.
 
 **Shame**  
-The painful sense that one is inadequate, unwanted, or fundamentally at risk of losing belonging. Distinct from guilt (which concerns an action). Shame is the root fuel for both dominance and collapse.
+The painful sense that one is inadequate, unwanted, or fundamentally at risk of losing belonging. Distinct from guilt (which concerns an action). Shame is the root fuel for both dominance and collapse, and often rides with fight, flight, or freeze.
 
 **Small feeling**  
 The children’s-book name for the ordinary experience of shame or inadequacy. Grok sits with the small feeling instead of racing it.
