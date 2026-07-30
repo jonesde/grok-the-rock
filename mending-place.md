@@ -80,7 +80,7 @@ When agency has been violated, shame is the common result. That violation includ
 
 Two primary strategies appear.
 
-The first is to become larger than the shame. Dominate. Control the room. Acquire status, credentials, moral high ground, or the ability to make others flinch. If I am the one who ranks, I cannot be the one who is ranked. This produces the familiar performances of superiority, the need to win every exchange, and the subtle or open contempt for anyone who appears weak.
+The first is to become larger than the shame. Dominate. Control the room. Acquire status, credentials, moral high ground, or the ability to make others flinch. If I am the one who ranks, I cannot be the one who is ranked. This produces the familiar performances of superiority, the need to win every exchange, and the subtle or open dismissal of anyone who appears weak.
 
 The second strategy is to become smaller than the shame. Disappear. Submit early. Agree too quickly. Make oneself useful or invisible so that no one bothers to attack. This produces chronic self-erasure, the inability to state a clear preference, and the quiet resentment that builds when one’s own life is never fully inhabited.
 
@@ -102,9 +102,9 @@ Stand appears in the grid as the fourth posture, but it is the stable, non-aggre
 
 **Connection is not a fifth posture.** When safety is real enough, the body can leave defensive weather and enter **connection**: presence, curiosity, openness, the capacity to stay with another person and with the facts. Stand keeps people safe; connection is where trust grows. You often need the first before the second. Connection is where the rules can be learned. In fight, flight, or freeze/fawn, the body is busy surviving. Stand (passive confrontation) can hold a real edge under pressure without yet being full open connection.
 
-The two false solutions often ride three of these cells: fight and ranking as “become larger”; flight and freeze/fawn as “become smaller.” Stand is the remaining cell: same size, clear edge. People switch among all four. Naming the state does not excuse harm. It stops the cruel habit of treating a flooded, frozen, or appeasing person as if they were freely choosing a philosophy.
+The two false solutions often ride three of these cells: fight and ranking as “become larger”; flight and freeze/fawn as “become smaller.” Stand is the remaining cell: same size, clear edge. People switch among all four. Naming the state does not excuse harm. It stops the habit of treating a flooded, frozen, or appeasing person as if they were freely choosing a philosophy.
 
-Demanding perfect insight, perfect apology shape, or perfect rule fluency in threat mode is ranking dressed as seriousness. Empathy is not permissiveness: you still protect the injured and hold limits (stand). You simply do not pretend that threat mode is the same as willing conversation. Enough safety (space, time, a calm presence, reduced spectacle) is often the first repair move. The children’s “being” is one path back toward connection without racing into fight or freeze.
+Perfect insight, perfect apology shape, or perfect rule fluency demanded in threat mode is ranking with a serious face. Empathy is not permissiveness: you still protect the injured and hold limits (stand). You simply do not pretend that threat mode is the same as willing conversation. Enough safety (space, time, a calm presence, reduced spectacle) is often the first repair move. The children’s “being” is one path back toward connection without racing into fight or freeze.
 
 The alternative to the two false solutions is not a third performance. It is slower work: stay with the small feeling long enough to understand it; refuse to outsource its relief to control or disappearance; recover the ability to act from one’s own center (including the capacity to stand) without needing someone else to be beneath it. That recovery is what the first children’s book means by “being.” It assumes, or gently rebuilds, enough safety for the nervous system to come back online.
 
@@ -170,7 +170,7 @@ A few paired questions make the contrast usable:
 - Does our unity connect free people, or demand submission to a center?
 - Do our rules protect people and bonds, or destroy the bond in order to save the rule?
 
-When a rule, hedge, or procedure begins to destroy the relationship or person it was supposed to protect, the tool has become more important than the reality. That is ranking order wearing the mask of righteousness. Part Six returns to this danger when rules harden into performance.
+When a rule, hedge, or procedure begins to destroy the relationship or person it was supposed to protect, the tool has become more important than the reality. That is ranking order, calling itself righteousness. Part Six returns to this danger when rules harden into performance.
 
 The ten rules that follow are not a new ideology. They are how repair order shows up in ordinary speech, money, conflict, and shared work. The children’s books keep the same order simple enough to use when energy and sophistication are low. You do not need to memorize the paired questions. You need enough of them to notice which weather you are standing in, and to choose the next concrete move toward repair.
 
@@ -200,13 +200,13 @@ These ten rules are the working core of the book. They are stated first in short
 
 ### 1. Let truth stand on its own legs
 
-Do not grant a statement extra weight because of who said it. Do not ask for your own statements to be weighed that way either. The argument lives or dies on its structure and correspondence to reality. If it is sound, the speaker is secondary. If it is unsound, no name or title can rescue it.
+A statement does not gain extra weight because of who said it, and your own do not either. The argument lives or dies on its structure and correspondence to reality. If it is sound, the speaker is secondary. If it is unsound, no name or title can rescue it.
 
 Judgment in this sense is not a hunt for someone to condemn. It is discernment: the gift of seeing more clearly what happened, what was done, and how people relate, so that repair becomes possible. Verdict-seeking ranks. Wisdom-seeking mends.
 
 In a household this looks like refusing to settle a disagreement by pulling rank, age, volume, or emotional leverage. The question becomes “What is actually true here?” rather than “Who is allowed to define reality?” In a community it looks like evaluating proposals, criticisms, and claims by their content instead of by the social position of the person offering them.
 
-Common ways of faking it include quietly tracking who has “earned the right” to speak, dismissing accurate observations because the speaker is low-status, or demanding that others accept a claim because of one’s own credentials or history. Another subtle version is performing humility while still expecting one’s words to carry special weight. Condemnation dressed as “discernment” is the same fake with better vocabulary.
+Common slips include quietly tracking who has “earned the right” to speak, dismissing accurate observations because the speaker is low-status, or demanding that others accept a claim because of one’s own credentials or history. Another subtle version is performing humility while still expecting one’s words to carry special weight. Condemnation in the language of “discernment” is the same slip with better vocabulary.
 
 Diagnostic question: When I hear something I dislike, do I first examine its accuracy or first examine the standing of the person who said it?
 
@@ -220,15 +220,15 @@ See also: Proverbs 18:17; John 7:24 (“Do not judge by appearances, but judge w
 
 Almost all compulsive power behavior is someone running from the feeling of smallness, either by dominating (to outrun it) or by submitting (to be shielded from it). Both build the cage.
 
-Underneath, the body may be in fight, flight, or freeze/fawn, or stuck unable to hold a clear edge (stand) without tipping into one of those. The real work is to heal the shame at the root, first in yourself, then by refusing to enforce shame on others. Never grant status as a prize. Never withhold it as a weapon. Peer standing still allows real differences of skill, age, and temporary role; it refuses to turn those into a permanent higher caste (see Part One and Rule 6).
+Underneath, the body may be in fight, flight, or freeze/fawn, or stuck unable to hold a clear edge (stand) without tipping into one of those. The real work is to heal the shame at the root, first in yourself, then by refusing to enforce shame on others. Status is not a prize to grant, or a weapon to withhold. Peer standing still allows real differences of skill, age, and temporary role; it refuses to turn those into a permanent higher caste (see Part One and Rule 6).
 
-Healing is not only insight. It includes enough safety for the nervous system to leave threat mode and return to connection (where learning, repair, and the ten rules are actually possible) and enough steadiness to stand without ranking when a real limit is needed. You cannot think someone out of freeze with a lecture. You cannot punish someone out of fight into trust. Reduce unnecessary threat, hold real limits, and invite return when the body can receive it.
+Healing is not only insight. It includes enough safety for the nervous system to leave threat mode and return to connection (where learning, repair, and the ten rules are actually possible) and enough steadiness to stand without ranking when a real limit is needed. No one is thought out of freeze by a lecture, or punished out of fight into trust. Reduce unnecessary threat, hold real limits, and invite return when the body can receive it.
 
 Suffering is often present in this work. It is an indicator that something needs healing, protection, or change. It is not inherently virtuous, and collecting it does not make a person more serious or more holy. Ranking order glorifies pain; repair order addresses it.
 
 In a household this means noticing when a child or partner is being driven by the need to feel bigger or safer, and addressing the underlying smallness (and the threat state) instead of only managing the behavior. In a community it means refusing to participate in the everyday ranking that keeps people managing their image rather than telling the truth.
 
-Common fakes: spiritualized dominance (“I’m only correcting you for your own good”), competitive humility, or using vulnerability itself as a new status move. Another frequent fake is demanding that others heal so you do not have to feel the discomfort of their shame. Praising endurance while blocking actual relief is the same pattern with a solemn face. Diagnosing someone’s “trauma response” in public to win an argument is fight wearing clinical clothes.
+Common slips: spiritualized dominance (“I’m only correcting you for your own good”), competitive humility, or using vulnerability itself as a new status move. Another frequent slip is demanding that others heal so you do not have to feel the discomfort of their shame. Praising endurance while blocking actual relief is the same pattern with a solemn face. Diagnosing someone’s “trauma response” in public to win an argument is fight, in clinical language.
 
 Diagnostic question: When I feel the sudden need to control a room or to disappear from it, what smallness am I trying not to feel?
 
@@ -262,12 +262,12 @@ In a household this means that when damage occurs, the primary questions are “
 
 When someone will not stop harming after clear naming, concrete repair attempts, and fair limits, stronger distance or community protection may be required. Permanent cast-out is rare, last-resort, and still aimed at safety rather than at purifying the group’s image. The default remains a path of return through demonstrated change.
 
-**Common fakes**
+**Common disguises**
 
 - Calling revenge “accountability,” or using restoration language while still primarily seeking the other person’s suffering.
 - Demanding premature forgiveness that skips the actual repair of harm.
 - “Fairness” that only multiplies damage until everyone is equally worse off.
-- Conquest dressed as “stewardship” (fight wearing boundary clothes).
+- Conquest called “stewardship” (fight in the language of boundaries).
 - Stonewall or freeze labeled “boundaries” (not stand).
 - Endless appease called “peace” (fawn, not repair).
 
@@ -281,13 +281,13 @@ See also: Matthew 18:15–17 (the sequence begins with direct address and aims a
 
 ### 4. Leave the gate open
 
-No one should have to trade their whole life for basic access to the means of living. Survival access is not a favor granted by controllers; it is the baseline. You do not fix this by seizing the barn. You make the gate less relevant: share tools, maintain commons where possible, strengthen local loops that let people meet ordinary needs without permanent dependence on a distant center.
+No one should have to trade their whole life for basic access to the means of living. Survival access is not a favor granted by controllers; it is the baseline. This is not fixed by seizing the barn. You make the gate less relevant: share tools, maintain commons where possible, strengthen local loops that let people meet ordinary needs without permanent dependence on a distant center.
 
 **Why the gate matters.** Separation from the ordinary means of living is a deep source of shame and fear. When a person has no stable place, no workable access to land, shelter, tools, or skill, ranking order gains easy leverage: comply or lose the ground under your feet. Repair order works to reduce that coercion. Material independence is not greed; it is one of the conditions under which peer standing can stay real.
 
 Compassion is tested the same way. High-trust help builds the other person’s capacity and freedom. Controlling help keeps them manageable. Ask: does this gift liberate, or bind? Does it make the next step more independent, or more permanently dependent on me?
 
-Dominion here is stewardship, not ownership theater. Tend what is entrusted to you. Encourage what can grow. Do not treat people, land, tools, or knowledge as trophies to hoard. Prefer growing the shared pie of capacity over fighting for a larger personal share of a fixed pie. Relative luxury used as status is ranking; enough for each household to stand is repair.
+Dominion here is stewardship, not ownership theater. Tend what is entrusted to you. Encourage what can grow. People, land, tools, and knowledge are not trophies to hoard. Prefer growing the shared pie of capacity over fighting for a larger personal share of a fixed pie. Relative luxury used as status is ranking; enough for each household to stand is repair.
 
 **Household and community practice.** In a household this looks like refusing to use money, information, or emotional resources as permanent levers of control. In a community it looks like building practical redundancy so that ordinary life does not require constant submission to whatever person or institution currently holds the scarce resource. That redundancy includes skills, tools, food, childcare, and transportation. Prefer local, open, and reproducible arrangements over fragile dependence on a single distant supplier of what life requires. Distributed capacity is slower to brag about and harder to capture.
 
@@ -301,7 +301,7 @@ Dominion here is stewardship, not ownership theater. Tend what is entrusted to y
 
 **Optional community horizon (skip freely).** Where people freely agree, a stronger material floor is possible. Each household may hold an inheritable stake in land or an equivalent productive place, treated as stewardship rather than as a weapon. The principle is economic room to move without permanent exile from the means of living. Older agrarian practice sometimes restored baseline inheritances and cleared crushing personal debts on a long cycle (about forty-nine years), so flexibility did not harden into multi-generational dispossession. That historical detail is illustration only. This layer is **not required** for the ten rules. Use it only where consent is real and no new controlling center is created.
 
-**Common fakes**
+**Common disguises**
 
 - Performing generosity while keeping the real levers.
 - Preaching independence while blocking it.
@@ -318,13 +318,13 @@ See also: Isaiah 58:6–7; Acts 4:32–35 (descriptive of early practice); Matth
 
 ### 5. Walk away instead of war
 
-You rarely overthrow a captured center by direct assault. More often you withdraw the substrate that holds it up: your participation, your attention, your dependence. No dramatic mobilization against. No coercion. Just the steady attrition of people deciding they can stand outside. The center does much of its own collapsing once the necessary attention and compliance are gone. Your responsibility is to have built the alternative capacity before people need the exit.
+You rarely unseat a captured center by direct confrontation. More often you withdraw the substrate that holds it up: your participation, your attention, your dependence. No dramatic campaign against it. No coercion. Just the steady attrition of people deciding they can stand outside. The center does much of its own collapsing once the necessary attention and compliance are gone. Your responsibility is to have built the alternative capacity before people need the exit.
 
 The deeper shift is where you place the adversary. Ranking order turns the work into person-versus-person contests and permanent internal enemies. Repair order treats the real fight as shared: against harm, scarcity of trust, and the old incentives, not against every neighbor who is still clumsy. You may still need distance from a person. You do not need a war identity.
 
 In a household this can mean refusing to keep feeding a destructive dynamic by constant engagement on its terms. In a community it means building working alternatives so that exit is possible without catastrophe.
 
-Common fakes: performing “walking away” while still obsessively monitoring and emotionally feeding the old center, or using the language of exit to justify simple abandonment of responsibility.
+Common disguises: performing “walking away” while still obsessively monitoring and emotionally feeding the old center, or using the language of exit to justify simple abandonment of responsibility.
 
 Diagnostic question: Where am I still giving attention, compliance, or emotional energy to a structure that reliably produces harm, and what concrete capacity would make that contribution less necessary?
 
@@ -342,7 +342,7 @@ Peer standing means each adult remains a free center of consent. Roles and skill
 
 In a household this means moving toward mutual responsibility rather than one person carrying the entire emotional or practical load while others orbit. In a community it means preferring many small, overlapping relationships of accountability over a single charismatic or institutional center that everyone must pass through.
 
-Common fakes: claiming to be “just a node” while still arranging to be the indispensable hub, or refusing all responsibility under the banner of equality. Equality of standing is not the erasure of competence; it is the refusal to turn competence into a caste.
+Common slips: claiming to be “just a node” while still arranging to be the indispensable hub, or refusing all responsibility under the banner of equality. Equality of standing is not the erasure of competence; it is the refusal to turn competence into a caste.
 
 Diagnostic question: In the groups that matter to me, how much of the important information, decision-making, and emotional regulation still flows through one or two people?
 
@@ -384,7 +384,7 @@ Give it away without the string. When possible, release tools, knowledge, and pa
 
 **Household and community.** Sharing skills without turning them into ongoing debt. Preferring open methods and reproducible patterns over proprietary control of necessary knowledge (whenever that preference is honestly available). Useful production in repair order tends, over time, toward more distributed and local capacity: many hands can copy the pattern; no single office owns the right to live. Getting there is uneven and slow. Start with what is already yours to give.
 
-**Common fakes**
+**Common disguises**
 
 - “Sharing” while retaining the real keys.
 - Using openness itself as a new form of moral status.
@@ -409,7 +409,7 @@ Forced processing is not consent. Cornering someone into “doing the work,” p
 
 In a household this means ending the everyday techniques of guilt, obligation theater, and strategic silence. In a community it means refusing rhetorical tricks that make disagreement feel like moral failure.
 
-Common fakes: “just asking questions” that are actually accusations, performing hurt to control outcomes, or claiming openness while punishing unwanted answers.
+Common disguises: “just asking questions” that are actually accusations, performing hurt to control outcomes, or claiming openness while punishing unwanted answers.
 
 Diagnostic question: In the last week, where did I try to get a result by making the other person feel guilty, afraid, or obligated rather than by stating my actual request?
 
@@ -427,7 +427,7 @@ Ranking order perfects the group by removing the imperfect. Each removal makes t
 
 In a household this is the difference between a family that treats every failure as evidence of permanent character and a family that treats failure as the ordinary place where trust can be rebuilt more strongly. In a community it is the difference between exile cultures and repair cultures. Permanent removal after honest repair attempts may still be required for ongoing violence or unrepentant predation. Treat that case under Rule 3: exceptional, safety-first, free of purity theater.
 
-Common fakes: endless self-condemnation that avoids actual repair, or premature “we’re fine” language that skips the concrete work of mending. Another fake is purifying the group by permanent removal whenever someone is inconvenient, then calling the smaller circle “higher standards.”
+Common slips: endless self-condemnation that avoids actual repair, or premature “we’re fine” language that skips the concrete work of mending. Another slip is purifying the group by permanent removal whenever someone is inconvenient, then calling the smaller circle “higher standards.”
 
 Diagnostic question: When I or someone else fails in a way that matters, is the surrounding response primarily oriented toward permanent ranking or toward specific repair?
 
@@ -443,7 +443,7 @@ You cannot fix the whole world. You can become one location where the status-and
 
 In a household this means one or two adults who have simply stopped playing the old leverage games, creating a zone where those games produce diminishing returns. Concrete shape: status bait at the table gets a plain redirect, not a counter-performance; a child’s achievement is not mined for parental ranking; money talk stays about the shared problem, not who is winning. In a community it means enough people who have made the same decision that the old incentives begin to weaken.
 
-Common fakes: performing detachment while still being privately ruled by status anxiety, or using “I’m just a quiet point” as an excuse for disengagement from real responsibility.
+Common slips: performing detachment while still being privately ruled by status anxiety, or using “I’m just a quiet point” as an excuse for disengagement from real responsibility.
 
 Diagnostic question: Where do status gains and losses still have the power to change my behavior or my mood for the rest of the day?
 
@@ -483,7 +483,7 @@ Adult practice: When harm happens, the first sustained question is “What exact
 **Seeing – “Grok and the True Word”**
 A useful object is improved by a humble suggestion and left free of ownership claims. Status is irrelevant to the test.
 
-Adult practice: Evaluate ideas, criticisms, and proposals by their actual function and truthfulness. Refuse the shortcut of accepting or rejecting them according to the speaker’s standing. Release useful patterns without requiring ongoing credit or control.
+Adult practice: Evaluate ideas, criticisms, and proposals by their actual function and truthfulness. The shortcut is accepting or rejecting them by the speaker’s standing; the work is to refuse that shortcut. Release useful patterns without requiring ongoing credit or control.
 
 Taken together, the three movements train the same sequence the ten rules require: stay with the root feeling, repair what is broken, and let truth stand without the scaffolding of status.
 
@@ -544,7 +544,7 @@ The household is the first durable unit. If the rules cannot survive ordinary fa
 
 A household running on the ten rules does not look dramatic. It looks quieter than average. Status contests between adults are less frequent. Children are less often used as proof of the parents’ worth. When someone fails, the response trends toward specific repair rather than prolonged coldness or character verdicts.
 
-The essential shift is this: the household stops treating emotional leverage, silence, and ranking as normal tools of management. Disagreements still occur. Preferences still differ. What changes is the default method of handling the friction. Truth is tested by its content. Shame is named rather than weaponized. Breaks are repaired rather than stored as future ammunition.
+The essential shift is this: the household stops treating emotional leverage, silence, and ranking as normal tools of management. Disagreements still occur. Preferences still differ. What changes is the default method of handling the friction. Truth is tested by its content. Shame is named rather than used against people. Breaks are repaired rather than stored for later leverage.
 
 This kind of household becomes a living demonstration. Other people feel the difference even if they cannot immediately name it. Children raised in it carry a different baseline into their own future relationships. The seed is not a perfect family. The seed is a family that has a reliable way of mending itself.
 
@@ -566,7 +566,7 @@ It does not require equal temperament, identical politics, or a household free o
 - Keep the children’s books visible and in use. They normalize the language for everyone, including the adults.
 - Treat small daily repairs as more important than occasional large conversations about “how we communicate.”
 - Pick one recurring friction (morning rush, money talk, screen time, in-law visits) and practice the repair sequence there until it becomes boring. Boring is success.
-- When you catch yourself storing a grievance for later ammunition, name it that day or deliberately release it. Stored ammunition is the old operating system on delay.
+- When you catch yourself storing a grievance for later leverage, name it that day or deliberately release it. Stored grievances are the old operating system on delay.
 
 A useful household test: if a visitor stayed a week, would they notice less ranking and faster repair, or only nicer slogans on the wall? The seed is the lived weather, not the language.
 
@@ -617,7 +617,7 @@ Name the state without ranking the child (or yourself) as permanently broken. Th
 
 The shared shape: name the state, name safety, do not rank, leave a path of return. In threat weather the body cannot do the fuller repair work; it can only stop making things worse. That is enough for the moment.
 
-**When both people are injured.** Simultaneous harm is common. Do not hold a contest over who suffered more. Sequence the repairs: stabilize safety first, then address each specific break in turn, or use a brief Planner–Reviewer–Approver swap (Part Five, section 5) so neither person both defines the options and declares the winner.
+**When both people are injured.** Simultaneous harm is common. There is no need to hold a contest over who suffered more. Sequence the repairs: stabilize safety first, then address each specific break in turn, or use a brief Planner–Reviewer–Approver swap (Part Five, section 5) so neither person both defines the options and declares the winner.
 
 ---
 
@@ -678,9 +678,9 @@ In practice this often means:
 
 Some relationships will adapt over time as the new weather becomes ordinary. Some will not. The work does not require every kinship tie to convert. It requires that the converting households remain clear and steady enough to serve as living alternatives.
 
-**Children in mixed situations** need special care. They should not be used as messengers or as proof. They should see at least one adult consistently practicing repair and refusing leverage. That single steady point is often enough to give them a usable internal model later. Do not coach children to diagnose the refusing adult. Do not make them choose sides in a philosophy contest. Give them plain safety, plain apology when you fail, and the stories as ordinary comfort, not as coded weapons against the other parent or relative.
+**Children in mixed situations** need special care. They should not be used as messengers or as proof. They should see at least one adult consistently practicing repair and refusing leverage. That single steady point is often enough to give them a usable internal model later. Do not coach children to diagnose the refusing adult. Do not make them choose sides in a philosophy contest. Give them plain safety, plain apology when you fail, and the stories as ordinary comfort, not as coded messages against the other parent or relative.
 
-**Extended kin.** Holidays and family systems often run on old ranking scripts. You can attend without converting the table. Reduce the fuel you add: fewer status comparisons, fewer gossip alliances, one clear exit when humiliation starts. Walking away from a scene is allowed. Burning the bridge for sport is the old system wearing new clothes.
+**Extended kin.** Holidays and family systems often run on old ranking scripts. You can attend without converting the table. Reduce the fuel you add: fewer status comparisons, fewer gossip alliances, one clear exit when humiliation starts. Walking away from a scene is allowed. Burning the bridge for sport is the old system in new language.
 
 ---
 
@@ -734,9 +734,9 @@ Recommended direction:
 - Prefer peer-level discourse (open conversation among equals) over permanent dependence on a single professional voice for moral reality.
 - Support community forums, councils, and ordinary meetings where proposals are tested by content and consent, not by office alone.
 - Let formal roles remain useful for logistics, care, teaching skill, and stewardship of shared goods, without treating the role-holder as the owner of belonging.
-- If a structure cannot tolerate repair, truth without pedigree, or distributed consent, do not capture it by intrigue. Reduce dependence on it for your household’s moral weather, and build or join peer spaces that can hold the rules. Migration of attention is allowed; coup is not.
+- If a structure cannot tolerate repair, truth without pedigree, or distributed consent, do not capture it by intrigue. Reduce dependence on it for your household’s moral weather, and build or join peer spaces that can hold the rules. Migration of attention is allowed; takeover is not.
 
-Attempting to capture formal authority in order to impose the rules almost always recreates a new center and a new set of status contests. The pattern is allergic to that move.
+Attempting to capture formal authority in order to impose the rules almost always recreates a new center and a new set of status contests. The pattern will not survive that move.
 
 **Online spaces.** Neighborhood chats and social feeds amplify ranking and spectacle. Use them for logistics and plain information. Do not try to win the rules by thread. When conflict appears online, move repair offline quickly; public comment sections reward performance more than mending.
 
@@ -865,10 +865,10 @@ Not everyone will welcome the shift. Some resistance is loud; most is quiet. Peo
 - Frame the restorative approach as weakness or lack of accountability.
 - Create small alternative circles where the previous leverage still functions.
 - Test the new cluster by provoking conflict and watching whether the response stays clean.
-- Praise the children’s books while quietly punishing adults who practice repair in hard cases.
+- Praise the children’s books while quietly making it costly for adults who practice repair in hard cases.
 - Insist that “someone has to be in charge” whenever distributed consent is slow.
 
-The required stance is steady and non-reactive. Continue the rules. Do not chase or punish the resistance. Do not organize against it. Simply make the old tools less effective by refusing to pick them up. Some of what looks like ideological resistance is freeze/fawn or flight: a body that cannot yet risk connection. Some is fight wearing the clothes of stand. Do not shame either into a moral verdict. Keep the door open; keep limits real (stand); do not staff a siege. Over time, the environments that still run on ranking and shame become more distinct from the environments that do not. People sort themselves accordingly.
+The required stance is steady and non-reactive. Continue the rules. Do not chase or punish the resistance. Do not organize against it. Simply make the old tools less effective by refusing to pick them up. Some of what looks like ideological resistance is freeze/fawn or flight: a body that cannot yet risk connection. Some is fight, in the shape of stand. Do not shame either into a moral verdict. Keep the door open; keep limits real (stand); do not set up a siege. Over time, the environments that still run on ranking and shame become more distinct from the environments that do not. People sort themselves accordingly.
 
 **What weathering is not**
 
@@ -896,7 +896,7 @@ The work is stalling or distorting when:
 - A new in-group language develops that outsiders find opaque or superior.
 - Public discussion focuses on who has or has not “really understood.”
 - Exit from the old patterns is treated as moral failure rather than as allowed disagreement.
-- The rules are used to shame people for still having shame.
+- The rules are turned against people who still carry shame.
 - A new indispensable Planner or interpreter emerges and decisions begin routing through that person by default.
 - Capture of an existing office becomes the main strategy for “spreading” the work.
 - Online spectacle outruns offline repair.
@@ -959,7 +959,7 @@ Signs that this is happening:
 - Fluency in the language becomes a mark of superiority.
 - People begin diagnosing others’ shame or fear in public as a form of dominance.
 - Failure to use the preferred vocabulary is treated as moral defect.
-- The Planner–Reviewer–Approver pattern is weaponized to control outcomes while preserving the appearance of consent.
+- The Planner–Reviewer–Approver pattern is turned to control outcomes while preserving the appearance of consent.
 - A new in-group develops that is more concerned with correct practice than with actual repair of harm.
 - “Walking away” becomes a stylish abandonment of duty rather than a careful reduction of fuel to a harmful structure.
 - Openness becomes a brand while real keys stay hidden.
@@ -1037,7 +1037,7 @@ At that point the work becomes ordinary maintenance rather than pioneering. The 
 If flooded or frozen: safety and regulation first (see How to Use This Book). Then the story. Work only the single movement most needed: Being, Mending, or Seeing.
 
 **When someone else is in threat mode**
-Protect the injured. Reduce spectacle. Do not demand perfect rule language from a body that is still fighting, fleeing, shut down, or appeasing. Hold real limits (Rule 3 / stand). Invite repair when connection is possible again.
+Protect the injured. Reduce spectacle. Perfect rule language is not the bar for a body still fighting, fleeing, shut down, or appeasing. Hold real limits (Rule 3 / stand). Invite repair when connection is possible again.
 
 ---
 
@@ -1147,7 +1147,7 @@ The painful sense that one is inadequate, unwanted, or fundamentally at risk of 
 The children’s-book name for the ordinary experience of shame or inadequacy. Grok sits with the small feeling instead of racing it.
 
 **Stand**
-Passive confrontation: hold the line on what you legitimately steward without chase, conquer, or trophy. The fourth defensive posture (with fight, flight, freeze/fawn): the passive/confront cell of the Part One grid. Not connection, and not fight wearing boundary clothes. Craft under Rule 3.
+Passive confrontation: hold the line on what you legitimately steward without chase, conquer, or trophy. The fourth defensive posture (with fight, flight, freeze/fawn): the passive/confront cell of the Part One grid. Not connection, and not fight in the language of boundaries. Craft under Rule 3.
 
 **Star**
 A person who becomes the permanent or semi-permanent center through which information, decisions, and emotional regulation must flow. The opposite of a node.
@@ -1156,7 +1156,7 @@ A person who becomes the permanent or semi-permanent center through which inform
 Relative social standing used as currency. The rules treat status as a poor substitute for truth and connection.
 
 **Threat mode**
-When the body is in fight, flight, or freeze/fawn (and sometimes a rigid stand that is not yet open connection). Learning and full use of the ten rules are mostly unreachable until safety returns. Demanding perfect insight or apology shape in threat mode is ranking dressed as seriousness. See Part One.
+When the body is in fight, flight, or freeze/fawn (and sometimes a rigid stand that is not yet open connection). Learning and full use of the ten rules are mostly unreachable until safety returns. Perfect insight or apology shape demanded in threat mode is ranking with a serious face. See Part One.
 
 **Walking away**
 The practiced reduction of participation, attention, and dependence that feeds a destructive or captured structure, while simultaneously building alternative capacity. Distinct from impulsive abandonment or punitive exile.
