@@ -20,13 +20,17 @@ window.I18N.pa = {
 
 
   "nav.text": "ਦੋਵੇਂ",
+  "site.title.mending": "ਮੁਰੰਮਤ ਦੀ ਥਾਂ",
+  "nav.group.guide": "ਗਾਈਡ",
+  "nav.group.stories": "ਕਹਾਣੀਆਂ",
+  "nav.mending": "ਮੁਰੰਮਤ ਦੀ ਥਾਂ",
   "site.title.text": "ਗ੍ਰੋਕ ਪੱਥਰ - ਸਾਰਾ ਪਾਠ",
   "nav.downloadProgress": "ਲਿਆ ਜਾ ਰਿਹਾ ਹੈ… {done}/{total}",
   "nav.downloadZipping": "ਜ਼ਿਪ ਹੋ ਰਿਹਾ ਹੈ…",
   "nav.downloadDone": "ਡਾਊਨਲੋਡ ਹੋ ਗਿਆ",
   "nav.downloadError": "ਡਾਊਨਲੋਡ ਅਸਫਲ। ਸਾਈਟ http(s) ਉੱਤੇ ਖੋਲ੍ਹੋ, ਸਥਾਨਕ ਫਾਈਲ ਵਜੋਂ ਨਹੀਂ।",
   "download.dialogTitle": "ਸਾਈਟ ਡਾਊਨਲੋਡ ਕਰੋ",
-  "download.dialogDesc": "ਪੰਜਾਂ ਵੈੱਬ ਪੰਨਿਆਂ ਦਾ ਇੱਕ .zip ਡਾਊਨਲੋਡ ਕਰਦਾ ਹੈ — ਚੁੱਪ ਕਹਾਣੀਆਂ, ਉੱਚੀਆਂ ਕਹਾਣੀਆਂ, ਨਿਯਮ, ਬਾਰੇ ਅਤੇ ਸਾਰਾ ਪਾਠ — ਨਾਲ ਹੀ ਆਫਲਾਈਨ ਪੜ੍ਹਨ ਲਈ ਹਰ ਤਸਵੀਰ, ਸਟਾਈਲ ਅਤੇ ਸਕ੍ਰਿਪਟ।",
+  "download.dialogDesc": "ਸਾਰੇ 6 ਵੈੱਬ ਪੰਨਿਆਂ — ਚੁੱਪ ਕਹਾਣੀਆਂ, ਉੱਚੀਆਂ ਕਥਾਵਾਂ, ਨਿਯਮ, ਬਾਰੇ, ਮੁਰੰਮਤ ਦੀ ਥਾਂ ਅਤੇ ਸਾਰਾ ਪਾਠ — ਨਾਲ ਆਫ਼ਲਾਈਨ ਪੜ੍ਹਨ ਲਈ ਹਰ ਤਸਵੀਰ, ਸਟਾਈਲ ਅਤੇ ਸਕ੍ਰਿਪਟ ਵਾਲਾ ਇੱਕ .zip ਡਾਊਨਲੋਡ ਕਰਦਾ ਹੈ।",
   "download.dialogCancel": "ਰੱਦ ਕਰੋ",
   "download.dialogConfirm": "ਡਾਊਨਲੋਡ",
   "print.dialogTitle": "ਪ੍ਰਿੰਟ ਵਿਕਲਪ",

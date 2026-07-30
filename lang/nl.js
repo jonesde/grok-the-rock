@@ -20,13 +20,17 @@ window.I18N.nl = {
 
 
   "nav.text": "Beide",
+  "site.title.mending": "Een Herstelplek",
+  "nav.group.guide": "Gids",
+  "nav.group.stories": "Verhalen",
+  "nav.mending": "Een Herstelplek",
   "site.title.text": "Grok de Rots - Alle tekst",
   "nav.downloadProgress": "Ophalen… {done}/{total}",
   "nav.downloadZipping": "Zippen…",
   "nav.downloadDone": "Gedownload",
   "nav.downloadError": "Download mislukt. Open de site via http(s), niet als lokaal bestand.",
   "download.dialogTitle": "Site downloaden",
-  "download.dialogDesc": "Downloadt één .zip met alle 5 webpagina’s — Stille Verhalen, Hoge Vertellingen, Regels, Over en Alle tekst — plus alle afbeeldingen, stijlen en scripts om de hele site offline te lezen.",
+  "download.dialogDesc": "Downloadt één .zip met alle 6 webpagina's — Stille Verhalen, Hoge Vertellingen, Regels, Over, Een Herstelplek en Alle tekst — plus alle afbeeldingen, stijlen en scripts om de site offline te lezen.",
   "download.dialogCancel": "Annuleren",
   "download.dialogConfirm": "Downloaden",
   "print.dialogTitle": "Afdrukopties",

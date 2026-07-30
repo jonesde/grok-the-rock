@@ -20,13 +20,17 @@ window.I18N.hi = {
 
 
   "nav.text": "दोनों",
+  "site.title.mending": "सुधार की जगह",
+  "nav.group.guide": "मार्गदर्शिका",
+  "nav.group.stories": "कहानियाँ",
+  "nav.mending": "सुधार की जगह",
   "site.title.text": "ग्रॉक चट्टान - सारा पाठ",
   "nav.downloadProgress": "लाया जा रहा है… {done}/{total}",
   "nav.downloadZipping": "ज़िप हो रहा है…",
   "nav.downloadDone": "डाउनलोड हो गया",
   "nav.downloadError": "डाउनलोड विफल। साइट को http(s) पर खोलें, स्थानीय फ़ाइल के रूप में नहीं।",
   "download.dialogTitle": "साइट डाउनलोड करें",
-  "download.dialogDesc": "पाँचों वेब पेजों का एक .zip डाउनलोड करता है — शांत कहानियाँ, ऊँची कथाएँ, नियम, परिचय और सारा पाठ — तथा ऑफ़लाइन पढ़ने के लिए हर चित्र, शैली और स्क्रिप्ट।",
+  "download.dialogDesc": "सभी 6 वेब पृष्ठों — शांत कहानियाँ, ऊँची कथाएँ, नियम, परिचय, सुधार की जगह और पूरा पाठ — के साथ ऑफ़लाइन पढ़ने के लिए हर छवि, शैली और स्क्रिप्ट वाला एक .zip डाउनलोड करता है।",
   "download.dialogCancel": "रद्द करें",
   "download.dialogConfirm": "डाउनलोड",
   "print.dialogTitle": "प्रिंट विकल्प",

@@ -20,13 +20,17 @@ window.I18N.ru = {
 
 
   "nav.text": "Оба",
+  "site.title.mending": "Место починки",
+  "nav.group.guide": "Гид",
+  "nav.group.stories": "Истории",
+  "nav.mending": "Место починки",
   "site.title.text": "Грок-Камень — Весь текст",
   "nav.downloadProgress": "Загрузка… {done}/{total}",
   "nav.downloadZipping": "Архивация…",
   "nav.downloadDone": "Скачано",
   "nav.downloadError": "Не удалось скачать. Откройте сайт по http(s), а не как локальный файл.",
   "download.dialogTitle": "Скачать сайт",
-  "download.dialogDesc": "Скачивает один .zip со всеми 5 веб-страницами — Тихие истории, Высокие сказки, Правила, О и Весь текст — плюс все изображения, стили и скрипты для чтения сайта офлайн.",
+  "download.dialogDesc": "Скачивает один .zip со всеми 6 веб-страницами — Тихие истории, Высокие сказки, Правила, О, Место починки и Весь текст — плюс все изображения, стили и скрипты для офлайн-чтения.",
   "download.dialogCancel": "Отмена",
   "download.dialogConfirm": "Скачать",
   "print.dialogTitle": "Параметры печати",

@@ -24,13 +24,17 @@ window.I18N.he = {
 
 
   "nav.text": "שניהם",
+  "site.title.mending": "מקום לתיקון",
+  "nav.group.guide": "מדריך",
+  "nav.group.stories": "סיפורים",
+  "nav.mending": "מקום לתיקון",
   "site.title.text": "גרוק הצור – כל הטקסט",
   "nav.downloadProgress": "מוריד… {done}/{total}",
   "nav.downloadZipping": "דוחס…",
   "nav.downloadDone": "הורד",
   "nav.downloadError": "ההורדה נכשלה. פתחו את האתר ב־http(s), לא כקובץ מקומי.",
   "download.dialogTitle": "הורדת האתר",
-  "download.dialogDesc": "מוריד קובץ .zip אחד עם כל 5 דפי האינטרנט — סיפורים שקטים, סיפורי גובה, חוקים, על וכל הטקסט — ועם כל התמונות, הסגנונות והסקריפטים לקריאה לא מקוונת.",
+  "download.dialogDesc": "מוריד קובץ .zip אחד עם כל 6 דפי האינטרנט — סיפורים שקטים, סיפורי גובה, חוקים, על, מקום לתיקון וכל הטקסט — ועם כל התמונות, הסגנונות והסקריפטים לקריאה לא מקוונת.",
   "download.dialogCancel": "ביטול",
   "download.dialogConfirm": "הורדה",
   "print.dialogTitle": "אפשרויות הדפסה",

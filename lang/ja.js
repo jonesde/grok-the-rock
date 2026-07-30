@@ -20,13 +20,17 @@ window.I18N.ja = {
 
 
   "nav.text": "両方",
+  "site.title.mending": "繕いの場",
+  "nav.group.guide": "手引き",
+  "nav.group.stories": "物語",
+  "nav.mending": "繕いの場",
   "site.title.text": "岩グロック - 全文",
   "nav.downloadProgress": "取得中… {done}/{total}",
   "nav.downloadZipping": "圧縮中…",
   "nav.downloadDone": "ダウンロード完了",
   "nav.downloadError": "ダウンロードに失敗しました。ローカルファイルではなく http(s) でサイトを開いてください。",
   "download.dialogTitle": "サイトをダウンロード",
-  "download.dialogDesc": "5つのウェブページ — 静かな物語、背高なたとえ話、掟、概要、全文 — と、オフライン閲覧に必要な画像・スタイル・スクリプトを1つの .zip でダウンロードします。",
+  "download.dialogDesc": "6つのウェブページすべて — 静かな物語、背高なたとえ話、掟、概要、繕いの場、全文 — と、オフライン閲覧に必要な画像・スタイル・スクリプトを1つの.zipでダウンロードします。",
   "download.dialogCancel": "キャンセル",
   "download.dialogConfirm": "ダウンロード",
   "print.dialogTitle": "印刷オプション",

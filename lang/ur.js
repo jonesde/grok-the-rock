@@ -20,13 +20,17 @@ window.I18N.ur = {
 
 
   "nav.text": "دونوں",
+  "site.title.mending": "مرمت کی جگہ",
+  "nav.group.guide": "رہنما",
+  "nav.group.stories": "کہانیاں",
+  "nav.mending": "مرمت کی جگہ",
   "site.title.text": "گروک دی چٹان - تمام متن",
   "nav.downloadProgress": "حاصل ہو رہا ہے… {done}/{total}",
   "nav.downloadZipping": "زپ ہو رہا ہے…",
   "nav.downloadDone": "ڈاؤن لوڈ ہو گیا",
   "nav.downloadError": "ڈاؤن لوڈ ناکام۔ سائٹ http(s) پر کھولیں، مقامی فائل کے طور پر نہیں۔",
   "download.dialogTitle": "سائٹ ڈاؤن لوڈ کریں",
-  "download.dialogDesc": "پانچوں ویب صفحات کا ایک .zip ڈاؤن لوڈ کرتا ہے — خاموش کہانیاں، اونچی کہانیاں، اصول، تعارف اور تمام متن — نیز آف لائن پڑھنے کے لیے ہر تصویر، انداز اور اسکرپٹ۔",
+  "download.dialogDesc": "چھوں ویب صفحات کا ایک .zip ڈاؤن لوڈ کرتا ہے — خاموش کہانیاں، اونچی کہانیاں، اصول، تعارف، مرمت کی جگہ اور تمام متن — نیز آف لائن پڑھنے کے لیے ہر تصویر، انداز اور اسکرپٹ۔",
   "download.dialogCancel": "منسوخ",
   "download.dialogConfirm": "ڈاؤن لوڈ",
   "print.dialogTitle": "پرنٹ اختیارات",

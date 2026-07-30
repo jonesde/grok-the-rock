@@ -20,13 +20,17 @@ window.I18N.it = {
 
 
   "nav.text": "Entrambi",
+  "site.title.mending": "Un Luogo di Riparazione",
+  "nav.group.guide": "Guida",
+  "nav.group.stories": "Storie",
+  "nav.mending": "Un Luogo di Riparazione",
   "site.title.text": "Grok la Roccia - Tutto il testo",
   "nav.downloadProgress": "Scaricamento… {done}/{total}",
   "nav.downloadZipping": "Compressione…",
   "nav.downloadDone": "Scaricato",
   "nav.downloadError": "Download non riuscito. Apri il sito via http(s), non come file locale.",
   "download.dialogTitle": "Scarica il sito",
-  "download.dialogDesc": "Scarica un unico .zip con tutte e 5 le pagine web — Storie Quiete, Racconti Alti, Regole, Info e Tutto il testo — più ogni immagine, stile e script per leggere l’intero sito offline.",
+  "download.dialogDesc": "Scarica un unico .zip con tutte le 6 pagine web — Storie Quiete, Racconti Alti, Regole, Info, Un Luogo di Riparazione e Tutto il testo — più ogni immagine, stile e script per leggere il sito offline.",
   "download.dialogCancel": "Annulla",
   "download.dialogConfirm": "Scarica",
   "print.dialogTitle": "Opzioni di stampa",

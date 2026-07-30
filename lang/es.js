@@ -20,13 +20,17 @@ window.I18N.es = {
 
 
   "nav.text": "Ambos",
+  "site.title.mending": "Un Lugar de Reparación",
+  "nav.group.guide": "Guía",
+  "nav.group.stories": "Historias",
+  "nav.mending": "Un Lugar de Reparación",
   "site.title.text": "Grok la Roca - Todo el texto",
   "nav.downloadProgress": "Obteniendo… {done}/{total}",
   "nav.downloadZipping": "Comprimiendo…",
   "nav.downloadDone": "Descargado",
   "nav.downloadError": "Error al descargar. Abre el sitio por http(s), no como archivo local.",
   "download.dialogTitle": "Descargar el sitio",
-  "download.dialogDesc": "Descarga un único .zip con las 5 páginas web — Historias Quietas, Cuentos Altos, Reglas, Sobre y Todo el texto — más cada imagen, estilo y script necesarios para leer todo el sitio sin conexión.",
+  "download.dialogDesc": "Descarga un solo .zip con las 6 páginas web — Historias Quietas, Cuentos Altos, Reglas, Sobre, Un Lugar de Reparación y Todo el texto — más cada imagen, estilo y script necesarios para leer el sitio sin conexión.",
   "download.dialogCancel": "Cancelar",
   "download.dialogConfirm": "Descargar",
   "print.dialogTitle": "Opciones de impresión",

@@ -20,13 +20,17 @@ window.I18N.ha = {
 
 
   "nav.text": "Duka biyu",
+  "site.title.mending": "Wurin Gyara",
+  "nav.group.guide": "Jagora",
+  "nav.group.stories": "Labarai",
+  "nav.mending": "Wurin Gyara",
   "site.title.text": "Grok Dutsen - Dukkan rubutu",
   "nav.downloadProgress": "Ana ɗauka… {done}/{total}",
   "nav.downloadZipping": "Ana matsewa…",
   "nav.downloadDone": "An zazzage",
   "nav.downloadError": "Zazzagewa ta gaza. Buɗe shafin ta http(s), ba a matsayin fayil na gida ba.",
   "download.dialogTitle": "Zazzage shafin",
-  "download.dialogDesc": "Yana zazzage guda ɗaya .zip da dukkan shafuka 5 — Labarun Shiru, Tatsuniyoyi Masu Tsayi, Dokoki, Game da Dukkan rubutu — tare da kowane hoto, salo da rubutun da ake buƙata don karanta shafin ba tare da intanet ba.",
+  "download.dialogDesc": "Yana zazzage guda ɗaya .zip da dukkan shafuka 6 — Labarun Shiru, Tatsuniyoyi Masu Tsayi, Dokoki, Game, Wurin Gyara da Dukkan rubutu — tare da kowane hoto, salo da rubutun da ake buƙata don karanta shafin ba tare da intanet ba.",
   "download.dialogCancel": "Soke",
   "download.dialogConfirm": "Zazzage",
   "print.dialogTitle": "Zaɓuɓɓukan buga",

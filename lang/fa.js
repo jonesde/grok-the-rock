@@ -20,13 +20,17 @@ window.I18N.fa = {
 
 
   "nav.text": "هر دو",
+  "site.title.mending": "جای ترمیم",
+  "nav.group.guide": "راهنما",
+  "nav.group.stories": "داستان‌ها",
+  "nav.mending": "جای ترمیم",
   "site.title.text": "گروکِ سنگ - همهٔ متن",
   "nav.downloadProgress": "در حال دریافت… {done}/{total}",
   "nav.downloadZipping": "در حال فشرده‌سازی…",
   "nav.downloadDone": "دانلود شد",
   "nav.downloadError": "دانلود ناموفق بود. سایت را با http(s) باز کنید، نه به‌صورت پروندهٔ محلی.",
   "download.dialogTitle": "دانلود سایت",
-  "download.dialogDesc": "یک .zip واحد با هر ۵ صفحهٔ وب — داستان‌های آرام، قصه‌های بلند، قواعد، درباره و همهٔ متن — به‌همراه هر تصویر، سبک و اسکریپت لازم برای خواندن کل سایت به‌صورت آفلاین.",
+  "download.dialogDesc": "یک .zip با هر ۶ صفحه وب — داستان‌های آرام، قصه‌های بلند، قواعد، درباره، جای ترمیم و تمام متن — به‌همراه همه تصویرها، سبک‌ها و اسکریپت‌ها برای خواندن آفلاین بارگیری می‌کند.",
   "download.dialogCancel": "لغو",
   "download.dialogConfirm": "دانلود",
   "print.dialogTitle": "گزینه‌های چاپ",

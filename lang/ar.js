@@ -21,13 +21,17 @@ window.I18N.ar = {
 
 
   "nav.text": "كلاهما",
+  "site.title.mending": "مكان للإصلاح",
+  "nav.group.guide": "دليل",
+  "nav.group.stories": "قصص",
+  "nav.mending": "مكان للإصلاح",
   "site.title.text": "غروك الصخرة - كل النص",
   "nav.downloadProgress": "جاري الجلب… {done}/{total}",
   "nav.downloadZipping": "جاري الضغط…",
   "nav.downloadDone": "تم التنزيل",
   "nav.downloadError": "فشل التنزيل. افتح الموقع عبر http(s)، وليس كملف محلي.",
   "download.dialogTitle": "تنزيل الموقع",
-  "download.dialogDesc": "ينزّل ملف .zip واحدًا يضم الصفحات الخمس — قصص هادئة، حكايات طويلة، قواعد، عن، وكل النص — مع كل الصور والأنماط والسكربتات لقراءة الموقع دون اتصال.",
+  "download.dialogDesc": "ينزّل ملف .zip واحدًا بكل الصفحات الست — القصص الهادئة، الحكايات الطويلة، القواعد، حول، مكان للإصلاح، وكل النص — مع كل الصور والأنماط والسكربتات للقراءة دون اتصال.",
   "download.dialogCancel": "إلغاء",
   "download.dialogConfirm": "تنزيل",
   "print.dialogTitle": "خيارات الطباعة",

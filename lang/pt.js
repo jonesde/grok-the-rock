@@ -20,13 +20,17 @@ window.I18N.pt = {
 
 
   "nav.text": "Ambos",
+  "site.title.mending": "Um Lugar de Reparação",
+  "nav.group.guide": "Guia",
+  "nav.group.stories": "Histórias",
+  "nav.mending": "Um Lugar de Reparação",
   "site.title.text": "Grok a Rocha - Todo o texto",
   "nav.downloadProgress": "A obter… {done}/{total}",
   "nav.downloadZipping": "A compactar…",
   "nav.downloadDone": "Transferido",
   "nav.downloadError": "Falha na transferência. Abra o site por http(s), não como ficheiro local.",
   "download.dialogTitle": "Descarregar o site",
-  "download.dialogDesc": "Descarrega um único .zip com as 5 páginas web — Histórias Quietas, Contos Altos, Regras, Sobre e Todo o texto — mais cada imagem, estilo e script necessários para ler o site offline.",
+  "download.dialogDesc": "Descarrega um único .zip com as 6 páginas web — Histórias Quietas, Contos Altos, Regras, Sobre, Um Lugar de Reparação e Todo o texto — mais cada imagem, estilo e script para ler o sítio offline.",
   "download.dialogCancel": "Cancelar",
   "download.dialogConfirm": "Descarregar",
   "print.dialogTitle": "Opções de impressão",

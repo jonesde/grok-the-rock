@@ -20,13 +20,17 @@ window.I18N.de = {
 
 
   "nav.text": "Beide",
+  "site.title.mending": "Ein Ort der Heilung",
+  "nav.group.guide": "Leitfaden",
+  "nav.group.stories": "Geschichten",
+  "nav.mending": "Ein Ort der Heilung",
   "site.title.text": "Grok der Fels - Gesamter Text",
   "nav.downloadProgress": "Laden… {done}/{total}",
   "nav.downloadZipping": "Packen…",
   "nav.downloadDone": "Heruntergeladen",
   "nav.downloadError": "Download fehlgeschlagen. Öffne die Seite über http(s), nicht als lokale Datei.",
   "download.dialogTitle": "Seite herunterladen",
-  "download.dialogDesc": "Lädt eine einzelne .zip mit allen 5 Webseiten — Stille Geschichten, Hohe Märchen, Regeln, Über und Gesamter Text — plus alle Bilder, Styles und Skripte für die Offline-Nutzung.",
+  "download.dialogDesc": "Lädt eine einzelne .zip mit allen 6 Webseiten herunter — Stille Geschichten, Hohe Erzählungen, Regeln, Über, Ein Ort der Heilung und Gesamter Text — plus alle Bilder, Stile und Skripte fürs Offline-Lesen.",
   "download.dialogCancel": "Abbrechen",
   "download.dialogConfirm": "Herunterladen",
   "print.dialogTitle": "Druckoptionen",

@@ -12,15 +12,31 @@
     "about-grok.html": { titleI18n: "site.title.about", title: "Grok the Rock - About Grok", active: "about", kind: "article" },
     "grok-rules.html": { titleI18n: "site.title.rules", title: "Grok the Rock - Rules of Relating", active: "rules", kind: "article" },
     "tall-tales.html": { titleI18n: "hai.site.title", title: "Lord Ikthiss - Three Tall Tales", active: "tall", kind: "book" },
-    "book-text.html": { titleI18n: "site.title.text", title: "Grok the Rock - All Book Text", active: "text", kind: "article" }
+    "book-text.html": { titleI18n: "site.title.text", title: "Grok the Rock - All Book Text", active: "text", kind: "article" },
+    "mending-place.html": { titleI18n: "site.title.mending", title: "A Mending Place", active: "mending", kind: "article" }
   };
 
-  var NAV = [
-    { key: "rules", i18n: "nav.rules", label: "Rules", href: "grok-rules.html" },
-    { key: "about", i18n: "nav.about", label: "About", href: "about-grok.html" },
-    { key: "text", i18n: "nav.text", label: "Both", href: "book-text.html" },
-    { key: "book", i18n: "nav.book", label: "Quiet Stories", href: "quiet-stories.html" },
-    { key: "tall", i18n: "nav.tall", label: "Tall Tales", href: "tall-tales.html" }
+  var NAV_GROUPS = [
+    {
+      key: "stories",
+      i18n: "nav.group.stories",
+      label: "Stories",
+      items: [
+        { key: "book", i18n: "nav.book", label: "Quiet Stories", href: "quiet-stories.html" },
+        { key: "tall", i18n: "nav.tall", label: "Tall Tales", href: "tall-tales.html" },
+        { key: "text", i18n: "nav.text", label: "Both", href: "book-text.html" }
+      ]
+    },
+    {
+      key: "guide",
+      i18n: "nav.group.guide",
+      label: "Guide",
+      items: [
+        { key: "rules", i18n: "nav.rules", label: "Rules", href: "grok-rules.html" },
+        { key: "about", i18n: "nav.about", label: "About", href: "about-grok.html" },
+        { key: "mending", i18n: "nav.mending", label: "A Mending Place", href: "mending-place.html" }
+      ]
+    }
   ];
 
   function currentPage() {
@@ -29,14 +45,42 @@
     return PAGES[base] || { titleI18n: null, title: document.title, active: null, kind: null };
   }
 
-  function buildNavLinks(active) {
-    return NAV.map(function (item) {
-      if (item.key === active) {
-        return '<span class="site-link active" aria-current="page" data-i18n="' +
-          item.i18n + '">' + item.label + "</span>";
-      }
-      return '<a class="site-link" href="' + item.href + '" data-i18n="' +
-        item.i18n + '">' + item.label + "</a>";
+  function navItemHtml(item, active) {
+    if (item.key === active) {
+      return (
+        '<span class="site-link active" aria-current="page" data-i18n="' +
+        item.i18n +
+        '">' +
+        item.label +
+        "</span>"
+      );
+    }
+    return (
+      '<a class="site-link" href="' +
+      item.href +
+      '" data-i18n="' +
+      item.i18n +
+      '">' +
+      item.label +
+      "</a>"
+    );
+  }
+
+  function buildNav(active) {
+    return NAV_GROUPS.map(function (group) {
+      var links = group.items
+        .map(function (item) {
+          return navItemHtml(item, active);
+        })
+        .join("\n          ");
+      return (
+        '<div class="nav-group" data-nav-group="' +
+        group.key +
+        '">\n' +
+        '          <div class="nav-group-links">\n          ' +
+        links +
+        "\n          </div>\n        </div>"
+      );
     }).join("\n        ");
   }
 
@@ -51,6 +95,7 @@
       '  <div id="site-drawer" class="site-drawer">\n' +
       '      <button type="button" class="nav-close" data-i18n="nav.close">Close</button>\n' +
       '      <nav class="site-nav" aria-label="Site">\n' +
+      '        <div class="nav-utils">\n' +
       '        <button class="site-link icon-btn" id="print-btn" type="button" aria-labelledby="print-lbl">\n' +
       '          <svg class="icon-btn-glyph" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M7 9V4h10v5M7 18H5a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2M7 14h10v6H7z"/></svg>\n' +
       '          <span class="icon-btn-label" id="print-lbl" data-i18n="nav.print">Print</span>\n' +
@@ -60,7 +105,10 @@
       '          <span class="icon-btn-label" id="download-lbl" data-i18n="nav.download">Download</span>\n' +
       "        </button>\n" +
       '        <select id="lang-select" class="site-link" aria-label="Language"></select>\n' +
-      "        " + buildNavLinks(page.active) + "\n" +
+      "        </div>\n" +
+      '        <div class="nav-clusters">\n        ' +
+      buildNav(page.active) +
+      "\n        </div>\n" +
       "      </nav>\n" +
       "    </div>\n" +
       "</div>\n" +
@@ -70,7 +118,7 @@
       "  </a>\n" +
       '<dialog id="download-dialog" class="site-dialog" aria-labelledby="download-dialog-title">\n' +
       '  <h2 id="download-dialog-title" data-i18n="download.dialogTitle">Download the site</h2>\n' +
-      '  <p data-i18n="download.dialogDesc">Downloads a single .zip with all 5 web pages — Quiet Stories, Tall Tales, Rules, About, and All Book Text — plus every image, style, and script they need to read the whole site offline.</p>\n' +
+      '  <p data-i18n="download.dialogDesc">Downloads a single .zip with all 6 web pages — Quiet Stories, Tall Tales, Rules, About, A Mending Place, and All Book Text — plus every image, style, and script they need to read the whole site offline.</p>\n' +
       '  <p class="site-dialog-status" id="download-status" role="status" aria-live="polite"></p>\n' +
       '  <div class="site-dialog-actions">\n' +
       '    <button type="button" class="site-link" id="download-cancel-btn" data-i18n="download.dialogCancel">Cancel</button>\n' +
@@ -101,7 +149,7 @@
     if (!toggle || !drawer || !chrome) return;
 
     var lastFocus = null;
-    var mq = window.matchMedia("(max-width: 720px)");
+    var mq = window.matchMedia("(max-width: 1100px)");
     var homeBtn = document.getElementById("home-btn");
 
     function placeOverlay() {
@@ -475,6 +523,7 @@
     "grok-rules.html",
     "tall-tales.html",
     "book-text.html",
+    "mending-place.html",
     "site.js",
     "book-text.js",
     "site.css",

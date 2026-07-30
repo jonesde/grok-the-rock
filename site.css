@@ -346,9 +346,49 @@
 
   .site-nav {
     display: flex;
-    gap: 0.5rem;
+    gap: 0.65rem 0.85rem;
     flex-wrap: wrap;
     justify-content: flex-end;
+    align-items: center;
+  }
+
+
+  .nav-utils {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+
+  .nav-clusters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem 0.9rem;
+    align-items: center;
+    padding-left: 0.75rem;
+    border-left: 1px solid rgba(150,140,120,0.45);
+  }
+
+
+  .nav-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+
+  .nav-group + .nav-group {
+    padding-left: 0.75rem;
+    border-left: 1px solid rgba(150,140,120,0.45);
+  }
+
+
+  .nav-group-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
     align-items: center;
   }
 
@@ -511,7 +551,7 @@
   .nav-close { display: none; }
 
 
-  @media (max-width: 720px) {
+  @media (max-width: 1100px) {
     .nav-toggle { display: inline-flex; align-items: center; }
     .site-drawer {
       display: none;
@@ -521,7 +561,7 @@
       bottom: 0;
       left: auto;
       z-index: 200;
-      width: min(20rem, 88vw);
+      width: min(22rem, 90vw);
       max-width: 100vw;
       height: 100%;
       max-height: 100dvh;
@@ -544,7 +584,37 @@
       flex-direction: column;
       align-items: stretch;
       justify-content: flex-start;
+      gap: 0.85rem;
+    }
+    .nav-utils {
+      flex-direction: column;
+      align-items: stretch;
       gap: 0.45rem;
+    }
+    .nav-clusters {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.85rem;
+      padding-left: 0;
+      border-left: none;
+      padding-top: 0.75rem;
+      border-top: 1px solid rgba(150,140,120,0.35);
+    }
+    .nav-group {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.4rem;
+    }
+    .nav-group + .nav-group {
+      padding-left: 0;
+      border-left: none;
+      padding-top: 0.75rem;
+      border-top: 1px solid rgba(150,140,120,0.35);
+    }
+    .nav-group-links {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.4rem;
     }
     .site-drawer .site-link,
     .site-drawer #lang-select,
@@ -578,13 +648,16 @@
 
 
 
-  @media (max-width: 720px) {
+  @media (max-width: 1100px) {
     html[dir="rtl"] .site-drawer {
       right: auto;
       left: 0;
       border-left: none;
       border-right: 1px solid rgba(150,140,120,0.45);
       box-shadow: 8px 0 28px rgba(40,30,20,0.18);
+    }
+    html[dir="rtl"] .nav-group + .nav-group {
+      border-left: none;
     }
   }
 
@@ -1106,11 +1179,6 @@
   }
 
 
-  .nav-toggle { display: none; }
-
-
-
-
   @media print {
     html, body { background: #fff; }
     .site-chrome, .site-header { display: none !important; }
@@ -1142,6 +1210,524 @@
     .board { grid-template-columns: 1fr; }
     .span12, .span7, .span5, .span8, .span4, .span6 { grid-column: span 1; }
     .rule .num { font-size: 5rem; }
+  }
+
+
+  /* --- 6b. A Mending Place (long-form guide) --- */
+  .guide-wrap {
+    max-width: 1180px;
+  }
+
+
+  .guide-hero {
+    text-align: center;
+    padding: clamp(1.4rem, 3.5vw, 2.6rem) clamp(0.6rem, 2vw, 1.5rem) 0.4rem;
+  }
+
+
+  .guide-hero h1 {
+    margin: 0;
+    font-size: clamp(1.85rem, 4.6vw, 3.1rem);
+    line-height: 1.12;
+  }
+
+
+  .guide-subtitle {
+    margin: 0.55rem 0 0;
+    font-style: italic;
+    color: var(--ink-soft);
+    font-size: clamp(1.05rem, 2vw, 1.35rem);
+  }
+
+
+  .guide-meta,
+  .guide-companions {
+    margin: 0.75rem auto 0;
+    max-width: 52ch;
+    color: var(--stone);
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+
+
+  .guide-hero .dotrule {
+    width: 120px;
+    margin: 1.3rem auto 0;
+    border: none;
+    border-top: 3px dotted var(--dot);
+  }
+
+
+  .guide-layout {
+    display: grid;
+    grid-template-columns: minmax(12rem, 16rem) minmax(0, 1fr);
+    gap: clamp(1rem, 2.5vw, 2.2rem);
+    align-items: start;
+    margin-top: 1.4rem;
+  }
+
+
+  .guide-toc {
+    position: sticky;
+    top: 4.5rem;
+    max-height: calc(100vh - 5.5rem);
+    overflow: auto;
+    padding: 0.9rem 1rem 1.1rem;
+    background: var(--slab);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+  }
+
+
+  .guide-toc h2 {
+    margin: 0 0 0.65rem;
+    font-size: 1rem;
+  }
+
+
+  .guide-toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+
+  .guide-toc-list a {
+    color: var(--ink-soft);
+    text-decoration: none;
+    font-size: 0.88rem;
+    line-height: 1.3;
+    font-weight: 600;
+  }
+
+
+  .guide-toc-list a:hover {
+    color: var(--ink);
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+
+
+  .guide-toc-list .toc-sub {
+    padding-left: 0.85rem;
+  }
+
+
+  .guide-toc-list .toc-sub a {
+    font-weight: 500;
+    font-size: 0.82rem;
+  }
+
+
+  .guide-body {
+    background: var(--slab);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+    padding: clamp(1.2rem, 2.4vw, 2.1rem);
+    color: var(--ink);
+    line-height: 1.55;
+    font-size: clamp(0.98rem, 1.15vw, 1.08rem);
+  }
+
+
+  .guide-body > h1 {
+    margin: 1.6rem 0 0.35rem;
+    font-size: clamp(1.45rem, 2.6vw, 1.9rem);
+    scroll-margin-top: 5rem;
+  }
+
+
+  .guide-body > h1:first-child,
+  .guide-body > h2:first-child {
+    margin-top: 0;
+  }
+
+
+  .guide-body > h2 {
+    margin: 1.35rem 0 0.45rem;
+    font-size: clamp(1.2rem, 2.1vw, 1.5rem);
+    scroll-margin-top: 5rem;
+  }
+
+
+  .guide-body > h2.part-subtitle {
+    margin-top: 0.15rem;
+    margin-bottom: 0.85rem;
+    font-weight: 500;
+    font-style: italic;
+    color: var(--ink-soft);
+    font-size: clamp(1.05rem, 1.8vw, 1.3rem);
+  }
+
+
+  .guide-body > h3 {
+    margin: 1.2rem 0 0.4rem;
+    font-size: clamp(1.05rem, 1.7vw, 1.25rem);
+    scroll-margin-top: 5rem;
+  }
+
+
+  .guide-body p {
+    margin: 0 0 0.85rem;
+  }
+
+
+  .guide-body p:last-child {
+    margin-bottom: 0;
+  }
+
+
+  .guide-subhead {
+    margin: -0.15rem 0 0.9rem !important;
+    color: var(--ink-soft);
+  }
+
+
+  .guide-body ul,
+  .guide-body ol {
+    margin: 0 0 0.95rem;
+    padding-left: 1.35rem;
+  }
+
+
+  .guide-body li {
+    margin: 0 0 0.35rem;
+  }
+
+
+  .guide-body li:last-child {
+    margin-bottom: 0;
+  }
+
+
+  .guide-rule {
+    border: none;
+    border-top: 1px solid var(--line);
+    margin: 1.4rem 0;
+  }
+
+
+  .guide-callout {
+    padding: 0.7rem 0.9rem;
+    border-radius: 10px;
+    background: rgba(107,98,86,0.07);
+    border-left: 3px solid var(--stone);
+  }
+
+
+  .guide-diagnostic {
+    border-left-color: #7a5c3a;
+  }
+
+
+  .guide-experiment {
+    border-left-color: #4a6b52;
+  }
+
+
+  .guide-seealso {
+    border-left-color: #5a6478;
+    font-size: 0.95em;
+  }
+
+
+  .guide-table-wrap {
+    overflow-x: auto;
+    margin: 0.6rem 0 1.1rem;
+  }
+
+
+  .guide-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95em;
+    background: rgba(255,255,255,0.28);
+  }
+
+
+  .guide-table th,
+  .guide-table td {
+    border: 1px solid var(--line);
+    padding: 0.55rem 0.7rem;
+    text-align: left;
+    vertical-align: top;
+  }
+
+
+  .guide-table th {
+    background: rgba(107,98,86,0.12);
+    font-weight: 700;
+    color: var(--ink);
+  }
+
+
+  .guide-table tr:nth-child(even) td {
+    background: rgba(107,98,86,0.04);
+  }
+
+
+  .guide-glossary {
+    margin: 0.4rem 0 0;
+  }
+
+
+  .guide-glossary dt {
+    margin: 1rem 0 0.25rem;
+    font-family: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif;
+    font-weight: 700;
+    font-size: 1.05em;
+    scroll-margin-top: 5rem;
+  }
+
+
+  .guide-glossary dt:first-child {
+    margin-top: 0.2rem;
+  }
+
+
+  .guide-glossary dd {
+    margin: 0 0 0.35rem;
+    padding-left: 0;
+  }
+
+
+  .guide-glossary dd p {
+    margin: 0 0 0.45rem;
+  }
+
+
+  .guide-glossary dd ul {
+    margin: 0.35rem 0 0.55rem;
+  }
+
+
+  /* Two-column prose when the reading pane is wide enough.
+     Sidebar TOC is present from 1000px; full two-col body needs more room. */
+  @media (min-width: 1000px) and (max-width: 1279px) {
+    .guide-layout {
+      grid-template-columns: minmax(12rem, 15rem) minmax(0, 1fr);
+    }
+  }
+
+
+  @media (min-width: 1280px) {
+    .guide-body {
+      column-count: 2;
+      column-gap: clamp(1.4rem, 2.8vw, 2.4rem);
+      column-rule: 1px solid var(--line);
+    }
+    .guide-body > h1,
+    .guide-body > h2,
+    .guide-body > h3,
+    .guide-body .guide-table-wrap,
+    .guide-body .guide-glossary,
+    .guide-body .guide-rule {
+      column-span: all;
+    }
+    .guide-body p,
+    .guide-body li {
+      break-inside: avoid;
+    }
+    .guide-table {
+      break-inside: avoid;
+    }
+  }
+
+
+  @media (max-width: 999px) {
+    .guide-layout {
+      grid-template-columns: 1fr;
+    }
+    .guide-toc {
+      position: static;
+      max-height: none;
+    }
+  }
+
+
+  @media print {
+    .guide-wrap {
+      max-width: none;
+      margin: 0;
+      padding: 0;
+    }
+    .guide-hero {
+      text-align: center;
+      padding: 0 0 0.6rem;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .guide-hero h1 {
+      font-size: 1.65rem;
+    }
+    .guide-subtitle {
+      font-size: 1.05rem;
+      color: #000;
+    }
+    .guide-meta,
+    .guide-companions {
+      max-width: none;
+      color: #000;
+      font-size: 0.85rem;
+    }
+    .guide-hero .dotrule {
+      border-top-color: #6b6256;
+      margin: 0.7rem auto 0;
+    }
+    .guide-layout {
+      display: block;
+      margin-top: 0.4rem;
+    }
+    /* Flat TOC — no card chrome */
+    .guide-toc {
+      position: static;
+      max-height: none;
+      overflow: visible;
+      margin: 0 0 0.9rem;
+      padding: 0 0 0.7rem;
+      background: none !important;
+      border: none !important;
+      border-radius: 0;
+      box-shadow: none !important;
+      border-bottom: 1px solid #6b6256 !important;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .guide-toc h2 {
+      font-size: 1rem;
+      margin: 0 0 0.4rem;
+    }
+    .guide-toc-list {
+      column-count: 2;
+      column-gap: 1.2rem;
+      gap: 0;
+    }
+    .guide-toc-list li {
+      break-inside: avoid;
+      margin: 0 0 0.2rem;
+    }
+    .guide-toc-list a {
+      color: #000 !important;
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    /* Flat body — no card; two-column portrait prose */
+    .guide-body {
+      column-count: 2 !important;
+      column-gap: 1.35rem !important;
+      column-rule: 1px solid #b0a898 !important;
+      column-fill: auto;
+      margin: 0;
+      padding: 0 !important;
+      background: none !important;
+      border: none !important;
+      border-radius: 0 !important;
+      box-shadow: none !important;
+      color: #000;
+      font-size: 9.5pt;
+      line-height: 1.35;
+    }
+    .guide-body * {
+      color: #000 !important;
+    }
+    .guide-body > h1 {
+      column-span: all;
+      font-size: 1.25rem;
+      margin: 0.85rem 0 0.35rem;
+      break-after: avoid;
+      page-break-after: avoid;
+    }
+    .guide-body > h2 {
+      column-span: all;
+      font-size: 1.08rem;
+      margin: 0.7rem 0 0.3rem;
+      break-after: avoid;
+      page-break-after: avoid;
+    }
+    .guide-body > h2.part-subtitle {
+      column-span: all;
+      font-size: 0.95rem;
+      margin: 0.1rem 0 0.45rem;
+    }
+    .guide-body > h3 {
+      font-size: 0.98rem;
+      margin: 0.55rem 0 0.25rem;
+      break-after: avoid;
+      page-break-after: avoid;
+    }
+    .guide-body p {
+      margin: 0 0 0.45rem;
+      orphans: 3;
+      widows: 3;
+    }
+    .guide-body ul,
+    .guide-body ol {
+      margin: 0 0 0.5rem;
+      padding-left: 1.1rem;
+    }
+    .guide-body li {
+      margin: 0 0 0.15rem;
+    }
+    .guide-rule {
+      column-span: all;
+      border-top-color: #6b6256;
+      margin: 0.65rem 0;
+    }
+    .guide-callout {
+      background: none !important;
+      border: none;
+      border-left: 2px solid #6b6256;
+      border-radius: 0;
+      padding: 0.15rem 0 0.15rem 0.55rem;
+      margin-bottom: 0.45rem;
+      break-inside: avoid;
+    }
+    .guide-table-wrap {
+      column-span: all;
+      margin: 0.4rem 0 0.65rem;
+      overflow: visible;
+    }
+    .guide-table {
+      font-size: 0.9em;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+    .guide-table th,
+    .guide-table td {
+      border-color: #6b6256;
+      background: none !important;
+      padding: 0.28rem 0.4rem;
+    }
+    .guide-table th {
+      font-weight: 700;
+    }
+    .guide-glossary {
+      column-span: all;
+      column-count: 2;
+      column-gap: 1.35rem;
+      column-rule: 1px solid #b0a898;
+    }
+    .guide-glossary dt {
+      break-after: avoid;
+      page-break-after: avoid;
+      margin-top: 0.55rem;
+      font-size: 0.95em;
+    }
+    .guide-glossary dd {
+      break-before: avoid;
+    }
+    .guide-wrap .footnote {
+      column-span: all;
+      margin-top: 0.9rem;
+      font-size: 0.75rem;
+      color: #000;
+    }
   }
 
 

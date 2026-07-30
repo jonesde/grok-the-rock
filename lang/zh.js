@@ -20,13 +20,17 @@ window.I18N.zh = {
 
 
   "nav.text": "两者",
+  "site.title.mending": "修补之所",
+  "nav.group.guide": "指南",
+  "nav.group.stories": "故事",
+  "nav.mending": "修补之所",
   "site.title.text": "格罗克岩石 - 全部正文",
   "nav.downloadProgress": "获取中… {done}/{total}",
   "nav.downloadZipping": "压缩中…",
   "nav.downloadDone": "已下载",
   "nav.downloadError": "下载失败。请通过 http(s) 打开站点，不要用本地文件。",
   "download.dialogTitle": "下载站点",
-  "download.dialogDesc": "下载一个 .zip，内含全部 5 个网页 — 安静的故事、高树故事、规则、关于与全部正文 — 以及离线阅读所需的全部图片、样式与脚本。",
+  "download.dialogDesc": "下载一个 .zip，内含全部 6 个网页 — 安静的故事、高树故事、规则、关于、修补之所与全部正文 — 以及离线阅读所需的全部图片、样式与脚本。",
   "download.dialogCancel": "取消",
   "download.dialogConfirm": "下载",
   "print.dialogTitle": "打印选项",

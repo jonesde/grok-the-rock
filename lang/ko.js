@@ -20,13 +20,17 @@ window.I18N.ko = {
 
 
   "nav.text": "둘 다",
+  "site.title.mending": "수선하는 곳",
+  "nav.group.guide": "안내",
+  "nav.group.stories": "이야기",
+  "nav.mending": "수선하는 곳",
   "site.title.text": "바위 그록 - 전체 텍스트",
   "nav.downloadProgress": "가져오는 중… {done}/{total}",
   "nav.downloadZipping": "압축 중…",
   "nav.downloadDone": "다운로드됨",
   "nav.downloadError": "다운로드 실패. 로컬 파일이 아니라 http(s)로 사이트를 여세요.",
   "download.dialogTitle": "사이트 다운로드",
-  "download.dialogDesc": "웹 페이지 5개 — 고요한 이야기, 키 큰 이야기, 규칙, 소개, 전체 텍스트 — 와 오프라인 읽기에 필요한 모든 이미지·스타일·스크립트를 하나의 .zip으로 다운로드합니다.",
+  "download.dialogDesc": "6개 웹 페이지 전부 — 고요한 이야기, 키 큰 이야기, 규칙, 소개, 수선하는 곳, 전체 본문 — 과 오프라인 열람에 필요한 모든 이미지·스타일·스크립트를 하나의 .zip으로 다운로드합니다.",
   "download.dialogCancel": "취소",
   "download.dialogConfirm": "다운로드",
   "print.dialogTitle": "인쇄 옵션",

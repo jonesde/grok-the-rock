@@ -20,13 +20,17 @@ window.I18N.no = {
 
 
   "nav.text": "Begge",
+  "site.title.mending": "Et Sted for Mending",
+  "nav.group.guide": "Veiledning",
+  "nav.group.stories": "Historier",
+  "nav.mending": "Et Sted for Mending",
   "site.title.text": "Grok Steinen - All tekst",
   "nav.downloadProgress": "Henter… {done}/{total}",
   "nav.downloadZipping": "Pakker…",
   "nav.downloadDone": "Lastet ned",
   "nav.downloadError": "Nedlasting mislyktes. Åpne nettstedet over http(s), ikke som lokal fil.",
   "download.dialogTitle": "Last ned nettstedet",
-  "download.dialogDesc": "Laster ned en enkelt .zip med alle 5 nettsider — Stille Historier, Høye Eventyr, Regler, Om og All tekst — pluss hvert bilde, stilark og skript som trengs for å lese hele nettstedet frakoblet.",
+  "download.dialogDesc": "Laster ned én .zip med alle 6 nettsider — Stille historier, Høye fortellinger, Regler, Om, Et Sted for Mending og All tekst — pluss hvert bilde, stil og skript for å lese nettstedet frakoblet.",
   "download.dialogCancel": "Avbryt",
   "download.dialogConfirm": "Last ned",
   "print.dialogTitle": "Utskriftsvalg",

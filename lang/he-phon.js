@@ -15,13 +15,17 @@ window.I18N["he-phon"] = {
 
 
   "nav.text": "שניהם",
+  "site.title.mending": "Makom le-Tikun",
+  "nav.group.guide": "Madrikh",
+  "nav.group.stories": "Sipurim",
+  "nav.mending": "Makom le-Tikun",
   "site.title.text": "גרוק הצור – כל הטקסט",
   "nav.downloadProgress": "Morid… {done}/{total}",
   "nav.downloadZipping": "Dokhes…",
   "nav.downloadDone": "Hurad",
   "nav.downloadError": "Ha-horada nikhsh'la. Pitchu et ha-atar be-http(s), lo ke-kovets mekomi.",
   "download.dialogTitle": "Horadat ha-atar",
-  "download.dialogDesc": "Morid kovets .zip echad im kol 5 dafei ha-internet — סיפורים שקטים, סיפורי גובה, חוקים, על וכל הטקסט — ve-im kol ha-tmunot, ha-signonot ve-ha-skriptim li-kri'a lo mekuvenet.",
+  "download.dialogDesc": "Morid kovets .zip echad im kol 6 dafei ha-internet — סיפורים שקטים, סיפורי גובה, חוקים, על, מקום לתיקון וכל הטקסט — ve-im kol ha-tmunot, ha-signonot ve-ha-skriptim li-kri'a lo mekuvenet.",
   "download.dialogCancel": "Bitul",
   "download.dialogConfirm": "Horada",
   "print.dialogTitle": "אפשרויות הדפסה",
