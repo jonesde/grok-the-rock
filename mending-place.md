@@ -250,7 +250,9 @@ Fairness fails when it only equalizes pain (“now you’ve suffered too”). Fa
 
 In a household this means that when damage occurs, the primary questions are “What was broken?” and “How do we repair it?” rather than “What penalty is owed?” In a community it means designing responses to failure that protect the vulnerable while still aiming at the restoration of the person who caused harm.
 
-**Protective limits are not punishment.** Guarding your body, dependents, property, and stewardships actually entrusted to you is boundary work. You do it by withdrawing access, setting distance, or refusing further exposure.
+#### Protective limits are not punishment
+
+Guarding your body, dependents, property, and stewardships actually entrusted to you is boundary work. You do it by withdrawing access, setting distance, or refusing further exposure.
 
 - Aim: stop further harm, not make the other person suffer or lose standing as spectacle.
 - Natural consequences and stewardship limits stop harm; artificial penalties added for ranking reintroduce the old operating system.
@@ -264,7 +266,7 @@ A path of return reopening does not oblige anyone to walk through it. Demonstrat
 
 When someone will not stop harming after clear naming, concrete repair attempts, and fair limits, stronger distance or community protection may be required. Permanent cast-out is rare, last-resort, and still aimed at safety rather than at purifying the group’s image. The default remains a path of return through demonstrated change.
 
-**Common disguises**
+#### Common disguises
 
 - Calling revenge “accountability,” or using restoration language while still primarily seeking the other person’s suffering.
 - Demanding premature forgiveness that skips the actual repair of harm.
@@ -285,13 +287,17 @@ See also: Matthew 18:15–17 (the sequence begins with direct address and aims a
 
 No one should have to trade their whole life for basic access to the means of living. Survival access is not a favor granted by controllers; it is the baseline. This is not fixed by seizing the barn. You make the gate less relevant: share tools, maintain commons where possible, strengthen local loops that let people meet ordinary needs without permanent dependence on a distant center.
 
-**Why the gate matters.** Separation from the ordinary means of living is a deep source of shame and fear. When a person has no stable place, no workable access to land, shelter, tools, or skill, ranking order gains easy leverage: comply or lose the ground under your feet. Repair order works to reduce that coercion. Material independence is not greed; it is one of the conditions under which peer standing can stay real.
+#### Why the gate matters
+
+Separation from the ordinary means of living is a deep source of shame and fear. When a person has no stable place, no workable access to land, shelter, tools, or skill, ranking order gains easy leverage: comply or lose the ground under your feet. Repair order works to reduce that coercion. Material independence is not greed; it is one of the conditions under which peer standing can stay real.
 
 Compassion is tested the same way. High-trust help builds the other person’s capacity and freedom. Controlling help keeps them manageable. Ask: does this gift liberate, or bind? Does it make the next step more independent, or more permanently dependent on me?
 
 Dominion here is stewardship, not ownership theater. Tend what is entrusted to you. Encourage what can grow. People, land, tools, and knowledge are not trophies to hoard. Prefer growing the shared pie of capacity over fighting for a larger personal share of a fixed pie. Relative luxury used as status is ranking; enough for each household to stand is repair.
 
-**Household and community practice.** In a household this looks like refusing to use money, information, or emotional resources as permanent levers of control. In a community it looks like building practical redundancy so that ordinary life does not require constant submission to whatever person or institution currently holds the scarce resource. That redundancy includes skills, tools, food, childcare, and transportation. Prefer local, open, and reproducible arrangements over fragile dependence on a single distant supplier of what life requires. Distributed capacity is slower to brag about and harder to capture.
+#### Household and community practice
+
+In a household this looks like refusing to use money, information, or emotional resources as permanent levers of control. In a community it looks like building practical redundancy so that ordinary life does not require constant submission to whatever person or institution currently holds the scarce resource. That redundancy includes skills, tools, food, childcare, and transportation. Prefer local, open, and reproducible arrangements over fragile dependence on a single distant supplier of what life requires. Distributed capacity is slower to brag about and harder to capture.
 
 **Stewardship of materials (direction, not a demand).**
 
@@ -301,7 +307,9 @@ Dominion here is stewardship, not ownership theater. Tend what is entrusted to y
 
 **Starting points.** Share tools, skills, spare rooms, and mutual aid. Those moves reduce leverage without any grand design.
 
-**Optional community horizon (skip freely).** Where people freely agree, a stronger material floor is possible. Each household may hold an inheritable stake in land or an equivalent productive place, treated as stewardship rather than as a weapon. The principle is economic room to move without permanent exile from the means of living. Older agrarian practice sometimes restored baseline inheritances and cleared crushing personal debts on a long cycle (about forty-nine years), so flexibility did not harden into multi-generational dispossession. That historical detail is illustration only. This layer is **not required** for the ten rules. Use it only where consent is real and no new controlling center is created.
+#### Optional community horizon
+
+Where people freely agree, a stronger material floor is possible. Each household may hold an inheritable stake in land or an equivalent productive place, treated as stewardship rather than as a weapon. The principle is economic room to move without permanent exile from the means of living. Older agrarian practice sometimes restored baseline inheritances and cleared crushing personal debts on a long cycle (about forty-nine years), so flexibility did not harden into multi-generational dispossession. That historical detail is illustration only. This layer is **not required** for the ten rules. Use it only where consent is real and no new controlling center is created.
 
 **Common disguises**
 
@@ -595,7 +603,7 @@ Third, require and support concrete repair. Acknowledgment of the actual harm, c
 
 Distance is sometimes necessary for safety. Permanent exile as the default response is not. Protective limits follow Rule 3. When violence, ongoing abuse, or danger exceeds what the household can safely hold, get outside help immediately (see How to Use This Book).
 
-**A worked sequence (medium-stakes break)**
+#### A worked sequence
 
 Suppose one partner humiliates the other in front of friends, then minimizes it afterward (“You’re too sensitive”).
 
@@ -605,6 +613,8 @@ Suppose one partner humiliates the other in front of friends, then minimizes it 
 4. **Path of return.** Trust is not demanded on the spot. It is rebuilt by the change holding under the next similar pressure. The household does not keep a permanent “you’re the problem person” file once repair is real.
 
 If the same pattern repeats without change, protective limits tighten. That is not failure of the rules; that is the rules refusing to become a cover for ongoing harm.
+
+#### Parents, scripts, and mutual injury
 
 **Parents fail in front of children.** When that happens, the most powerful teaching is the open repair: the adult names the failure, apologizes specifically, and shows the repair in action. Children learn more from watching mending than from hearing lectures about never breaking things. Short scripts that work:
 
@@ -803,7 +813,7 @@ The first carriers are seed-carriers, not suns. Seeds that demand permanent orbi
 
 This pattern is a simple way to handle planning, moderation, and conflict without recreating a permanent center of control. It is based on the old fairness principle of “one cuts, the other chooses.”
 
-**The roles**
+#### The roles
 
 - **Planner**
   The person who proposes a plan, names the concern, or offers a possible solution. In a two-person situation this is the one who “cuts the cake.” Because the Planner chooses last (or has no special claim on the outcome), they have a strong incentive to propose something fair.
@@ -819,6 +829,8 @@ This pattern is a simple way to handle planning, moderation, and conflict withou
 In a two-person disagreement, one person frames the possible solutions (Planner) and the other chooses which version to accept (Approver). The Planner, knowing they do not get first choice, tends to cut more evenly.
 
 In a larger group, one person (or a temporary pair) serves as Planner and puts a concrete proposal on the table. The rest serve as Reviewers and Approvers. The Planner does not get to declare the decision; the Approvers do. For very large or high-stakes matters it is sometimes useful to appoint a Planner who is not personally entangled in the outcome, so that all directly affected people remain free to review and approve.
+
+#### Walkthroughs
 
 **Household walkthrough**
 
@@ -850,7 +862,7 @@ A neighborhood or congregational group faces a contested shared resource (schedu
 4. Approvers are the stakeholders who must live with the result. Consent can be signaled in a meeting, by written assent, or by another transparent method the group trusts.
 5. If the group is too large for full consensus, define in advance who holds Approver power for this class of decision, and keep that definition narrow, temporary, and revisable. Do not let “Approver” become a new permanent office that collects all future power.
 
-**Failure modes of the pattern**
+#### Failure modes
 
 - **Fake consent.** Silence, exhaustion, or fear counted as yes. Fix: require affirmative willingness; “no objection” is not enough on high-stakes harm.
 - **Planner capture.** The same person always plans and slowly steers every outcome. Fix: rotate; or require that high-stakes Planners are not primary beneficiaries.
@@ -977,11 +989,15 @@ Signs that this is happening:
 - Relationships are sacrificed to preserve a rule that was supposed to protect those relationships.
 - Invoking personal sacrifice to defend a rule (“look what I gave up for this”) as a loyalty display, instead of paying a real cost to reconcile or free someone.
 
+#### How performance captures the tools
+
 **When the hedge becomes the law.** Households and communities often invent protective habits: don’t raise voices after nine; don’t discuss money in front of kids; don’t meet alone with so-and-so. Many hedges are wise. The corruption begins when the hedge is enforced as if it were the whole of justice, while the actual harm to a person or bond is ignored. Then minor breaches are treated as catastrophes, real catastrophes are excused to save the procedure, and good things are called evil because they touched the hedge. That is ranking order inside repair clothing. Judgment becomes oppression. The fix is to return to what the hedge was for: protect people, enable repair, reduce leverage. If enforcing the hedge destroys those ends, drop or revise the hedge.
 
 **When the tool replaces the person.** An easy sign that procedure-over-people has run awry is that the rule is used to destroy the very bond it claimed to protect. The procedure becomes more real than the people. At that point the tool is a substitute for living responsibility: a hollow copy that still demands loyalty. Name it, reduce it, and go back to concrete harm and concrete repair.
 
 **When guardians start policing peers.** The guardian role is not an office. It exists only when people ask someone to help hold perspective; it is accepted temporarily, and it answers to the same rules and the same periodic check, first of all. People tasked with keeping the pattern honest sometimes start managing appearances and ranking the clumsy instead of holding the longer view. The healthy role is real: keep the rules clear, notice drift, protect the vulnerable, hold perspective when others are tired. The corruption is familiar: that service is abandoned for a smaller kingdom of correction. If your role is to help the pattern stay honest, your first audience is the work and the least convenient people in it, not your own elevation above those still learning.
+
+#### Safeguards
 
 The safeguards are the same disciplines that started the work:
 - Keep returning to concrete harm and concrete repair.

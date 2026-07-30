@@ -1312,6 +1312,16 @@
   }
 
 
+  .guide-toc-list a.is-active {
+    color: var(--ink);
+    background: rgba(107, 98, 86, 0.12);
+    box-shadow: inset 3px 0 0 var(--stone);
+    border-radius: 4px;
+    padding: 0.12rem 0.35rem 0.12rem 0.45rem;
+    margin-left: -0.45rem;
+  }
+
+
   .guide-toc-list .toc-sub {
     padding-left: 0.85rem;
   }
@@ -1320,6 +1330,11 @@
   .guide-toc-list .toc-sub a {
     font-weight: 500;
     font-size: 0.82rem;
+  }
+
+
+  .guide-toc-list .toc-sub a.is-active {
+    font-weight: 600;
   }
 
 
@@ -1368,6 +1383,15 @@
   .guide-body > h3 {
     margin: 1.2rem 0 0.4rem;
     font-size: clamp(1.05rem, 1.7vw, 1.25rem);
+    scroll-margin-top: 5rem;
+  }
+
+
+  .guide-body > h4 {
+    margin: 1rem 0 0.35rem;
+    font-size: clamp(0.98rem, 1.4vw, 1.1rem);
+    font-weight: 600;
+    color: var(--ink-soft);
     scroll-margin-top: 5rem;
   }
 
@@ -1524,6 +1548,7 @@
     .guide-body > h1,
     .guide-body > h2,
     .guide-body > h3,
+    .guide-body > h4,
     .guide-body .guide-table-wrap,
     .guide-body .guide-glossary,
     .guide-body .guide-rule {
@@ -1669,10 +1694,19 @@
       margin: 0.1rem 0 0.45rem;
     }
     .guide-body > h3 {
+      column-span: all;
       font-size: 0.98rem;
       margin: 0.55rem 0 0.25rem;
       break-after: avoid;
       page-break-after: avoid;
+    }
+    .guide-body > h4 {
+      column-span: all;
+      font-size: 0.9rem;
+      margin: 0.45rem 0 0.2rem;
+      break-after: avoid;
+      page-break-after: avoid;
+      color: #000 !important;
     }
     .guide-body p {
       margin: 0 0 0.45rem;

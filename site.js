@@ -1051,3 +1051,155 @@
   };
 })();
 
+
+/* --- Guide TOC scroll spy (mending-place sticky contents) --- */
+(function () {
+  "use strict";
+
+  function init() {
+    var toc = document.querySelector("nav.guide-toc");
+    var body = document.querySelector("article.guide-body");
+    if (!toc || !body) return;
+
+    var links = Array.prototype.slice.call(toc.querySelectorAll('a[href^="#"]'));
+    if (!links.length) return;
+
+    var entries = [];
+    var byId = Object.create(null);
+
+    links.forEach(function (link) {
+      var href = link.getAttribute("href") || "";
+      var id = href.charAt(0) === "#" ? href.slice(1) : "";
+      if (!id) return;
+      var el = document.getElementById(id);
+      if (!el) return;
+      var item = { id: id, link: link, el: el };
+      entries.push(item);
+      byId[id] = item;
+    });
+    if (!entries.length) return;
+
+    // Document order of observed headings
+    entries.sort(function (a, b) {
+      var pos = a.el.compareDocumentPosition(b.el);
+      if (pos & Node.DOCUMENT_POSITION_FOLLOWING) return -1;
+      if (pos & Node.DOCUMENT_POSITION_PRECEDING) return 1;
+      return 0;
+    });
+
+    // Parent Part/topic link for each nested chapter link
+    entries.forEach(function (item) {
+      var li = item.link.closest("li");
+      if (!li) return;
+      var parentUl = li.parentElement;
+      if (!parentUl || !parentUl.classList.contains("toc-sub")) return;
+      var parentLi = parentUl.parentElement;
+      if (!parentLi || parentLi.tagName !== "LI") return;
+      var child = parentLi.firstElementChild;
+      while (child) {
+        if (
+          child.tagName === "A" &&
+          (child.getAttribute("href") || "").charAt(0) === "#"
+        ) {
+          item.parentLink = child;
+          break;
+        }
+        child = child.nextElementSibling;
+      }
+    });
+
+    var activeId = null;
+    var reduceMotion =
+      window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+    function setActive(id) {
+      if (id === activeId) return;
+      activeId = id;
+
+      links.forEach(function (a) {
+        a.classList.remove("is-active");
+      });
+
+      if (!id || !byId[id]) return;
+      var item = byId[id];
+      item.link.classList.add("is-active");
+      if (item.parentLink) item.parentLink.classList.add("is-active");
+
+      if (toc.scrollHeight > toc.clientHeight) {
+        try {
+          item.link.scrollIntoView({
+            block: "nearest",
+            inline: "nearest",
+            behavior: reduceMotion ? "auto" : "smooth"
+          });
+        } catch (e) {
+          item.link.scrollIntoView(false);
+        }
+      }
+    }
+
+    function headingOffset() {
+      // Match scroll-margin-top used on guide headings (~5rem + small buffer)
+      var rootPx = parseFloat(getComputedStyle(document.documentElement).fontSize) || 16;
+      return rootPx * 5.25;
+    }
+
+    function pickFromScroll() {
+      var y = window.scrollY + headingOffset() + 1;
+      var current = entries[0] ? entries[0].id : null;
+      for (var i = 0; i < entries.length; i++) {
+        var top = entries[i].el.getBoundingClientRect().top + window.scrollY;
+        if (top <= y) current = entries[i].id;
+        else break;
+      }
+      // Near end of page: keep last section active
+      var docEnd = (document.documentElement.scrollHeight || document.body.scrollHeight) - window.innerHeight;
+      if (window.scrollY >= docEnd - 2 && entries.length) {
+        current = entries[entries.length - 1].id;
+      }
+      setActive(current);
+    }
+
+    var ticking = false;
+    function onScroll() {
+      if (ticking) return;
+      ticking = true;
+      requestAnimationFrame(function () {
+        ticking = false;
+        pickFromScroll();
+      });
+    }
+
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll, { passive: true });
+
+    // Hash on load / click: highlight immediately
+    function fromHash() {
+      var hash = (location.hash || "").replace(/^#/, "");
+      if (hash && byId[hash]) setActive(hash);
+      else pickFromScroll();
+    }
+
+    toc.addEventListener("click", function (e) {
+      var a = e.target.closest && e.target.closest('a[href^="#"]');
+      if (!a || !toc.contains(a)) return;
+      var id = (a.getAttribute("href") || "").slice(1);
+      if (id && byId[id]) {
+        // Defer until scroll lands near the target
+        setTimeout(function () {
+          setActive(id);
+        }, 50);
+      }
+    });
+
+    window.addEventListener("hashchange", fromHash);
+    fromHash();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+
