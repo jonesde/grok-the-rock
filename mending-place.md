@@ -97,7 +97,7 @@ Stand appears in the grid as the fourth posture, but it is the stable, non-aggre
 
 - **Fight** (active confrontation): rage, control, attack, the need to win or make someone flinch.
 - **Flight** (active avoidance): panic, endless exit, worry that never lands, the urge to escape the room or the relationship.
-- **Freeze/fawn** (passive avoidance): two faces of the same cell. There is numbness, blankness, helplessness, collapse, the sense of being trapped or already gone, or early appeasement and submission so no one bothers to attack.
+- **Freeze/fawn** (passive avoidance): two faces of the same cell: numbness, blankness, helplessness, collapse, the sense of being trapped or already gone — or early appeasement and submission so no one bothers to attack.
 - **Stand** (passive confrontation): hold the line on what is yours to tend without chasing, conquering, or collecting trophies. Stable defense, not war. Full boundary craft under Rule 3.
 
 **Connection is not a fifth posture.** When safety is real enough, the body can leave defensive weather and enter **connection**: presence, curiosity, openness, the capacity to stay with another person and with the facts. Stand keeps people safe; connection is where trust grows. You often need the first before the second. Connection is where the rules can be learned. In fight, flight, or freeze/fawn, the body is busy surviving. Stand (passive confrontation) can hold a real edge under pressure without yet being full open connection.
@@ -297,7 +297,7 @@ Dominion here is stewardship, not ownership theater. Tend what is entrusted to y
 - Small moves already count: a mended tool, a shared spare, a skill taught so something need not be bought again.
 - Fuller local production and closed material loops are a horizon for communities that choose them. They are not a purity test for households living inside the present economy.
 
-**Household scale now.** Share tools, skills, spare rooms, and mutual aid. Those moves reduce leverage without any grand design.
+**Starting points.** Share tools, skills, spare rooms, and mutual aid. Those moves reduce leverage without any grand design.
 
 **Optional community horizon (skip freely).** Where people freely agree, a stronger material floor is possible. Each household may hold an inheritable stake in land or an equivalent productive place, treated as stewardship rather than as a weapon. The principle is economic room to move without permanent exile from the means of living. Older agrarian practice sometimes restored baseline inheritances and cleared crushing personal debts on a long cycle (about forty-nine years), so flexibility did not harden into multi-generational dispossession. That historical detail is illustration only. This layer is **not required** for the ten rules. Use it only where consent is real and no new controlling center is created.
 
@@ -338,7 +338,7 @@ See also: Matthew 10:14; Proverbs 22:3.
 
 Every durable bond is peer-to-peer. No permanent central decider who can grant or revoke belonging. No policy that flows only downward. Each real connection remains locally governed and freely chosen. The healthy pattern is a constellation, not a solar system.
 
-Peer standing means each adult remains a free center of consent. Roles and skills differ; basic worth does not. The person with more experience, money, or title does not become the owner of another person’s agency. When conflict arises among peers, mediate as peers: proposal and real approval (see Planner–Reviewer–Approver in Part Five), not decree from a permanent overlord. Distributed intelligence beats centralized control for the same reason bodies and healthy ecosystems work. Many local decisions, held accountable by real consequences, scale better than one captured brain trying to run everything.
+Peer standing means each adult remains a free center of consent. Roles and skills differ; basic worth does not. The person with more experience, money, or title does not become the owner of another person’s agency. When conflict arises among peers, mediate as peers: proposal and real approval (see Planner–Reviewer–Approver in Part Five), not decree from a permanent overlord. Distributed intelligence beats centralized control for the same reason bodies and healthy ecosystems outlast any single command center. Many local decisions, held accountable by real consequences, scale better than one captured brain trying to run everything.
 
 In a household this means moving toward mutual responsibility rather than one person carrying the entire emotional or practical load while others orbit. In a community it means preferring many small, overlapping relationships of accountability over a single charismatic or institutional center that everyone must pass through.
 
@@ -570,7 +570,7 @@ It does not require equal temperament, identical politics, or a household free o
 
 A useful household test: if a visitor stayed a week, would they notice less ranking and faster repair, or only nicer slogans on the wall? The seed is the lived weather, not the language.
 
-A sharper test is how the household treats the least convenient person in reach: the difficult relative, the child who keeps failing, the neighbor who cannot repay, the one whose shame is loud. Repair order is proven there, not in how gently it treats the impressive. Ranking order always has a polished face for people who can return status.
+A sharper test is how the household treats the least convenient person in reach: the difficult relative, the child who keeps failing, the neighbor who cannot repay, the one whose shame is loud. Repair order is proven there, not in how gently it treats the impressive. Ranking order reliably has a polished face for people who can return status.
 
 ---
 
@@ -613,7 +613,7 @@ Name the state without ranking the child (or yourself) as permanently broken. Th
 - (When you are flooded) “I’m flooded right now. I can’t hear you well from here. I’m going to step out for a while and come back when my body is steadier. This isn’t your fault and I’m not leaving.”
 - (When your partner is flooded) “I can see you’re in fight — or shut down, or gone. I’m not going to chase or push. I’ll be nearby. When you can, tell me you’re back, and we’ll pick it up from there.”
 - (When a child is in threat mode) “You’re safe. I’m not going to hurt you or make you do anything. We don’t have to figure this out right now. I’ll stay close by.”
-- (When you need to hold a limit without tipping into fight) “I’m holding this line. It isn’t a contest and I'm not trying to push you back, just to mark where my own line is for now. When you’re ready, here’s what I need to talk about.”
+- (When you need to hold a limit without tipping into fight) “I’m holding this line. It isn’t a contest and I’m not trying to push you back, just to mark where my own line is for now. When you’re ready, here’s what I need to talk about.”
 
 The shared shape: name the state, name safety, do not rank, leave a path of return. In threat weather the body cannot do the fuller repair work; it can only stop making things worse. That is enough for the moment.
 
@@ -803,7 +803,7 @@ This pattern is a simple way to handle planning, moderation, and conflict withou
   The people who examine the proposal from their own angles, bring relevant information, and test it for real-world effects. In a conflict, the Reviewers are often those who understand the harm from lived experience.
 
 - **Approvers**
-  The people whose genuine consent is required for the plan to move forward. Approval is shown by clear willingness (relief, agreement, or earnest request), not by pressured compliance. Reviewers may also be Approvers, or may only advise. If the aim is real consensus, every stakeholder who must live with the result should hold Approver power (or be the temporary Planner), even when others only review.
+  The people whose genuine consent is required for the plan to move forward. Approval is shown by clear willingness (relief, agreement, or earnest request), not by pressured compliance. Reviewers may also be Approvers, or may only advise. If the aim is real consensus, every stakeholder who must live with the result should hold Approver power or take the temporary Planner role. Those who do not have to live with the result may only review.
 
 **Basic application**
 
@@ -838,7 +838,7 @@ A neighborhood or congregational group faces a contested shared resource (schedu
 1. Appoint a temporary Planner who will not gain special status from the outcome, or rotate the role.
 2. Planner publishes a plain proposal and the problem it addresses.
 3. Open review period: affected people add facts, costs, and unintended effects. Review is not a pile-on; personal attacks are out of bounds.
-4. Approvers are the stakeholders who must live with the result. Consent can be signalled in a meeting, by written assent, or by another transparent method the group trusts.
+4. Approvers are the stakeholders who must live with the result. Consent can be signaled in a meeting, by written assent, or by another transparent method the group trusts.
 5. If the group is too large for full consensus, define in advance who holds Approver power for this class of decision, and keep that definition narrow, temporary, and revisable. Do not let “Approver” become a new permanent office that collects all future power.
 
 **Failure modes of the pattern**
@@ -868,7 +868,7 @@ Not everyone will welcome the shift. Some resistance is loud; most is quiet. Peo
 - Praise the children’s books while quietly making it costly for adults who practice repair in hard cases.
 - Insist that “someone has to be in charge” whenever distributed consent is slow.
 
-The required stance is steady and non-reactive. Continue the rules. Do not chase or punish the resistance. Do not organize against it. Simply make the old tools less effective by refusing to pick them up. Some of what looks like ideological resistance is freeze/fawn or flight: a body that cannot yet risk connection. Some is fight, in the shape of stand. Do not shame either into a moral verdict. Keep the door open; keep limits real (stand); do not set up a siege. Over time, the environments that still run on ranking and shame become more distinct from the environments that do not. People sort themselves accordingly.
+The required stance is steady and non-reactive. Continue the rules. Do not chase or punish the resistance. Do not organize against it. Simply make the old tools less effective by refusing to pick them up. Some of what looks like ideological resistance is freeze/fawn or flight: a body that cannot yet risk connection. Some is fight wearing the shape of a held boundary. Do not shame either into a moral verdict. Keep the door open; keep limits real (stand); do not set up a siege. Over time, the environments that still run on ranking and shame become more distinct from the environments that do not. People sort themselves accordingly.
 
 **What weathering is not**
 
@@ -965,7 +965,7 @@ Signs that this is happening:
 - Openness becomes a brand while real keys stay hidden.
 - A useful hedge (a wise precaution) is treated as if it were the fundamental law itself, and people are crushed to defend the hedge.
 - Relationships are sacrificed to preserve a rule that was supposed to protect those relationships.
-- Sacrifice, when invoked to defend a rule, becomes performative loyalty signaling rather than a real cost paid to reconcile or free someone.
+- Invoking personal sacrifice to defend a rule (“look what I gave up for this”) as a loyalty display, instead of paying a real cost to reconcile or free someone.
 
 **When the hedge becomes the law.** Households and communities often invent protective habits: don’t raise voices after nine; don’t discuss money in front of kids; don’t meet alone with so-and-so. Many hedges are wise. The corruption begins when the hedge is enforced as if it were the whole of justice, while the actual harm to a person or bond is ignored. Then minor breaches are treated as catastrophes, real catastrophes are excused to save the procedure, and good things are called evil because they touched the hedge. That is ranking order inside repair clothing. Judgment becomes oppression. The fix is to return to what the hedge was for: protect people, enable repair, reduce leverage. If enforcing the hedge destroys those ends, drop or revise the hedge.
 
@@ -1147,7 +1147,7 @@ The painful sense that one is inadequate, unwanted, or fundamentally at risk of 
 The children’s-book name for the ordinary experience of shame or inadequacy. Grok sits with the small feeling instead of racing it.
 
 **Stand**
-Passive confrontation: hold the line on what you legitimately steward without chase, conquer, or trophy. The fourth defensive posture (with fight, flight, freeze/fawn): the passive/confront cell of the Part One grid. Not connection, and not fight in the language of boundaries. Craft under Rule 3.
+Passive confrontation: hold the line on what you legitimately steward without chasing, conquering, or collecting trophies. The fourth defensive posture (with fight, flight, freeze/fawn): the passive/confront cell of the Part One grid. Not connection, and not fight in the language of boundaries. Craft under Rule 3.
 
 **Star**
 A person who becomes the permanent or semi-permanent center through which information, decisions, and emotional regulation must flow. The opposite of a node.
