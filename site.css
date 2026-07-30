@@ -1554,7 +1554,6 @@
     .guide-body .guide-rule {
       column-span: all;
     }
-    .guide-body p,
     .guide-body li {
       break-inside: avoid;
     }
@@ -1651,8 +1650,19 @@
       font-weight: 600;
       text-decoration: none;
     }
+    .guide-toc-list a.is-active {
+      background: none !important;
+      box-shadow: none !important;
+      border-radius: 0;
+      padding: 0;
+      margin-left: 0;
+      font-weight: 600;
+    }
     .guide-toc-list .toc-sub a {
       font-size: 0.75rem;
+      font-weight: 500;
+    }
+    .guide-toc-list .toc-sub a.is-active {
       font-weight: 500;
     }
     /* Flat body — no card; two-column portrait prose */
