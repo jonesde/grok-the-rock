@@ -1603,19 +1603,32 @@
       margin: 0 0 0.4rem;
     }
     .guide-toc-list {
+      display: block; /* flex blocks multi-column */
       column-count: 2;
-      column-gap: 1.2rem;
+      column-gap: 1.35rem;
+      column-rule: 1px solid #b0a898;
       gap: 0;
     }
     .guide-toc-list li {
       break-inside: avoid;
       margin: 0 0 0.2rem;
     }
+    .guide-toc-list .toc-sub {
+      padding-left: 0.75rem;
+      margin: 0.1rem 0 0.25rem;
+    }
+    .guide-toc-list .toc-sub li {
+      margin: 0 0 0.08rem;
+    }
     .guide-toc-list a {
       color: #000 !important;
       font-size: 0.82rem;
       font-weight: 600;
       text-decoration: none;
+    }
+    .guide-toc-list .toc-sub a {
+      font-size: 0.75rem;
+      font-weight: 500;
     }
     /* Flat body — no card; two-column portrait prose */
     .guide-body {
