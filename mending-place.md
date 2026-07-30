@@ -100,7 +100,7 @@ Stand appears in the grid as the fourth posture, but it is the stable, non-aggre
 - **Freeze/fawn** (passive avoidance): two faces of the same cell: numbness, blankness, helplessness, collapse, the sense of being trapped or already gone — or early appeasement and submission so no one bothers to attack.
 - **Stand** (passive confrontation): hold the line on what is yours to tend without chasing, conquering, or collecting trophies. Stable defense, not war. Full boundary craft under Rule 3.
 
-**Connection is not a fifth posture.** When safety is real enough, the body can leave defensive weather and enter **connection**: presence, curiosity, openness, the capacity to stay with another person and with the facts. Stand keeps people safe; connection is where trust grows. You often need the first before the second. Connection is where the rules can be learned. In fight, flight, or freeze/fawn, the body is busy surviving. Stand (passive confrontation) can hold a real edge under pressure without yet being full open connection.
+**Connection is not a fifth posture.** When safety is real enough, the body can leave defensive weather and enter **connection**: presence, curiosity, openness, the capacity to stay with another person and with the facts. Stand keeps people safe; connection is where trust grows and play returns. You often need the first before the second. Connection is where the rules can be learned. In fight, flight, or freeze/fawn, the body is busy surviving. Stand (passive confrontation) can hold a real edge under pressure without yet being full open connection.
 
 The two false solutions often ride three of these cells: fight and ranking as “become larger”; flight and freeze/fawn as “become smaller.” Stand is the remaining cell: same size, clear edge. People switch among all four. Naming the state does not excuse harm. It stops the habit of treating a flooded, frozen, or appeasing person as if they were freely choosing a philosophy.
 
@@ -257,6 +257,8 @@ In a household this means that when damage occurs, the primary questions are “
 - Compulsion, humiliation, and spectacle push bodies out of stand into fight, flight, or freeze/fawn, which blocks the learning repair needs.
 - Keep limits personal, proportional, and tied to what you legitimately steward.
 - Leave a path of return that depends on demonstrated change, not on the injured party absorbing unlimited cost.
+
+A path of return reopening does not oblige anyone to walk through it. Demonstrated change removes a barrier; it does not create a debt of closeness. Consent runs in both directions, and an injured person declining resumed relationship is a legitimate outcome, not a failure of repair.
 
 **Stand (Part One) at household and community scale.** Standing your ground in stewardship is the same grid cell as in Part One: passive confrontation, stable defense. You may defend what is actually yours to tend: your body, dependents in your care, land and tools you hold, and roles you are truly responsible for. Defense stops invasion; it does not become a right to conquer, humiliate, or collect trophies. Respect the same lines around others.
 
@@ -429,6 +431,8 @@ In a household this is the difference between a family that treats every failure
 
 Common slips: endless self-condemnation that avoids actual repair, or premature “we’re fine” language that skips the concrete work of mending. Another slip is purifying the group by permanent removal whenever someone is inconvenient, then calling the smaller circle “higher standards.”
 
+**Deliberate release.** Some breaks cannot currently be repaired: the other person is unwilling, unreachable, or unsafe. Deliberate release is the conscious setting-down of such a break. It is not pretending the harm did not matter, and it is not storing the harm as leverage for later. You name it honestly, stop carrying it as a claim against the person, and leave the door unlocked without standing at it. Release is distinct from denial and from premature forgiveness. It is what remains when repair has been genuinely offered and genuinely declined.
+
 Diagnostic question: When I or someone else fails in a way that matters, is the surrounding response primarily oriented toward permanent ranking or toward specific repair?
 
 Seven-day experiment: Identify one recent failure (yours or someone else’s) that is still carrying residual distance or judgment. Make one concrete repair move (acknowledgment, restitution, or changed behavior) and note the effect on the relationship.
@@ -520,6 +524,7 @@ Insight fades. Practices erode under ordinary stress. The following habits are d
 - Notice one instance of the small feeling or the empty high place. Stay with it briefly instead of racing it.
 - Make at least one statement of preference, boundary, or observation without padding or dominance.
 - If a break occurred, take one concrete step toward naming or repairing it.
+- Make room for one unguarded delight: shared laughter, a meal enjoyed slowly, play that needs no outcome.
 
 **Weekly**
 - Review unresolved breaks. Choose one for repair or deliberate release.
@@ -527,7 +532,7 @@ Insight fades. Practices erode under ordinary stress. The following habits are d
 - If children are present, read one of the stories aloud. Reading them to a child is itself practice of the same movements; adults almost always hear what they need while reading.
 
 **When stuck**
-If flooded or frozen: safety and regulation first (see How to Use This Book). Then the story. Work only the single movement most needed: Being when shame is loud, Mending when a break is fresh, Seeing when status or fear of blame is distorting perception.
+If flooded or frozen: safety and regulation first (see How to Use This Book). The ordinary first moves are not techniques to master: step outside, walk, slow the breath, eat, drink water, sleep, or sit near one calm person. The body comes back before the rules do. Then the story. Work only the single movement most needed: Being when shame is loud, Mending when a break is fresh, Seeing when status or fear of blame is distorting perception.
 
 The inner work does not finish. It becomes a maintained capacity, the same way physical strength is maintained. The children’s books keep the language simple enough that the work can continue even when energy and sophistication are low. The same daily and weekly moves appear as a condensed reference under Closing Material.
 
@@ -537,6 +542,8 @@ The inner work does not finish. It becomes a maintained capacity, the same way p
 ## Household and Kin
 
 The household is the first durable unit. If the rules cannot survive ordinary family stress, they will not survive anywhere else. That stress includes tiredness, money pressure, parenting conflict, and the inevitable failures of people who live in close quarters. This part focuses on making the household the seed rather than the exception.
+
+Household here means whatever durable unit you actually live inside. For some that is one adult plus the few relationships tended daily: kin, friends, neighbors, a chosen household that shares no roof. The seed works the same at that scale, and the cluster invitation in section 3 applies unchanged.
 
 ---
 
@@ -678,6 +685,8 @@ In practice this often means:
 
 Some relationships will adapt over time as the new weather becomes ordinary. Some will not. The work does not require every kinship tie to convert. It requires that the converting households remain clear and steady enough to serve as living alternatives.
 
+**When a household itself ends.** Sometimes it does. Ending a household is not automatically punitive exile, and this book does not adjudicate when an ending is justified; that discernment belongs to the people inside it, with whatever skilled outside help they need. Done in repair order, an ending looks like plain naming rather than character verdicts, children’s safety and steadiness held first, no reputation-hunting afterward, and no leverage games over money, belongings, or access to children. The door stays unlocked; no one is required to walk through it. Grief at an honest ending is not evidence that repair order failed.
+
 **Children in mixed situations** need special care. They should not be used as messengers or as proof. They should see at least one adult consistently practicing repair and refusing leverage. That single steady point is often enough to give them a usable internal model later. Do not coach children to diagnose the refusing adult. Do not make them choose sides in a philosophy contest. Give them plain safety, plain apology when you fail, and the stories as ordinary comfort, not as coded messages against the other parent or relative.
 
 **Extended kin.** Holidays and family systems often run on old ranking scripts. You can attend without converting the table. Reduce the fuel you add: fewer status comparisons, fewer gossip alliances, one clear exit when humiliation starts. Walking away from a scene is allowed. Burning the bridge for sport is the old system in new language.
@@ -738,7 +747,7 @@ Recommended direction:
 
 Attempting to capture formal authority in order to impose the rules almost always recreates a new center and a new set of status contests. The pattern will not survive that move.
 
-**Online spaces.** Neighborhood chats and social feeds amplify ranking and spectacle. Use them for logistics and plain information. Do not try to win the rules by thread. When conflict appears online, move repair offline quickly; public comment sections reward performance more than mending.
+**Online spaces.** Feeds and group chats are ranking machines by design: they pay out in spectacle, status, and pile-ons. Use them for logistics and plain information. Do not try to win the rules by thread, and do not perform repair for an audience. When conflict appears online, move repair offline quickly; public comment sections reward performance more than mending. Households may treat feeds as a place for deliberate hedges (Part Six): limits on what is posted, what is read, and when the machine is simply off.
 
 A practical tool for decisions and conflict inside these structures is the Planner–Reviewer–Approver pattern (described in section 5 below). It allows groups to move forward without recreating a permanent central decider.
 
@@ -848,6 +857,7 @@ A neighborhood or congregational group faces a contested shared resource (schedu
 - **Reviewer theater.** Endless critique with no path to a decision. Fix: time-box review; demand concrete amendments, not pure veto by fog.
 - **Approver blockade as revenge.** Withholding consent to punish rather than to protect a real interest. Fix: name the interest; if none appears, the group may treat the blockade as ranking behavior and reconsider how approval is counted.
 - **Bypass.** A charismatic person announces the decision outside the structure. Fix: do not honor bypasses; restart the process without shaming theater.
+- **Genuine deadlock under time pressure.** Approvers hold real, irreconcilable interests and a decision cannot wait. Fix: agree on fallbacks in advance for each class of decision (narrow, temporary, revisable). When no fallback exists, take the smallest decision that protects safety now, mark it provisional, and schedule the revisit. Urgency must never crown a permanent decider.
 
 **Why this fits the larger pattern**
 
@@ -971,7 +981,7 @@ Signs that this is happening:
 
 **When the tool replaces the person.** An easy sign that procedure-over-people has run awry is that the rule is used to destroy the very bond it claimed to protect. The procedure becomes more real than the people. At that point the tool is a substitute for living responsibility: a hollow copy that still demands loyalty. Name it, reduce it, and go back to concrete harm and concrete repair.
 
-**When guardians start policing peers.** People tasked with keeping the pattern honest sometimes start managing appearances and ranking the clumsy instead of holding the longer view. The healthy role is real: keep the rules clear, notice drift, protect the vulnerable, hold perspective when others are tired. The corruption is familiar: that service is abandoned for a smaller kingdom of correction. If your role is to help the pattern stay honest, your first audience is the work and the least convenient people in it, not your own elevation above those still learning.
+**When guardians start policing peers.** The guardian role is not an office. It exists only when people ask someone to help hold perspective; it is accepted temporarily, and it answers to the same rules and the same periodic check, first of all. People tasked with keeping the pattern honest sometimes start managing appearances and ranking the clumsy instead of holding the longer view. The healthy role is real: keep the rules clear, notice drift, protect the vulnerable, hold perspective when others are tired. The corruption is familiar: that service is abandoned for a smaller kingdom of correction. If your role is to help the pattern stay honest, your first audience is the work and the least convenient people in it, not your own elevation above those still learning.
 
 The safeguards are the same disciplines that started the work:
 - Keep returning to concrete harm and concrete repair.
@@ -998,6 +1008,7 @@ Enough looks like:
 - Children who expect repair and are surprised by permanent ranking.
 - The ability of the community to absorb ordinary human failure without generating long-term exile classes.
 - A low requirement for heroes or continuous external input.
+- Laughter that does not need a target; celebration without an audience contest.
 - Decisions that matter handled by distributed proposal and real consent often enough that single-person decree feels strange.
 - People free to leave a circle without being hunted by reputation.
 - Less need for constant reinforcement by fear, because ordinary trust is doing more of the holding.
@@ -1020,6 +1031,7 @@ At that point the work becomes ordinary maintenance rather than pioneering. The 
 - Notice one instance of the small feeling or the empty high place. Stay with it briefly instead of racing it.
 - Make at least one statement of preference, boundary, or observation without padding or dominance.
 - If a break occurred, take one concrete step toward naming or repairing it.
+- Make room for one unguarded delight: shared laughter, a meal enjoyed slowly, play that needs no outcome.
 
 **Weekly**
 - Review unresolved breaks. Choose one for repair or deliberate release.
@@ -1060,7 +1072,7 @@ These references are offered as sources of clarity, not as membership requiremen
 
 ### Final Note
 
-The goal was never a perfect community. The goal is a community whose broken places are consistently mended stronger than they were before, and whose people are no longer ruled by the old alternation of dominance and shame.
+The goal was never a perfect community. The goal is a community whose broken places are consistently mended stronger than they were before, and whose people are no longer ruled by the old alternation of dominance and shame. The mended place is not a solemn place; ordinary joy is as much the evidence of the new weather as ordinary repair.
 
 The work begins with one person who stops performing and starts repairing. It grows through households that learn to catch their own failures. It becomes weather when enough people discover that repair order produces less daily damage than ranking order, and that peer standing can hold without a permanent center.
 
@@ -1082,6 +1094,9 @@ The first movement in both children’s books. Staying with the actual feeling o
 **Connection**
 The return state in which a person is present enough for curiosity, openness, and repair. It is not one of the four defensive postures. Contrasted with fight, flight, freeze/fawn, and stand. The ten rules are learnable here; in pure threat weather they are mostly unreachable until safety returns. Stand can hold a limit before full connection is available.
 
+**Deliberate release**
+The conscious setting-down of a break that cannot currently be repaired because the other person is unwilling, unreachable, or unsafe. Not denial, not stored leverage, not premature forgiveness: the harm is named honestly, the claim is set down, and the door stays unlocked without anyone standing at it. See Rule 9.
+
 **Empty cup / Empty praise**
 The hollow that remains when admiration or height is used to outrun the fear of being unseen or inadequate. Praise that does not actually see the person leaves the cup empty.
 
@@ -1097,6 +1112,9 @@ Protective in origin; harmful when fight, flight, or freeze/fawn become the only
 
 **Exclusion spiral**
 The habit of perfecting a group by removing the imperfect, then removing the next imperfect, until almost no one remains safe. A hallmark of ranking order; the opposite of catching failure for repair. See Rule 9.
+
+**False solutions**
+The two primary strategies for outrunning shame: becoming larger than it (dominance, ranking, control) or becoming smaller than it (disappearance, early submission, self-erasure). Both keep the original wound unhealed and train the next generation in the same alternation. The alternative is the slower work of Part One: staying with the small feeling and recovering one’s actual size, including the capacity to stand.
 
 **Hedge**
 A protective habit or precaution (for example: don’t raise voices after nine; don’t discuss money in front of kids). Many hedges are wise. Corruption begins when the hedge is enforced as if it were the whole of justice while real harm to a person or bond is ignored. See Part Six.
