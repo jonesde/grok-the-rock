@@ -1,5 +1,20 @@
 # Hai Ikthiss — Midjourney Runbook
 
+> **⚠️ Known structural flaws — do not run as-is.**
+> This runbook was LLM-generated and has at least six issues that will silently break locks/pages. The main trap is the **face-plate → full-tree oref chain** (Phase B1a → B1b): pinning a face closeup as `--oref` for a full-tree gen pulls the face in at the oref's framing scale, producing huge faces or weird placement; `--ow 50` + "wood-knot" wording is a band-aid fighting the oref's own pull.
+>
+> **Use `HaiIkthiss-MJ-Viability.md` instead** — a minimal 4-prompt test that reverses the chain (lock the faceless full tree first, use it as oref for everything else) and proves the approach works before expanding. Once viability is confirmed, this runbook's Phase C page pastes can be reused with the fixes below applied.
+>
+> **Known issues to fix if reusing this file:**
+> 1. **Phase A0 SREF_CHAR** is a subject-less abstract color wash — style refs transfer composition/subject-treatment/mood, not just paint. Replace with a real minimal subject (one fern frond / leaf / small animal) in the book's medium on cream paper. Save the abstract swatch as a secondary multi-sref at most.
+> 2. **Phase B ordering** (face → full tree) is backwards. Build full-tree CROWN first with **no oref** (geometry only), then use *that* as oref for QUIET / WALK / scenes. Face is described in prose — never pinned as a face-oref onto a full-tree gen.
+> 3. **No `--seed` discipline.** One spirit across CROWN / QUIET / WALK / KAI wants the same base geometry and palette seed. Pick a seed on the first good CROWN lock and reuse it on every later lock.
+> 4. **`--no` lists are overloaded** (25-30 tokens in B1b/B2/B4b, often restating prose bans 3-4 times). Trim each to ≤12 tokens, only the most likely intrusions. Long negatives eat prompt budget and can paradoxically introduce the banned concept.
+> 5. **Phase D resolution claim is wrong.** MJ v7 at `--ar 11:17` base ≈ 1024×1578; upscale ≈ 2048×3156. You cannot get *exactly* 1650×2550 from MJ — upscale to max, then external crop/resize (Affinity/Photoshop/ImageMagick).
+> 6. **No recovery workflow.** Most MJ time goes to reroll / Vary (Subtle) / Vary Region / inpaint on a *close* image, not fresh rolls. The runbook is silent here.
+>
+> Smaller issues: `--ow 120` on bridge pose (B4b) is high for a face-bearing oref — use 80-100; `--s 200` for sref gen is fine but not near-max (max is 1000); "only one oref allowed" is not strictly true in v7 (you can pin multiple, weight is shared) but the one-primary-oref convention is still safer; per-page alt-oref notes ("Alt: HOWLER") aren't actionable — pick one primary oref per page and name the second animal in prose only.
+
 Manual production script for **full Midjourney redo** of *Three Tall Tales* art.  
 Source canon: `HaiIkthiss-ThreeTallTales.md`.  
 Interface: **midjourney.com** web Imagine bar (no Discord API).  
@@ -755,7 +770,9 @@ Final endpaper-style illustration in detailed atmospheric watercolor. Wide gentl
 
 ## Phase D — Export
 
-1. [ ] Upscale · 1650×2550 JPEG  
+> **Resolution note:** MJ v7 at `--ar 11:17` base ≈ 1024×1578; upscale ≈ 2048×3156. You cannot get *exactly* 1650×2550 from MJ — upscale to max, then external crop/resize (Affinity/Photoshop/ImageMagick).
+
+1. [ ] Upscale to max · external crop/resize to **1650×2550** JPEG  
 2. [ ] `images/hai/` + `reference/` with `mj-{uuid}`  
 3. [ ] Later one commit: `tall-tales.html` · `site.js` FILES · `book-text.html` PAGE_BG  
 
