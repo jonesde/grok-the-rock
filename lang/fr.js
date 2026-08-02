@@ -462,9 +462,9 @@ window.I18N.fr = {
   "hai.p9.alt": "Hai Ikthiss envoie de doux filets d'eau et de lumière douce vers de minuscules fougères et de petits animaux aux racines, souriant d'un simple sourire d'arbre de contentement.",
   "hai.p10.alt": "Chapitre Deux, Réparer — Kai marche en bas. Une petite créature-gousse de fromager vivante qui marche, touffe de kapok et yeux bienveillants, se tient au pied du grand arbre ; la petite figure est Hai Ikthiss en humble forme de graine.",
   "hai.p11.alt": "Dans un jardin de sous-bois tropical aux racines du grand arbre, Hai Ikthiss en humble forme Kai—une petite graine vivante qui marche—sourit parmi les vignes de melon.",
-  "hai.p12.alt": "Pip le jeune tatou se fige en plein pas d'horreur quand un gros melon s'ouvre au sol ; Kai (Hai Ikthiss en graine vivante qui marche) reste petit et ferme parmi les graines répandues.",
-  "hai.p13.alt": "Pip se pelotonne de honte tandis que Kai (petite forme de graine vivante qui marche de Hai Ikthiss) reste bienveillant et immobile ; un coati et un agouti parmi le peuple du bois ont l'air durs et jugeants.",
-  "hai.p14.alt": "Kai (Hai Ikthiss en petite graine vivante qui marche) s'agenouille et offre à Pip un bâton pour creuser avec une bonté ouverte ; Pip se déroule lentement quand l'espoir revient.",
+  "hai.p12.alt": "Pip le jeune tatou se fige en plein pas d'horreur quand un gros melon s'ouvre au sol ; Kai (Hai Ikthiss en gousse-graine de fromager vivante qui marche) reste petit et ferme parmi les graines répandues.",
+  "hai.p13.alt": "Pip se pelotonne de honte tandis que Kai (petite forme de graine vivante qui marche de Hai Ikthiss) reste bienveillant et immobile ; un coati et un agouti parmi le gens des hautes terres ont l'air durs et jugeants.",
+  "hai.p14.alt": "Kai (Hai Ikthiss en petite gousse-graine de fromager vivante qui marche) s'agenouille et offre à Pip un bâton pour creuser avec une bonté ouverte ; Pip se déroule lentement quand l'espoir revient.",
   "hai.p15.alt": "Kai et Pip plantent et arrosent côte à côte et construisent une petite clôture de brindilles autour de nouvelles graines, tous deux souriant doucement.",
   "hai.p16.alt": "Pip arrose de nouvelles vignes de melon prospères tandis que Kai regarde avec une fierté tranquille ; le grand arbre se dresse en paix au-dessus du jardin de la jungle.",
   "hai.p17.alt": "À l'heure dorée Kai et Pip s'assoient près de melons prospères avec une autre petite créature incluse, une communauté de jardin réparée en paix.",
@@ -506,7 +506,7 @@ window.I18N.fr = {
     "<p><em><b>Ted Prior</b> « Grug »</em></p>" +
     "<p><em>et chaque graine tranquille qui a appris à marcher</em></p>",
 
-  "hai.p2": "<p>Hai Ikthiss régnait sur la forêt du haut du grand arbre.</p>" +
+  "hai.p2": "<p>Hai Ikthiss régnait sur la jungle du haut du grand arbre.</p>" +
     "<p>Il était le premier arbre de la vallée.</p><p>Quand la vallée était vide, il se tenait seul.</p>" +
     "<p>La pluie le trouva d'abord.</p><p>Puis l'herbe.</p><p>Puis les oiseaux.</p>",
 
@@ -549,7 +549,7 @@ window.I18N.fr = {
     "<p>Hai restait immobile jusqu'à ce qu'elle devienne silencieuse.</p><p>Il restait simplement Hai.</p>" +
     "<p>Et il commença à préparer une façon plus petite.</p>",
 
-  "hai.p11": "<p>Hai Ikthiss régnait sur la forêt du haut du grand arbre.</p>" +
+  "hai.p11": "<p>Hai Ikthiss régnait sur la jungle du haut du grand arbre.</p>" +
     "<p>Puis un matin calme il descendit.</p><p>Il laissa la cime vide de son visage</p>" +
     "<p>et marcha au sol comme une graine vivante qui marche.</p><hr><p>Les animaux le trouvèrent parmi les melons.</p>" +
     "<p>« Qui es-tu ? » demandèrent-ils.</p><p>« Vous pouvez m'appeler Kai, » dit-il,</p>" +
@@ -562,7 +562,7 @@ window.I18N.fr = {
 
   "hai.p13": "<p>Pip se figea.</p><p>Sa carapace trembla.</p>" +
     "<p>« Je l'ai gâché, » chuchota-t-il.</p><p>« Tu vas être en colère. Tout le monde sera en colère. »</p><hr>" +
-    "<p>Quelques habitants du bois se rassemblèrent.</p><p>« Qu'il s'en aille, » murmura un coati.</p>" +
+    "<p>Quelques gens des hautes terres se rassemblèrent.</p><p>« Qu'il s'en aille, » murmura un coati.</p>" +
     "<p>« Il devrait apporter trois nouveaux melons, » dit un agouti.</p>",
 
   "hai.p14": "<p>Kai regarda la vigne brisée.</p><p>Il regarda les yeux inquiets de Pip.</p><hr>" +
@@ -588,7 +588,7 @@ window.I18N.fr = {
     "<p>ne restent pas vivants en ne se brisant jamais.</p>" +
     "<p>Ils restent vivants en étant doucement remis ensemble.</p>",
 
-  "hai.p19": "<p>Hai Ikthiss régnait sur la forêt du haut du grand arbre.</p>" +
+  "hai.p19": "<p>Hai Ikthiss régnait sur la jungle du haut du grand arbre.</p>" +
     "<p>Deux années avaient tourné.</p><p>Il était de nouveau chez lui dans la cime.</p>" +
     "<p>Mais la vallée avait changé sa chanson.</p><hr><p>Des créatures qui acclamaient autrefois</p>" +
     "<p>chuchotaient maintenant aux racines.</p><p>« Il est trop haut, » disaient-elles.</p>" +

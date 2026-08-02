@@ -12,7 +12,7 @@ Life is the water that lifts every root to shared sight.
 
 Detailed atmospheric watercolor with fine natural texture — soft edges and cool vapor-mist in the distance, clearer bark, leaf, buttress, and water detail in the near ground. Quiet grandeur: layered depth (buttress roots → mid-jungle → far soft green ridges), gentle god-rays or warm gold on high canopy and ridge, cool mist in hollows. Living-jungle palette: Ceiba bark grey-green and soft umber, deep leaf tiers, clear spring turquoise-silver, cool vapor grey, warm gold on high canopy, soft cream sky; sparse gentle orchid or bromeliad accents. Kind, child-safe, innocent wonder — tall and gentle, never fierce or cute-flat.
 
-**Setting texture:** A **jungle valley** (same valley *frame* as the companion book, different wood). Honduran rainforest feel — emergent **Ceiba (kapok)** above layered canopy, buttress roots, vines, ferns, philodendron, bromeliads, soft tropical vapor-mist in hollows, clear spring or forest pool ringing the roots (natural water only — no built rim). Soft far ridges that earn the far-sight ending. Not Australian outback. Not English oak wood.
+**Setting texture:** A **highland valley** (same valley *frame* as the companion book, different wood). Honduran rainforest feel — emergent **Ceiba (kapok)** above layered canopy, buttress roots, vines, ferns, philodendron, bromeliads, soft tropical vapor-mist in hollows, clear spring or jungle pool ringing the roots (natural water only — no built rim). Soft far ridges that earn the far-sight ending. Not Australian outback. Not English oak wood.
 
 **Do not use:** soft colored-pencil Grug look; cartoon outlines; harsh contrast; scary Ent faces; war or darkness; outback red earth, spinifex, or Australian bush animals; Maya buildings, temples, ruins, pyramids, stelae, glyphs-as-decoration, or any archaeological staging; blood, wounds, or ritual violence (outpouring is always clear water and soft light).
 
@@ -22,9 +22,9 @@ Detailed atmospheric watercolor with fine natural texture — soft edges and coo
 
 ## World Bible
 
-**Place:** A jungle valley with green canopy slopes and soft high ridges. Hai’s tall tree is a vast living **Ceiba** standing by a clear spring (or forest pool) that rings the buttress roots. Gardens are forest-floor in manner — leaf litter, fern edges, root beds, filtered gold light — and still grow **cantaloupe (rockmelon)** vines as the break-and-mend crop shared in spirit with *Grok the Rock*.
+**Place:** A highland valley with green canopy slopes and soft high ridges. Hai’s tall tree is a vast living **Ceiba** standing by a clear spring (or jungle pool) that rings the buttress roots. Gardens are forest-floor in manner — leaf litter, fern edges, root beds, filtered gold light — and still grow **cantaloupe (rockmelon)** vines as the break-and-mend crop shared in spirit with *Grok the Rock*.
 
-**Cast (Honduran jungle valley — not Grok’s animals):**
+**Cast (Honduran highland valley — not Grok’s animals):**
 
 | Role | Who |
 |------|-----|
@@ -54,7 +54,7 @@ Generate these once and reuse as visual anchors so Hai stays the same being acro
 The default tall form: a vast kind living **Ceiba** with a gentle face high in the upper trunk.
 
 **Reference prompt:**
-Character reference sheet, portrait. Detailed atmospheric watercolor, fine natural texture. Lord Ikthiss as a vast kind living tall Ceiba (kapok) of a Honduran jungle valley: pale grey-green trunk with readable bark, great buttress roots, soft moss in bark creases, high tiered canopy of palmate leaf-green like open hands filtering warm gold light. A gentle face set high in the upper trunk — wise kind eyes, soft bark brows, patient almost-smile; face is part of the wood, not a mask stuck on. Deep buttress roots visible at the base, touching or drinking a thin bright spring. Full figure from roots to crown, centered, clear Ceiba silhouette (buttresses + emergent crown). Soft cream or light vapor-mist background, minimal. Quiet grandeur, child-safe, innocent. No cartoon outlines, no scary Ent face, no harsh darkness, no buildings or ruins. Turnaround optional: front view primary; small side note of canopy profile acceptable.
+Character reference sheet, portrait. Detailed atmospheric watercolor, fine natural texture. Lord Ikthiss as a vast kind living tall Ceiba (kapok) of a Honduran highland valley: pale grey-green trunk with readable bark, great buttress roots, soft moss in bark creases, high tiered canopy of palmate leaf-green like open hands filtering warm gold light. A gentle face set high in the upper trunk — wise kind eyes, soft bark brows, patient almost-smile; face is part of the wood, not a mask stuck on. Deep buttress roots visible at the base, touching or drinking a thin bright spring. Full figure from roots to crown, centered, clear Ceiba silhouette (buttresses + emergent crown). Soft cream or light vapor-mist background, minimal. Quiet grandeur, child-safe, innocent. No cartoon outlines, no scary Ent face, no harsh darkness, no buildings or ruins. Turnaround optional: front view primary; small side note of canopy profile acceptable.
 
 **Use when:** Cover, Ch.1 pages, Ch.3 pages 19–21 (home in the crown again), any “ruled from atop the tall tree” beat.
 
@@ -113,8 +113,8 @@ Generate only if a page drifts:
 **Image generation prompt:**
 Children’s picture book cover, portrait orientation.
 Detailed atmospheric watercolor with fine natural texture; soft distant vapor-mist, clearer near detail. Living-jungle palette: Ceiba bark grey-green and soft umber, deep leaf green, clear spring turquoise-silver, cool mist grey, warm gold on high canopy, soft cream sky.
-Central character: Lord Hai Ikthiss — a vast kind living tall Ceiba with a gentle face in the upper trunk, wise kind eyes, canopy like open hands, deep buttress roots drinking a bright spring. He rules from the crown with quiet care, not pride. Small jungle-valley creatures far below look up in awe through layered mist.
-Ancient jungle valley with glowing forest pool, canopy slopes, and soft far ridges in atmospheric perspective. No buildings, no ruins, no temples.
+Central character: Lord Hai Ikthiss — a vast kind living tall Ceiba with a gentle face in the upper trunk, wise kind eyes, canopy like open hands, deep buttress roots drinking a bright spring. He rules from the crown with quiet care, not pride. Small highland-valley creatures far below look up in awe through layered mist.
+Ancient highland valley with glowing jungle pool, canopy slopes, and soft far ridges in atmospheric perspective. No buildings, no ruins, no temples.
 Quiet grandeur, calm, wondrous mood. High-quality innocent children’s book cover. Title space soft near top or bottom. No cartoon outlines, no harsh darkness.
 Forest Creatures to Include: (full list above)
 
@@ -161,7 +161,7 @@ With thanks to Original Tall Tellers:
 ```
 
 **Image generation prompt:**
-Almost blank warm cream page, delicate atmospheric watercolor wash. At the centre bottom: three tiny green sprouts beside a single drop of clear water and a small smooth fish-shaped glint of light on the water — very subtle, fine natural texture. Very minimal, generous open space, soft morning mist-light. Delicate ferns and Ceiba leaves at the edges with soft detail. Calm, quiet, inviting negative space above for dedication text. Portrait children’s book page. Optional: tiny soft silhouette of Hai Ikthiss the tall Ceiba far in cool mist over a jungle valley. No buildings.
+Almost blank warm cream page, delicate atmospheric watercolor wash. At the centre bottom: three tiny green sprouts beside a single drop of clear water and a small smooth fish-shaped glint of light on the water — very subtle, fine natural texture. Very minimal, generous open space, soft morning mist-light. Delicate ferns and Ceiba leaves at the edges with soft detail. Calm, quiet, inviting negative space above for dedication text. Portrait children’s book page. Optional: tiny soft silhouette of Hai Ikthiss the tall Ceiba far in cool mist over a highland valley. No buildings.
 
 ---
 
@@ -174,14 +174,14 @@ Almost blank warm cream page, delicate atmospheric watercolor wash. At the centr
 ```
 
 **Image generation prompt:**
-Chapter-opening page. Soft cream ground with atmospheric watercolor depth. A large, characterful living tall Ceiba dominates the upper portion — Hai Ikthiss as the first tree of the jungle valley, palmate leaves filtering warm early-morning gold, a kind face suggested in finely textured bark; cool vapor-mist softens the far canopy edge. Below, small valley creatures look upward with bright praise. A clear spring rings the buttress roots. Soft ridges hinted beyond the green canopy. Hand-lettered chapter title "1. Being" and slightly smaller below it "Hai and the Empty Praise", both in deep living green. Peaceful, high, slightly lonely quiet grandeur. Portrait children’s book page. No cartoon outlines. No buildings.
+Chapter-opening page. Soft cream ground with atmospheric watercolor depth. A large, characterful living tall Ceiba dominates the upper portion — Hai Ikthiss as the first tree of the highland valley, palmate leaves filtering warm early-morning gold, a kind face suggested in finely textured bark; cool vapor-mist softens the far canopy edge. Below, small valley creatures look upward with bright praise. A clear spring rings the buttress roots. Soft ridges hinted beyond the green canopy. Hand-lettered chapter title "1. Being" and slightly smaller below it "Hai and the Empty Praise", both in deep living green. Peaceful, high, slightly lonely quiet grandeur. Portrait children’s book page. No cartoon outlines. No buildings.
 
 ---
 
 ### Page 2
 
 ```
-Hai Ikthiss ruled the forest from atop the tall tree.
+Hai Ikthiss ruled the jungle from atop the tall tree.
 He was the first tree in the valley.
 When the valley was empty, he stood alone.
 Rain found him first.
@@ -190,7 +190,7 @@ Then birds.
 ```
 
 **Image generation prompt:**
-Detailed atmospheric watercolor children’s illustration. Dawn over a young jungle valley in layered vapor-mist. Hai Ikthiss is a single tall living Ceiba with a gentle face high in the trunk, alone at first, buttress roots drinking a bright new spring — fine bark and water texture in the near ground, soft canopy ridges dissolving into mist beyond. Soft first grasses and one small bird arriving. Warm gold height-light on the canopy. Text space clear in lower 40%. Innocent, quiet creation mood; quiet grandeur. Portrait page. No cartoon outlines, no harsh darkness, no buildings.
+Detailed atmospheric watercolor children’s illustration. Dawn over a young highland valley in layered vapor-mist. Hai Ikthiss is a single tall living Ceiba with a gentle face high in the trunk, alone at first, buttress roots drinking a bright new spring — fine bark and water texture in the near ground, soft canopy ridges dissolving into mist beyond. Soft first grasses and one small bird arriving. Warm gold height-light on the canopy. Text space clear in lower 40%. Innocent, quiet creation mood; quiet grandeur. Portrait page. No cartoon outlines, no harsh darkness, no buildings.
 
 ---
 
@@ -281,7 +281,7 @@ He began to understand it.
 ```
 
 **Image generation prompt:**
-Beautiful quiet night scene in detailed atmospheric watercolor. Hai Ikthiss the tall Ceiba under a deep starry sky over the jungle valley, canopy holding soft silver starlight; cool blues, mist grey, and silver leaf-light with fine natural texture. Peaceful accepting expression in the bark-face. The internal hollow now warmer, watered, almost glowing. Deep calm, contemplative, healing mood; quiet grandeur. Portrait layout, generous text space ~40% height at bottom. No scary darkness — gentle night wonder. No buildings.
+Beautiful quiet night scene in detailed atmospheric watercolor. Hai Ikthiss the tall Ceiba under a deep starry sky over the highland valley, canopy holding soft silver starlight; cool blues, mist grey, and silver leaf-light with fine natural texture. Peaceful accepting expression in the bark-face. The internal hollow now warmer, watered, almost glowing. Deep calm, contemplative, healing mood; quiet grandeur. Portrait layout, generous text space ~40% height at bottom. No scary darkness — gentle night wonder. No buildings.
 
 ---
 
@@ -321,7 +321,7 @@ And he began to plan a smaller way.
 ```
 
 **Image generation prompt:**
-Warm closing scene for Chapter 1 in detailed atmospheric watercolor. Hai Ikthiss the tall living Ceiba happily sending visible soft streams of clear water and gentle light down to tiny ferns and small animals at the roots — fine leaf and water texture near, soft golden afternoon depth over the jungle valley beyond. Peaceful satisfied tree-smile of simple contentment. Surrounded by gentle canopy with atmospheric perspective. Soft vignette edges optional. Innocently joyful quiet grandeur. Generous space for final text ~50% height at bottom. No blood, only clear water and light. No buildings.
+Warm closing scene for Chapter 1 in detailed atmospheric watercolor. Hai Ikthiss the tall living Ceiba happily sending visible soft streams of clear water and gentle light down to tiny ferns and small animals at the roots — fine leaf and water texture near, soft golden afternoon depth over the highland valley beyond. Peaceful satisfied tree-smile of simple contentment. Surrounded by gentle canopy with atmospheric perspective. Soft vignette edges optional. Innocently joyful quiet grandeur. Generous space for final text ~50% height at bottom. No blood, only clear water and light. No buildings.
 
 ---
 
@@ -341,7 +341,7 @@ Simple chapter-opening page. Soft cream background with warm atmospheric waterco
 ### Page 11
 
 ```
-Hai Ikthiss ruled the forest from atop the tall tree.
+Hai Ikthiss ruled the jungle from atop the tall tree.
 Then one quiet morning he climbed down.
 He left the crown empty of his face
 and walked the ground as a living walking seed.
@@ -380,7 +380,7 @@ His shell trembled.
 “I ruined it,” he whispered.
 “You will be angry. Everyone will be angry.”
 
-Some wood folk gathered.
+Some highland folk gathered.
 “Make him go away,” muttered a coati.
 “He should bring three new melons,” said an agouti.
 ```
@@ -468,7 +468,7 @@ They stay alive by being gently put back together.
 ```
 
 **Image generation prompt:**
-Beautiful closing illustration for Chapter 2 in detailed atmospheric watercolor. Kai (humble living walking Ceiba pod) and Pip the nine-banded armadillo sitting together beside thriving melon plants in the jungle forest-floor garden. A third small jungle creature who had a recent small accident is now happily included. Soft golden-hour light over the jungle valley with layered mist and atmospheric depth toward soft ridges. Sense of community, quiet strength, and healed belonging. The tall Ceiba above is peaceful. Warm, hopeful, innocent mood; quiet grandeur. Soft vignette optional. Space for final text block ~50% height at bottom. Portrait page. No buildings.
+Beautiful closing illustration for Chapter 2 in detailed atmospheric watercolor. Kai (humble living walking Ceiba pod) and Pip the nine-banded armadillo sitting together beside thriving melon plants in the jungle forest-floor garden. A third small jungle creature who had a recent small accident is now happily included. Soft golden-hour light over the highland valley with layered mist and atmospheric depth toward soft ridges. Sense of community, quiet strength, and healed belonging. The tall Ceiba above is peaceful. Warm, hopeful, innocent mood; quiet grandeur. Soft vignette optional. Space for final text block ~50% height at bottom. Portrait page. No buildings.
 
 ---
 
@@ -488,7 +488,7 @@ Chapter opening page. Soft cream ground with atmospheric watercolor depth. Centr
 ### Page 19
 
 ```
-Hai Ikthiss ruled the forest from atop the tall tree.
+Hai Ikthiss ruled the jungle from atop the tall tree.
 Two years had turned.
 He was home in the crown again.
 But the valley had changed its song.
@@ -500,7 +500,7 @@ now whispered at the roots.
 ```
 
 **Image generation prompt:**
-Evening by the tall Ceiba in detailed atmospheric watercolor. Golden-hour light on Hai Ikthiss returned to the crown — kind face high in the living Ceiba again; warm gold on high canopy, cooler shadow and soft mist at the roots. Living-jungle palette glowing with evening gold over a jungle valley. At the roots, small animals cluster and whisper, looking up with worried eyes instead of cheers — fine near detail, atmospheric height. Tender, slightly sad misunderstanding. Quiet grandeur. Generous clear text space ~40% height at bottom. Portrait page. Child-safe, no scary faces. No buildings.
+Evening by the tall Ceiba in detailed atmospheric watercolor. Golden-hour light on Hai Ikthiss returned to the crown — kind face high in the living Ceiba again; warm gold on high canopy, cooler shadow and soft mist at the roots. Living-jungle palette glowing with evening gold over a highland valley. At the roots, small animals cluster and whisper, looking up with worried eyes instead of cheers — fine near detail, atmospheric height. Tender, slightly sad misunderstanding. Quiet grandeur. Generous clear text space ~40% height at bottom. Portrait page. Child-safe, no scary faces. No buildings.
 
 ---
 
@@ -595,7 +595,7 @@ only the eyes now level with the far hills.
 ```
 
 **Image generation prompt:**
-Hopeful wondrous group scene in detailed atmospheric watercolor. Hai Ikthiss as kind walking tall Ceiba lifting friends: Pip the nine-banded armadillo, old spectacled owl, and other valley creatures rising beside him, gently becoming tall giants with joyful (not scary) faces — same animals, shared height. Soft bright morning light, layered jungle valley opening toward soft far ridges in atmospheric perspective. Feeling of growing clear sight and togetherness. Quiet grandeur. Text space ~40% height at bottom. No domination; shared wonder. Portrait page. Child-safe. No buildings.
+Hopeful wondrous group scene in detailed atmospheric watercolor. Hai Ikthiss as kind walking tall Ceiba lifting friends: Pip the nine-banded armadillo, old spectacled owl, and other valley creatures rising beside him, gently becoming tall giants with joyful (not scary) faces — same animals, shared height. Soft bright morning light, layered highland valley opening toward soft far ridges in atmospheric perspective. Feeling of growing clear sight and togetherness. Quiet grandeur. Text space ~40% height at bottom. No domination; shared wonder. Portrait page. Child-safe. No buildings.
 
 ---
 
@@ -604,7 +604,7 @@ Hopeful wondrous group scene in detailed atmospheric watercolor. Hai Ikthiss as 
 ```
 From the high quiet air
 they saw the whole valley at once —
-the woodland pool, the old garden,
+the jungle pool, the old garden,
 the places praise had been loud
 and the places fear had been small.
 
@@ -621,7 +621,7 @@ on many strong legs.
 ```
 
 **Image generation prompt:**
-Beautiful final story page in detailed atmospheric watercolor. Hai Ikthiss and his giant friends standing together on a high ridge of gentle air beside the tall Ceiba at golden hour, looking out over the whole peaceful jungle valley — forest pool, melon garden at the roots, canopy slopes, soft far ridges in layered mist and atmospheric depth. Sense of open sky, freedom, and quiet understanding. Warm glowing height-gold, deep calm and innocent joy. Quiet grandeur; masterpiece feel for children’s book ending. Generous text space ~50% height at bottom. Portrait page. No harsh darkness. No buildings.
+Beautiful final story page in detailed atmospheric watercolor. Hai Ikthiss and his giant friends standing together on a high ridge of gentle air beside the tall Ceiba at golden hour, looking out over the whole peaceful highland valley — jungle pool, melon garden at the roots, canopy slopes, soft far ridges in layered mist and atmospheric depth. Sense of open sky, freedom, and quiet understanding. Warm glowing height-gold, deep calm and innocent joy. Quiet grandeur; masterpiece feel for children’s book ending. Generous text space ~50% height at bottom. Portrait page. No harsh darkness. No buildings.
 
 ---
 
@@ -645,7 +645,7 @@ And the world kept growing him.
 ```
 
 **Image generation prompt:**
-Final endpaper-style illustration in detailed atmospheric watercolor. Wide landscape of the gentle jungle valley at peaceful dusk — strongest quiet grandeur: layered planes of canopy and Ceiba, spring and pool silver, soft far ridges dissolving into cool vapor-mist. Hai Ikthiss visible as a kind walking tall Ceiba among other gentle giant friends on a soft rise, small in the vast landscape yet glowing with quiet presence and living leaves. In this final scene all of the previously small animals are now as tall (same height) as the giant Tree Lord, and he walks among them the same height as if he were no different.
+Final endpaper-style illustration in detailed atmospheric watercolor. Wide landscape of the gentle highland valley at peaceful dusk — strongest quiet grandeur: layered planes of canopy and Ceiba, spring and pool silver, soft far ridges dissolving into cool vapor-mist. Hai Ikthiss visible as a kind walking tall Ceiba among other gentle giant friends on a soft rise, small in the vast landscape yet glowing with quiet presence and living leaves. In this final scene all of the previously small animals are now as tall (same height) as the giant Tree Lord, and he walks among them the same height as if he were no different.
 Soft stars beginning to appear. Twilight palette of lavender, soft gold, deep moss green, Ceiba bark grey-green, and water turquoise-silver. Vast calm feeling of shared height in a big kind world. Large open text area in the center about 40% height with the landscape wrapped around it. Heart-warmingly complete. No cartoon outlines, no harsh darkness, no buildings.
 
 ---
@@ -729,14 +729,14 @@ A short map of each step. No special names are needed to enjoy the book; this on
 ### The recurring structural marker
 The exact two-word spine name (first word Hai, second Ikthiss) appears **32** times across story text and image prompts, matching the companion *Grok the Rock*. Other wording may say **Lord Ikthiss**; animals in Chapter Two call the humble form **Kai**.
 
-Each chapter’s first story page opens with the ruled-from-atop line (spine name + “ruled the forest from atop the tall tree”).
+Each chapter’s first story page opens with the ruled-from-atop line (spine name + “ruled the jungle from atop the tall tree”).
 
 ### Surface story
-A tall living **Ceiba** rules a gentle **jungle valley**. Creatures praise him without seeing him (Being). He descends and walks as Kai, a living walking **Ceiba seed-pod**, mending a broken **cantaloupe garden** with Pip the nine-banded armadillo instead of punishing (Mending). Two years later the valley fears his height; he returns as a walking tree and lifts willing friends to shared giant sight (Seeing). Ending line: *Now everyone could see as far as Hai.*
+A tall living **Ceiba** rules a gentle **highland valley**. Creatures praise him without seeing him (Being). He descends and walks as Kai, a living walking **Ceiba seed-pod**, mending a broken **cantaloupe garden** with Pip the nine-banded armadillo instead of punishing (Mending). Two years later the valley fears his height; he returns as a walking tree and lifts willing friends to shared giant sight (Seeing). Ending line: *Now everyone could see as far as Hai.*
 
 **Cast:** howler monkey, Baird’s tapir, keel-billed toucan, Pip nine-banded armadillo, coati, agouti, scarlet macaw, old spectacled owl — inverted *roles* from *Grok the Rock*, not the same animals. Where Grok was seen and dismissed, Hai is praised and not seen — then feared and finally *seen with*.
 
-**Place:** Same valley *frame* as the companion; Honduran jungle texture (spring/pool, Ceiba buttresses, canopy tiers, soft ridges). Melon kept as shared break-and-mend symbol. No buildings or ruins in art.
+**Place:** Same valley *frame* as the companion; Honduran highland-valley / jungle texture (spring/pool, Ceiba buttresses, canopy tiers, soft ridges). Melon kept as shared break-and-mend symbol. No buildings or ruins in art.
 
 ### Quiet structure (without the decoder)
 There are thirty-two quiet steps through the book. The heart of the arc is the invitation on the melon page: *“Come, we plant new seeds together.”* The story is meant to work before any map is opened.

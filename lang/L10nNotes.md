@@ -154,7 +154,7 @@ Same shape as Quiet Stories, all prefixed with `hai.`:
 - Chapter arc titles stay **Being · Mending · Seeing** (or the language’s established Quiet Stories equivalents — Hebrew uses שלום · תיקון · ראייה).
 - Agent phrase **Tall Tellers** (dedication) stays English where "Grokkers" does; book titles translate (e.g. Tolkien → local *Lord of the Rings* title).
 - English cast (Honduran jungle): howler monkey, Baird’s tapir, keel-billed toucan, Pip (nine-banded armadillo), coati, agouti, scarlet macaw, old spectacled owl. Use common local animal names (table below).
-- Shared symbols with Quiet Stories (keep literal): melon/cantaloupe, water, hollow cup, seed / Ceiba pod, root, Ceiba tree, lift / far sight. Art setting is jungle valley (not English wood); no buildings/ruins in alts.
+- Shared symbols with Quiet Stories (keep literal): melon/cantaloupe, water, hollow cup, seed / Ceiba pod, root, Ceiba tree, lift / far sight. Art setting is **highland valley** (short: valley) with jungle biome texture (not English wood); no buildings/ruins in alts. Crowd line: **highland folk** (not wood folk). Spine opener: ruled the **jungle** from atop the tall tree.
 - **Species beats that must match English structure:**
   - p3 howler *lifts his call* (not antlers)
   - p4 tapir ambles, solid and strong
@@ -162,7 +162,7 @@ Same shape as Quiet Stories, all prefixed with `hai.`:
   - p12 Pip = young **armadillo**
   - p13 Pip’s **shell** trembled (not spines); crowd = **coati** (exile) + **agouti** (payment)
   - p20 / p22 / p24 grand-fear bird = **scarlet macaw** (not pheasant)
-  - Alts: jungle / Ceiba / forest-floor garden — not “English garden”; Kai may be “Ceiba seed-pod” where English alts say so
+  - Alts: highland valley / Ceiba tree / jungle garden — not “English garden” or “forested valley”; Kai may be “Ceiba seed-pod” where English alts say so; keep word **tree**, add **Ceiba** when naming Hai’s forms
 - HTML chrome alternates in source (`Lord Ikthiss`) are restored to full **Hai Ikthiss** via `lang/en.js` (`hai.site.title`, `hai.cover.title`). Do not put full spine chrome back into `tall-tales.html`.
 
 ### Hebrew special case (`he` / `he-phon`)

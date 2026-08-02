@@ -455,10 +455,10 @@ window.I18N.es = {
   "hai.p8.alt": "El oro de la mañana ilumina el rostro gentil de Hai Ikthiss mientras mira por su tronco hacia las raíces, más claro por dentro mientras el valle aún aclama abajo.",
   "hai.p9.alt": "Hai Ikthiss envía suaves arroyos de agua y luz gentil hacia abajo a diminutos helechos y pequeños animales en las raíces, sonriendo una simple sonrisa de árbol de contento.",
   "hai.p10.alt": "Capítulo Dos, Remendar — Kai camina abajo. Una pequeña criatura-vaina de ceiba viva que camina con un mechón de kapok y ojos bondadosos se alza al pie del gran árbol alto; la figura pequeña es Hai Ikthiss en humilde forma de semilla.",
-  "hai.p11.alt": "En un jardín selvático del suelo del bosque a las raíces del árbol alto, Hai Ikthiss en humilde forma Kai—una pequeña semilla viva que camina—sonríe entre enredaderas de melón.",
-  "hai.p12.alt": "Pip el joven armadillo se queda helado a mitad de paso de horror cuando un gran melón se parte en el suelo; Kai (Hai Ikthiss como semilla viva que camina) se mantiene pequeño y firme entre las semillas derramadas.",
-  "hai.p13.alt": "Pip se enrosca de vergüenza mientras Kai (pequeña forma de semilla viva que camina de Hai Ikthiss) se mantiene bondadoso y quieto; un coatí y un agutí entre la gente del bosque se ven duros y juiciosos.",
-  "hai.p14.alt": "Kai (Hai Ikthiss como pequeña semilla viva que camina) se arrodilla y ofrece a Pip un palo para cavar con bondad abierta; Pip se desenrosca despacio al volver la esperanza.",
+  "hai.p11.alt": "En un jardín selvático del suelo de la jungla a las raíces del árbol alto, Hai Ikthiss en humilde forma Kai—una pequeña semilla viva que camina—sonríe entre enredaderas de melón.",
+  "hai.p12.alt": "Pip el joven armadillo se queda helado a mitad de paso de horror cuando un gran melón se parte en el suelo; Kai (Hai Ikthiss como vaina-semilla de ceiba viva que camina) se mantiene pequeño y firme entre las semillas derramadas.",
+  "hai.p13.alt": "Pip se enrosca de vergüenza mientras Kai (pequeña forma de semilla viva que camina de Hai Ikthiss) se mantiene bondadoso y quieto; un coatí y un agutí entre la gente de las tierras altas se ven duros y juiciosos.",
+  "hai.p14.alt": "Kai (Hai Ikthiss como pequeña vaina-semilla de ceiba viva que camina) se arrodilla y ofrece a Pip un palo para cavar con bondad abierta; Pip se desenrosca despacio al volver la esperanza.",
   "hai.p15.alt": "Kai y Pip plantan y riegan lado a lado y construyen una pequeña cerca de ramitas alrededor de nuevas semillas, ambos sonriendo con suavidad.",
   "hai.p16.alt": "Pip riega nuevas enredaderas de melón prósperas mientras Kai observa con orgullo silencioso; el árbol alto se alza en paz sobre el jardín de la selva.",
   "hai.p17.alt": "A la hora dorada Kai y Pip se sientan junto a melones prósperos con otra pequeña criatura incluida, una comunidad de jardín remendada en paz.",
@@ -500,7 +500,7 @@ window.I18N.es = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>y cada semilla quieta que aprendió a caminar</em></p>",
 
-  "hai.p2": "<p>Hai Ikthiss gobernaba el bosque desde lo alto del árbol alto.</p>" +
+  "hai.p2": "<p>Hai Ikthiss gobernaba la jungla desde lo alto del árbol alto.</p>" +
     "<p>Era el primer árbol del valle.</p><p>Cuando el valle estaba vacío, se alzaba solo.</p>" +
     "<p>La lluvia lo encontró primero.</p><p>Luego la hierba.</p><p>Luego los pájaros.</p>",
 
@@ -543,7 +543,7 @@ window.I18N.es = {
     "<p>Hai se quedaba quieto hasta que se volvía silenciosa.</p><p>Simplemente se quedaba siendo Hai.</p>" +
     "<p>Y comenzó a planear un modo más pequeño.</p>",
 
-  "hai.p11": "<p>Hai Ikthiss gobernaba el bosque desde lo alto del árbol alto.</p>" +
+  "hai.p11": "<p>Hai Ikthiss gobernaba la jungla desde lo alto del árbol alto.</p>" +
     "<p>Luego, una mañana quieta, bajó.</p><p>Dejó la corona vacía de su rostro</p>" +
     "<p>y caminó por el suelo como una semilla viva que camina.</p><hr><p>Los animales lo hallaron entre los melones.</p>" +
     "<p>“¿Quién eres?” preguntaron.</p><p>“Pueden llamarme Kai,” dijo,</p>" +
@@ -556,7 +556,7 @@ window.I18N.es = {
 
   "hai.p13": "<p>Pip se quedó helado.</p><p>Su caparazón tembló.</p>" +
     "<p>“Lo arruiné,” susurró.</p><p>“Estarás enojado. Todos estarán enojados.”</p><hr>" +
-    "<p>Algunos del bosque se reunieron.</p><p>“Que se vaya,” murmuró un coatí.</p>" +
+    "<p>Algunos de las tierras altas se reunieron.</p><p>“Que se vaya,” murmuró un coatí.</p>" +
     "<p>“Debería traer tres melones nuevos,” dijo un agutí.</p>",
 
   "hai.p14": "<p>Kai miró la enredadera rota.</p><p>Miró los ojos preocupados de Pip.</p><hr>" +
@@ -582,7 +582,7 @@ window.I18N.es = {
     "<p>no se mantienen vivos por nunca romperse.</p>" +
     "<p>Se mantienen vivos por ser remendados con cuidado.</p>",
 
-  "hai.p19": "<p>Hai Ikthiss gobernaba el bosque desde lo alto del árbol alto.</p>" +
+  "hai.p19": "<p>Hai Ikthiss gobernaba la jungla desde lo alto del árbol alto.</p>" +
     "<p>Habían pasado dos años.</p><p>Estaba de nuevo en casa en la corona.</p>" +
     "<p>Pero el valle había cambiado su canción.</p><hr><p>Criaturas que una vez aclamaban</p>" +
     "<p>ahora susurraban en las raíces.</p><p>“Está demasiado alto,” decían.</p>" +
@@ -617,7 +617,7 @@ window.I18N.es = {
     "<p>mismo rostro, mismo corazón,</p><p>solo los ojos ahora al nivel de las colinas lejanas.</p>",
 
   "hai.p25": "<p>Desde el aire alto y quieto</p><p>vieron todo el valle de una vez —</p>" +
-    "<p>la charca del bosque, el viejo jardín,</p><p>los lugares donde el elogio había sido fuerte</p>" +
+    "<p>la charca de la jungla, el viejo jardín,</p><p>los lugares donde el elogio había sido fuerte</p>" +
     "<p>y los lugares donde el miedo había sido pequeño.</p><hr><p>Hai se sintió en paz.</p>" +
     "<p>No necesitaba la aclamación más alta.</p><p>Solo necesitaba verdaderos amigos</p>" +
     "<p>que pudieran ver tan lejos como el amor puede ver.</p><hr><p>Mientras alguien fuera libre de decir</p>" +

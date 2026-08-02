@@ -572,9 +572,9 @@ window.I18N.pt = {
   "hai.p9.alt": "Hai Ikthiss envia suaves filetes de água e luz gentil para minúsculas samambaias e pequenos animais nas raízes, sorrindo um simples sorriso de árvore de contentamento.",
   "hai.p10.alt": "Capítulo Dois, Remendar — Kai caminha embaixo. Uma pequena criatura-semente viva que caminha com um tufo de broto e olhos bondosos fica ao pé da grande árvore alta; a figura pequena é Hai Ikthiss em humilde forma de semente.",
   "hai.p11.alt": "Num jardim de chão de floresta tropical nas raízes da árvore alta, Hai Ikthiss em humilde forma Kai—uma pequena semente viva que caminha—sorri entre trepadeiras de melão.",
-  "hai.p12.alt": "Pip o jovem tatu congela no meio do passo de horror quando um grande melão se parte no chão; Kai (Hai Ikthiss como semente viva que caminha) fica pequeno e firme entre as sementes derramadas.",
+  "hai.p12.alt": "Pip o jovem tatu congela no meio do passo de horror quando um grande melão se parte no chão; Kai (Hai Ikthiss como vagem-semente de ceiba viva que caminha) fica pequeno e firme entre as sementes derramadas.",
   "hai.p13.alt": "Pip se encolhe de vergonha enquanto Kai (pequena forma de semente viva que caminha de Hai Ikthiss) fica bondoso e quieto; um quati e uma cutia entre o povo da mata parecem duros e julgadores.",
-  "hai.p14.alt": "Kai (Hai Ikthiss como pequena semente viva que caminha) se ajoelha e oferece a Pip um pau para cavar com bondade aberta; Pip se desenrola devagar quando a esperança volta.",
+  "hai.p14.alt": "Kai (Hai Ikthiss como pequena vagem-semente de ceiba viva que caminha) se ajoelha e oferece a Pip um pau para cavar com bondade aberta; Pip se desenrola devagar quando a esperança volta.",
   "hai.p15.alt": "Kai e Pip plantam e regam lado a lado e constroem uma pequena cerca de gravetos ao redor de novas sementes, ambos sorrindo com suavidade.",
   "hai.p16.alt": "Pip rega novas trepadeiras de melão prósperas enquanto Kai observa com orgulho silencioso; a árvore alta ergue-se em paz sobre o jardim da selva.",
   "hai.p17.alt": "Na hora dourada Kai e Pip sentam-se ao lado de melões prósperos com outra pequena criatura incluída, uma comunidade de jardim remendada em paz.",
@@ -616,7 +616,7 @@ window.I18N.pt = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>e cada semente quieta que aprendeu a caminhar</em></p>",
 
-  "hai.p2": "<p>Hai Ikthiss governava a floresta do alto da árvore alta.</p>" +
+  "hai.p2": "<p>Hai Ikthiss governava a selva do alto da árvore alta.</p>" +
     "<p>Ele era a primeira árvore do vale.</p><p>Quando o vale estava vazio, ele ficava sozinho.</p>" +
     "<p>A chuva o encontrou primeiro.</p><p>Depois a grama.</p><p>Depois os pássaros.</p>",
 
@@ -659,7 +659,7 @@ window.I18N.pt = {
     "<p>Hai ficava quieto até que se tornasse silencioso.</p><p>Ele simplesmente continuava sendo Hai.</p>" +
     "<p>E começou a planejar um jeito mais pequeno.</p>",
 
-  "hai.p11": "<p>Hai Ikthiss governava a floresta do alto da árvore alta.</p>" +
+  "hai.p11": "<p>Hai Ikthiss governava a selva do alto da árvore alta.</p>" +
     "<p>Então numa manhã quieta ele desceu.</p><p>Deixou a copa vazia do seu rosto</p>" +
     "<p>e caminhou no chão como uma semente viva que caminha.</p><hr><p>Os animais o acharam entre os melões.</p>" +
     "<p>\"Quem é você?\" perguntaram.</p><p>\"Podem me chamar de Kai,\" disse ele,</p>" +
@@ -672,7 +672,7 @@ window.I18N.pt = {
 
   "hai.p13": "<p>Pip congelou.</p><p>Os seus espinhos tremeram.</p>" +
     "<p>\"Eu estraguei,\" sussurrou.</p><p>\"Você vai ficar bravo. Todos vão ficar bravos.\"</p><hr>" +
-    "<p>Alguns da mata se reuniram.</p><p>\"Façam-no ir embora,\" murmurou um quati.</p>" +
+    "<p>Alguns das terras altas se reuniram.</p><p>\"Façam-no ir embora,\" murmurou um quati.</p>" +
     "<p>\"Ele deveria trazer três melões novos,\" disse uma cutia.</p>",
 
   "hai.p14": "<p>Kai olhou para a trepadeira quebrada.</p><p>Olhou para os olhos preocupados de Pip.</p><hr>" +
@@ -698,7 +698,7 @@ window.I18N.pt = {
     "<p>não se mantêm vivos por nunca se quebrarem.</p>" +
     "<p>Mantêm-se vivos por serem suavemente reunidos de novo.</p>",
 
-  "hai.p19": "<p>Hai Ikthiss governava a floresta do alto da árvore alta.</p>" +
+  "hai.p19": "<p>Hai Ikthiss governava a selva do alto da árvore alta.</p>" +
     "<p>Dois anos tinham passado.</p><p>Ele estava de novo em casa na copa.</p>" +
     "<p>Mas o vale tinha mudado a sua canção.</p><hr><p>Criaturas que outrora aclamavam</p>" +
     "<p>agora sussurravam nas raízes.</p><p>\"Ele é alto demais,\" diziam.</p>" +

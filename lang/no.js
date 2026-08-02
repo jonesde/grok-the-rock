@@ -524,10 +524,10 @@ window.I18N.no = {
   "p25.alt": "I den gylne timen sitter Grok Steinen fornøyd under sitt høye tre med den gode kurven ved siden mens dyr av alle slag beveger seg fritt sammen.",
   "p26.alt": "Avslutningsside: en vid fredelig dal i skumringen med den bittesmå Grok Steinen på favorittsteinen sin, myke stjerner begynner å vise seg.",
 
-  "hai.cover.alt": "Omslag: Lord Hai Ikthiss, et vidt vennlig levende høyt tre med et mykt ansikt i den øvre stammen, står over en kilde i en skogkledd dal mens små skapninger ser opp gjennom myk tåke.",
+  "hai.cover.alt": "Omslag: Lord Hai Ikthiss, et vidt vennlig levende høyt tre med et mykt ansikt i den øvre stammen, står over en kilde i en høylandsdal mens små skapninger ser opp gjennom myk tåke.",
   "hai.dedication.alt": "Dedikasjonsside: tre bitte små grønne spirer ved én klar vanndråpe på en nesten blank varm kremfarget side; valgfritt bitte lite mykt silhuett av Hai Ikthiss det høye treet langt unna i kjølig tåke.",
   "hai.p1.alt": "Kapittel ett, Være — Hai og den tomme lovprisen. Hai Ikthiss som et vidt levende høyt tre med vennlig ansikt fyller den øvre delen mens små dal-skapninger ser opp i lys lovpris.",
-  "hai.p2.alt": "Gryning over en ung skogkledd dal: Hai Ikthiss står som et eneste levende høyt tre med mykt ansikt, røtter drikker en klar ny kilde, første gress og én liten fugl kommer.",
+  "hai.p2.alt": "Gryning over en ung høylandsdal: Hai Ikthiss står som et eneste levende høyt tre med mykt ansikt, røtter drikker en klar ny kilde, første gress og én liten fugl kommer.",
   "hai.p3.alt": "En stolt brøleape jubler ved røttene til den høye Hai Ikthiss mens andre skapninger slutter seg til lovprisen; ingen ser opp i treets øyne.",
   "hai.p4.alt": "En solid tapir bøyer seg mot den store stammen til Hai Ikthiss, priser den sterkeste roten, mens skapninger takker skygge og høyde uten å se ansiktet hans.",
   "hai.p5.alt": "En lys tukan roper stor lovpris fra en grein mens den øvre stammen til Hai Ikthiss viser et mykt hult skinn, som en tom kopp som trenger vann.",
@@ -537,9 +537,9 @@ window.I18N.no = {
   "hai.p9.alt": "Hai Ikthiss sender myke vannstrømmer og vennlig lys ned til bitte små bregner og små dyr ved røttene, smilende et enkelt tresmil av tilfredshet.",
   "hai.p10.alt": "Kapittel to, Lappe — Kai går nedenfor. Et lite levende gående frøvesen med spir-topp og vennlige øyne står ved foten av det store høye treet; den lille skikkelsen er Hai Ikthiss i ydmyk frøform.",
   "hai.p11.alt": "I en jungel-skogsbunnhage ved røttene til det høye treet smiler Hai Ikthiss i ydmyk Kai-form—et lite levende gående frø—blant meloneranker.",
-  "hai.p12.alt": "Pip det unge beltedytret stivner midt i steget av skrekk når en stor melon sprekker på bakken; Kai (Hai Ikthiss som levende gående frø) står liten og stødig blant de sølte frøene.",
-  "hai.p13.alt": "Pip krøller seg av skam mens Kai (liten levende gående frøform av Hai Ikthiss) står vennlig og stille; en nesebjørn og en aguti blant skogfolket ser harde og dømmende ut.",
-  "hai.p14.alt": "Kai (Hai Ikthiss som lite levende gående frø) kneler og tilbyr Pip en gravepinne med åpen vennlighet; Pip ruller seg sakte ut når håpet kommer tilbake.",
+  "hai.p12.alt": "Pip det unge beltedytret stivner midt i steget av skrekk når en stor melon sprekker på bakken; Kai (Hai Ikthiss som levende gående Ceiba-frøkapsel) står liten og stødig blant de sølte frøene.",
+  "hai.p13.alt": "Pip krøller seg av skam mens Kai (liten levende gående frøform av Hai Ikthiss) står vennlig og stille; en nesebjørn og en aguti blant høylandsfolket ser harde og dømmende ut.",
+  "hai.p14.alt": "Kai (Hai Ikthiss som lite levende gående Ceiba-frøkapsel) kneler og tilbyr Pip en gravepinne med åpen vennlighet; Pip ruller seg sakte ut når håpet kommer tilbake.",
   "hai.p15.alt": "Kai og Pip planter og vanner side om side og bygger et lite kvistgjerde rundt nye frø, begge smilende mykt.",
   "hai.p16.alt": "Pip vanner blomstrende nye meloneranker mens Kai ser med stille stolthet; det høye treet står fredelig over jungelhagen.",
   "hai.p17.alt": "I den gylne timen sitter Kai og Pip ved blomstrende meloner med enda et lite vesen med, et fredelig lappet hagefellesskap.",
@@ -550,8 +550,8 @@ window.I18N.no = {
   "hai.p22.alt": "Hai Ikthiss trer mykt ut av stille tre og blir et levende gående høyt tre—lange vennlige lemmer, dype rotføtter, et ansikt de endelig kan møte.",
   "hai.p23.alt": "Hai Ikthiss bøyer seg som en bro av tre og vennlighet med én stor hånd åpen lavt; Pip tar et skritt frem mens andre skapninger halvveis gjemmer seg og ser på.",
   "hai.p24.alt": "Hai Ikthiss løfter villige venner—Pip, uglen, andre, til og med araen—til delt kjempehøyde, samme ansikter, øyne nå i nivå med undring.",
-  "hai.p25.alt": "På en høy rygg i den gylne timen ser Hai Ikthiss og hans kjempevenner sammen ut over hele den fredelige skogkledde dalen.",
-  "hai.p26.alt": "Avslutningsside: vid skogkledd dal i fredelig skumring med Hai Ikthiss som et vennlig gående høyt tre blant milde kjempevenner på en myk haug, stjerner begynner å komme til syne.",
+  "hai.p25.alt": "På en høy rygg i den gylne timen ser Hai Ikthiss og hans kjempevenner sammen ut over hele den fredelige høylandsdalen.",
+  "hai.p26.alt": "Avslutningsside: vid høylandsdal i fredelig skumring med Hai Ikthiss som et vennlig gående høyt tre blant milde kjempevenner på en myk haug, stjerner begynner å komme til syne.",
 
   "hai.site.title": "Hai Ikthiss - Tre Høye Eventyr",
   "hai.cover.title": "<h1>Hai Ikthiss</h1><h3>Tre Høye Eventyr</h3><h2>Være · Lappe · Se</h2>",
@@ -581,7 +581,7 @@ window.I18N.no = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>og hvert stille frø som lærte å gå</em></p>",
 
-  "hai.p2": "<p>Hai Ikthiss styrte skogen fra toppen av det høye treet.</p>" +
+  "hai.p2": "<p>Hai Ikthiss styrte jungelen fra toppen av det høye treet.</p>" +
     "<p>Han var det første treet i dalen.</p><p>Da dalen var tom, sto han alene.</p>" +
     "<p>Regnet fant ham først.</p><p>Så gress.</p><p>Så fugler.</p>",
 
@@ -624,7 +624,7 @@ window.I18N.no = {
     "<p>ble Hai stille til den ble rolig.</p><p>Han ble bare Hai.</p>" +
     "<p>Og han begynte å planlegge en mindre måte.</p>",
 
-  "hai.p11": "<p>Hai Ikthiss styrte skogen fra toppen av det høye treet.</p>" +
+  "hai.p11": "<p>Hai Ikthiss styrte jungelen fra toppen av det høye treet.</p>" +
     "<p>Så klatret han ned en stille morgen.</p><p>Han lot kronen være tom for ansiktet sitt</p>" +
     "<p>og gikk bakken som et levende gående frø.</p><hr><p>Dyrene fant ham blant melonene.</p>" +
     "<p>\"Hvem er du?\" spurte de.</p><p>\"Dere kan kalle meg Kai,\" sa han,</p>" +
@@ -637,7 +637,7 @@ window.I18N.no = {
 
   "hai.p13": "<p>Pip stivnet.</p><p>Panseret hans skalv.</p>" +
     "<p>\"Jeg ødela det,\" hvisket han.</p><p>\"Du blir sint. Alle blir sinte.\"</p><hr>" +
-    "<p>Noe skogfolk samlet seg.</p><p>\"Send ham bort,\" mumlet en nesebjørn.</p>" +
+    "<p>Noe høylandsfolk samlet seg.</p><p>\"Send ham bort,\" mumlet en nesebjørn.</p>" +
     "<p>\"Han bør hente tre nye meloner,\" sa en aguti.</p>",
 
   "hai.p14": "<p>Kai så på den knuste ranken.</p><p>Han så på Pips bekymrede øyne.</p><hr>" +
@@ -663,7 +663,7 @@ window.I18N.no = {
     "<p>ikke lever ved aldri å knuses.</p>" +
     "<p>De lever ved å bli mykt satt sammen igjen.</p>",
 
-  "hai.p19": "<p>Hai Ikthiss styrte skogen fra toppen av det høye treet.</p>" +
+  "hai.p19": "<p>Hai Ikthiss styrte jungelen fra toppen av det høye treet.</p>" +
     "<p>To år hadde gått.</p><p>Han var hjemme i kronen igjen.</p>" +
     "<p>Men dalen hadde skiftet sang.</p><hr><p>Skapninger som en gang jublet</p>" +
     "<p>hvisket nå ved røttene.</p><p>\"Han er for høy,\" sa de.</p>" +

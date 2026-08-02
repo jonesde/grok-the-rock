@@ -600,7 +600,7 @@ window.I18N["he-phon"] = {
   "hai.p10.alt": "פרק שני, תיקון — קאי הולך למטה. יצור-זרע חי מהלך קטן עם ציצת נבט ועיניים טובות עומד לרגלי העץ הגבוה; הדמות הקטנה היא האי איקתיס בצורת זרע ענווה.",
   "hai.p11.alt": "בגן יער-ג'ונגל על רצפת היער בשורשי העץ הגבוה, האי איקתיס בצורת קאי הענווה—זרע חי מהלך קטן—מחייך בין גפני מלון-סלע.",
   "hai.p12.alt": "פיפ הארמדיל הצעיר קופא באמצע צעד באימה כשמלון-סלע גדול נבקע על האדמה; קאי (האי איקתיס כזרע חי מהלך) עומד קטן ויציב בין הזרעים שנשפכו.",
-  "hai.p13.alt": "פיפ מתכנס בבושה בעוד קאי (צורת זרע חי מהלך קטנה של האי איקתיס) עומד טוב ודומם; קואטי ואגוטי בין אנשי היער נראים קשים ושיפוטיים.",
+  "hai.p13.alt": "פיפ מתכנס בבושה בעוד קאי (צורת זרע חי מהלך קטנה של האי איקתיס) עומד טוב ודומם; קואטי ואגוטי בין אנשי העמק הגבוה נראים קשים ושיפוטיים.",
   "hai.p14.alt": "קאי (האי איקתיס כזרע חי מהלך קטן) כורע ומציע לפיפ מקל חפירה בטוב לב פתוח; פיפ מתמתח לאט כשתקווה חוזרת.",
   "hai.p15.alt": "קאי ופיפ שותלים ומשקים זה לצד זה ובונים גדר זרדים קטנה סביב זרעים חדשים, שניהם מחייכים בעדינות.",
   "hai.p16.alt": "פיפ משקה גפני מלון חדשות משגשגות בעוד קאי צופה בגאווה שקטה; העץ הגבוה עומד בשלום מעל גן הג'ונגל.",
@@ -642,7 +642,7 @@ window.I18N["he-phon"] = {
     "<p>  שרק צריך תיקון מלמטה,</p><p class=\"phon\">  she-RAK tsa-RIKH ti-KUN mi-le-MA-ta,</p>" +
     "<p>ולכל מים חיים</p><p class=\"phon\">ul-khol MA-yim cha-YIM</p>" +
     "<p>  שמוצאים את השורש הנמוך ביותר.</p>" +
-    "<p class=\"phon\">  she-motz-IM et ha-SHO-resh ha-na-MUKH be-yo-TER.</p>" +
+    "<p class=\"phon\">  she-motz-IM et ha-SHO-resh ha-ga-VO-ah be-yo-TER.</p>" +
     "<p>&nbsp;</p><hr><p>&nbsp;</p>" +
     "<p>בתודה ל-Tall Tellers המקוריים:</p>" +
     "<p class=\"phon\">be-to-DAH le-TALL TE-lers ha-me-ko-ri-YIM:</p>" +
@@ -655,8 +655,8 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">ben-le-VAY: GROK ha-TZUR — shlo-SHAH si-pu-RIM shke-TIM</p>",
 
   "hai.p2":
-    "<p dir=\"rtl\">הָאִי אִיקְתִּיס מָשַׁל בַּיַּעַר מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ.</p>" +
-    "<p class=\"phon\">ha-EE ik-TEES ma-SHAL ba-YA-ar me-ROSH ha-ETZ ha-ga-VO-ah.</p>" +
+    "<p dir=\"rtl\">הָאִי אִיקְתִּיס מָשַׁל בַּג'וּנְגֶל מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ.</p>" +
+    "<p class=\"phon\">ha-EE ik-TEES ma-SHAL ba-JUNG-el me-ROSH ha-ETZ ha-ga-VO-ah.</p>" +
     "<p dir=\"rtl\">הוּא הָיָה הָעֵץ הָרִאשׁוֹן בָּעֵמֶק.</p>" +
     "<p class=\"phon\">hu ha-YAH ha-ETZ ha-ri-SHON ba-E-mek.</p>" +
     "<p dir=\"rtl\">כְּשֶׁהָעֵמֶק הָיָה רֵיק, הוּא עָמַד לְבַדּוֹ.</p>" +
@@ -780,8 +780,8 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">ve-HU he-KHEYL le-takh-NEYN DE-rekh kta-NAH yo-TER.</p>",
 
   "hai.p11":
-    "<p dir=\"rtl\">הָאִי אִיקְתִּיס מָשַׁל בַּיַּעַר מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ.</p>" +
-    "<p class=\"phon\">ha-EE ik-TEES ma-SHAL ba-YA-ar me-ROSH ha-ETZ ha-ga-VO-ah.</p>" +
+    "<p dir=\"rtl\">הָאִי אִיקְתִּיס מָשַׁל בַּג'וּנְגֶל מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ.</p>" +
+    "<p class=\"phon\">ha-EE ik-TEES ma-SHAL ba-JUNG-el me-ROSH ha-ETZ ha-ga-VO-ah.</p>" +
     "<p dir=\"rtl\">אָז בְּבֹקֶר שָׁקֵט אֶחָד הוּא יָרַד לְמַטָּה.</p>" +
     "<p class=\"phon\">AZ be-BO-ker sha-KET e-KHAD hu ya-RAD le-ma-TAH.</p>" +
     "<p dir=\"rtl\">הוּא הִשְׁאִיר אֶת הַכֶּתֶר רֵיק מִפָּנָיו</p>" +
@@ -818,8 +818,8 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">&quot;ha-RAS-ti et ZEH,&quot; hu la-CHASH.</p>" +
     "<p dir=\"rtl\">\"אַתָּה תִּכְעַס. כֻּלָּם יִכְעֲסוּ.\"</p>" +
     "<p class=\"phon\">&quot;a-TAH tikh-AS. ku-LAM yikh-a-SU.&quot;</p><hr>" +
-    "<p dir=\"rtl\">כַּמָּה יְצוּרֵי יַעַר הִתְאַסְּפוּ.</p>" +
-    "<p class=\"phon\">ka-MAH ye-tzu-REY YA-ar hit-as-FU.</p>" +
+    "<p dir=\"rtl\">כַּמָּה אַנְשֵׁי הָעֵמֶק הַגָּבוֹהַּ הִתְאַסְּפוּ.</p>" +
+    "<p class=\"phon\">ka-MAH an-SHEY ha-E-mek ha-ga-VO-ah hit-as-FU.</p>" +
     "<p dir=\"rtl\">\"תְּגָרְשׁוּ אוֹתוֹ\", מִלְמֵל קוֹאָטִי.</p>" +
     "<p class=\"phon\">&quot;te-gar-SHU o-TO,&quot; mil-MEYL ko-a-TI.</p>" +
     "<p dir=\"rtl\">\"הוּא צָרִיךְ לְהָבִיא שְׁלוֹשָׁה מֵלוֹנִים חֲדָשִׁים\", אָמַר אָגוּטִי.</p>" +
@@ -904,8 +904,8 @@ window.I18N["he-phon"] = {
     "<p class=\"phon\">HEN nish-a-ROT cha-YOT mi-SHUM she-mach-zi-RIM o-TAN be-ad-NUT.</p>",
 
   "hai.p19":
-    "<p dir=\"rtl\">הָאִי אִיקְתִּיס מָשַׁל בַּיַּעַר מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ.</p>" +
-    "<p class=\"phon\">ha-EE ik-TEES ma-SHAL ba-YA-ar me-ROSH ha-ETZ ha-ga-VO-ah.</p>" +
+    "<p dir=\"rtl\">הָאִי אִיקְתִּיס מָשַׁל בַּג'וּנְגֶל מֵרֹאשׁ הָעֵץ הַגָּבוֹהַּ.</p>" +
+    "<p class=\"phon\">ha-EE ik-TEES ma-SHAL ba-JUNG-el me-ROSH ha-ETZ ha-ga-VO-ah.</p>" +
     "<p dir=\"rtl\">שְׁנָתַיִם חָלְפוּ.</p><p class=\"phon\">sh'na-TA-yim chal-FU.</p>" +
     "<p dir=\"rtl\">הוּא הָיָה שׁוּב בַּבַּיִת בַּכֶּתֶר.</p>" +
     "<p class=\"phon\">hu ha-YAH SHUV ba-BA-yit ba-KE-ter.</p>" +
@@ -1012,7 +1012,7 @@ window.I18N["he-phon"] = {
     "<p dir=\"rtl\">הֵם רָאוּ אֶת כָּל הָעֵמֶק בְּבַת אַחַת —</p>" +
     "<p class=\"phon\">hem ra-U et KOL ha-E-mek be-VAT a-CHAT —</p>" +
     "<p dir=\"rtl\">אֶת בְּרֵכַת הַיַּעַר, אֶת הַגִּנָּה הַיְּשָׁנָה,</p>" +
-    "<p class=\"phon\">et b'rey-KHAT ha-YA-ar, et ha-gi-NAH ha-ye-sha-NAH,</p>" +
+    "<p class=\"phon\">et b'rey-KHAT ha-JUN-gel, et ha-gi-NAH ha-ye-sha-NAH,</p>" +
     "<p dir=\"rtl\">אֶת הַמְּקוֹמוֹת שֶׁבָּהֶם הַשְּׁבָחִים הָיוּ חֲזָקִים</p>" +
     "<p class=\"phon\">et ha-me-ko-MOT she-ba-HEM ha-sh'va-CHIM ha-YU cha-za-KIM</p>" +
     "<p dir=\"rtl\">וְאֶת הַמְּקוֹמוֹת שֶׁבָּהֶם הַפַּחַד הָיָה קָטָן.</p>" +

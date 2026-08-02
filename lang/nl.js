@@ -475,7 +475,7 @@ window.I18N.nl = {
   "hai.p10.alt": "Hoofdstuk Twee, Herstellen — Kai loopt beneden. Een klein levend lopend zaadwezen met spruitkuif en vriendelijke ogen staat aan de voet van de grote hoge boom; de kleine gestalte is Hai Ikthiss in nederige zaadvorm.",
   "hai.p11.alt": "In een jungle-bosbodemtuin bij de wortels van de hoge boom glimlacht Hai Ikthiss in nederige Kai-vorm—een klein levend lopend zaad—tussen meloenranken.",
   "hai.p12.alt": "Pip het jonge gordeldier bevriest halverwege een stap van schrik als een grote meloen op de grond opensplijt; Kai (Hai Ikthiss als levend lopend zaad) staat klein en vast tussen de gemorste zaden.",
-  "hai.p13.alt": "Pip krult van schaamte terwijl Kai (kleine levende lopende zaadvorm van Hai Ikthiss) vriendelijk en stil staat; een coati en een agoeti onder het woudvolk zien er hard en oordelend uit.",
+  "hai.p13.alt": "Pip krult van schaamte terwijl Kai (kleine levende lopende zaadvorm van Hai Ikthiss) vriendelijk en stil staat; een coati en een agoeti onder het hooglandvolk zien er hard en oordelend uit.",
   "hai.p14.alt": "Kai (Hai Ikthiss als klein levend lopend zaad) knielt en biedt Pip met open vriendelijkheid een graafstok; Pip ontkrult langzaam als hoop terugkomt.",
   "hai.p15.alt": "Kai en Pip planten en wateren zij aan zij en bouwen een klein twijghek om nieuwe zaden, beiden zacht glimlachend.",
   "hai.p16.alt": "Pip water geeft bloeiende nieuwe meloenranken terwijl Kai met stille trots kijkt; de hoge boom staat vredig boven de jungletuin.",
@@ -487,7 +487,7 @@ window.I18N.nl = {
   "hai.p22.alt": "Hai Ikthiss stapt zacht uit stil hout en wordt een levende lopende hoge boom—lange vriendelijke ledematen, diepe wortelvoeten, een gezicht dat eindelijk te ontmoeten is.",
   "hai.p23.alt": "Hai Ikthiss buigt als een brug van hout en vriendelijkheid met één grote hand laag open; Pip stapt naar voren terwijl andere wezens half verborgen toekijken.",
   "hai.p24.alt": "Hai Ikthiss tilt willige vrienden—Pip, de uil, anderen, zelfs de ara—naar gedeelde reuzenhoogte, dezelfde gezichten, ogen nu op één niveau met verwondering.",
-  "hai.p25.alt": "Op een hoge rug in het gouden uur kijken Hai Ikthiss en zijn reuzenvrienden samen over het hele vredige beboste dal.",
+  "hai.p25.alt": "Op een hoge rug in het gouden uur kijken Hai Ikthiss en zijn reuzenvrienden samen over het hele vredige hooglanddal.",
   "hai.p26.alt": "Slotpagina: wijd bebost dal in vredige schemering met Hai Ikthiss als vriendelijke lopende hoge boom tussen zachte reuzenvrienden op een zachte heuvel, sterren beginnen te verschijnen.",
 
   "hai.site.title": "Hai Ikthiss - Drie Hoge Vertellingen",
@@ -518,7 +518,7 @@ window.I18N.nl = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>en elk stil zaad dat leerde lopen</em></p>",
 
-  "hai.p2": "<p>Hai Ikthiss regeerde het bos vanop de top van de hoge boom.</p>" +
+  "hai.p2": "<p>Hai Ikthiss regeerde de jungle vanop de top van de hoge boom.</p>" +
     "<p>Hij was de eerste boom in het dal.</p><p>Toen het dal leeg was, stond hij alleen.</p>" +
     "<p>De regen vond hem eerst.</p><p>Toen gras.</p><p>Toen vogels.</p>",
 
@@ -561,7 +561,7 @@ window.I18N.nl = {
     "<p>bleef Hai stil tot hij rustig werd.</p><p>Hij bleef gewoon Hai.</p>" +
     "<p>En hij begon een kleinere weg te plannen.</p>",
 
-  "hai.p11": "<p>Hai Ikthiss regeerde het bos vanop de top van de hoge boom.</p>" +
+  "hai.p11": "<p>Hai Ikthiss regeerde de jungle vanop de top van de hoge boom.</p>" +
     "<p>Toen daalde hij op een stille ochtend af.</p><p>Hij liet de kroon leeg van zijn gezicht</p>" +
     "<p>en liep de grond als een levend lopend zaad.</p><hr><p>De dieren vonden hem tussen de meloenen.</p>" +
     "<p>\"Wie ben jij?\" vroegen ze.</p><p>\"Jullie mogen me Kai noemen,\" zei hij,</p>" +
@@ -574,7 +574,7 @@ window.I18N.nl = {
 
   "hai.p13": "<p>Pip bevroor.</p><p>Zijn pantser trilde.</p>" +
     "<p>\"Ik heb het verpest,\" fluisterde hij.</p><p>\"Je zult boos zijn. Iedereen zal boos zijn.\"</p><hr>" +
-    "<p>Wat woudvolk kwam bijeen.</p><p>\"Stuur hem weg,\" mompelde een coati.</p>" +
+    "<p>Wat hooglandvolk kwam bijeen.</p><p>\"Stuur hem weg,\" mompelde een coati.</p>" +
     "<p>\"Hij moet drie nieuwe meloenen brengen,\" zei een agoeti.</p>",
 
   "hai.p14": "<p>Kai keek naar de gebroken rank.</p><p>Hij keek naar Pips bezorgde ogen.</p><hr>" +
@@ -600,7 +600,7 @@ window.I18N.nl = {
     "<p>niet leven door nooit te breken.</p>" +
     "<p>Ze leven door zacht weer samengevoegd te worden.</p>",
 
-  "hai.p19": "<p>Hai Ikthiss regeerde het bos vanop de top van de hoge boom.</p>" +
+  "hai.p19": "<p>Hai Ikthiss regeerde de jungle vanop de top van de hoge boom.</p>" +
     "<p>Twee jaar waren om.</p><p>Hij was weer thuis in de kroon.</p>" +
     "<p>Maar het dal had zijn lied veranderd.</p><hr><p>Wezens die ooit juichten</p>" +
     "<p>fluisterden nu bij de wortels.</p><p>\"Hij is te hoog,\" zeiden ze.</p>" +
@@ -635,7 +635,7 @@ window.I18N.nl = {
     "<p>hetzelfde gezicht, hetzelfde hart,</p><p>alleen de ogen nu op hoogte van de verre heuvels.</p>",
 
   "hai.p25": "<p>Vanuit de hoge stille lucht</p><p>zagen ze het hele dal tegelijk —</p>" +
-    "<p>de bosvijver, de oude tuin,</p><p>de plekken waar lof luid was geweest</p>" +
+    "<p>de junglevijver, de oude tuin,</p><p>de plekken waar lof luid was geweest</p>" +
     "<p>en de plekken waar angst klein was geweest.</p><hr><p>Hai voelde vrede.</p>" +
     "<p>Hij had het hoogste gejuich niet nodig.</p><p>Hij had alleen ware vrienden nodig</p>" +
     "<p>die zo ver konden zien als liefde ziet.</p><hr><p>Zolang iemand vrij was te zeggen</p>" +

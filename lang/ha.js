@@ -319,7 +319,7 @@ window.I18N.ha = {
   "hai.p10.alt": "Sashi Biyu, Gyara — Kai yana tafiya a ƙasa. Ƙaramin halitta-iri mai rai mai tafiya da guntun tsiro da idanu masu tausayi yana tsaye a ƙafar babban bishiyar doguwa; ƙaramin siffa ita ce Hai Ikthiss a siffar iri mai tawali'u.",
   "hai.p11.alt": "A cikin lambun daji na ganyaye da fern a saiwoyin bishiyar doguwa, Hai Ikthiss a siffar Kai mai tawali'u—ƙaramin iri mai rai mai tafiya—yana murmushi tsakanin itatuwan melon.",
   "hai.p12.alt": "Pip matashin armadillo ya daina a tsakiyar mataki cikin firgici sa'ad da babban melon ya tsage a ƙasa; Kai (Hai Ikthiss a matsayin iri mai rai mai tafiya) yana tsaye ƙanana da ƙarfi tsakanin iri da aka zubar.",
-  "hai.p13.alt": "Pip ya naɗe cikin kunya yayin da Kai (ƙaramin siffar iri mai rai mai tafiya ta Hai Ikthiss) ke tsaye mai tausayi da natsuwa; coati da agouti a cikin mutanen daji suna da ƙarfi da yanke hukunci.",
+  "hai.p13.alt": "Pip ya naɗe cikin kunya yayin da Kai (ƙaramin siffar iri mai rai mai tafiya ta Hai Ikthiss) ke tsaye mai tausayi da natsuwa; coati da agouti a cikin mutanen kwarin tudu suna da ƙarfi da yanke hukunci.",
   "hai.p14.alt": "Kai (Hai Ikthiss a matsayin ƙaramin iri mai rai mai tafiya) ya durƙusa kuma ya miƙa wa Pip sandar tono tare da tausayi a buɗe; Pip ya buɗe a hankali sa'ad da bege ya dawo.",
   "hai.p15.alt": "Kai da Pip suna shuka da shayarwa gefe da gefe kuma suna gina ƙaramin shinge na reshe a kusa da sabbin iri, duka biyu suna murmushi mai laushi.",
   "hai.p16.alt": "Pip yana shayar da sabbin itatuwan melon masu girma yayin da Kai ke kallo da girman kai mai natsuwa; bishiyar doguwa tana tsaye cikin salama a saman lambun daji.",
@@ -362,7 +362,7 @@ window.I18N.ha = {
     "<p><em><b>Ted Prior</b> \"Grug\"</em></p>" +
     "<p><em>da kowane iri mai natsuwa da ya koyi tafiya</em></p>",
 
-  "hai.p2": "<p>Hai Ikthiss yana mulkin daji daga saman bishiyar doguwa.</p>" +
+  "hai.p2": "<p>Hai Ikthiss yana mulkin daji mai gandun daji daga saman bishiyar doguwa.</p>" +
     "<p>Shi ne bishiya ta farko a kwarin.</p><p>Lokacin da kwarin ya kasance fanko, ya tsaya shi kaɗai.</p>" +
     "<p>Ruwan sama ya same shi na farko.</p><p>Sai ciyawa.</p><p>Sai tsuntsaye.</p>",
 
@@ -405,7 +405,7 @@ window.I18N.ha = {
     "<p>Hai ya tsaya a natsuwa har sai ya yi shiru.</p><p>Ya kasance Hai kawai.</p>" +
     "<p>Kuma ya fara tsara hanya mafi ƙanƙanta.</p>",
 
-  "hai.p11": "<p>Hai Ikthiss yana mulkin daji daga saman bishiyar doguwa.</p>" +
+  "hai.p11": "<p>Hai Ikthiss yana mulkin daji mai gandun daji daga saman bishiyar doguwa.</p>" +
     "<p>Sai wata safiya mai natsuwa ya sauko ƙasa.</p><p>Ya bar rawani babu fuskarsa</p>" +
     "<p>ya yi tafiya a ƙasa a matsayin iri mai rai mai tafiya.</p><hr><p>Dabbobi sun same shi tsakanin melon.</p>" +
     "<p>\"Wanene kai?\" suka tambaya.</p><p>\"Kuna iya kira ni Kai,\" ya ce,</p>" +
@@ -418,7 +418,7 @@ window.I18N.ha = {
 
   "hai.p13": "<p>Pip ya daina motsi.</p><p>Kwatansa ya yi rawar jiki.</p>" +
     "<p>\"Na ɓata shi,\" ya rada.</p><p>\"Za ka yi fushi. Kowa zai yi fushi.\"</p><hr>" +
-    "<p>Wasu mutanen daji sun taru.</p><p>\"Ku kore shi,\" coati ta yi gunaguni.</p>" +
+    "<p>Wasu mutanen kwarin tudu sun taru.</p><p>\"Ku kore shi,\" coati ta yi gunaguni.</p>" +
     "<p>\"Ya kamata ya kawo melon sababbi uku,\" agouti ya ce.</p>",
 
   "hai.p14": "<p>Kai ya duba itacen da ya karye.</p><p>Ya duba idanun Pip masu damuwa.</p><hr>" +
@@ -444,7 +444,7 @@ window.I18N.ha = {
     "<p>ba sa rayuwa ta hanyar rashin karyewa.</p>" +
     "<p>Suna rayuwa ta hanyar a sake haɗa su a hankali.</p>",
 
-  "hai.p19": "<p>Hai Ikthiss yana mulkin daji daga saman bishiyar doguwa.</p>" +
+  "hai.p19": "<p>Hai Ikthiss yana mulkin daji mai gandun daji daga saman bishiyar doguwa.</p>" +
     "<p>Shekaru biyu sun wuce.</p><p>Ya sake zama gida a cikin rawani.</p>" +
     "<p>Amma kwarin ya canza waƙarsa.</p><hr><p>Halittu da suka taɓa murna</p>" +
     "<p>yanzu suna rada a saiwoyi.</p><p>\"Ya yi tsayi sosai,\" suke cewa.</p>" +
