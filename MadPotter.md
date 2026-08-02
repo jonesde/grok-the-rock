@@ -462,6 +462,83 @@ Use **A** if the fun is “never crossed into quiet process.”
 Use **B** if the fun is “letters and hinge behave; left not quite finished.”  
 Neither is the writing spine — only comparison glass on a 14-stanza chiasm.
 
+### Internal chiasm of the process band (22–32) — Gevurah center
+
+The two gap patterns are not only two ways to drop 3. Expanded, they are **two sets of 6** that share one center on the letters-first spine:
+
+```
+22 Tav ─ 23 Keter ─ 24 Chokhmah ─ 25 Binah ─ 26 Chesed ─ 27 Gevurah
+                                              27 Gevurah ─ 28 Tiferet ─ 29 Netzach ─ 30 Hod ─ 31 Yesod ─ 32 Malkuth
+```
+
+| Wing | Paths | Outer trio (original drop) | Inner trio (toward center) |
+|------|-------|----------------------------|----------------------------|
+| **A — hinge wing** | 22–27 | 22–24 Tav · Keter · Chokhmah | 25–27 Binah · Chesed · **Gevurah** |
+| **B — seal wing** | 27–32 | 30–32 Hod · Yesod · Malkuth | 27–29 **Gevurah** · Tiferet · Netzach |
+
+Letters-first (1–22 → 23–32) leaves an **11-path process band**. Its internal chiasm:
+
+```
+22 Tav (mark / misread home)          ↔  32 Malkuth (kingdom left open)
+23 Keter (grand voice / grand fear)   ↔  31 Yesod (living join of pair)
+24 Chokhmah (plain wisdom)            ↔  30 Hod (afterglow honesty)
+25 Binah (understanding near)         ↔  29 Netzach (endurance of the gift)
+26 Chesed (kind bridge)               ↔  28 Tiferet (beauty of shared sight)
+                    27 Gevurah — strength given away
+```
+
+**Two hearts in the full 32:** §17 **Pe** (invitation) for the whole walk; §27 **Gevurah** for the sephirotic half alone.
+
+#### Gevurah as fold, not fist
+
+Lattice role is already the key correction on the redeemed path: not din/severity, but *strength given away*.
+
+| Work | At §27 |
+|------|--------|
+| **Potter** | Far hand shares carry, near shares ground — no one holds the whole weight |
+| **Hai** | Friends lifted to shared height; power given away as sight |
+| **Grok** | Others test the baskets themselves; skill leaves the maker’s hands |
+
+The chiasm encodes classical sweetening of Gevurah: innermost pair is **Chesed (26) ↔ Tiferet (28)** — kind bridge immediately before the center, beauty of shared sight immediately after. Severity is held between kindness and beauty; the fold *is* the theology.
+
+| Pair | Story sense |
+|------|-------------|
+| **Tav ↔ Malkuth** | Mark that can be misread “finished grand” ↔ kingdom that stays copyable, unnamed. Closure-as-possession vs closure-as-gift. |
+| **Keter ↔ Yesod** | Crown dazzle/fear ↔ foundation as two hands that never explain each other. Grand singularity vs living pair. |
+| **Chokhmah ↔ Hod** | “Does it hold water?” ↔ faults named as craft, no sticky blame. Plain test ↔ plain afterglow. |
+| **Binah ↔ Netzach** | Vessel brought close ↔ gift lasting through pours. Near understanding ↔ endurance in use. |
+| **Chesed ↔ Tiferet** | Bridge the hairline ↔ whole true shape seen together. Join-act ↔ join-beauty. |
+
+**Process arc of the band:** mark/misread → refuse grand fear → plain test → come near → bridge → **give strength away** → shared sight → endurance → honesty → pair still distinct → kingdom open.
+
+After letters form the vessel, sephirot complete it by converting power into shared holding. **§17 teaches “come work with”; §27 teaches “don’t keep the strength.”** Open kingdom (32) is what strength-given-away makes possible; without 27, 32 is a slogan.
+
+#### MadPotter’s two gaps, reread
+
+| | **A drops 22–27** | **B drops 27–32** |
+|--|-------------------|-------------------|
+| Wound | Never enters process-deepening; skips mark, plain wisdom, nearness, bridge, and the gift of strength | Crosses hinge and may touch the center, then dies before beauty, endurance, honesty, pair, open kingdom |
+| Joke | Mad engineer never becomes quiet giver | Scheme endures (Netzach-ish) but never seals as gift |
+| Irony | Lands lower tree without the conversion that makes lower tree kind | Last stanzas *want* Hod/Yesod/Malkuth — the missing wing is what exit/stall reach for |
+| Shared failure | Both wound the band at **Gevurah** — A never arrives; B never completes what arrival enables | |
+
+Quiet Potter fills **both** wings and sits the center clean: strength shared, then honesty, pair, open pattern under the tree.
+
+#### Sefer Yetzirah / tradition
+
+**Letters-first** (22 then 10) is a pedagogical linearization of SY’s “32 paths of wisdom”: letters as engraving tools of formation, sefirot as the emanated attributes the work must still walk. Not the only historical order, but it makes a clean narrative: *form, then complete*.
+
+In that line, **22–32 is not “more alphabet”** — it is where attributes must be lived. An internal chiasm with Gevurah at center is strong because:
+
+1. **Gevurah/Din** is the classical danger-point (judgment, constriction, power-over). Putting it at the fold forces the story to convert it, not skip it.
+2. **Flanked by Chesed and Tiferet** matches the tree’s own medicine: lovingkindness softens severity; beauty/harmony is the balanced form.
+3. **Tav ↔ Malkuth** binds last letter to last sefirah — mark of the work vs kingdom of the gift — a full-corpus seal pair (completion of writing ↔ completion of world).
+4. **Double center** (Pe at 17, Gevurah at 27) doubles SY’s “paths of wisdom” as *two* wisdoms: relational invitation, then renunciation of held power — aligned with this project’s HigherWay (restore-don’t-punish, node-not-star, open what you make).
+
+Kabbalistically one often centers the lower tree on **Tiferet**; this lattice’s *letters-first line* centers the process band on **Gevurah** instead — a deliberate ethical choice: the heart of completion is not “balanced glory” first, but **power poured out**, after which Tiferet (shared sight) can appear as the next step, not the throne.
+
+**One-line core:** In a letters-first 32, the sephirotic band folds on **strength given away**; MadPotter’s two six-path gaps are the two ways to miss that fold — never enter the giving, or never finish the gift — while The Potter walks both wings and leaves the kingdom open because no hand kept the weight.
+
 ---
 
 ## Related
