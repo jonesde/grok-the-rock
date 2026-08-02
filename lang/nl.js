@@ -465,28 +465,28 @@ window.I18N.nl = {
   "hai.dedication.alt": "Opdrachtpagina: drie piepkleine groene spruiten naast één heldere waterdruppel op een bijna lege warme crème pagina; optioneel piepklein zacht silhouet van Hai Ikthiss de hoge boom ver in koele mist.",
   "hai.p1.alt": "Hoofdstuk Een, Zijn — Hai en de lege lof. Hai Ikthiss als wijde levende hoge boom met vriendelijk gezicht vult het bovenste deel terwijl kleine dalwezens helder lovend omhoogkijken.",
   "hai.p2.alt": "Dageraad over een jong bebost dal: Hai Ikthiss staat als enige levende hoge boom met zacht gezicht, wortels drinken een heldere nieuwe bron, eerste gras en één klein vogeltje komen.",
-  "hai.p3.alt": "Een trotse hert met hoge geweien juicht bij de wortels van de hoge Hai Ikthiss terwijl andere wezens meeloven; niemand kijkt omhoog in de ogen van de boom.",
-  "hai.p4.alt": "Een stevige das buigt naar de grote stam van Hai Ikthiss, prijst de sterkste wortel, terwijl wezens schaduw en hoogte danken zonder zijn gezicht te zien.",
-  "hai.p5.alt": "Een heldere raaf roept grote lof vanaf een tak terwijl de bovenstam van Hai Ikthiss een zachte holle gloed toont, als een lege beker die water nodig heeft.",
+  "hai.p3.alt": "Een trotse brulaap juicht bij de wortels van de hoge Hai Ikthiss terwijl andere wezens meeloven; niemand kijkt omhoog in de ogen van de boom.",
+  "hai.p4.alt": "Een stevige tapir buigt naar de grote stam van Hai Ikthiss, prijst de sterkste wortel, terwijl wezens schaduw en hoogte danken zonder zijn gezicht te zien.",
+  "hai.p5.alt": "Een heldere toekan roept grote lof vanaf een tak terwijl de bovenstam van Hai Ikthiss een zachte holle gloed toont, als een lege beker die water nodig heeft.",
   "hai.p6.alt": "Hai Ikthiss staat stil en vriendelijk, één lange wortel of lage tak reikt zacht naar de grondbron, luistert in plaats van alleen lof te ontvangen.",
   "hai.p7.alt": "'s Nachts onder een diepe sterrenhemel houdt de kroon van Hai Ikthiss de sterren terwijl een zachte holte in de bovenstam langzaam warmt en gloeit.",
   "hai.p8.alt": "Ochtendgoud verlicht Hai Ikthiss' zachte gezicht terwijl hij zijn stam afkijkt naar de wortels, helderder van binnen terwijl het dal beneden nog juicht.",
   "hai.p9.alt": "Hai Ikthiss stuurt zachte waterstromen en vriendelijk licht omlaag naar piepkleine varens en kleine dieren bij de wortels, glimlachend een eenvoudige boomglimlach van tevredenheid.",
   "hai.p10.alt": "Hoofdstuk Twee, Herstellen — Kai loopt beneden. Een klein levend lopend zaadwezen met spruitkuif en vriendelijke ogen staat aan de voet van de grote hoge boom; de kleine gestalte is Hai Ikthiss in nederige zaadvorm.",
-  "hai.p11.alt": "In een Engelse mos-en-varentuin bij de wortels van de hoge boom glimlacht Hai Ikthiss in nederige Kai-vorm—een klein levend lopend zaad—tussen meloenranken.",
-  "hai.p12.alt": "Pip de jonge egel bevriest halverwege een stap van schrik als een grote meloen op de grond opensplijt; Kai (Hai Ikthiss als levend lopend zaad) staat klein en vast tussen de gemorste zaden.",
-  "hai.p13.alt": "Pip krult van schaamte terwijl Kai (kleine levende lopende zaadvorm van Hai Ikthiss) vriendelijk en stil staat; een vos en een hermelijn onder het woudvolk zien er hard en oordelend uit.",
+  "hai.p11.alt": "In een jungle-bosbodemtuin bij de wortels van de hoge boom glimlacht Hai Ikthiss in nederige Kai-vorm—een klein levend lopend zaad—tussen meloenranken.",
+  "hai.p12.alt": "Pip het jonge gordeldier bevriest halverwege een stap van schrik als een grote meloen op de grond opensplijt; Kai (Hai Ikthiss als levend lopend zaad) staat klein en vast tussen de gemorste zaden.",
+  "hai.p13.alt": "Pip krult van schaamte terwijl Kai (kleine levende lopende zaadvorm van Hai Ikthiss) vriendelijk en stil staat; een coati en een agoeti onder het woudvolk zien er hard en oordelend uit.",
   "hai.p14.alt": "Kai (Hai Ikthiss als klein levend lopend zaad) knielt en biedt Pip met open vriendelijkheid een graafstok; Pip ontkrult langzaam als hoop terugkomt.",
   "hai.p15.alt": "Kai en Pip planten en wateren zij aan zij en bouwen een klein twijghek om nieuwe zaden, beiden zacht glimlachend.",
-  "hai.p16.alt": "Pip water geeft bloeiende nieuwe meloenranken terwijl Kai met stille trots kijkt; de hoge boom staat vredig boven de Engelse tuin.",
+  "hai.p16.alt": "Pip water geeft bloeiende nieuwe meloenranken terwijl Kai met stille trots kijkt; de hoge boom staat vredig boven de jungletuin.",
   "hai.p17.alt": "In het gouden uur zitten Kai en Pip bij bloeiende meloenen met nog een klein wezen erbij, een vredig herstelde tuingemeenschap.",
   "hai.p18.alt": "Hoofdstuk Drie, Zien — Hai en de verre blik. Een vriendelijke lopende hoge boom biedt beide handen omlaag om te tillen; kleine wezens kijken vol verwondering omhoog.",
   "hai.p19.alt": "Twee jaar later is Hai Ikthiss in het gouden uur weer thuis in de kroon, maar wezens fluisteren angstig bij de wortels in plaats van te juichen.",
-  "hai.p20.alt": "Een glanzende fazant met lange spectaculaire staart zit op middelhoogte en waarschuwt anderen laag te blijven terwijl Hai Ikthiss hoog boven vriendelijk en stil blijft.",
+  "hai.p20.alt": "Een glanzende rode ara met lange spectaculaire staart zit op middelhoogte en waarschuwt anderen laag te blijven terwijl Hai Ikthiss hoog boven vriendelijk en stil blijft.",
   "hai.p21.alt": "Een zeer oude eenvoudige uil spreekt zacht over de vriendelijke Kai, terwijl Hai Ikthiss de hele stam af luistert met open aandacht.",
   "hai.p22.alt": "Hai Ikthiss stapt zacht uit stil hout en wordt een levende lopende hoge boom—lange vriendelijke ledematen, diepe wortelvoeten, een gezicht dat eindelijk te ontmoeten is.",
   "hai.p23.alt": "Hai Ikthiss buigt als een brug van hout en vriendelijkheid met één grote hand laag open; Pip stapt naar voren terwijl andere wezens half verborgen toekijken.",
-  "hai.p24.alt": "Hai Ikthiss tilt willige vrienden—Pip, de uil, anderen, zelfs de fazant—naar gedeelde reuzenhoogte, dezelfde gezichten, ogen nu op één niveau met verwondering.",
+  "hai.p24.alt": "Hai Ikthiss tilt willige vrienden—Pip, de uil, anderen, zelfs de ara—naar gedeelde reuzenhoogte, dezelfde gezichten, ogen nu op één niveau met verwondering.",
   "hai.p25.alt": "Op een hoge rug in het gouden uur kijken Hai Ikthiss en zijn reuzenvrienden samen over het hele vredige beboste dal.",
   "hai.p26.alt": "Slotpagina: wijd bebost dal in vredige schemering met Hai Ikthiss als vriendelijke lopende hoge boom tussen zachte reuzenvrienden op een zachte heuvel, sterren beginnen te verschijnen.",
 
@@ -522,16 +522,16 @@ window.I18N.nl = {
     "<p>Hij was de eerste boom in het dal.</p><p>Toen het dal leeg was, stond hij alleen.</p>" +
     "<p>De regen vond hem eerst.</p><p>Toen gras.</p><p>Toen vogels.</p>",
 
-  "hai.p3": "<p>Snel vulde het dal zich met leven.</p><p>Een hert hief zijn gewei en riep,</p>" +
+  "hai.p3": "<p>Snel vulde het dal zich met leven.</p><p>Een brulaap hief zijn roep en riep,</p>" +
     "<p>\"Lord Ikthiss is de hoogste!</p><p>We hebben geluk dat hij voor ons staat!\"</p><hr>" +
     "<p>Iedereen juichte.</p><p>Niemand keek omhoog in zijn ogen.</p>",
 
-  "hai.p4": "<p>Een das kwam aanstappen, stevig en sterk.</p>" +
+  "hai.p4": "<p>Een tapir kwam aanstappen, stevig en sterk.</p>" +
     "<p>\"Lord Ikthiss is de sterkste wortel!\"</p><p>zei hij. \"Iedereen dank de boom!\"</p><hr>" +
     "<p>Ze dankten de schaduw.</p><p>Ze dankten de hoogte.</p>" +
     "<p>Ze dankten niet het hart in het hout.</p>",
 
-  "hai.p5": "<p>Een raaf riep vanaf een tak.</p><p>\"Kijk hoe groots onze Lord Ikthiss is!</p>" +
+  "hai.p5": "<p>Een toekan riep vanaf een tak.</p><p>\"Kijk hoe groots onze Lord Ikthiss is!</p>" +
     "<p>Zo hoog! Zo gevend!\"</p><hr><p>De lof groeide luid als regen.</p>" +
     "<p>Maar Hai voelde een holle plek</p><p>hoog in zijn midden,</p>" +
     "<p>als een beker die niemand had gevuld.</p>",
@@ -567,15 +567,15 @@ window.I18N.nl = {
     "<p>\"Wie ben jij?\" vroegen ze.</p><p>\"Jullie mogen me Kai noemen,\" zei hij,</p>" +
     "<p>en glimlachte een geduldig zaadglimlach.</p>",
 
-  "hai.p12": "<p>Die middag snelde zijn vriend, een jonge egel genaamd Pip,</p>" +
+  "hai.p12": "<p>Die middag snelde zijn vriend, een jong gordeldier genaamd Pip,</p>" +
     "<p>door de tuin kijkend achterom</p>" +
     "<p>en stootte de beste meloenrank om.</p>" +
     "<p>De grote meloen spleet open op de grond.</p><p>Zaden en zoet sap morsden overal.</p>",
 
-  "hai.p13": "<p>Pip bevroor.</p><p>Zijn stekels trilden.</p>" +
+  "hai.p13": "<p>Pip bevroor.</p><p>Zijn pantser trilde.</p>" +
     "<p>\"Ik heb het verpest,\" fluisterde hij.</p><p>\"Je zult boos zijn. Iedereen zal boos zijn.\"</p><hr>" +
-    "<p>Wat woudvolk kwam bijeen.</p><p>\"Stuur hem weg,\" mompelde een vos.</p>" +
-    "<p>\"Hij moet drie nieuwe meloenen brengen,\" zei een hermelijn.</p>",
+    "<p>Wat woudvolk kwam bijeen.</p><p>\"Stuur hem weg,\" mompelde een coati.</p>" +
+    "<p>\"Hij moet drie nieuwe meloenen brengen,\" zei een agoeti.</p>",
 
   "hai.p14": "<p>Kai keek naar de gebroken rank.</p><p>Hij keek naar Pips bezorgde ogen.</p><hr>" +
     "<p>Hij verhief zijn stem niet.</p><p>Hij wees niet met de vinger.</p><p>Hij pakte een graafstok</p>" +
@@ -606,10 +606,10 @@ window.I18N.nl = {
     "<p>fluisterden nu bij de wortels.</p><p>\"Hij is te hoog,\" zeiden ze.</p>" +
     "<p>\"Wat als de hoge te veel wil?\"</p>",
 
-  "hai.p20": "<p>Een glanzende fazant met grootse staartveren landde dichtbij.</p>" +
-    "<p>\"Blijf laag,\" zei de fazant.</p>" +
+  "hai.p20": "<p>Een glanzende rode ara met grootse staartveren landde dichtbij.</p>" +
+    "<p>\"Blijf laag,\" zei de ara.</p>" +
     "<p>\"Hoge dingen vallen. Grootse veren weten het best.\"</p><hr>" +
-    "<p>Sommige jonge dieren knikten hard.</p><p>Ze knikten altijd als de fazant sprak.</p>" +
+    "<p>Sommige jonge dieren knikten hard.</p><p>Ze knikten altijd als de ara sprak.</p>" +
     "<p>Zijn angst klonk zo groots als zijn veren.</p>",
 
   "hai.p21": "<p>Later sprak een zeer oude uil met trage zachte stem.</p>" +
@@ -619,7 +619,7 @@ window.I18N.nl = {
     "<p>Hai luisterde de hele stam af.</p>",
 
   "hai.p22": "<p>Hai Ikthiss schreeuwde hen niet stil.</p>" +
-    "<p>Hij schudde de fazant niet van de tak.</p><p>Hij stapte uit stil hout</p>" +
+    "<p>Hij schudde de ara niet van de tak.</p><p>Hij stapte uit stil hout</p>" +
     "<p>en werd een lopende hoge boom —</p><p>lange vriendelijke ledematen, diepe wortelvoeten,</p>" +
     "<p>een gezicht dat ze eindelijk konden ontmoeten.</p><hr><p>Niet om te torenen.</p><p>Om dichterbij te komen.</p>",
 
@@ -630,7 +630,7 @@ window.I18N.nl = {
 
   "hai.p24": "<p>Hij tilde Pip eerst —</p><p>niet om macht te tonen,</p><p>maar om het uitzicht te delen.</p>" +
     "<p>Toen tilde hij de uil.</p><p>Toen wie hem had gevreesd.</p>" +
-    "<p>Zelfs de fazant, toen de fazant klaar was.</p><hr>" +
+    "<p>Zelfs de ara, toen de ara klaar was.</p><hr>" +
     "<p>Elke vriend steeg tot Hai's hoogte</p><p>en werd een reus met hem —</p>" +
     "<p>hetzelfde gezicht, hetzelfde hart,</p><p>alleen de ogen nu op hoogte van de verre heuvels.</p>",
 

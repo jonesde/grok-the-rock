@@ -453,28 +453,28 @@ window.I18N.fr = {
   "hai.dedication.alt": "Page de dédicace : trois minuscules pousses vertes près d'une seule goutte d'eau claire sur une page presque blanche crème chaude ; silhouette minuscule et douce optionnelle de Hai Ikthiss le grand arbre loin dans la brume fraîche.",
   "hai.p1.alt": "Chapitre Un, Être — Hai et la louange vide. Hai Ikthiss en vaste grand arbre vivant au visage bienveillant remplit le haut de la page tandis que de petites créatures de la vallée lèvent les yeux en louange lumineuse.",
   "hai.p2.alt": "Aube sur une jeune vallée boisée : Hai Ikthiss se dresse comme un seul grand arbre vivant au visage doux, racines buvant une source neuve et claire, premières herbes et un petit oiseau arrivant.",
-  "hai.p3.alt": "Un cerf fier aux hauts bois acclame aux racines du grand Hai Ikthiss tandis que d'autres créatures joignent la louange ; personne ne regarde ses yeux en haut.",
-  "hai.p4.alt": "Un blaireau robuste s'incline vers le grand tronc de Hai Ikthiss, louant la racine la plus forte, tandis que les créatures remercient l'ombre et la hauteur sans voir son visage.",
-  "hai.p5.alt": "Un corbeau vif lance une grande louange depuis une branche tandis que le tronc haut de Hai Ikthiss montre une douce lueur creuse, comme une coupe vide qui a besoin d'eau.",
+  "hai.p3.alt": "Un singe hurleur fier acclame aux racines du grand Hai Ikthiss tandis que d'autres créatures joignent la louange ; personne ne regarde ses yeux en haut.",
+  "hai.p4.alt": "Un tapir robuste s'incline vers le grand tronc de Hai Ikthiss, louant la racine la plus forte, tandis que les créatures remercient l'ombre et la hauteur sans voir son visage.",
+  "hai.p5.alt": "Un toucan vif lance une grande louange depuis une branche tandis que le tronc haut de Hai Ikthiss montre une douce lueur creuse, comme une coupe vide qui a besoin d'eau.",
   "hai.p6.alt": "Hai Ikthiss reste immobile et bienveillant, une longue racine ou branche basse s'étend doucement vers la source du sol, écoutant plutôt que de seulement recevoir des louanges.",
   "hai.p7.alt": "La nuit sous un ciel étoilé profond, la canopée de Hai Ikthiss tient les étoiles tandis qu'un creux doux dans le tronc haut se réchauffe et luit lentement.",
   "hai.p8.alt": "L'or du matin éclaire le visage doux de Hai Ikthiss tandis qu'il regarde le long de son tronc vers les racines, plus clair à l'intérieur alors que la vallée acclame encore en bas.",
   "hai.p9.alt": "Hai Ikthiss envoie de doux filets d'eau et de lumière douce vers de minuscules fougères et de petits animaux aux racines, souriant d'un simple sourire d'arbre de contentement.",
-  "hai.p10.alt": "Chapitre Deux, Réparer — Kai marche en bas. Une petite créature-graine vivante qui marche, touffe de pousse et yeux bienveillants, se tient au pied du grand arbre ; la petite figure est Hai Ikthiss en humble forme de graine.",
-  "hai.p11.alt": "Dans un jardin anglais de mousse et de fougères aux racines du grand arbre, Hai Ikthiss en humble forme Kai—une petite graine vivante qui marche—sourit parmi les vignes de melon.",
-  "hai.p12.alt": "Pip le jeune hérisson se fige en plein pas d'horreur quand un gros melon s'ouvre au sol ; Kai (Hai Ikthiss en graine vivante qui marche) reste petit et ferme parmi les graines répandues.",
-  "hai.p13.alt": "Pip se pelotonne de honte tandis que Kai (petite forme de graine vivante qui marche de Hai Ikthiss) reste bienveillant et immobile ; un renard et une hermine parmi le peuple du bois ont l'air durs et jugeants.",
+  "hai.p10.alt": "Chapitre Deux, Réparer — Kai marche en bas. Une petite créature-gousse de fromager vivante qui marche, touffe de kapok et yeux bienveillants, se tient au pied du grand arbre ; la petite figure est Hai Ikthiss en humble forme de graine.",
+  "hai.p11.alt": "Dans un jardin de sous-bois tropical aux racines du grand arbre, Hai Ikthiss en humble forme Kai—une petite graine vivante qui marche—sourit parmi les vignes de melon.",
+  "hai.p12.alt": "Pip le jeune tatou se fige en plein pas d'horreur quand un gros melon s'ouvre au sol ; Kai (Hai Ikthiss en graine vivante qui marche) reste petit et ferme parmi les graines répandues.",
+  "hai.p13.alt": "Pip se pelotonne de honte tandis que Kai (petite forme de graine vivante qui marche de Hai Ikthiss) reste bienveillant et immobile ; un coati et un agouti parmi le peuple du bois ont l'air durs et jugeants.",
   "hai.p14.alt": "Kai (Hai Ikthiss en petite graine vivante qui marche) s'agenouille et offre à Pip un bâton pour creuser avec une bonté ouverte ; Pip se déroule lentement quand l'espoir revient.",
   "hai.p15.alt": "Kai et Pip plantent et arrosent côte à côte et construisent une petite clôture de brindilles autour de nouvelles graines, tous deux souriant doucement.",
-  "hai.p16.alt": "Pip arrose de nouvelles vignes de melon prospères tandis que Kai regarde avec une fierté tranquille ; le grand arbre se dresse en paix au-dessus du jardin anglais.",
+  "hai.p16.alt": "Pip arrose de nouvelles vignes de melon prospères tandis que Kai regarde avec une fierté tranquille ; le grand arbre se dresse en paix au-dessus du jardin de la jungle.",
   "hai.p17.alt": "À l'heure dorée Kai et Pip s'assoient près de melons prospères avec une autre petite créature incluse, une communauté de jardin réparée en paix.",
   "hai.p18.alt": "Chapitre Trois, Voir — Hai et le regard lointain. Un bienveillant grand arbre qui marche tend les deux mains vers le bas pour lever ; de petites créatures lèvent les yeux avec émerveillement.",
   "hai.p19.alt": "Deux ans plus tard Hai Ikthiss est de nouveau chez lui dans la cime à l'heure dorée, mais les créatures chuchotent avec peur aux racines au lieu d'acclamer.",
-  "hai.p20.alt": "Un faisan lustré à la longue queue spectaculaire se perche à mi-hauteur et avertit les autres de rester bas tandis que Hai Ikthiss haut au-dessus reste bienveillant et immobile.",
+  "hai.p20.alt": "Un ara rouge lustré à la longue queue spectaculaire se perche à mi-hauteur et avertit les autres de rester bas tandis que Hai Ikthiss haut au-dessus reste bienveillant et immobile.",
   "hai.p21.alt": "Un très vieux hibou simple parle doucement de se souvenir du bienveillant Kai, tandis que Hai Ikthiss écoute tout le long de son tronc avec une attention ouverte.",
   "hai.p22.alt": "Hai Ikthiss sort doucement du bois immobile et devient un grand arbre vivant qui marche—longs membres bienveillants, pieds-racines profonds, un visage que l'on peut enfin rencontrer.",
   "hai.p23.alt": "Hai Ikthiss se penche comme un pont de bois et de bonté avec une grande main ouverte bas ; Pip s'avance tandis que d'autres créatures se cachent à moitié et regardent.",
-  "hai.p24.alt": "Hai Ikthiss lève des amis volontaires—Pip, le hibou, d'autres, même le faisan—à une hauteur de géant partagée, mêmes visages, yeux maintenant au même niveau avec émerveillement.",
+  "hai.p24.alt": "Hai Ikthiss lève des amis volontaires—Pip, le hibou, d'autres, même l'ara—à une hauteur de géant partagée, mêmes visages, yeux maintenant au même niveau avec émerveillement.",
   "hai.p25.alt": "Sur une haute crête à l'heure dorée, Hai Ikthiss et ses amis géants regardent ensemble toute la vallée boisée paisible.",
   "hai.p26.alt": "Page de clôture : large vallée boisée au crépuscule paisible avec Hai Ikthiss en bienveillant grand arbre qui marche parmi de doux amis géants sur une colline douce, des étoiles commençant à paraître.",
 
@@ -510,16 +510,16 @@ window.I18N.fr = {
     "<p>Il était le premier arbre de la vallée.</p><p>Quand la vallée était vide, il se tenait seul.</p>" +
     "<p>La pluie le trouva d'abord.</p><p>Puis l'herbe.</p><p>Puis les oiseaux.</p>",
 
-  "hai.p3": "<p>Bientôt la vallée se remplit de vie.</p><p>Un cerf leva ses bois et appela :</p>" +
+  "hai.p3": "<p>Bientôt la vallée se remplit de vie.</p><p>Un singe hurleur leva son cri et appela :</p>" +
     "<p>« Seigneur Ikthiss est le plus haut !</p><p>Nous avons de la chance qu'il se tienne pour nous ! »</p><hr>" +
     "<p>Tout le monde acclama.</p><p>Personne ne regarda ses yeux en haut.</p>",
 
-  "hai.p4": "<p>Un blaireau s'approcha d'un pas lourd, solide et fort.</p>" +
+  "hai.p4": "<p>Un tapir s'approcha d'un pas lourd, solide et fort.</p>" +
     "<p>« Seigneur Ikthiss est la racine la plus forte ! »</p><p>dit-il. « Tout le monde, remerciez l'arbre ! »</p><hr>" +
     "<p>Ils remercièrent l'ombre.</p><p>Ils remercièrent la hauteur.</p>" +
     "<p>Ils ne remercièrent pas le cœur dans le bois.</p>",
 
-  "hai.p5": "<p>Un corbeau appela depuis une branche.</p><p>« Voyez comme notre Seigneur Ikthiss est grand !</p>" +
+  "hai.p5": "<p>Un toucan appela depuis une branche.</p><p>« Voyez comme notre Seigneur Ikthiss est grand !</p>" +
     "<p>Si haut ! Si généreux ! »</p><hr><p>La louange grandit forte comme la pluie.</p>" +
     "<p>Mais Hai sentit un lieu creux</p><p>haut en son milieu,</p>" +
     "<p>comme une coupe que personne n'avait remplie.</p>",
@@ -555,15 +555,15 @@ window.I18N.fr = {
     "<p>« Qui es-tu ? » demandèrent-ils.</p><p>« Vous pouvez m'appeler Kai, » dit-il,</p>" +
     "<p>et sourit d'un patient sourire de graine.</p>",
 
-  "hai.p12": "<p>Cet après-midi son ami, un jeune hérisson nommé Pip,</p>" +
+  "hai.p12": "<p>Cet après-midi son ami, un jeune tatou nommé Pip,</p>" +
     "<p>se précipita dans le jardin en regardant derrière lui</p>" +
     "<p>et renversa la meilleure vigne de melon.</p>" +
     "<p>Le gros melon s'ouvrit au sol.</p><p>Graines et jus sucré se répandirent partout.</p>",
 
-  "hai.p13": "<p>Pip se figea.</p><p>Ses piquants tremblèrent.</p>" +
+  "hai.p13": "<p>Pip se figea.</p><p>Sa carapace trembla.</p>" +
     "<p>« Je l'ai gâché, » chuchota-t-il.</p><p>« Tu vas être en colère. Tout le monde sera en colère. »</p><hr>" +
-    "<p>Quelques habitants du bois se rassemblèrent.</p><p>« Qu'il s'en aille, » murmura un renard.</p>" +
-    "<p>« Il devrait apporter trois nouveaux melons, » dit une hermine.</p>",
+    "<p>Quelques habitants du bois se rassemblèrent.</p><p>« Qu'il s'en aille, » murmura un coati.</p>" +
+    "<p>« Il devrait apporter trois nouveaux melons, » dit un agouti.</p>",
 
   "hai.p14": "<p>Kai regarda la vigne brisée.</p><p>Il regarda les yeux inquiets de Pip.</p><hr>" +
     "<p>Il n'éleva pas la voix.</p><p>Il ne montra pas du doigt.</p><p>Il prit un bâton pour creuser</p>" +
@@ -594,10 +594,10 @@ window.I18N.fr = {
     "<p>chuchotaient maintenant aux racines.</p><p>« Il est trop haut, » disaient-elles.</p>" +
     "<p>« Et si le grand veut trop ? »</p>",
 
-  "hai.p20": "<p>Un faisan lustré aux grandioses plumes de queue atterrit près d'eux.</p>" +
-    "<p>« Restez bas, » dit le faisan.</p>" +
+  "hai.p20": "<p>Un ara rouge lustré aux grandioses plumes de queue atterrit près d'eux.</p>" +
+    "<p>« Restez bas, » dit l'ara.</p>" +
     "<p>« Les choses hautes tombent. Les plumes grandioses savent le mieux. »</p><hr>" +
-    "<p>Quelques jeunes animaux hochèrent fort la tête.</p><p>Ils hochaient toujours quand le faisan parlait.</p>" +
+    "<p>Quelques jeunes animaux hochèrent fort la tête.</p><p>Ils hochaient toujours quand l'ara parlait.</p>" +
     "<p>Sa peur sonnait aussi grandiose que ses plumes.</p>",
 
   "hai.p21": "<p>Plus tard un très vieux hibou parla d'une voix lente et douce.</p>" +
@@ -607,7 +607,7 @@ window.I18N.fr = {
     "<p>Hai écouta tout le long de son tronc.</p>",
 
   "hai.p22": "<p>Hai Ikthiss ne leur cria pas de se taire.</p>" +
-    "<p>Il ne secoua pas le faisan de la branche.</p><p>Il sortit du bois immobile</p>" +
+    "<p>Il ne secoua pas l'ara de la branche.</p><p>Il sortit du bois immobile</p>" +
     "<p>et devint un grand arbre qui marche —</p><p>longs membres bienveillants, pieds-racines profonds,</p>" +
     "<p>un visage qu'ils pouvaient enfin rencontrer.</p><hr><p>Pas pour dominer.</p><p>Pour s'approcher.</p>",
 
@@ -618,7 +618,7 @@ window.I18N.fr = {
 
   "hai.p24": "<p>Il leva Pip d'abord —</p><p>non pour montrer sa force,</p><p>mais pour partager la vue.</p>" +
     "<p>Puis il leva le hibou.</p><p>Puis ceux qui l'avaient craint.</p>" +
-    "<p>Même le faisan, quand le faisan fut prêt.</p><hr>" +
+    "<p>Même l'ara, quand l'ara fut prêt.</p><hr>" +
     "<p>Chaque ami monta à la hauteur de Hai</p><p>et devint un géant avec lui —</p>" +
     "<p>même visage, même cœur,</p><p>seuls les yeux maintenant au niveau des collines lointaines.</p>",
 

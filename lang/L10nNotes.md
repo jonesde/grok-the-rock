@@ -153,8 +153,16 @@ Same shape as Quiet Stories, all prefixed with `hai.`:
 - Each chapter’s first story page opens with: *Hai Ikthiss ruled the forest from atop the tall tree.*
 - Chapter arc titles stay **Being · Mending · Seeing** (or the language’s established Quiet Stories equivalents — Hebrew uses שלום · תיקון · ראייה).
 - Agent phrase **Tall Tellers** (dedication) stays English where "Grokkers" does; book titles translate (e.g. Tolkien → local *Lord of the Rings* title).
-- English cast (Honduran jungle): howler monkey, Baird’s tapir, keel-billed toucan, Pip (nine-banded armadillo), coati, agouti, scarlet macaw, old spectacled owl. Use common local animal names. (Older locale files may still say stag/badger/hedgehog etc. — refresh species on next translation pass.)
+- English cast (Honduran jungle): howler monkey, Baird’s tapir, keel-billed toucan, Pip (nine-banded armadillo), coati, agouti, scarlet macaw, old spectacled owl. Use common local animal names (table below).
 - Shared symbols with Quiet Stories (keep literal): melon/cantaloupe, water, hollow cup, seed / Ceiba pod, root, Ceiba tree, lift / far sight. Art setting is jungle valley (not English wood); no buildings/ruins in alts.
+- **Species beats that must match English structure:**
+  - p3 howler *lifts his call* (not antlers)
+  - p4 tapir ambles, solid and strong
+  - p5 toucan calls from a branch
+  - p12 Pip = young **armadillo**
+  - p13 Pip’s **shell** trembled (not spines); crowd = **coati** (exile) + **agouti** (payment)
+  - p20 / p22 / p24 grand-fear bird = **scarlet macaw** (not pheasant)
+  - Alts: jungle / Ceiba / forest-floor garden — not “English garden”; Kai may be “Ceiba seed-pod” where English alts say so
 - HTML chrome alternates in source (`Lord Ikthiss`) are restored to full **Hai Ikthiss** via `lang/en.js` (`hai.site.title`, `hai.cover.title`). Do not put full spine chrome back into `tall-tales.html`.
 
 ### Hebrew special case (`he` / `he-phon`)
@@ -208,9 +216,22 @@ Hebrew is not a plain phonetic port — names and a few symbols lean on layers i
 - it: Hai e la lode vuota · Kai cammina sotto · Hai e lo sguardo lontano
 - pt: Hai e o elogio vazio · Kai caminha embaixo · Hai e o olhar distante
 
-**Animals:** howler monkey/mono aullador/hurleur/scimmia urlatrice/bugio · tapir/tapir/tapir/tapiro/anta · toucan/tucán/toucan/tucano/tucano · armadillo/armadillo/tatou/armadillo/tatu · coati/coatí/coati/coati/quati · agouti/agutí/agouti/aguti/cutia · scarlet macaw/guacamayo escarlata/ara rouge/ara scarlatto/arara-vermelha · spectacled owl/búho de anteojos/chouette à lunettes/gufo dagli occhiali/coruja-de-óculos.
+**Animals (locked English → local):**
 
-**Wording:** hollow cup → copa hueca / coupe creuse / coppa vuota / copo oco (pour down, not collect). Keep living walking seed / walking tall tree compounds. Ch.2 stays close to Quiet Stories mending beats. Companion links in Quiet Stories must use the translated Tall Tales title. Full `hai.*` story + alts required (same key set as Hebrew).
+| Role | en | es | fr | it | pt | de | nl | no |
+|------|----|----|----|----|----|----|----|-----|
+| Loud praise | howler monkey | mono aullador | singe hurleur | scimmia urlatrice | bugio | Brüllaffe | brulaap | brøleape |
+| Strength | tapir | tapir | tapir | tapiro | anta | Tapir | tapir | tapir |
+| Branch call | toucan | tucán | toucan | tucano | tucano | Tukan | toekan | tukan |
+| Pip | armadillo | armadillo | tatou | armadillo | tatu | Gürteltier | gordeldier | beltedyr |
+| Exile | coati | coatí | coati | coati | quati | Nasenbär | coati | nesebjørn |
+| Payback | agouti | agutí | agouti | aguti | cutia | Aguti | agoeti | aguti |
+| Grand fear | scarlet macaw | guacamayo escarlata | ara rouge | ara scarlatto | arara-vermelha | Hellroter Ara | rood ara | rød ara |
+| Plain truth | (spectacled) owl | búho (de anteojos) | chouette (à lunettes) | gufo (dagli occhiali) | coruja (de óculos) | Brillenkauz / Eule | briluil / uil | brilleugle / ugle |
+
+Other locales: use the common natural name for each species (ja ホエザル·バク·オオハシ·アルマジロ·コアリクイ系のコアティ·アグーチ·コンゴウインコ·メガネフクロウ; zh 吼猴·貘·巨嘴鸟·犰狳·长鼻浣熊·刺豚鼠·绯红金刚鹦鹉·斑鸮; etc.). Prefer familiar children’s-book wording over scientific binomials.
+
+**Wording:** hollow cup → copa hueca / coupe creuse / coppa vuota / copo oco (pour down, not collect). Keep living walking seed / walking tall tree compounds; Kai alts may say Ceiba seed-pod. Ch.2 stays close to Quiet Stories mending beats. Companion links in Quiet Stories must use the translated Tall Tales title. Full `hai.*` story + alts required (same key set as Hebrew).
 
 ### grok-rules.html — 30 keys
 

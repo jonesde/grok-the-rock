@@ -528,28 +528,28 @@ window.I18N.no = {
   "hai.dedication.alt": "Dedikasjonsside: tre bitte små grønne spirer ved én klar vanndråpe på en nesten blank varm kremfarget side; valgfritt bitte lite mykt silhuett av Hai Ikthiss det høye treet langt unna i kjølig tåke.",
   "hai.p1.alt": "Kapittel ett, Være — Hai og den tomme lovprisen. Hai Ikthiss som et vidt levende høyt tre med vennlig ansikt fyller den øvre delen mens små dal-skapninger ser opp i lys lovpris.",
   "hai.p2.alt": "Gryning over en ung skogkledd dal: Hai Ikthiss står som et eneste levende høyt tre med mykt ansikt, røtter drikker en klar ny kilde, første gress og én liten fugl kommer.",
-  "hai.p3.alt": "En stolt hjort med høye gevir jubler ved røttene til den høye Hai Ikthiss mens andre skapninger slutter seg til lovprisen; ingen ser opp i treets øyne.",
-  "hai.p4.alt": "En solid grevling bøyer seg mot den store stammen til Hai Ikthiss, priser den sterkeste roten, mens skapninger takker skygge og høyde uten å se ansiktet hans.",
-  "hai.p5.alt": "En lys ravn roper stor lovpris fra en grein mens den øvre stammen til Hai Ikthiss viser et mykt hult skinn, som en tom kopp som trenger vann.",
+  "hai.p3.alt": "En stolt brøleape jubler ved røttene til den høye Hai Ikthiss mens andre skapninger slutter seg til lovprisen; ingen ser opp i treets øyne.",
+  "hai.p4.alt": "En solid tapir bøyer seg mot den store stammen til Hai Ikthiss, priser den sterkeste roten, mens skapninger takker skygge og høyde uten å se ansiktet hans.",
+  "hai.p5.alt": "En lys tukan roper stor lovpris fra en grein mens den øvre stammen til Hai Ikthiss viser et mykt hult skinn, som en tom kopp som trenger vann.",
   "hai.p6.alt": "Hai Ikthiss står stille og vennlig, én lang rot eller lav grein rekker mykt mot bakkekilden, lytter i stedet for bare å ta imot lovpris.",
   "hai.p7.alt": "Om natten under en dyp stjernehimmel holder kronen til Hai Ikthiss stjernene mens et mykt hull i den øvre stammen sakte varmes og gløder.",
   "hai.p8.alt": "Morgenens gull lyser opp Hai Ikthiss' myke ansikt mens han ser ned stammen mot røttene, klarere innenfra mens dalen fortsatt jubler nedenfor.",
   "hai.p9.alt": "Hai Ikthiss sender myke vannstrømmer og vennlig lys ned til bitte små bregner og små dyr ved røttene, smilende et enkelt tresmil av tilfredshet.",
   "hai.p10.alt": "Kapittel to, Lappe — Kai går nedenfor. Et lite levende gående frøvesen med spir-topp og vennlige øyne står ved foten av det store høye treet; den lille skikkelsen er Hai Ikthiss i ydmyk frøform.",
-  "hai.p11.alt": "I en engelsk mose-og-bregnehage ved røttene til det høye treet smiler Hai Ikthiss i ydmyk Kai-form—et lite levende gående frø—blant meloneranker.",
-  "hai.p12.alt": "Pip den unge piggsvinen stivner midt i steget av skrekk når en stor melon sprekker på bakken; Kai (Hai Ikthiss som levende gående frø) står liten og stødig blant de sølte frøene.",
-  "hai.p13.alt": "Pip krøller seg av skam mens Kai (liten levende gående frøform av Hai Ikthiss) står vennlig og stille; en rev og en røyskatt blant skogfolket ser harde og dømmende ut.",
+  "hai.p11.alt": "I en jungel-skogsbunnhage ved røttene til det høye treet smiler Hai Ikthiss i ydmyk Kai-form—et lite levende gående frø—blant meloneranker.",
+  "hai.p12.alt": "Pip det unge beltedytret stivner midt i steget av skrekk når en stor melon sprekker på bakken; Kai (Hai Ikthiss som levende gående frø) står liten og stødig blant de sølte frøene.",
+  "hai.p13.alt": "Pip krøller seg av skam mens Kai (liten levende gående frøform av Hai Ikthiss) står vennlig og stille; en nesebjørn og en aguti blant skogfolket ser harde og dømmende ut.",
   "hai.p14.alt": "Kai (Hai Ikthiss som lite levende gående frø) kneler og tilbyr Pip en gravepinne med åpen vennlighet; Pip ruller seg sakte ut når håpet kommer tilbake.",
   "hai.p15.alt": "Kai og Pip planter og vanner side om side og bygger et lite kvistgjerde rundt nye frø, begge smilende mykt.",
-  "hai.p16.alt": "Pip vanner blomstrende nye meloneranker mens Kai ser med stille stolthet; det høye treet står fredelig over den engelske hagen.",
+  "hai.p16.alt": "Pip vanner blomstrende nye meloneranker mens Kai ser med stille stolthet; det høye treet står fredelig over jungelhagen.",
   "hai.p17.alt": "I den gylne timen sitter Kai og Pip ved blomstrende meloner med enda et lite vesen med, et fredelig lappet hagefellesskap.",
   "hai.p18.alt": "Kapittel tre, Se — Hai og det fjerne blikket. Et vennlig gående høyt tre byr begge hender ned for å løfte; små skapninger ser opp med undring.",
   "hai.p19.alt": "To år senere er Hai Ikthiss hjemme i kronen igjen i den gylne timen, men skapninger hvisker engstelig ved røttene i stedet for å juble.",
-  "hai.p20.alt": "En blank fasan med lang spektakulær hale sitter i midthøyde og advarer andre om å holde seg lave mens Hai Ikthiss høyt over blir vennlig og stille.",
+  "hai.p20.alt": "En blank rød ara med lang spektakulær hale sitter i midthøyde og advarer andre om å holde seg lave mens Hai Ikthiss høyt over blir vennlig og stille.",
   "hai.p21.alt": "En svært gammel enkel ugle snakker mykt om å huske den vennlige Kai, mens Hai Ikthiss lytter hele stammen ned med åpen oppmerksomhet.",
   "hai.p22.alt": "Hai Ikthiss trer mykt ut av stille tre og blir et levende gående høyt tre—lange vennlige lemmer, dype rotføtter, et ansikt de endelig kan møte.",
   "hai.p23.alt": "Hai Ikthiss bøyer seg som en bro av tre og vennlighet med én stor hånd åpen lavt; Pip tar et skritt frem mens andre skapninger halvveis gjemmer seg og ser på.",
-  "hai.p24.alt": "Hai Ikthiss løfter villige venner—Pip, uglen, andre, til og med fasanen—til delt kjempehøyde, samme ansikter, øyne nå i nivå med undring.",
+  "hai.p24.alt": "Hai Ikthiss løfter villige venner—Pip, uglen, andre, til og med araen—til delt kjempehøyde, samme ansikter, øyne nå i nivå med undring.",
   "hai.p25.alt": "På en høy rygg i den gylne timen ser Hai Ikthiss og hans kjempevenner sammen ut over hele den fredelige skogkledde dalen.",
   "hai.p26.alt": "Avslutningsside: vid skogkledd dal i fredelig skumring med Hai Ikthiss som et vennlig gående høyt tre blant milde kjempevenner på en myk haug, stjerner begynner å komme til syne.",
 
@@ -585,16 +585,16 @@ window.I18N.no = {
     "<p>Han var det første treet i dalen.</p><p>Da dalen var tom, sto han alene.</p>" +
     "<p>Regnet fant ham først.</p><p>Så gress.</p><p>Så fugler.</p>",
 
-  "hai.p3": "<p>Snart fyltes dalen med liv.</p><p>En hjort løftet gevirene og ropte,</p>" +
+  "hai.p3": "<p>Snart fyltes dalen med liv.</p><p>En brøleape løftet ropet og ropte,</p>" +
     "<p>\"Lord Ikthiss er den høyeste!</p><p>Vi er heldige som han står for oss!\"</p><hr>" +
     "<p>Alle jublet.</p><p>Ingen så opp i øynene hans.</p>",
 
-  "hai.p4": "<p>En grevling kom slentrende, solid og sterk.</p>" +
+  "hai.p4": "<p>En tapir kom slentrende, solid og sterk.</p>" +
     "<p>\"Lord Ikthiss er den sterkeste roten!\"</p><p>sa han. \"Alle takk treet!\"</p><hr>" +
     "<p>De takket skyggen.</p><p>De takket høyden.</p>" +
     "<p>De takket ikke hjertet inne i treet.</p>",
 
-  "hai.p5": "<p>En ravn ropte fra en grein.</p><p>\"Se hvor storslått vår Lord Ikthiss er!</p>" +
+  "hai.p5": "<p>En tukan ropte fra en grein.</p><p>\"Se hvor storslått vår Lord Ikthiss er!</p>" +
     "<p>Så høy! Så givende!\"</p><hr><p>Lovprisen vokste sterk som regn.</p>" +
     "<p>Men Hai kjente et hult sted</p><p>høyt midt i seg,</p>" +
     "<p>som en kopp ingen hadde fylt.</p>",
@@ -630,15 +630,15 @@ window.I18N.no = {
     "<p>\"Hvem er du?\" spurte de.</p><p>\"Dere kan kalle meg Kai,\" sa han,</p>" +
     "<p>og smilte et tålmodig frøsmil.</p>",
 
-  "hai.p12": "<p>Den ettermiddagen skyndte vennen hans, en ung piggsvin ved navn Pip,</p>" +
+  "hai.p12": "<p>Den ettermiddagen skyndte vennen hans, et ungt beltedyr ved navn Pip,</p>" +
     "<p>seg gjennom hagen mens han så bakover</p>" +
     "<p>og veltet den beste meloneranken.</p>" +
     "<p>Den store melonen sprakk på bakken.</p><p>Frø og søt saft sølte overalt.</p>",
 
-  "hai.p13": "<p>Pip stivnet.</p><p>Piggene hans skalv.</p>" +
+  "hai.p13": "<p>Pip stivnet.</p><p>Panseret hans skalv.</p>" +
     "<p>\"Jeg ødela det,\" hvisket han.</p><p>\"Du blir sint. Alle blir sinte.\"</p><hr>" +
-    "<p>Noe skogfolk samlet seg.</p><p>\"Send ham bort,\" mumlet en rev.</p>" +
-    "<p>\"Han bør hente tre nye meloner,\" sa en røyskatt.</p>",
+    "<p>Noe skogfolk samlet seg.</p><p>\"Send ham bort,\" mumlet en nesebjørn.</p>" +
+    "<p>\"Han bør hente tre nye meloner,\" sa en aguti.</p>",
 
   "hai.p14": "<p>Kai så på den knuste ranken.</p><p>Han så på Pips bekymrede øyne.</p><hr>" +
     "<p>Han hevet ikke stemmen.</p><p>Han pekte ikke med fingeren.</p><p>Han tok en gravepinne</p>" +
@@ -669,10 +669,10 @@ window.I18N.no = {
     "<p>hvisket nå ved røttene.</p><p>\"Han er for høy,\" sa de.</p>" +
     "<p>\"Hva om den høye vil for mye?\"</p>",
 
-  "hai.p20": "<p>En blank fasan med storslåtte halefjær landet i nærheten.</p>" +
-    "<p>\"Hold dere lave,\" sa fasanen.</p>" +
+  "hai.p20": "<p>En blank rød ara med storslåtte halefjær landet i nærheten.</p>" +
+    "<p>\"Hold dere lave,\" sa araen.</p>" +
     "<p>\"Høye ting faller. Storslåtte fjær vet best.\"</p><hr>" +
-    "<p>Noen yngre dyr nikket hardt.</p><p>De nikket alltid når fasanen snakket.</p>" +
+    "<p>Noen yngre dyr nikket hardt.</p><p>De nikket alltid når araen snakket.</p>" +
     "<p>Frykten hans lød like storslått som fjærene hans.</p>",
 
   "hai.p21": "<p>Senere snakket en svært gammel ugle med langsom myk stemme.</p>" +
@@ -682,7 +682,7 @@ window.I18N.no = {
     "<p>Hai lyttet hele stammen ned.</p>",
 
   "hai.p22": "<p>Hai Ikthiss ropte dem ikke til ro.</p>" +
-    "<p>Han ristet ikke fasanen av greinen.</p><p>Han trådte ut av stille tre</p>" +
+    "<p>Han ristet ikke araen av greinen.</p><p>Han trådte ut av stille tre</p>" +
     "<p>og ble et gående høyt tre —</p><p>lange vennlige lemmer, dype rotføtter,</p>" +
     "<p>et ansikt de endelig kunne møte.</p><hr><p>Ikke for å trone.</p><p>For å komme nær.</p>",
 
@@ -693,7 +693,7 @@ window.I18N.no = {
 
   "hai.p24": "<p>Han løftet Pip først —</p><p>ikke for å vise makt,</p><p>men for å dele utsikten.</p>" +
     "<p>Så løftet han uglen.</p><p>Så dem som hadde fryktet ham.</p>" +
-    "<p>Til og med fasanen, da fasanen var klar.</p><hr>" +
+    "<p>Til og med araen, da araen var klar.</p><hr>" +
     "<p>Hver venn steg til Hais høyde</p><p>og ble en kjempe med ham —</p>" +
     "<p>samme ansikt, samme hjerte,</p><p>bare øynene nå i høyde med de fjerne åsene.</p>",
 

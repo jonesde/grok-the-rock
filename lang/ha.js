@@ -309,28 +309,28 @@ window.I18N.ha = {
   "hai.dedication.alt": "Shafin sadaukarwa: ƙananan tsiro guda uku kusa da digon ruwa ɗaya a kan shafi kusan fari mai launin kirim mai dumi; na zaɓi: ƙaramin silhouette mai laushi na Hai Ikthiss bishiyar doguwa nesa a cikin hazo mai sanyi.",
   "hai.p1.alt": "Sashi Ɗaya, Kasancewa — Hai da Yabo Mara Cika. Hai Ikthiss a matsayin babban bishiya mai rai mai tsayi da fuska mai tausayi ya cika saman shafin yayin da ƙananan halittun kwarin suke kallon sama cikin yabo mai haske.",
   "hai.p2.alt": "Alfijir a kan ƙaramin kwarin daji: Hai Ikthiss yana tsaye a matsayin bishiya ɗaya mai rai mai tsayi da fuska mai laushi, saiwoyi suna sha daga sabuwar maɓuɓɓuga mai haske, ciyayi na farko da ƙaramin tsuntsu suna zuwa.",
-  "hai.p3.alt": "Barewa mai girman kai da dogayen ƙaho tana murna a saiwoyin doguwar Hai Ikthiss yayin da wasu halittu suke shiga yabo; babu wanda ya duba sama cikin idanun bishiya.",
-  "hai.p4.alt": "Ƙato mai ƙarfi ya sunkuya zuwa babban jikin Hai Ikthiss, yana yabon saiwa mafi ƙarfi, yayin da halittu suke gode inuwa da tsayi ba tare da ganin fuskarsa ba.",
-  "hai.p5.alt": "Baƙaƙen hankaka mai haske yana kiran babban yabo daga reshe yayin da saman jikin Hai Ikthiss ke nuna haske mai ɓoye mai laushi, kamar kofi mara cika da ke buƙatar ruwa.",
+  "hai.p3.alt": "Biri mai kuka mai girman kai da dogayen ƙaho tana murna a saiwoyin doguwar Hai Ikthiss yayin da wasu halittu suke shiga yabo; babu wanda ya duba sama cikin idanun bishiya.",
+  "hai.p4.alt": "Tapir mai ƙarfi ya sunkuya zuwa babban jikin Hai Ikthiss, yana yabon saiwa mafi ƙarfi, yayin da halittu suke gode inuwa da tsayi ba tare da ganin fuskarsa ba.",
+  "hai.p5.alt": "Baƙaƙen toucan mai haske yana kiran babban yabo daga reshe yayin da saman jikin Hai Ikthiss ke nuna haske mai ɓoye mai laushi, kamar kofi mara cika da ke buƙatar ruwa.",
   "hai.p6.alt": "Hai Ikthiss yana tsaye a natsuwa da tausayi, doguwar saiwa ɗaya ko ƙaramin reshe yana kai a hankali zuwa maɓuɓɓugar ƙasa, yana saurare maimakon karɓar yabo kawai.",
   "hai.p7.alt": "Da dare ƙarƙashin zurfin sararin taurari, rufin Hai Ikthiss yana riƙe taurari yayin da ɓoye mai laushi a saman jiki ke ɗumi a hankali kuma ya haska.",
   "hai.p8.alt": "Zinaren safiya yana haskaka fuskar Hai Ikthiss mai laushi yayin da yake duba ƙasa ta jikinsa zuwa saiwoyi, a ciki ya fi bayyane yayin da kwarin ke ci gaba da murna a ƙasa.",
   "hai.p9.alt": "Hai Ikthiss yana aika raƙuman ruwa masu laushi da haske mai tausayi zuwa ƙananan fern da ƙananan dabbobi a saiwoyi, yana murmushin bishiya mai sauƙi na gamsuwa.",
   "hai.p10.alt": "Sashi Biyu, Gyara — Kai yana tafiya a ƙasa. Ƙaramin halitta-iri mai rai mai tafiya da guntun tsiro da idanu masu tausayi yana tsaye a ƙafar babban bishiyar doguwa; ƙaramin siffa ita ce Hai Ikthiss a siffar iri mai tawali'u.",
-  "hai.p11.alt": "A cikin lambun Turanci na ganyaye da fern a saiwoyin bishiyar doguwa, Hai Ikthiss a siffar Kai mai tawali'u—ƙaramin iri mai rai mai tafiya—yana murmushi tsakanin itatuwan melon.",
-  "hai.p12.alt": "Pip matashin bushiya ya daina a tsakiyar mataki cikin firgici sa'ad da babban melon ya tsage a ƙasa; Kai (Hai Ikthiss a matsayin iri mai rai mai tafiya) yana tsaye ƙanana da ƙarfi tsakanin iri da aka zubar.",
-  "hai.p13.alt": "Pip ya naɗe cikin kunya yayin da Kai (ƙaramin siffar iri mai rai mai tafiya ta Hai Ikthiss) ke tsaye mai tausayi da natsuwa; ƙura da stoat a cikin mutanen daji suna da ƙarfi da yanke hukunci.",
+  "hai.p11.alt": "A cikin lambun daji na ganyaye da fern a saiwoyin bishiyar doguwa, Hai Ikthiss a siffar Kai mai tawali'u—ƙaramin iri mai rai mai tafiya—yana murmushi tsakanin itatuwan melon.",
+  "hai.p12.alt": "Pip matashin armadillo ya daina a tsakiyar mataki cikin firgici sa'ad da babban melon ya tsage a ƙasa; Kai (Hai Ikthiss a matsayin iri mai rai mai tafiya) yana tsaye ƙanana da ƙarfi tsakanin iri da aka zubar.",
+  "hai.p13.alt": "Pip ya naɗe cikin kunya yayin da Kai (ƙaramin siffar iri mai rai mai tafiya ta Hai Ikthiss) ke tsaye mai tausayi da natsuwa; coati da agouti a cikin mutanen daji suna da ƙarfi da yanke hukunci.",
   "hai.p14.alt": "Kai (Hai Ikthiss a matsayin ƙaramin iri mai rai mai tafiya) ya durƙusa kuma ya miƙa wa Pip sandar tono tare da tausayi a buɗe; Pip ya buɗe a hankali sa'ad da bege ya dawo.",
   "hai.p15.alt": "Kai da Pip suna shuka da shayarwa gefe da gefe kuma suna gina ƙaramin shinge na reshe a kusa da sabbin iri, duka biyu suna murmushi mai laushi.",
-  "hai.p16.alt": "Pip yana shayar da sabbin itatuwan melon masu girma yayin da Kai ke kallo da girman kai mai natsuwa; bishiyar doguwa tana tsaye cikin salama a saman lambun Turanci.",
+  "hai.p16.alt": "Pip yana shayar da sabbin itatuwan melon masu girma yayin da Kai ke kallo da girman kai mai natsuwa; bishiyar doguwa tana tsaye cikin salama a saman lambun daji.",
   "hai.p17.alt": "A sa'ar zinari Kai da Pip suna zaune kusa da melon masu girma tare da wani ƙaramin halitta, al'ummar lambu da aka gyara cikin salama.",
   "hai.p18.alt": "Sashi Uku, Gani — Hai da Gani Mai Nisa. Bishiya mai tsayi mai tausayi mai tafiya tana miƙa hannaye biyu ƙasa don ɗagawa; ƙananan halittu suna kallon sama cikin mamaki.",
   "hai.p19.alt": "Bayan shekaru biyu Hai Ikthiss ya sake zama gida a cikin rawani a sa'ar zinari, amma halittu suna rada cikin tsoro a saiwoyi maimakon murna.",
-  "hai.p20.alt": "Zakaran daji mai sheki da doguwar wutsiya mai ban mamaki yana zaune a tsakiyar tsayi kuma yana gargaɗi wasu su kasance ƙasa yayin da Hai Ikthiss a sama ke ci gaba da tausayi da natsuwa.",
+  "hai.p20.alt": "Macaw mai sheki da doguwar wutsiya mai ban mamaki yana zaune a tsakiyar tsayi kuma yana gargaɗi wasu su kasance ƙasa yayin da Hai Ikthiss a sama ke ci gaba da tausayi da natsuwa.",
   "hai.p21.alt": "Tsofohen mujiya mai sauƙi tana magana a hankali game da tunawa da Kai mai tausayi, yayin da Hai Ikthiss ke saurare a duk tsawon jikinsa tare da hankali a buɗe.",
   "hai.p22.alt": "Hai Ikthiss ya fito a hankali daga itace mai natsuwa ya zama bishiya mai rai mai tsayi mai tafiya—dogayen gaɓoɓi masu tausayi, ƙafafu-saiwa masu zurfi, fuska da ake iya gamuwa da ita a ƙarshe.",
   "hai.p23.alt": "Hai Ikthiss ya sunkuya kamar gada ta itace da tausayi tare da babban hannu ɗaya a buɗe ƙasa; Pip ya matsa gaba yayin da wasu halittu suke ɓoye rabi suna kallo.",
-  "hai.p24.alt": "Hai Ikthiss yana ɗaga abokai masu son rai—Pip, mujiya, wasu, har ma zakaran daji—zuwa tsayin ƙato na haɗin gwiwa, fuska iri ɗaya, idanu yanzu a matakin ɗaya tare da mamaki.",
+  "hai.p24.alt": "Hai Ikthiss yana ɗaga abokai masu son rai—Pip, mujiya, wasu, har ma macaw—zuwa tsayin ƙato na haɗin gwiwa, fuska iri ɗaya, idanu yanzu a matakin ɗaya tare da mamaki.",
   "hai.p25.alt": "A kan babban tudu a sa'ar zinari, Hai Ikthiss da abokansa ƙataye suna kallon dukan kwarin daji mai salama tare.",
   "hai.p26.alt": "Shafin ƙarshe: faffadan kwarin daji a faɗuwar rana mai salama tare da Hai Ikthiss a matsayin bishiya mai tsayi mai tausayi mai tafiya tsakanin abokai ƙataye masu laushi a kan ƙaramin tudu, taurari suna farawa bayyana.",
 
@@ -366,16 +366,16 @@ window.I18N.ha = {
     "<p>Shi ne bishiya ta farko a kwarin.</p><p>Lokacin da kwarin ya kasance fanko, ya tsaya shi kaɗai.</p>" +
     "<p>Ruwan sama ya same shi na farko.</p><p>Sai ciyawa.</p><p>Sai tsuntsaye.</p>",
 
-  "hai.p3": "<p>Ba da daɗewa ba kwarin ya cika da rai.</p><p>Barewa ta ɗaga ƙahonta ta kira,</p>" +
+  "hai.p3": "<p>Ba da daɗewa ba kwarin ya cika da rai.</p><p>Biri mai kuka ya ɗaga kiransa ya kira,</p>" +
     "<p>\"Lord Ikthiss shine mafi tsayi!</p><p>Muna da sa'a yana tsaye mana!\"</p><hr>" +
     "<p>Kowa ya yi murna.</p><p>Babu wanda ya duba sama cikin idanunsa.</p>",
 
-  "hai.p4": "<p>Ƙato ya zo a hankali, mai ƙarfi da ƙarfi.</p>" +
+  "hai.p4": "<p>Tapir ya zo a hankali, mai ƙarfi da ƙarfi.</p>" +
     "<p>\"Lord Ikthiss shine saiwa mafi ƙarfi!\"</p><p>ya ce. \"Kowa ya gode wa bishiya!\"</p><hr>" +
     "<p>Suka gode wa inuwa.</p><p>Suka gode wa tsayi.</p>" +
     "<p>Ba su gode wa zuciya a cikin itace ba.</p>",
 
-  "hai.p5": "<p>Hankaka ya kira daga reshe.</p><p>\"Ku gani yadda Lord Ikthiss ɗinmu yake da girma!</p>" +
+  "hai.p5": "<p>Toucan ya kira daga reshe.</p><p>\"Ku gani yadda Lord Ikthiss ɗinmu yake da girma!</p>" +
     "<p>Mai tsayi sosai! Mai bayarwa sosai!\"</p><hr><p>Yabo ya girma ƙarfi kamar ruwan sama.</p>" +
     "<p>Amma Hai ya ji wuri mai ɓoye</p><p>sama a tsakiyarsa,</p>" +
     "<p>kamar kofi da ba wanda ya cika.</p>",
@@ -411,15 +411,15 @@ window.I18N.ha = {
     "<p>\"Wanene kai?\" suka tambaya.</p><p>\"Kuna iya kira ni Kai,\" ya ce,</p>" +
     "<p>ya yi murmushin iri mai haƙuri.</p>",
 
-  "hai.p12": "<p>A wannan yamma abokinsa, matashin bushiya mai suna Pip,</p>" +
+  "hai.p12": "<p>A wannan yamma abokinsa, matashin armadillo mai suna Pip,</p>" +
     "<p>ya yi gaggawa ta cikin lambu yana kallo baya</p>" +
     "<p>ya jefa mafi kyawun itacen melon.</p>" +
     "<p>Babban melon ya tsage a ƙasa.</p><p>Iri da ruwan zaki sun zubar ko'ina.</p>",
 
-  "hai.p13": "<p>Pip ya daina motsi.</p><p>Ƙaya ɗinsa sun yi rawar jiki.</p>" +
+  "hai.p13": "<p>Pip ya daina motsi.</p><p>Kwatansa ya yi rawar jiki.</p>" +
     "<p>\"Na ɓata shi,\" ya rada.</p><p>\"Za ka yi fushi. Kowa zai yi fushi.\"</p><hr>" +
-    "<p>Wasu mutanen daji sun taru.</p><p>\"Ku kore shi,\" ƙura ta yi gunaguni.</p>" +
-    "<p>\"Ya kamata ya kawo melon sababbi uku,\" stoat ya ce.</p>",
+    "<p>Wasu mutanen daji sun taru.</p><p>\"Ku kore shi,\" coati ta yi gunaguni.</p>" +
+    "<p>\"Ya kamata ya kawo melon sababbi uku,\" agouti ya ce.</p>",
 
   "hai.p14": "<p>Kai ya duba itacen da ya karye.</p><p>Ya duba idanun Pip masu damuwa.</p><hr>" +
     "<p>Bai ɗaga muryarsa ba.</p><p>Bai nuna yatsa ba.</p><p>Ya ɗauki sandar tono</p>" +
@@ -450,10 +450,10 @@ window.I18N.ha = {
     "<p>yanzu suna rada a saiwoyi.</p><p>\"Ya yi tsayi sosai,\" suke cewa.</p>" +
     "<p>\"Idan mai tsayi ya so da yawa fa?\"</p>",
 
-  "hai.p20": "<p>Zakaran daji mai sheki da fuka-fukan wutsiya masu girma ya sauka kusa.</p>" +
-    "<p>\"Ku kasance ƙasa,\" zakaran daji ya ce.</p>" +
+  "hai.p20": "<p>Macaw ja mai sheki da fuka-fukan wutsiya masu girma ya sauka kusa.</p>" +
+    "<p>\"Ku kasance ƙasa,\" macaw ya ce.</p>" +
     "<p>\"Abubuwa masu tsayi suna faɗuwa. Fuka-fuka masu girma sun fi sani.\"</p><hr>" +
-    "<p>Wasu matasan dabbobi suka gyada kai da ƙarfi.</p><p>Koyaushe suna gyada kai sa'ad da zakaran daji ke magana.</p>" +
+    "<p>Wasu matasan dabbobi suka gyada kai da ƙarfi.</p><p>Koyaushe suna gyada kai sa'ad da macaw ke magana.</p>" +
     "<p>Tsoronsa ya yi ƙarfi kamar fuka-fukansa.</p>",
 
   "hai.p21": "<p>Daga baya tsofohen mujiya ta yi magana da murya mai jinkiri da laushi.</p>" +
@@ -463,7 +463,7 @@ window.I18N.ha = {
     "<p>Hai ya saurare a duk tsawon jikinsa.</p>",
 
   "hai.p22": "<p>Hai Ikthiss bai yi ihu don ya sa su yi shiru ba.</p>" +
-    "<p>Bai girgiza zakaran daji daga reshe ba.</p><p>Ya fito daga itace mai natsuwa</p>" +
+    "<p>Bai girgiza macaw daga reshe ba.</p><p>Ya fito daga itace mai natsuwa</p>" +
     "<p>ya zama bishiya mai tsayi mai tafiya —</p><p>dogayen gaɓoɓi masu tausayi, ƙafafu-saiwa masu zurfi,</p>" +
     "<p>fuska da za su iya gamuwa da ita a ƙarshe.</p><hr><p>Ba don ya yi girma a kansu ba.</p><p>Don ya zo kusa.</p>",
 
@@ -474,7 +474,7 @@ window.I18N.ha = {
 
   "hai.p24": "<p>Ya ɗaga Pip na farko —</p><p>ba don nuna ƙarfi ba,</p><p>sai don raba gani.</p>" +
     "<p>Sai ya ɗaga mujiya.</p><p>Sai waɗanda suka ji tsoronsa.</p>" +
-    "<p>Har ma zakaran daji, sa'ad da zakaran daji ya shirya.</p><hr>" +
+    "<p>Har ma macaw, sa'ad da macaw ya shirya.</p><hr>" +
     "<p>Kowane aboki ya tashi zuwa tsayin Hai</p><p>ya zama ƙato tare da shi —</p>" +
     "<p>fuska iri ɗaya, zuciya iri ɗaya,</p><p>idanu kawai yanzu a matakin tuddai masu nisa.</p>",
 

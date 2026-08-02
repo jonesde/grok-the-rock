@@ -453,28 +453,28 @@ window.I18N.it = {
   "hai.dedication.alt": "Pagina di dedica: tre minuscoli germogli verdi accanto a una sola goccia d'acqua chiara su una pagina quasi vuota color crema calda; silhouette minuscola e morbida opzionale di Hai Ikthiss l'albero alto lontano nella nebbia fresca.",
   "hai.p1.alt": "Capitolo Uno, Essere — Hai e la lode vuota. Hai Ikthiss come vasto albero alto vivente con un volto gentile riempie la parte alta mentre piccole creature della valle guardano in su in lode luminosa.",
   "hai.p2.alt": "Alba su una giovane valle boscosa: Hai Ikthiss si erge come un solo albero alto vivente con un volto dolce, radici che bevono una sorgente nuova e chiara, prime erbe e un uccellino che arriva.",
-  "hai.p3.alt": "Un cervo orgoglioso con alte corna acclama alle radici dell'alto Hai Ikthiss mentre altre creature si uniscono alla lode; nessuno guarda in su negli occhi dell'albero.",
-  "hai.p4.alt": "Un tasso robusto si inchina verso il grande tronco di Hai Ikthiss, lodando la radice più forte, mentre le creature ringraziano l'ombra e l'altezza senza vedere il suo volto.",
-  "hai.p5.alt": "Un corvo vivace lancia una grande lode da un ramo mentre il tronco alto di Hai Ikthiss mostra un morbido bagliore cavo, come una coppa vuota che ha bisogno d'acqua.",
+  "hai.p3.alt": "Una scimmia urlatrice orgogliosa acclama alle radici dell'alto Hai Ikthiss mentre altre creature si uniscono alla lode; nessuno guarda in su negli occhi dell'albero.",
+  "hai.p4.alt": "Un tapiro robusto si inchina verso il grande tronco di Hai Ikthiss, lodando la radice più forte, mentre le creature ringraziano l'ombra e l'altezza senza vedere il suo volto.",
+  "hai.p5.alt": "Un tucano vivace lancia una grande lode da un ramo mentre il tronco alto di Hai Ikthiss mostra un morbido bagliore cavo, come una coppa vuota che ha bisogno d'acqua.",
   "hai.p6.alt": "Hai Ikthiss resta fermo e gentile, una lunga radice o un ramo basso si allunga dolcemente verso la sorgente del suolo, ascoltando invece di ricevere solo lodi.",
   "hai.p7.alt": "Di notte sotto un cielo stellato profondo, la chioma di Hai Ikthiss tiene le stelle mentre un cavo morbido nel tronco alto si scalda e brilla lentamente.",
   "hai.p8.alt": "L'oro del mattino illumina il volto dolce di Hai Ikthiss mentre guarda lungo il tronco verso le radici, più chiaro dentro mentre la valle acclama ancora sotto.",
   "hai.p9.alt": "Hai Ikthiss manda morbidi rivoli d'acqua e luce gentile verso minuscole felci e piccoli animali alle radici, sorridendo un semplice sorriso d'albero di contentezza.",
   "hai.p10.alt": "Capitolo Due, Riparare — Kai cammina sotto. Una piccola creatura-seme vivente che cammina con un ciuffo di germoglio e occhi gentili sta ai piedi del grande albero alto; la piccola figura è Hai Ikthiss in umile forma di seme.",
-  "hai.p11.alt": "In un giardino inglese di muschio e felci alle radici dell'albero alto, Hai Ikthiss in umile forma Kai—un piccolo seme vivente che cammina—sorride tra le viti di melone.",
-  "hai.p12.alt": "Pip il giovane riccio si congela a metà passo d'orrore quando un grosso melone si apre a terra; Kai (Hai Ikthiss come seme vivente che cammina) resta piccolo e fermo tra i semi sparsi.",
-  "hai.p13.alt": "Pip si raggomitola di vergogna mentre Kai (piccola forma di seme vivente che cammina di Hai Ikthiss) resta gentile e fermo; una volpe e un ermellino tra la gente del bosco sembrano duri e giudicanti.",
+  "hai.p11.alt": "In un giardino di sottobosco della giungla alle radici dell'albero alto, Hai Ikthiss in umile forma Kai—un piccolo seme vivente che cammina—sorride tra le viti di melone.",
+  "hai.p12.alt": "Pip il giovane armadillo si congela a metà passo d'orrore quando un grosso melone si apre a terra; Kai (Hai Ikthiss come seme vivente che cammina) resta piccolo e fermo tra i semi sparsi.",
+  "hai.p13.alt": "Pip si raggomitola di vergogna mentre Kai (piccola forma di seme vivente che cammina di Hai Ikthiss) resta gentile e fermo; un coati e un aguti tra la gente del bosco sembrano duri e giudicanti.",
   "hai.p14.alt": "Kai (Hai Ikthiss come piccolo seme vivente che cammina) si inginocchia e offre a Pip un bastone per scavare con bontà aperta; Pip si srotola lentamente quando torna la speranza.",
   "hai.p15.alt": "Kai e Pip piantano e innaffiano fianco a fianco e costruiscono una piccola staccionata di ramoscelli intorno a nuovi semi, entrambi sorridendo dolcemente.",
-  "hai.p16.alt": "Pip innaffia nuove viti di melone floride mentre Kai osserva con orgoglio quieto; l'albero alto si erge in pace sopra il giardino inglese.",
+  "hai.p16.alt": "Pip innaffia nuove viti di melone floride mentre Kai osserva con orgoglio quieto; l'albero alto si erge in pace sopra il giardino della giungla.",
   "hai.p17.alt": "All'ora dorata Kai e Pip siedono accanto a meloni floridi con un'altra piccola creatura inclusa, una comunità di giardino riparata in pace.",
   "hai.p18.alt": "Capitolo Tre, Vedere — Hai e lo sguardo lontano. Un gentile albero alto che cammina offre entrambe le mani verso il basso per sollevare; piccole creature guardano in su con meraviglia.",
   "hai.p19.alt": "Due anni dopo Hai Ikthiss è di nuovo a casa nella chioma all'ora dorata, ma le creature sussurrano con paura alle radici invece di acclamare.",
-  "hai.p20.alt": "Un fagiano lucido con una lunga coda spettacolare si posa a mezza altezza e avverte gli altri di restare bassi mentre Hai Ikthiss in alto resta gentile e fermo.",
+  "hai.p20.alt": "Un ara scarlatto lucido con una lunga coda spettacolare si posa a mezza altezza e avverte gli altri di restare bassi mentre Hai Ikthiss in alto resta gentile e fermo.",
   "hai.p21.alt": "Un gufo molto vecchio e semplice parla piano ricordando il gentile Kai, mentre Hai Ikthiss ascolta per tutto il tronco con attenzione aperta.",
   "hai.p22.alt": "Hai Ikthiss esce dolcemente dal legno fermo e diventa un albero alto vivente che cammina—lunghe membra gentili, profondi piedi-radice, un volto che finalmente si può incontrare.",
   "hai.p23.alt": "Hai Ikthiss si piega come un ponte di legno e bontà con una grande mano aperta in basso; Pip fa un passo avanti mentre altre creature si nascondono a metà e guardano.",
-  "hai.p24.alt": "Hai Ikthiss solleva amici disposti—Pip, il gufo, altri, anche il fagiano—a un'altezza di gigante condivisa, stessi volti, occhi ora allo stesso livello con meraviglia.",
+  "hai.p24.alt": "Hai Ikthiss solleva amici disposti—Pip, il gufo, altri, anche l'ara—a un'altezza di gigante condivisa, stessi volti, occhi ora allo stesso livello con meraviglia.",
   "hai.p25.alt": "Su una cresta alta all'ora dorata, Hai Ikthiss e i suoi amici giganti guardano insieme tutta la valle boscosa pacifica.",
   "hai.p26.alt": "Pagina finale: ampia valle boscosa al crepuscolo pacifico con Hai Ikthiss come gentile albero alto che cammina tra dolci amici giganti su un dolce rialzo, stelle che cominciano a comparire.",
 
@@ -510,16 +510,16 @@ window.I18N.it = {
     "<p>Era il primo albero della valle.</p><p>Quando la valle era vuota, stava da solo.</p>" +
     "<p>La pioggia lo trovò per prima.</p><p>Poi l'erba.</p><p>Poi gli uccelli.</p>",
 
-  "hai.p3": "<p>Presto la valle si riempì di vita.</p><p>Un cervo alzò le corna e chiamò:</p>" +
+  "hai.p3": "<p>Presto la valle si riempì di vita.</p><p>Una scimmia urlatrice alzò il richiamo e chiamò:</p>" +
     "<p>\"Il Signore Ikthiss è il più alto!</p><p>Siamo fortunati che stia per noi!\"</p><hr>" +
     "<p>Tutti acclamarono.</p><p>Nessuno guardò in su nei suoi occhi.</p>",
 
-  "hai.p4": "<p>Un tasso si avvicinò con passo pesante, solido e forte.</p>" +
+  "hai.p4": "<p>Un tapiro si avvicinò con passo pesante, solido e forte.</p>" +
     "<p>\"Il Signore Ikthiss è la radice più forte!\"</p><p>disse. \"Tutti ringrazino l'albero!\"</p><hr>" +
     "<p>Ringraziarono l'ombra.</p><p>Ringraziarono l'altezza.</p>" +
     "<p>Non ringraziarono il cuore dentro il legno.</p>",
 
-  "hai.p5": "<p>Un corvo chiamò da un ramo.</p><p>\"Guardate quanto è grandioso il nostro Signore Ikthiss!</p>" +
+  "hai.p5": "<p>Un tucano chiamò da un ramo.</p><p>\"Guardate quanto è grandioso il nostro Signore Ikthiss!</p>" +
     "<p>Così alto! Così generoso!\"</p><hr><p>La lode crebbe forte come la pioggia.</p>" +
     "<p>Ma Hai sentì un luogo cavo</p><p>in alto nel suo centro,</p>" +
     "<p>come una coppa che nessuno aveva riempito.</p>",
@@ -555,15 +555,15 @@ window.I18N.it = {
     "<p>\"Chi sei?\" chiesero.</p><p>\"Potete chiamarmi Kai,\" disse,</p>" +
     "<p>e sorrise un paziente sorriso di seme.</p>",
 
-  "hai.p12": "<p>Quel pomeriggio il suo amico, un giovane riccio di nome Pip,</p>" +
+  "hai.p12": "<p>Quel pomeriggio il suo amico, un giovane armadillo di nome Pip,</p>" +
     "<p>si precipitò nel giardino guardandosi indietro</p>" +
     "<p>e rovesciò la migliore vite di melone.</p>" +
     "<p>Il grosso melone si aprì a terra.</p><p>Semi e succo dolce si sparsero dappertutto.</p>",
 
-  "hai.p13": "<p>Pip si bloccò.</p><p>I suoi aculei tremarono.</p>" +
+  "hai.p13": "<p>Pip si bloccò.</p><p>Il suo guscio tremò.</p>" +
     "<p>\"L'ho rovinato,\" sussurrò.</p><p>\"Sarai arrabbiato. Tutti saranno arrabbiati.\"</p><hr>" +
-    "<p>Alcuni del bosco si radunarono.</p><p>\"Fallo andare via,\" mormorò una volpe.</p>" +
-    "<p>\"Dovrebbe portare tre meloni nuovi,\" disse un ermellino.</p>",
+    "<p>Alcuni del bosco si radunarono.</p><p>\"Fallo andare via,\" mormorò un coati.</p>" +
+    "<p>\"Dovrebbe portare tre meloni nuovi,\" disse un aguti.</p>",
 
   "hai.p14": "<p>Kai guardò la vite spezzata.</p><p>Guardò gli occhi preoccupati di Pip.</p><hr>" +
     "<p>Non alzò la voce.</p><p>Non puntò il dito.</p><p>Prese un bastone per scavare</p>" +
@@ -594,10 +594,10 @@ window.I18N.it = {
     "<p>ora sussurravano alle radici.</p><p>\"È troppo alto,\" dicevano.</p>" +
     "<p>\"E se l'alto vuole troppo?\"</p>",
 
-  "hai.p20": "<p>Un fagiano lucido con grandiose penne di coda atterrò vicino.</p>" +
-    "<p>\"Restate bassi,\" disse il fagiano.</p>" +
+  "hai.p20": "<p>Un ara scarlatto lucido con grandiose penne di coda atterrò vicino.</p>" +
+    "<p>\"Restate bassi,\" disse l'ara.</p>" +
     "<p>\"Le cose alte cadono. Le penne grandiose sanno meglio.\"</p><hr>" +
-    "<p>Alcuni animali giovani annuirono forte.</p><p>Annuivano sempre quando parlava il fagiano.</p>" +
+    "<p>Alcuni animali giovani annuirono forte.</p><p>Annuivano sempre quando parlava l'ara.</p>" +
     "<p>La sua paura suonava grande quanto le sue penne.</p>",
 
   "hai.p21": "<p>Poi un gufo molto vecchio parlò con voce lenta e dolce.</p>" +
@@ -607,7 +607,7 @@ window.I18N.it = {
     "<p>Hai ascoltò per tutto il suo tronco.</p>",
 
   "hai.p22": "<p>Hai Ikthiss non gridò per farli tacere.</p>" +
-    "<p>Non scosse il fagiano dal ramo.</p><p>Uscì dal legno fermo</p>" +
+    "<p>Non scosse l'ara dal ramo.</p><p>Uscì dal legno fermo</p>" +
     "<p>e divenne un albero alto che cammina —</p><p>lunghe membra gentili, profondi piedi-radice,</p>" +
     "<p>un volto che finalmente potevano incontrare.</p><hr><p>Non per sovrastare.</p><p>Per avvicinarsi.</p>",
 
@@ -618,7 +618,7 @@ window.I18N.it = {
 
   "hai.p24": "<p>Sollevò Pip per primo —</p><p>non per mostrare potere,</p><p>ma per condividere la vista.</p>" +
     "<p>Poi sollevò il gufo.</p><p>Poi quelli che lo avevano temuto.</p>" +
-    "<p>Anche il fagiano, quando il fagiano fu pronto.</p><hr>" +
+    "<p>Anche l'ara, quando l'ara fu pronto.</p><hr>" +
     "<p>Ogni amico salì all'altezza di Hai</p><p>e divenne un gigante con lui —</p>" +
     "<p>stesso volto, stesso cuore,</p><p>solo gli occhi ora a livello delle colline lontane.</p>",
 

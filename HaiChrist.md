@@ -145,6 +145,31 @@ Full path-by-path Christ beats can be expanded later the way `GrokDavid.md` expa
 
 Surface art is a **Honduran jungle Ceiba** world: crown = living Ceiba; Kai = walking Ceiba seed-pod; pour-down shown as **clear water and light** (never blood). Early world-tree / royal outpouring tone only — no buildings, ruins, or glyphs on the page. Cast is jungle fauna (howler, tapir, toucan, Pip armadillo, coati, agouti, scarlet macaw, spectacled owl). Decode above stays Christ-arc; Ceiba is the picture-key, not a second labeled theology.
 
+### Classic Maya / Mesoamerican symbols (list only)
+
+Meanings below are traditional associations often cited for the early Classic living-jungle register. The book never labels them on the page. Connect dots only if they help you see farther with the story.
+
+| Symbol | Traditional associations (brief) |
+|--------|----------------------------------|
+| **Ceiba (ya’axche / yaxche)** | World tree; axis joining underworld, middle world, and sky; first/central tree; birds in the high canopy; roots drinking deep; shelter and orientation for the living world |
+| **Ceiba seed-pod (kapok)** | Fruit of the world tree; seeds released with silk; descent from crown to ground; potential life carried small; open pod as scatter of many seeds |
+| **Buttress roots** | Visible join of height to earth; strength that drinks; the tree’s “feet” at the spring |
+| **Water at the roots** | Life, purity, renewal; the tree’s gift downward; fertility of the lowest place |
+| **Spring / forest pool / cenote-soft water** | Mouth of living water; sacred natural opening (not a built well); underworld–surface join without architecture; cool clear source under the canopy |
+| **Rain-catch / pour from above** | Sky’s gift received by the high one and shared below; self-gift as outpouring; in this book always **water and light**, never blood |
+| **Hollow / vessel that pours** | Container meant to empty downward; offering as release, not hoard |
+| **Canopy / high leaves** | Sky-near place; filtered gold light; far sight; where praise looks without meeting eyes |
+| **Nine-banded armadillo** | Shell that closes in fear and opens in trust; ground-walker among roots and vines; Nahuatl *āyōtōchtli* (“turtle-rabbit”) — hard shield + soft quick life in one creature |
+| **Howler monkey** | Loud call from height; voice that fills the valley; attention without necessarily true seeing |
+| **Tapir** | Solid bulk of the forest floor; strength that bows; quiet heavy presence |
+| **Toucan** | Bright branch-voice; colorful proclamation from mid-height |
+| **Scarlet macaw** | Grand plumage; elite/status feathers in Mesoamerican art; beauty that can speak caution as authority |
+| **Spectacled owl** | Night sight; plain slow speech; memory that is not famous |
+| **Coati / agouti** | Quick ground folk of the understory; crowd voices (exile, payment) at root level |
+| **Cantaloupe garden at the roots** | Shared break-and-mend crop with the companion book; tended clearing under the world tree (not a temple precinct) |
+
+No pyramids, stelae, glyphs, or ruins belong in the art. Late brutality readings of outpouring are set aside here; the picture keeps the gentle early register: tree, water, seed, lift.
+
 ---
 
 ## Related
