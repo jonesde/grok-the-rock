@@ -11,6 +11,28 @@ midrash**. Ethics stay; **authority** claims deflate.
 
 Stories stay silent on paths. Adult commentary and public chrome are the risk.
 
+### Offer, not disclaimer
+
+Deflate institution-of-one by **offering** meanings and maps that can be chosen,
+tested, or left — not by stacked “not doctrine / not my problem” disclaimers.
+
+| Avoid (disclaimer) | Prefer (offer) |
+|--------------------|----------------|
+| not a claim / not official / not required | this is… / offered as… |
+| discard if… / not my problem how it lands | can be chosen / keep if it helps |
+| terms-of-service nots | gift held out; free hands |
+
+**Model line** (name / life-meaning):
+
+> This is a meaning of a word, and offered as a life meaning that can be chosen.
+
+Author stays present as giver, not boss. Reader keeps agency without the text
+washing its hands. Safety lines (e.g. not a substitute for trauma care) stay —
+those are care, not posture.
+
+Apply on every rhetoric pass (Tier A done 2026-08-02; use on B/C/D too).
+See also `plans/RhetoricReviewHtml.md`.
+
 **Layout note:** internal / maintenance docs live under `plans/` (this file,
 `GenericStory.md`, `Lattice.md`, `NextSteps.md`, runbooks, etc.). Religion-adjacent
 decode notes and story sources may still sit at repo root until moved. Paths
@@ -220,7 +242,7 @@ No change to story beats or 32 *mechanics* unless a claim *about* them is the pr
 ## Status
 
 - [x] Pass 0 — inventory (2026-08-02)
-- [ ] Pass 1 — Tier A HTML
+- [x] Pass 1 — Tier A HTML (see `plans/RhetoricReviewHtml.md`; offer-voice follow-up 2026-08-02)
 - [ ] Pass 2 — Tier B bridges
 - [ ] Pass 3 — Tier C commentary
 - [ ] Pass 4 — Tier D craft/ops
