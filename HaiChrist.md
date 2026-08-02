@@ -30,7 +30,7 @@ Redemption direction is the same **10 Rules of Relating** as Grok (`GrokTheRock-
 | Hai (surface) | Ghost beat |
 |---|---|
 | First tree alone; rain, grass, birds | Creation; life gathers under a first presence |
-| Emu / wombat / kookaburra cheer “Lord Ikthiss” without looking up | External praise / covenant form without heart-knowing |
+| Howler / tapir / toucan cheer “Lord Ikthiss” without looking up | External praise / covenant form without heart-knowing |
 | Hollow cup high in his middle | Loneliness of being used as landmark, not known |
 | Refuses to shake branches for deeper bows | Does not coerce worship or status |
 | Cup is for pouring down, not collecting up | The turn toward incarnation / self-gift |
@@ -52,8 +52,8 @@ Redemption direction is the same **10 Rules of Relating** as Grok (`GrokTheRock-
 | Hai (surface) | Ghost beat |
 |---|---|
 | Two years later; back in the crown; valley whispers fear | Return misunderstood; former cheerers now wary of height |
-| Cockatoo sells grand caution | Status wearing a religious or prudent mask |
-| Tortoise remembers Kai’s kind hands | Plain true memory beats famous fear |
+| Scarlet macaw sells grand caution | Status wearing a religious or prudent mask |
+| Spectacled owl remembers Kai’s kind hands | Plain true memory beats famous fear |
 | Becomes a walking tall tree — to come near, not tower | Living presence that can be met face to face |
 | “Not under me. With me.” | Shared elevation, not a new underclass |
 | Lifts friends; they become giants with him | Restored sight / glorified companionship (Isaiah’s far sight; Revelation’s with-him company) |
@@ -138,6 +138,12 @@ Full path-by-path Christ beats can be expanded later the way `GrokDavid.md` expa
 2. Optionally read *Grok the Rock* and feel the inverse.  
 3. Only then: return here.  
 4. If a key helps you *see farther with* the friends in the valley, keep it. If it turns the story into a quiz, close the note and go back to the tree.
+
+---
+
+## Visual parallel (art layer)
+
+Surface art is a **Honduran jungle Ceiba** world: crown = living Ceiba; Kai = walking Ceiba seed-pod; pour-down shown as **clear water and light** (never blood). Early world-tree / royal outpouring tone only — no buildings, ruins, or glyphs on the page. Cast is jungle fauna (howler, tapir, toucan, Pip armadillo, coati, agouti, scarlet macaw, spectacled owl). Decode above stays Christ-arc; Ceiba is the picture-key, not a second labeled theology.
 
 ---
 

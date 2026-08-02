@@ -8,7 +8,9 @@ Sources:
 - Matte backgrounds to transparency
 - Separate touching animals via multi-seed geodesic labeling
 - Scale so head-to-feet height is TARGET_H
-  (stag antlers extend above; Hai leaf-crown top = head top)
+  (macaw tail / toucan bill may extend; Hai leaf-crown top = head top)
+  Cast is Honduran jungle (armadillo, howler, tapir, toucan, macaw, owl, coati, agouti).
+  SEEDS/ANCHOR_Y below are for the *prior* English-wood sheet — re-lock after new jungle refs.
 - Write individual transparent PNGs + lineups:
     creatures-equal-height.png     (head-tops aligned, equal body height)
     creatures-eye-aligned.png      (eyes via scaling + one shared baseline)
@@ -29,7 +31,7 @@ SRC_CREATURES = ROOT / "images/hai/reference/creatures-grok-b09851e5-41db-4f6f-a
 SRC_HAI = ROOT / "images/hai/reference/hai-walk-grok-ec773f11-3518-4ed2-946b-611dd2e53e5d.jpg"
 OUT_DIR = ROOT / "images/hai/reference/creatures"
 
-# Head-to-feet target height (px). Stag antlers extend above this.
+# Head-to-feet target height (px). Long tails/bills may extend above this.
 # For Hai, full figure including leaf crown maps to this height.
 TARGET_H = 512
 # White-matte (creatures sheet): pixels with min(R,G,B) >= this → transparent.
@@ -44,70 +46,67 @@ PAD = 8
 LINEUP_GAP = 48
 LINEUP_MARGIN = 40
 
-# Animals left → right on the creatures sheet.
+# Animals left → right on a fresh jungle creatures sheet (intended order).
 CREATURE_NAMES = [
-    "hedgehog",
-    "stag",
-    "badger",
-    "raven",
-    "pheasant",
+    "armadillo",
+    "howler",
+    "tapir",
+    "toucan",
+    "macaw",
     "owl",
-    "fox",
-    "stoat",
+    "coati",
+    "agouti",
 ]
 
 # Full lineup order (Hai first as main character).
 LINEUP_NAMES = ["hai-walk"] + CREATURE_NAMES
 
-# Seed points (x, y) near each animal's core on the creatures sheet.
+# Seed points (x, y) near each animal's core — PLACEHOLDER until new sheet.
+# Prior English-wood sheet order mapped 1:1 left→right for continuity only.
 SEEDS = {
-    "hedgehog": (170, 620),
-    "stag": (420, 450),
-    "badger": (720, 520),
-    "raven": (960, 520),
-    "pheasant": (1180, 520),
+    "armadillo": (170, 620),
+    "howler": (420, 450),
+    "tapir": (720, 520),
+    "toucan": (960, 520),
+    "macaw": (1180, 520),
     "owl": (1550, 520),
-    "fox": (1800, 520),
-    "stoat": (2030, 620),
+    "coati": (1800, 520),
+    "agouti": (2030, 620),
 }
 
-# Fraction of full bbox height that is head+body (not antlers).
+# Fraction of full bbox height that is head+body (not long tail/bill).
 # Hai leaf crown = top of head → 1.0.
 BODY_FRAC = {
     "hai-walk": 1.0,
-    "hedgehog": 1.0,
-    "stag": 0.70,
-    "badger": 1.0,
-    "raven": 1.0,
-    "pheasant": 1.0,
+    "armadillo": 1.0,
+    "howler": 1.0,
+    "tapir": 1.0,
+    "toucan": 0.85,
+    "macaw": 0.75,
     "owl": 1.0,
-    "fox": 1.0,
-    "stoat": 1.0,
+    "coati": 1.0,
+    "agouti": 1.0,
 }
 
-# Anchor Y in each head-scaled cutout (px from top). Locked by visual check.
-# Usually the eye center; hedgehog uses the dark nose tip (spines hide the eye).
-# Used for creatures-eye-aligned.png via scaling (not translation).
+# Anchor Y in each head-scaled cutout (px from top). Re-lock after new sheet.
 ANCHOR_Y = {
     "hai-walk": 157,
-    "hedgehog": 171,  # nose tip on the right — near eye height
-    "stag": 300,
-    "badger": 109,
-    "raven": 86,
-    "pheasant": 95,
+    "armadillo": 171,
+    "howler": 200,
+    "tapir": 109,
+    "toucan": 86,
+    "macaw": 95,
     "owl": 148,
-    "fox": 120,
-    "stoat": 92,
+    "coati": 120,
+    "agouti": 92,
 }
 # After eye-scale, distance from feet baseline up to the anchor (px).
-# Chosen near the median feet→eye span of the head-scaled cutouts.
 TARGET_EYE_ABOVE_FEET = 400
 # Extra size multipliers for the eye-aligned lineup (1.0 = no change).
-# Applied on top of the feet→eye scale; all figures still sit on one foot baseline.
 EYE_SCALE_BOOST = {
     "hai-walk": 1.10,
-    "fox": 1.20,
-    "stoat": 1.20,
+    "coati": 1.20,
+    "agouti": 1.20,
 }
 
 

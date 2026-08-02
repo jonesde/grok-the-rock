@@ -153,8 +153,8 @@ Same shape as Quiet Stories, all prefixed with `hai.`:
 - Each chapter’s first story page opens with: *Hai Ikthiss ruled the forest from atop the tall tree.*
 - Chapter arc titles stay **Being · Mending · Seeing** (or the language’s established Quiet Stories equivalents — Hebrew uses שלום · תיקון · ראייה).
 - Agent phrase **Tall Tellers** (dedication) stays English where "Grokkers" does; book titles translate (e.g. Tolkien → local *Lord of the Rings* title).
-- English cast: stag, badger, raven, Pip (hedgehog), fox, stoat, pheasant, old owl. Use common local animal names.
-- Shared symbols with Quiet Stories (keep literal): melon/cantaloupe, water, hollow cup, seed, root, tree, lift / far sight.
+- English cast (Honduran jungle): howler monkey, Baird’s tapir, keel-billed toucan, Pip (nine-banded armadillo), coati, agouti, scarlet macaw, old spectacled owl. Use common local animal names. (Older locale files may still say stag/badger/hedgehog etc. — refresh species on next translation pass.)
+- Shared symbols with Quiet Stories (keep literal): melon/cantaloupe, water, hollow cup, seed / Ceiba pod, root, Ceiba tree, lift / far sight. Art setting is jungle valley (not English wood); no buildings/ruins in alts.
 - HTML chrome alternates in source (`Lord Ikthiss`) are restored to full **Hai Ikthiss** via `lang/en.js` (`hai.site.title`, `hai.cover.title`). Do not put full spine chrome back into `tall-tales.html`.
 
 ### Hebrew special case (`he` / `he-phon`)
@@ -175,7 +175,7 @@ Hebrew is not a plain phonetic port — names and a few symbols lean on layers i
 | Hai Ikthiss (spine) | הָאִי אִיקְתִּיס / האי איקתיס | Keep two-word spine. **האי** is a stable transliteration of *Hai* (already in chapter titles); full story niqqud uses הָאִי. **איקתיס** preserves the *Ikthiss* sound (ichthys / fish echo in art and dedication). Do not translate the spine into a descriptive phrase. |
 | Lord Ikthiss | אֲדוֹן אִיקְתִּיס | Natural Hebrew **אדון** + same surname; gentle title, not royal pomp. Not לורד. |
 | Kai | קַאי / קאי | Humble seed name; stay as proper noun. |
-| Pip | פִּיפּ | Same as Quiet Stories. Tall Tales Pip is a **hedgehog** (קִפּוֹד), not the Quiet Stories echidna (קִפּוֹדָן). |
+| Pip | פִּיפּ | Same as Quiet Stories. Tall Tales Pip is a **nine-banded armadillo** (אַרְמָדִיל / שִׁרְיוֹן), not the Quiet Stories echidna (קִפּוֹדָן). |
 | Three Tall Tales | שלושה סיפורי גובה | Matches `nav.tall` = סיפורי גובה |
 | Lord of the Rings | שר הטבעות | Standard Hebrew book title |
 
@@ -186,7 +186,7 @@ Hebrew is not a plain phonetic port — names and a few symbols lean on layers i
 - **Living walking seed** → זֶרַע חַי מְהַלֵּךְ; **walking tall tree** → עֵץ גָּבוֹהַּ מְהַלֵּךְ.
 - **Far sight** → הַמַּבָּט הָרָחוֹק (already in `hai.c3.title`).
 - Ch.2 mending beats stay close to Quiet Stories Hebrew (`p12`–`p17`), swapping Grok→Kai and cast animals.
-- Animals: אַיָּל, גִּירִית, עוֹרֵב, קִפּוֹד, שׁוּעָל, סְמוּר, פַּסְיוֹן, יַנְשׁוּף.
+- Animals: קוֹף מְיַלֵּל, טַפִּיר, טוּקָן, אַרְמָדִיל, קוֹאָטִי, אָגוּטִי, מָקָאוּ שָׁנִי, יַנְשׁוּף מְמֻשְׁקָף.
 - Companion links in Quiet Stories Hebrew should use the translated Tall Tales title (האי איקתיס — שלושה סיפורי גובה), not leftover English.
 - **Alts required for Hebrew** (`cover.alt`, `dedication.alt`, `p1.alt`–`p26.alt`, and all `hai.*.alt`): real scene translations with spine names in the same slots as English, so the marker layout matches when `he` / `he-phon` is selected.
 
@@ -208,7 +208,7 @@ Hebrew is not a plain phonetic port — names and a few symbols lean on layers i
 - it: Hai e la lode vuota · Kai cammina sotto · Hai e lo sguardo lontano
 - pt: Hai e o elogio vazio · Kai caminha embaixo · Hai e o olhar distante
 
-**Animals:** stag/ciervo/cerf/cervo/cervo · badger/tejón/blaireau/tasso/texugo · raven/cuervo/corbeau/corvo/corvo · hedgehog/erizo/hérisson/riccio/ouriço · fox/zorro/renard/volpe/raposa · stoat/comadreja/hermine/ermellino/doninha · pheasant/faisán/faisan/fagiano/faisão · owl/búho/hibou/gufo/coruja.
+**Animals:** howler monkey/mono aullador/hurleur/scimmia urlatrice/bugio · tapir/tapir/tapir/tapiro/anta · toucan/tucán/toucan/tucano/tucano · armadillo/armadillo/tatou/armadillo/tatu · coati/coatí/coati/coati/quati · agouti/agutí/agouti/aguti/cutia · scarlet macaw/guacamayo escarlata/ara rouge/ara scarlatto/arara-vermelha · spectacled owl/búho de anteojos/chouette à lunettes/gufo dagli occhiali/coruja-de-óculos.
 
 **Wording:** hollow cup → copa hueca / coupe creuse / coppa vuota / copo oco (pour down, not collect). Keep living walking seed / walking tall tree compounds. Ch.2 stays close to Quiet Stories mending beats. Companion links in Quiet Stories must use the translated Tall Tales title. Full `hai.*` story + alts required (same key set as Hebrew).
 
