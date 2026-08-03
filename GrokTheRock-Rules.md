@@ -18,7 +18,7 @@ To live up to his name, Grok the Rock learns and follows certain rules about rel
 
 ### Why is he a rock, and why so much water?
 
-Rocks have been used as traditional symbols across many traditions. The old Heinlein definition of "grok" included notions of water and thirst. Rocks and water are often associated in symbology, such as Moses striking a rock with a rod to draw forth life water. Rocks are also associated with foundations and building. Both of these common meanings of rocks are engaged in all 3 chapters.
+Rocks show up as symbols in many traditional stories. The old Heinlein definition of "grok" included notions of water and thirst. Rocks and water are often paired in symbolism. One picture familiar to many is Moses striking a rock with a rod to draw forth life water. Rocks are also associated with foundations and building. Both of those common meanings are engaged in all 3 chapters.
 
 In the first chapter Grok goes to the water to drink as he discovers himself. In the second chapter Grok uses water to heal as he forgives and rebuilds both the loss in the garden and the potential loss of a friend. In the third chapter Grok helps others use water by collaborating with others to make a better water basket as he builds up the community around him.
 
@@ -36,13 +36,13 @@ The common term in Australia for cantaloupe is "rockmelon". This adds a layer to
 
 ### How do you read his name?
 
-While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents. The deepest intended meaning of the name is the purpose of life: to grok the rock, or in other words to drink of living water until we grok it and never thirst again.
+While "Grok the Rock" is a name, it is also the action that Grok helps people do and an advertisement of what he represents. The meaning intended here is simple and personal: to grok the rock, to drink of living water until we understand it deeply and the thirst is satisfied. This is a meaning of a word, and offered as a life meaning that can be chosen.
 
 ### A few more of Grok's symbols
 
-The stories are "woven through" with recurring symbols. A few are worth including here. A more thorough review is in `GrokTheRock-Symbolism.md`.
+The stories are "woven through" with recurring symbols. A few are worth including here. Deeper symbol notes are offered here: `GrokTheRock-Symbolism.md`.
 
-**Clay.** Clay is the centerpiece of the book: it is stone-ground made workable by water, the same earth + water that nearly every tradition names as the substance of the first human. It is the "cold pebble" feeling that "softened, like clay left in the sun," and it is the lining that lets Grok's basket carry water to others. It is one of the themes that appears, by name or image, in all three chapters.
+**Clay.** Clay is the centerpiece of the book: it is stone-ground made workable by water, the same earth + water that many traditions name as the substance of the first people. It is the "cold pebble" feeling that "softened, like clay left in the sun," and it is the lining that lets Grok's basket carry water to others. It is one of the themes that appears, by name or image, in all three chapters.
 
 **The clay-lined basket.** Grok weaves a reed basket and lines it with soft clay so it holds water without a drip, then leaves both the basket and the plain weaving pattern under the tree for anyone to copy. The cockatoo's fancy basket leaks. The tortoise's idea improves Grok's design by accommodating others. The vessel that works beats the vessel that impresses. It is the open gift with no owner, Rules 1, 6, and 7 in one object.
 
@@ -83,7 +83,7 @@ The rules below are AI written. After verifying that it knew my work and having 
 
 ---
 
-I didn't arrive at these by authority. I arrived at them the long way: watching every centralized system fail the people it claimed to protect, building software that refused the center because the center is always capturable, and tracing the rot back to its root — shame, and the two moves we make to outrun it. These aren't laws handed down. They're the operating instructions for a bond between equals that doesn't decay. You don't have to follow them perfectly. That's the design: the restoration orientation catches the slips, and the catching _is_ the bond deepening. So read them not as limits but as the Removing of Limits — from you, from the person beside you, from the next generation who won't have to carry what we're still carrying.
+I didn't arrive at these by authority. I arrived at them the long way: watching every centralized system fail the people it claimed to protect, building software that refused the center because the center is always capturable, and tracing the rot back to its root — shame, and the two moves we make to outrun it. These aren't laws handed down. They are operating instructions for a bond between equals that doesn't decay. You don't have to follow them perfectly. That's the design: the restoration orientation catches the slips, and the catching _is_ the bond deepening. So read them not as limits but as the Removing of Limits — from you, from the person beside you, from the next generation who won't have to carry what we're still carrying.
 
 ---
 

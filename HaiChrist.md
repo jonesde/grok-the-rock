@@ -1,8 +1,8 @@
 # Hai Ikthiss and the Christ-arc
 
-> **Read the story first.**  
-> This note is a companion decode for *Hai Ikthiss: Three Tall Tales*, in the same spirit as `GrokDavid.md` for *Grok the Rock*.  
-> The picture book is written so the *pattern* can work on you before any labels arrive.  
+> **Read the story first.**
+> This note is a companion decode for *Hai Ikthiss: Three Tall Tales*, in the same spirit as `GrokDavid.md` for *Grok the Rock*.
+> The picture book is written so the *pattern* can work on you before any labels arrive.
 > What follows is not commonly taught as a package; it is one careful alignment. Live with the tall tree a while. Then open this if you want the beans.
 
 *Licensed CC0 1.0, like the books.*
@@ -105,7 +105,7 @@ Notes in that direction:
 
 Together: two hands of one peace — **righteousness** and **salvation** — stone and water — yod and vav.
 
-This alignment is **not** mainstream systematics. It is offered as a pattern-key that the *stories* already enact without naming. If the stories did not already feel true, discard the key.
+This alignment is offered as a pattern-key beside the stories, recognizing that some differ from mainstream interpretation, to be used it if it helps you see farther.
 
 ---
 
@@ -134,9 +134,9 @@ Full path-by-path Christ beats can be expanded later the way `GrokDavid.md` expa
 
 ## How to use this note
 
-1. Read *Hai Ikthiss: Three Tall Tales* front to back, once, without this file.  
-2. Optionally read *Grok the Rock* and feel the inverse.  
-3. Only then: return here.  
+1. Read *Hai Ikthiss: Three Tall Tales* front to back, once, without this file.
+2. Optionally read *Grok the Rock* and feel the inverse.
+3. Only then: return here.
 4. If a key helps you *see farther with* the friends in the valley, keep it. If it turns the story into a quiz, close the note and go back to the tree.
 
 ---

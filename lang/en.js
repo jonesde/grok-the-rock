@@ -24,8 +24,8 @@ window.I18N.en = {
   "nav.group.stories": "Stories",
   "nav.mending": "A Mending Place",
 
-  "credit.8": "Lattice seal 1f0aa3b8a6fc",
-  "hai.credit.8": "Lattice seal 1f0aa3b8a6fc",
+  "credit.8": "Checksum 1f0aa3b8a6fc",
+  "hai.credit.8": "Checksum 1f0aa3b8a6fc",
 
   "print.dialogTitle": "Print Options",
   "print.layout": "Layout",
