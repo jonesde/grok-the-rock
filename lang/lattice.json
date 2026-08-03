@@ -1,7 +1,7 @@
 {
   "version": 1,
   "name": "grok-hai-lattice",
-  "description": "Canonical 32-unit dual-book lattice. Stone structure for Quiet Stories ↔ Tall Tales. The Potter story walks the same rows. Do not edit lightly; changing a row changes the seal hash.",
+  "description": "Standardized 32-unit lattice for both books. Stone structure for Quiet Stories ↔ Tall Tales. The Potter story walks the same rows. Do not edit lightly; changing a row changes the seal hash.",
   "center_unit": 17,
   "hinge_after_unit": 22,
   "invitation_en": "Come",

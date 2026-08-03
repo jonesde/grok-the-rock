@@ -1,6 +1,6 @@
 # Lattice — stone, water, potter
 
-This note is for architects of the work, not for the child reading aloud.
+This note is for architects of the work, not for general reading.
 
 ## The proto-pattern
 
@@ -24,12 +24,12 @@ The left hand need not know what the right hand does: **black-box isolation**. E
 - **Grok the Rock** — near hand: ground, limestone, nest, basket pattern, mending at the seam. Structure that stands small.
 - **Hai Ikthiss** — far hand: height, hollow cup filled to pour down, far sight, lift so others share the view. Seal and test of seeing.
 - **Clay / vessel / ownerless pattern** — already the centerpiece symbols; the open gift under the tree is Rule 7 and CC0 in one object.
-- **32-unit spine** — the stone count. Chiastic **invitation** at unit 17 (`Come…`) — the heart. Letters→Sephirot hinge after unit 22 — process deepens without a sermon on the page.
+- **32-unit spine** — the stone count. Chiastic **invitation** at unit 17 (`Come…`) — the heart. Letters→Sephirot hinge after unit 22 — process deepens without being called out on the page.
 
 ## The missing piece: potter + seal
 
 1. **`ThePotter.md`** — story form of the process. Two hands (near / far) that do not explain each other. Vessel left with **no name**. Walks the same thirty-two quiet steps.
-2. **`lang/lattice.json`** — canonical dual-book table (the stone map).
+2. **`lang/lattice.json`** — standardized paths for the two books (the stone map).
 3. **`lang/lattice.seal`** — SHA-256 commitment of that table (the fired mark).
 4. **`scripts/verify_lattice.py`** — the water test and the referee:
 
@@ -44,11 +44,11 @@ Short seal (first 12 hex of the hash): see `lang/lattice.seal` after a green run
 ## What is free vs fixed under CC0
 
 - **Free:** copy, share, translate, redraw, fork, grow.
-- **Fixed if you claim this lattice:** the 32-row join, center invitation slot, hinge, and dual-hand isolation in the Potter tale. A fork that changes the arc should change the seal — honesty, not DRM.
+- **Fixed aspects of this lattice for additional works:** the 32-row join, center invitation slot, hinge, and dual-hand isolation in the Potter tale. A fork that changes the arc should change the seal — honesty, not DRM.
 
 ## Related
 
-- `GenericStory.md` — dual-layer recipe  
-- `GrokDavid.md` / `GrokTheRock-Symbolism.md` — ghost and clay maps  
-- `scripts/verify_markers.py` — spine 32/32 alone  
-- `ThePotter.md` — the story seal  
+- `GenericStory.md` — dual-layer recipe
+- `GrokDavid.md` / `GrokTheRock-Symbolism.md` — ghost and clay maps
+- `scripts/verify_markers.py` — spine 32/32 alone
+- `ThePotter.md` — the story seal
