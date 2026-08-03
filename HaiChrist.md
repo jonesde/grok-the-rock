@@ -105,7 +105,7 @@ Notes in that direction:
 
 Together: two hands of one peace — **righteousness** and **salvation** — stone and water — yod and vav.
 
-This alignment is offered as a pattern-key beside the stories, recognizing that some differ from mainstream interpretation, to be used it if it helps you see farther.
+This alignment is offered as a pattern-key beside the stories, recognizing that some parts differ from common interpretations, and to be used it if it helps you see farther.
 
 ---
 
@@ -128,7 +128,7 @@ Rough letter-map for the opening (mirror of `GrokDavid.md`’s method):
 | Center | (heart of 32) | “Come, we plant new seeds together.” |
 | Ch.3 | toward Tav then sephirot | Return, nearness, lift, shared sight, afterglow |
 
-Full path-by-path Christ beats can be expanded later the way `GrokDavid.md` expands David vs Goliath; the chapter tables above are enough to unlock the book without flattening the spell.
+Full path-by-path Christ beats can be expanded later the way `GrokDavid.md` expands David vs Goliath; the chapter tables above are enough to unlock the book while leaving more for readers to explore and discover over time.
 
 ---
 
@@ -177,7 +177,7 @@ No pyramids, stelae, glyphs, or ruins belong in the art. Late brutality readings
 - `HaiIkthiss-ThreeTallTales.md` — the book (story sealed; light cheat sheet only)
 - `GrokTheRock-ThreeQuietStories.md` — companion surface
 - `GrokDavid.md` — Grok’s David decode (same “after the story” shelf)
-- `GrokTheRock-Rules.md` — the Higher Way both books redeem toward
+- `grok-rules.html` — the Higher Way both books redeem toward
 - `GenericStory.md` — the dual-layer machine
 
 *The beans stay in this jar. The water stays in the story.*

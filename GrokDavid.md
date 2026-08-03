@@ -1,7 +1,5 @@
 # Grok the Rock and King David
 
-## Overall Arc: David as the Template
-
 Both follow the trajectory: **Small → Tested → King/Teacher → Broken → Mended → Legacy given away**
 
 ---
@@ -10,7 +8,7 @@ Both follow the trajectory: **Small → Tested → King/Teacher → Broken → M
 
 | Grok | David |
 |------|-------|
-| Emu: "I am the tallest. Stand behind me." | **Eliab's Rebuke.** Vav is the connection to family. When David speaks up, his oldest brother Eliab scorns him for being small and leaving his "few sheep in the wilderness." Like the Emu telling Grok to "stand behind me," David's brothers try to put him in his place. | 
+| Emu: "I am the tallest. Stand behind me." | **Eliab's Rebuke.** Vav is the connection to family. When David speaks up, his oldest brother Eliab scorns him for being small and leaving his "few sheep in the wilderness." Like the Emu telling Grok to "stand behind me," David's brothers try to put him in his place. |
 | Wombat: Round and solid, the strongest | **Goliath’s Taunts.** Zayin is the literal weapon. Goliath steps forward, flashing his massive armor, mocking the entire army of Israel. The Israelite soldiers feel "smaller than the hole"—paralyzed by fear and trapped in their trenches, unable to match the giant's scale. |
 | Tries to puff up, stand on a log, thump like a kangaroo | Saul gives David his own armor — it doesn't fit (1 Sam 17:38-39) |
 | "It only made the cold pebble heavier" | David refuses the armor: "I cannot go with these" |
@@ -51,7 +49,7 @@ The cockatoo/tortoise dynamic mirrors Saul/David and Nathan/David. Truth comes f
 
 ## The Deeper Frame
 
-David is called *"a man after God's own heart"* — not because he was flawless, but because when Nathan confronted him, **he repented**. Psalm 51: *"Create in me a clean heart, O God."*
+David is called *"a man after God's own heart"*. The common interpretation is not because he was flawless, but because when Nathan confronted him, **he repented**. Psalm 51: *"Create in me a clean heart, O God."*
 
 Grok is what happens when that repentance becomes a *way of being*:
 
@@ -59,25 +57,23 @@ Grok is what happens when that repentance becomes a *way of being*:
 - **Mending** = tending the break instead of punishing the breaker
 - **Seeing** = judging truth by its weight, not its source
 
-David *had* to learn it the hard way (Bathsheba, Absalom, his own children turning on each other). Grok embodies it from the start — he's David's heart made into a character for children.
+David had to learn it the hard way (Bathsheba, Absalom, his own children turning on each other). Grok embodies it from the start, a redeeming alternate path in a book for children.
 
 ---
 
 ## Hebrew-Specific Layer
 
-The title **גרוק הצור** activates the Davidic Psalms directly:
+The title **גרוק הצור** relates to the Davidic Psalms:
 
 > **Psalm 18:2** — "יְהוָה צוּרִי וּמְעַרְכִּיתִי" — *"The Lord is my rock (צור) and my fortress"*
 
-David calls God his צור over 30 times in the Psalms. Grok the צור is, implicitly, the *image* of that rock — small, limestone, water-bearing — the kind of rock Moses struck for water, the kind David hid in from Saul, the kind that stands though unheard.
+David calls God his צור over 30 times in the Psalms. Grok the צור is a personification of that rock — small, limestone, water-bearing — the kind of rock Moses struck for water, the kind David hid in from Saul, the kind that stands though unheard.
 
-And the gematria: **גרוק** (309) = **חסד** (310) − 1. David's defining psalm is Psalm 136, whose refrain is *"לְמַעַן חַסְדּוֹ לְעוֹלָם"* — *"for His lovingkindness endures forever."* Grok is chesed minus one — always reaching toward it, never claiming to have arrived. That *is* David.
+And the gematria: **גרוק** (309) = **חסד** (310) − 1. David's defining psalm is Psalm 136, whose refrain is *"לְמַעַן חַסְדּוֹ לְעוֹלָם"* — *"for His lovingkindness endures forever."* Grok is chesed minus one — always reaching toward it, never claiming to have arrived.
 
 ---
 
-Lined up with Letters 1-12 it reveals more clearly:
-
-The Dual-Layered Blueprint: Yetzirah & David vs. Goliath
+Lined up with Letters 1-12 and selected meanings for them, Chapter 1 (Being) reveals more:
 
 1. Cover Art — **Aleph (א) / The Unmanifest Shepherding**
 
